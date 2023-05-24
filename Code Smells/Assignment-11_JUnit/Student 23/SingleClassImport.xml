@@ -1,0 +1,119 @@
+<problems>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 23/student 23.java</file>
+  <line>3</line>
+  <module>codeSmellsWork</module>
+  <package>noapplet.OmokTerminal</package>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/src/Student 23/student 23.java" />
+  <problem_class id="SingleClassImport" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Single class import</problem_class>
+  <description>Single class import &lt;code&gt;import org.junit.jupiter.api.AfterEach;&lt;/code&gt; #loc</description>
+  <highlighted_element>import org.junit.jupiter.api.AfterEach;</highlighted_element>
+  <language>JAVA</language>
+  <offset>0</offset>
+  <length>39</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 23/student 23.java</file>
+  <line>4</line>
+  <module>codeSmellsWork</module>
+  <package>noapplet.OmokTerminal</package>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/src/Student 23/student 23.java" />
+  <problem_class id="SingleClassImport" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Single class import</problem_class>
+  <description>Single class import &lt;code&gt;import org.junit.jupiter.api.BeforeEach;&lt;/code&gt; #loc</description>
+  <highlighted_element>import org.junit.jupiter.api.BeforeEach;</highlighted_element>
+  <language>JAVA</language>
+  <offset>0</offset>
+  <length>40</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 23/student 23.java</file>
+  <line>5</line>
+  <module>codeSmellsWork</module>
+  <package>noapplet.OmokTerminal</package>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/src/Student 23/student 23.java" />
+  <problem_class id="SingleClassImport" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Single class import</problem_class>
+  <description>Single class import &lt;code&gt;import org.junit.jupiter.api.Test;&lt;/code&gt; #loc</description>
+  <highlighted_element>import org.junit.jupiter.api.Test;</highlighted_element>
+  <language>JAVA</language>
+  <offset>0</offset>
+  <length>34</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 23/student 23.java</file>
+  <line>7</line>
+  <module>codeSmellsWork</module>
+  <package>noapplet.OmokTerminal</package>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/src/Student 23/student 23.java" />
+  <problem_class id="SingleClassImport" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Single class import</problem_class>
+  <description>Single class import &lt;code&gt;import java.io.ByteArrayInputStream;&lt;/code&gt; #loc</description>
+  <highlighted_element>import java.io.ByteArrayInputStream;</highlighted_element>
+  <language>JAVA</language>
+  <offset>0</offset>
+  <length>36</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 23/student 23.java</file>
+  <line>8</line>
+  <module>codeSmellsWork</module>
+  <package>noapplet.OmokTerminal</package>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/src/Student 23/student 23.java" />
+  <problem_class id="SingleClassImport" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Single class import</problem_class>
+  <description>Single class import &lt;code&gt;import java.io.ByteArrayOutputStream;&lt;/code&gt; #loc</description>
+  <highlighted_element>import java.io.ByteArrayOutputStream;</highlighted_element>
+  <language>JAVA</language>
+  <offset>0</offset>
+  <length>37</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 23/student 23.java</file>
+  <line>9</line>
+  <module>codeSmellsWork</module>
+  <package>noapplet.OmokTerminal</package>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/src/Student 23/student 23.java" />
+  <problem_class id="SingleClassImport" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Single class import</problem_class>
+  <description>Single class import &lt;code&gt;import java.io.InputStream;&lt;/code&gt; #loc</description>
+  <highlighted_element>import java.io.InputStream;</highlighted_element>
+  <language>JAVA</language>
+  <offset>0</offset>
+  <length>27</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 23/student 23.java</file>
+  <line>10</line>
+  <module>codeSmellsWork</module>
+  <package>noapplet.OmokTerminal</package>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/src/Student 23/student 23.java" />
+  <problem_class id="SingleClassImport" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Single class import</problem_class>
+  <description>Single class import &lt;code&gt;import java.io.PrintStream;&lt;/code&gt; #loc</description>
+  <highlighted_element>import java.io.PrintStream;</highlighted_element>
+  <language>JAVA</language>
+  <offset>0</offset>
+  <length>27</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 23/student 23.java</file>
+  <line>11</line>
+  <module>codeSmellsWork</module>
+  <package>noapplet.OmokTerminal</package>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/src/Student 23/student 23.java" />
+  <problem_class id="SingleClassImport" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Single class import</problem_class>
+  <description>Single class import &lt;code&gt;import java.util.ArrayList;&lt;/code&gt; #loc</description>
+  <highlighted_element>import java.util.ArrayList;</highlighted_element>
+  <language>JAVA</language>
+  <offset>0</offset>
+  <length>27</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 23/student 23.java</file>
+  <line>12</line>
+  <module>codeSmellsWork</module>
+  <package>noapplet.OmokTerminal</package>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/src/Student 23/student 23.java" />
+  <problem_class id="SingleClassImport" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Single class import</problem_class>
+  <description>Single class import &lt;code&gt;import java.util.InputMismatchException;&lt;/code&gt; #loc</description>
+  <highlighted_element>import java.util.InputMismatchException;</highlighted_element>
+  <language>JAVA</language>
+  <offset>0</offset>
+  <length>40</length>
+</problem>
+</problems>

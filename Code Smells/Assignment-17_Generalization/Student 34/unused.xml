@@ -1,0 +1,321 @@
+<problems>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 34/student 34 (1).java</file>
+  <line>5</line>
+  <module>codeSmellsWork</module>
+  <package>excs.plotterEX</package>
+  <entry_point TYPE="method" FQNAME="excs.plotterEX.cosine double apply(double x)" />
+  <language>JAVA</language>
+  <offset>18</offset>
+  <length>5</length>
+  <highlighted_element>apply</highlighted_element>
+  <problem_class id="unused" severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">unused declaration</problem_class>
+  <hints>
+    <hint value="comment" />
+    <hint value="delete" />
+  </hints>
+  <description>&lt;ul&gt;&lt;li&gt;Method owner class is never instantiated OR&lt;/li&gt;&lt;li&gt;An instantiation is not reachable from entry points.&lt;/li&gt;&lt;/ul&gt;</description>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 34/student 34 (1).java</file>
+  <line>5</line>
+  <module>codeSmellsWork</module>
+  <package>excs.plotterEX</package>
+  <entry_point TYPE="method" FQNAME="excs.plotterEX.cosine double apply(double x)" />
+  <problem_class id="unused" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Unused declaration</problem_class>
+  <hints>
+    <hint value="x" />
+  </hints>
+  <description>Parameter &lt;code&gt;x&lt;/code&gt; is not used</description>
+  <highlighted_element>x</highlighted_element>
+  <language>JAVA</language>
+  <offset>31</offset>
+  <length>1</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 34/student 34 (2).java</file>
+  <line>3</line>
+  <module>codeSmellsWork</module>
+  <package>excs.plotterEX</package>
+  <entry_point TYPE="class" FQNAME="excs.plotterEX.Function" />
+  <language>JAVA</language>
+  <offset>17</offset>
+  <length>8</length>
+  <highlighted_element>Function</highlighted_element>
+  <problem_class id="unused" severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">unused declaration</problem_class>
+  <hints>
+    <hint value="comment" />
+    <hint value="delete" />
+  </hints>
+  <description>&amp;nbsp;Interface is not implemented.</description>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 34/student 34 (2).java</file>
+  <line>4</line>
+  <module>codeSmellsWork</module>
+  <package>excs.plotterEX</package>
+  <entry_point TYPE="method" FQNAME="excs.plotterEX.Function double apply(double x)" />
+  <language>JAVA</language>
+  <offset>11</offset>
+  <length>5</length>
+  <highlighted_element>apply</highlighted_element>
+  <problem_class id="unused" severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">unused declaration</problem_class>
+  <hints>
+    <hint value="comment" />
+    <hint value="delete" />
+  </hints>
+  <description>&lt;ul&gt;&lt;li&gt;Method owner class is never instantiated OR&lt;/li&gt;&lt;li&gt;An instantiation is not reachable from entry points.&lt;/li&gt;&lt;/ul&gt;</description>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 34/student 34 (3).java</file>
+  <line>10</line>
+  <module>codeSmellsWork</module>
+  <package>excs.plotterEX</package>
+  <entry_point TYPE="method" FQNAME="excs.plotterEX.MultiPlotter void addFunction(Function f, java.awt.Color c)" />
+  <language>JAVA</language>
+  <offset>16</offset>
+  <length>11</length>
+  <highlighted_element>addFunction</highlighted_element>
+  <problem_class id="unused" severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">unused declaration</problem_class>
+  <hints>
+    <hint value="comment" />
+    <hint value="delete" />
+  </hints>
+  <description>&lt;ul&gt;&lt;li&gt;Method owner class is never instantiated OR&lt;/li&gt;&lt;li&gt;An instantiation is not reachable from entry points.&lt;/li&gt;&lt;/ul&gt;</description>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 34/student 34 (3).java</file>
+  <line>14</line>
+  <module>codeSmellsWork</module>
+  <package>excs.plotterEX</package>
+  <entry_point TYPE="method" FQNAME="excs.plotterEX.MultiPlotter void plotFunction(java.awt.Graphics g)" />
+  <language>JAVA</language>
+  <offset>16</offset>
+  <length>12</length>
+  <highlighted_element>plotFunction</highlighted_element>
+  <problem_class id="unused" severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">unused declaration</problem_class>
+  <hints>
+    <hint value="comment" />
+    <hint value="delete" />
+  </hints>
+  <description>&lt;ul&gt;&lt;li&gt;Method owner class is never instantiated OR&lt;/li&gt;&lt;li&gt;An instantiation is not reachable from entry points.&lt;/li&gt;&lt;/ul&gt;</description>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 34/student 34 (3).java</file>
+  <line>26</line>
+  <module>codeSmellsWork</module>
+  <package>excs.plotterEX</package>
+  <entry_point TYPE="method" FQNAME="excs.plotterEX.MultiPlotter double func(double x)" />
+  <problem_class id="unused" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Unused declaration</problem_class>
+  <hints>
+    <hint value="x" />
+  </hints>
+  <description>Parameter &lt;code&gt;x&lt;/code&gt; is not used</description>
+  <highlighted_element>x</highlighted_element>
+  <language>JAVA</language>
+  <offset>30</offset>
+  <length>1</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 34/student 34 (4).java</file>
+  <line>18</line>
+  <module>codeSmellsWork</module>
+  <package>excs.plotterEX</package>
+  <entry_point TYPE="method" FQNAME="excs.plotterEX.Plotter Plotter(java.lang.String[] args)" />
+  <language>JAVA</language>
+  <offset>11</offset>
+  <length>7</length>
+  <highlighted_element>Plotter</highlighted_element>
+  <problem_class id="unused" severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">unused declaration</problem_class>
+  <hints>
+    <hint value="comment" />
+    <hint value="delete" />
+  </hints>
+  <description>Constructor is never used.</description>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 34/student 34 (4).java</file>
+  <line>22</line>
+  <module>codeSmellsWork</module>
+  <package>excs.plotterEX</package>
+  <entry_point TYPE="method" FQNAME="excs.plotterEX.Plotter Plotter()" />
+  <language>JAVA</language>
+  <offset>11</offset>
+  <length>7</length>
+  <highlighted_element>Plotter</highlighted_element>
+  <problem_class id="unused" severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">unused declaration</problem_class>
+  <hints>
+    <hint value="comment" />
+    <hint value="delete" />
+  </hints>
+  <description>Constructor is never used.</description>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 34/student 34 (4).java</file>
+  <line>28</line>
+  <module>codeSmellsWork</module>
+  <package>excs.plotterEX</package>
+  <entry_point TYPE="method" FQNAME="excs.plotterEX.Plotter void init()" />
+  <language>JAVA</language>
+  <offset>16</offset>
+  <length>4</length>
+  <highlighted_element>init</highlighted_element>
+  <problem_class id="unused" severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">unused declaration</problem_class>
+  <hints>
+    <hint value="comment" />
+    <hint value="delete" />
+  </hints>
+  <description>&lt;ul&gt;&lt;li&gt;Method owner class is never instantiated OR&lt;/li&gt;&lt;li&gt;An instantiation is not reachable from entry points.&lt;/li&gt;&lt;/ul&gt;</description>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 34/student 34 (4).java</file>
+  <line>48</line>
+  <module>codeSmellsWork</module>
+  <package>excs.plotterEX</package>
+  <entry_point TYPE="method" FQNAME="excs.plotterEX.Plotter void paintComponent(java.awt.Graphics g)" />
+  <language>JAVA</language>
+  <offset>19</offset>
+  <length>14</length>
+  <highlighted_element>paintComponent</highlighted_element>
+  <problem_class id="unused" severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">unused declaration</problem_class>
+  <hints>
+    <hint value="comment" />
+    <hint value="delete" />
+  </hints>
+  <description>&lt;ul&gt;&lt;li&gt;Method owner class is never instantiated OR&lt;/li&gt;&lt;li&gt;An instantiation is not reachable from entry points.&lt;/li&gt;&lt;/ul&gt;</description>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 34/student 34 (5).java</file>
+  <line>6</line>
+  <module>codeSmellsWork</module>
+  <package>excs.plotterEX</package>
+  <entry_point TYPE="method" FQNAME="excs.plotterEX.sine double apply(double x)" />
+  <language>JAVA</language>
+  <offset>18</offset>
+  <length>5</length>
+  <highlighted_element>apply</highlighted_element>
+  <problem_class id="unused" severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">unused declaration</problem_class>
+  <hints>
+    <hint value="comment" />
+    <hint value="delete" />
+  </hints>
+  <description>&lt;ul&gt;&lt;li&gt;Method owner class is never instantiated OR&lt;/li&gt;&lt;li&gt;An instantiation is not reachable from entry points.&lt;/li&gt;&lt;/ul&gt;</description>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 34/student 34 (5).java</file>
+  <line>6</line>
+  <module>codeSmellsWork</module>
+  <package>excs.plotterEX</package>
+  <entry_point TYPE="method" FQNAME="excs.plotterEX.sine double apply(double x)" />
+  <problem_class id="unused" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Unused declaration</problem_class>
+  <hints>
+    <hint value="x" />
+  </hints>
+  <description>Parameter &lt;code&gt;x&lt;/code&gt; is not used</description>
+  <highlighted_element>x</highlighted_element>
+  <language>JAVA</language>
+  <offset>31</offset>
+  <length>1</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 34/student 34 (6).java</file>
+  <line>8</line>
+  <module>codeSmellsWork</module>
+  <package>excs.plotterEX</package>
+  <entry_point TYPE="method" FQNAME="excs.plotterEX.SineCosineMultiPlotter double func(double x)" />
+  <language>JAVA</language>
+  <offset>18</offset>
+  <length>4</length>
+  <highlighted_element>func</highlighted_element>
+  <problem_class id="unused" severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">unused declaration</problem_class>
+  <hints>
+    <hint value="comment" />
+    <hint value="delete" />
+  </hints>
+  <description>Method is never used.</description>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 34/student 34 (6).java</file>
+  <line>8</line>
+  <module>codeSmellsWork</module>
+  <package>excs.plotterEX</package>
+  <entry_point TYPE="method" FQNAME="excs.plotterEX.SineCosineMultiPlotter double func(double x)" />
+  <problem_class id="unused" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Unused declaration</problem_class>
+  <hints>
+    <hint value="x" />
+  </hints>
+  <description>Parameter &lt;code&gt;x&lt;/code&gt; is not used</description>
+  <highlighted_element>x</highlighted_element>
+  <language>JAVA</language>
+  <offset>30</offset>
+  <length>1</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 34/student 34 (6).java</file>
+  <line>11</line>
+  <module>codeSmellsWork</module>
+  <package>excs.plotterEX</package>
+  <entry_point TYPE="method" FQNAME="excs.plotterEX.SineCosineMultiPlotter void initMultiPlotter()" />
+  <language>JAVA</language>
+  <offset>16</offset>
+  <length>16</length>
+  <highlighted_element>initMultiPlotter</highlighted_element>
+  <problem_class id="unused" severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">unused declaration</problem_class>
+  <hints>
+    <hint value="comment" />
+    <hint value="delete" />
+  </hints>
+  <description>Method is never used.</description>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 34/student 34 (1).java</file>
+  <line>3</line>
+  <module>codeSmellsWork</module>
+  <package>excs.plotterEX</package>
+  <entry_point TYPE="class" FQNAME="excs.plotterEX.cosine" />
+  <language>JAVA</language>
+  <offset>13</offset>
+  <length>6</length>
+  <highlighted_element>cosine</highlighted_element>
+  <problem_class id="unused" severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">unused declaration</problem_class>
+  <hints>
+    <hint value="comment" />
+    <hint value="delete" />
+  </hints>
+  <description>Class is not instantiated.</description>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 34/student 34 (3).java</file>
+  <line>6</line>
+  <module>codeSmellsWork</module>
+  <package>excs.plotterEX</package>
+  <entry_point TYPE="class" FQNAME="excs.plotterEX.MultiPlotter" />
+  <language>JAVA</language>
+  <offset>13</offset>
+  <length>12</length>
+  <highlighted_element>MultiPlotter</highlighted_element>
+  <problem_class id="unused" severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">unused declaration</problem_class>
+  <hints>
+    <hint value="comment" />
+    <hint value="delete" />
+  </hints>
+  <description>Class is not instantiated.</description>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 34/student 34 (5).java</file>
+  <line>3</line>
+  <module>codeSmellsWork</module>
+  <package>excs.plotterEX</package>
+  <entry_point TYPE="class" FQNAME="excs.plotterEX.sine" />
+  <language>JAVA</language>
+  <offset>13</offset>
+  <length>4</length>
+  <highlighted_element>sine</highlighted_element>
+  <problem_class id="unused" severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">unused declaration</problem_class>
+  <hints>
+    <hint value="comment" />
+    <hint value="delete" />
+  </hints>
+  <description>Class is not instantiated.</description>
+</problem>
+</problems>

@@ -1,0 +1,106 @@
+<problems>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 40/student 40 (1).java</file>
+  <line>7</line>
+  <module>codeSmellsWork</module>
+  <package>src.noapplet.example</package>
+  <entry_point TYPE="class" FQNAME="src.noapplet.example.BoardPanel" />
+  <problem_class id="MissingJavadoc" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Missing Javadoc</problem_class>
+  <description>Required Javadoc is absent</description>
+  <highlighted_element>BoardPanel</highlighted_element>
+  <language>JAVA</language>
+  <offset>13</offset>
+  <length>10</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 40/student 40 (1).java</file>
+  <line>12</line>
+  <module>codeSmellsWork</module>
+  <package>src.noapplet.example</package>
+  <entry_point TYPE="method" FQNAME="src.noapplet.example.BoardPanel BoardPanel(Board board, src.noapplet.example.BoardPanel.clickListener listener)" />
+  <problem_class id="MissingJavadoc" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Missing Javadoc</problem_class>
+  <description>Required Javadoc is absent</description>
+  <highlighted_element>BoardPanel</highlighted_element>
+  <language>JAVA</language>
+  <offset>11</offset>
+  <length>10</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 40/student 40 (2).java</file>
+  <line>10</line>
+  <module>codeSmellsWork</module>
+  <package>src.noapplet.example</package>
+  <entry_point TYPE="class" FQNAME="src.noapplet.example.MainPanel" />
+  <problem_class id="MissingJavadoc" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Missing Javadoc</problem_class>
+  <description>Required Javadoc is absent</description>
+  <highlighted_element>MainPanel</highlighted_element>
+  <language>JAVA</language>
+  <offset>13</offset>
+  <length>9</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 40/student 40 (2).java</file>
+  <line>18</line>
+  <module>codeSmellsWork</module>
+  <package>src.noapplet.example</package>
+  <entry_point TYPE="field" FQNAME="src.noapplet.example.MainPanel gameInProgress" />
+  <problem_class id="MissingJavadoc" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Missing Javadoc</problem_class>
+  <description>Required Javadoc is absent</description>
+  <highlighted_element>gameInProgress</highlighted_element>
+  <language>JAVA</language>
+  <offset>19</offset>
+  <length>14</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 40/student 40 (2).java</file>
+  <line>23</line>
+  <module>codeSmellsWork</module>
+  <package>src.noapplet.example</package>
+  <entry_point TYPE="method" FQNAME="src.noapplet.example.MainPanel MainPanel()" />
+  <problem_class id="MissingJavadoc" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Missing Javadoc</problem_class>
+  <description>Required Javadoc is absent</description>
+  <highlighted_element>MainPanel</highlighted_element>
+  <language>JAVA</language>
+  <offset>11</offset>
+  <length>9</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 40/student 40 (2).java</file>
+  <line>150</line>
+  <module>codeSmellsWork</module>
+  <package>src.noapplet.example</package>
+  <entry_point TYPE="method" FQNAME="src.noapplet.example.MainPanel void placeClicked(int x, int y)" />
+  <problem_class id="MissingJavadoc" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Missing Javadoc</problem_class>
+  <description>Required Javadoc is absent</description>
+  <highlighted_element>placeClicked</highlighted_element>
+  <language>JAVA</language>
+  <offset>16</offset>
+  <length>12</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 40/student 40 (2).java</file>
+  <line>203</line>
+  <module>codeSmellsWork</module>
+  <package>src.noapplet.example</package>
+  <entry_point TYPE="method" FQNAME="src.noapplet.example.MainPanel void showMessage(java.lang.String message)" />
+  <problem_class id="MissingJavadoc" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Missing Javadoc</problem_class>
+  <description>Required Javadoc is absent</description>
+  <highlighted_element>showMessage</highlighted_element>
+  <language>JAVA</language>
+  <offset>16</offset>
+  <length>11</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 40/student 40 (2).java</file>
+  <line>206</line>
+  <module>codeSmellsWork</module>
+  <package>src.noapplet.example</package>
+  <entry_point TYPE="method" FQNAME="src.noapplet.example.MainPanel void main(java.lang.String[] args)" />
+  <problem_class id="MissingJavadoc" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Missing Javadoc</problem_class>
+  <description>Required Javadoc is absent</description>
+  <highlighted_element>main</highlighted_element>
+  <language>JAVA</language>
+  <offset>23</offset>
+  <length>4</length>
+</problem>
+</problems>

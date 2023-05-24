@@ -1,0 +1,155 @@
+<problems>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 12/Student 12.java</file>
+  <line>14</line>
+  <module>codeSmellsWork</module>
+  <package>&lt;default&gt;</package>
+  <entry_point TYPE="method" FQNAME="BoardJdoc BoardJdoc()" />
+  <language>JAVA</language>
+  <offset>11</offset>
+  <length>9</length>
+  <highlighted_element>BoardJdoc</highlighted_element>
+  <problem_class id="unused" severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">unused declaration</problem_class>
+  <hints>
+    <hint value="comment" />
+    <hint value="delete" />
+  </hints>
+  <description>Constructor is never used.</description>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 12/Student 12.java</file>
+  <line>23</line>
+  <module>codeSmellsWork</module>
+  <package>&lt;default&gt;</package>
+  <entry_point TYPE="method" FQNAME="BoardJdoc BoardJdoc(int nIn)" />
+  <language>JAVA</language>
+  <offset>11</offset>
+  <length>9</length>
+  <highlighted_element>BoardJdoc</highlighted_element>
+  <problem_class id="unused" severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">unused declaration</problem_class>
+  <hints>
+    <hint value="comment" />
+    <hint value="delete" />
+  </hints>
+  <description>Constructor is never used.</description>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 12/Student 12.java</file>
+  <line>34</line>
+  <module>codeSmellsWork</module>
+  <package>&lt;default&gt;</package>
+  <entry_point TYPE="method" FQNAME="BoardJdoc void placePiece(int x, int y)" />
+  <language>JAVA</language>
+  <offset>16</offset>
+  <length>10</length>
+  <highlighted_element>placePiece</highlighted_element>
+  <problem_class id="unused" severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">unused declaration</problem_class>
+  <hints>
+    <hint value="comment" />
+    <hint value="delete" />
+  </hints>
+  <description>&lt;ul&gt;&lt;li&gt;Method owner class is never instantiated OR&lt;/li&gt;&lt;li&gt;An instantiation is not reachable from entry points.&lt;/li&gt;&lt;/ul&gt;</description>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 12/Student 12.java</file>
+  <line>48</line>
+  <module>codeSmellsWork</module>
+  <package>&lt;default&gt;</package>
+  <entry_point TYPE="method" FQNAME="BoardJdoc boolean availableSpot(int x, int y)" />
+  <language>JAVA</language>
+  <offset>19</offset>
+  <length>13</length>
+  <highlighted_element>availableSpot</highlighted_element>
+  <problem_class id="unused" severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">unused declaration</problem_class>
+  <hints>
+    <hint value="comment" />
+    <hint value="delete" />
+  </hints>
+  <description>&lt;ul&gt;&lt;li&gt;Method owner class is never instantiated OR&lt;/li&gt;&lt;li&gt;An instantiation is not reachable from entry points.&lt;/li&gt;&lt;/ul&gt;</description>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 12/Student 12.java</file>
+  <line>56</line>
+  <module>codeSmellsWork</module>
+  <package>&lt;default&gt;</package>
+  <entry_point TYPE="method" FQNAME="BoardJdoc int getN()" />
+  <language>JAVA</language>
+  <offset>15</offset>
+  <length>4</length>
+  <highlighted_element>getN</highlighted_element>
+  <problem_class id="unused" severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">unused declaration</problem_class>
+  <hints>
+    <hint value="comment" />
+    <hint value="delete" />
+  </hints>
+  <description>&lt;ul&gt;&lt;li&gt;Method owner class is never instantiated OR&lt;/li&gt;&lt;li&gt;An instantiation is not reachable from entry points.&lt;/li&gt;&lt;/ul&gt;</description>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 12/Student 12.java</file>
+  <line>64</line>
+  <module>codeSmellsWork</module>
+  <package>&lt;default&gt;</package>
+  <entry_point TYPE="method" FQNAME="BoardJdoc int[][] getBoard()" />
+  <language>JAVA</language>
+  <offset>19</offset>
+  <length>8</length>
+  <highlighted_element>getBoard</highlighted_element>
+  <problem_class id="unused" severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">unused declaration</problem_class>
+  <hints>
+    <hint value="comment" />
+    <hint value="delete" />
+  </hints>
+  <description>&lt;ul&gt;&lt;li&gt;Method owner class is never instantiated OR&lt;/li&gt;&lt;li&gt;An instantiation is not reachable from entry points.&lt;/li&gt;&lt;/ul&gt;</description>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 12/Student 12.java</file>
+  <line>72</line>
+  <module>codeSmellsWork</module>
+  <package>&lt;default&gt;</package>
+  <entry_point TYPE="method" FQNAME="BoardJdoc int getPlayer()" />
+  <language>JAVA</language>
+  <offset>15</offset>
+  <length>9</length>
+  <highlighted_element>getPlayer</highlighted_element>
+  <problem_class id="unused" severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">unused declaration</problem_class>
+  <hints>
+    <hint value="comment" />
+    <hint value="delete" />
+  </hints>
+  <description>&lt;ul&gt;&lt;li&gt;Method owner class is never instantiated OR&lt;/li&gt;&lt;li&gt;An instantiation is not reachable from entry points.&lt;/li&gt;&lt;/ul&gt;</description>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 12/Student 12.java</file>
+  <line>80</line>
+  <module>codeSmellsWork</module>
+  <package>&lt;default&gt;</package>
+  <entry_point TYPE="method" FQNAME="BoardJdoc void setN(int nIn)" />
+  <language>JAVA</language>
+  <offset>16</offset>
+  <length>4</length>
+  <highlighted_element>setN</highlighted_element>
+  <problem_class id="unused" severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">unused declaration</problem_class>
+  <hints>
+    <hint value="comment" />
+    <hint value="delete" />
+  </hints>
+  <description>&lt;ul&gt;&lt;li&gt;Method owner class is never instantiated OR&lt;/li&gt;&lt;li&gt;An instantiation is not reachable from entry points.&lt;/li&gt;&lt;/ul&gt;</description>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 12/Student 12.java</file>
+  <line>89</line>
+  <module>codeSmellsWork</module>
+  <package>&lt;default&gt;</package>
+  <entry_point TYPE="method" FQNAME="BoardJdoc int[][] checkWin()" />
+  <language>JAVA</language>
+  <offset>19</offset>
+  <length>8</length>
+  <highlighted_element>checkWin</highlighted_element>
+  <problem_class id="unused" severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">unused declaration</problem_class>
+  <hints>
+    <hint value="comment" />
+    <hint value="delete" />
+  </hints>
+  <description>&lt;ul&gt;&lt;li&gt;Method owner class is never instantiated OR&lt;/li&gt;&lt;li&gt;An instantiation is not reachable from entry points.&lt;/li&gt;&lt;/ul&gt;</description>
+</problem>
+</problems>

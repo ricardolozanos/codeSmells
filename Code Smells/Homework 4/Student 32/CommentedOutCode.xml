@@ -1,0 +1,15 @@
+<problems>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 32/student 32 (6).java</file>
+  <line>74</line>
+  <module>codeSmellsWork</module>
+  <package>&lt;default&gt;</package>
+  <entry_point TYPE="method" FQNAME="Strategy int[] makeMove()" />
+  <problem_class id="CommentedOutCode" severity="WEAK WARNING" attribute_key="INFO_ATTRIBUTES">Commented out code</problem_class>
+  <description>Commented out code (2 lines)</description>
+  <highlighted_element>//</highlighted_element>
+  <language>JAVA</language>
+  <offset>8</offset>
+  <length>2</length>
+</problem>
+</problems>

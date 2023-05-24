@@ -1,0 +1,28 @@
+<problems>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 04/student 04 (1).java</file>
+  <line>95</line>
+  <module>codeSmellsWork</module>
+  <package>HW4_GUI.console</package>
+  <entry_point TYPE="method" FQNAME="HW4_GUI.console.Board boolean hasWinner(int row, int col)" />
+  <problem_class id="CyclomaticComplexity" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Overly complex method</problem_class>
+  <description>Overly complex method &lt;code&gt;hasWinner()&lt;/code&gt; (cyclomatic complexity = 21) #loc</description>
+  <highlighted_element>hasWinner</highlighted_element>
+  <language>JAVA</language>
+  <offset>19</offset>
+  <length>9</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 04/student 04 (1).java</file>
+  <line>167</line>
+  <module>codeSmellsWork</module>
+  <package>HW4_GUI.console</package>
+  <entry_point TYPE="method" FQNAME="HW4_GUI.console.Board Coordinate getSuggestion(char playerSymbol)" />
+  <problem_class id="CyclomaticComplexity" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Overly complex method</problem_class>
+  <description>Overly complex method &lt;code&gt;getSuggestion()&lt;/code&gt; (cyclomatic complexity = 11) #loc</description>
+  <highlighted_element>getSuggestion</highlighted_element>
+  <language>JAVA</language>
+  <offset>22</offset>
+  <length>13</length>
+</problem>
+</problems>

@@ -1,0 +1,67 @@
+<problems>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 23/student 23 (1).java</file>
+  <line>49</line>
+  <module>codeSmellsWork</module>
+  <package>&lt;default&gt;</package>
+  <entry_point TYPE="method" FQNAME="Board boolean is_full()" />
+  <problem_class id="MethodWithMultipleLoops" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Method with multiple loops</problem_class>
+  <description>&lt;code&gt;is_full&lt;/code&gt; contains 2 loops #loc</description>
+  <highlighted_element>is_full</highlighted_element>
+  <language>JAVA</language>
+  <offset>19</offset>
+  <length>7</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 23/student 23 (1).java</file>
+  <line>132</line>
+  <module>codeSmellsWork</module>
+  <package>&lt;default&gt;</package>
+  <entry_point TYPE="method" FQNAME="Board boolean is_empty()" />
+  <problem_class id="MethodWithMultipleLoops" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Method with multiple loops</problem_class>
+  <description>&lt;code&gt;is_empty&lt;/code&gt; contains 2 loops #loc</description>
+  <highlighted_element>is_empty</highlighted_element>
+  <language>JAVA</language>
+  <offset>19</offset>
+  <length>8</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 23/student 23 (1).java</file>
+  <line>150</line>
+  <module>codeSmellsWork</module>
+  <package>&lt;default&gt;</package>
+  <entry_point TYPE="method" FQNAME="Board boolean is_won_by(Player player)" />
+  <problem_class id="MethodWithMultipleLoops" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Method with multiple loops</problem_class>
+  <description>&lt;code&gt;is_won_by&lt;/code&gt; contains 12 loops #loc</description>
+  <highlighted_element>is_won_by</highlighted_element>
+  <language>JAVA</language>
+  <offset>19</offset>
+  <length>9</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 23/student 23 (1).java</file>
+  <line>261</line>
+  <module>codeSmellsWork</module>
+  <package>&lt;default&gt;</package>
+  <entry_point TYPE="method" FQNAME="Board int[] smart_strategy()" />
+  <problem_class id="MethodWithMultipleLoops" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Method with multiple loops</problem_class>
+  <description>&lt;code&gt;smart_strategy&lt;/code&gt; contains 12 loops #loc</description>
+  <highlighted_element>smart_strategy</highlighted_element>
+  <language>JAVA</language>
+  <offset>17</offset>
+  <length>14</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 23/student 23 (2).java</file>
+  <line>67</line>
+  <module>codeSmellsWork</module>
+  <package>&lt;default&gt;</package>
+  <entry_point TYPE="method" FQNAME="Board_Panel void drawBoard(java.awt.Graphics g)" />
+  <problem_class id="MethodWithMultipleLoops" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Method with multiple loops</problem_class>
+  <description>&lt;code&gt;drawBoard&lt;/code&gt; contains 5 loops #loc</description>
+  <highlighted_element>drawBoard</highlighted_element>
+  <language>JAVA</language>
+  <offset>17</offset>
+  <length>9</length>
+</problem>
+</problems>

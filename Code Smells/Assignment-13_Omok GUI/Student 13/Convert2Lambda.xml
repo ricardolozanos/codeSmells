@@ -1,0 +1,15 @@
+<problems>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 13/Student 13.java</file>
+  <line>30</line>
+  <module>codeSmellsWork</module>
+  <package>gui</package>
+  <entry_point TYPE="method" FQNAME="gui.GUserInterface GUserInterface()" />
+  <problem_class id="Convert2Lambda" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Anonymous type can be replaced with lambda</problem_class>
+  <description>Anonymous new ActionListener() can be replaced with lambda</description>
+  <highlighted_element>new ActionListener()</highlighted_element>
+  <language>JAVA</language>
+  <offset>37</offset>
+  <length>21</length>
+</problem>
+</problems>

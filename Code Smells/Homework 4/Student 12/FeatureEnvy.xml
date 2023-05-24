@@ -1,0 +1,67 @@
+<problems>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 12/student 12 (7).java</file>
+  <line>28</line>
+  <module>codeSmellsWork</module>
+  <package>&lt;default&gt;</package>
+  <entry_point TYPE="method" FQNAME="Controller void newGame()" />
+  <problem_class id="FeatureEnvy" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Feature envy</problem_class>
+  <description>Class 'GUIOmok' accessed repeatedly in method &lt;code&gt;newGame()&lt;/code&gt; #loc</description>
+  <highlighted_element>newGame</highlighted_element>
+  <language>JAVA</language>
+  <offset>16</offset>
+  <length>7</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 12/student 12 (7).java</file>
+  <line>53</line>
+  <module>codeSmellsWork</module>
+  <package>&lt;default&gt;</package>
+  <entry_point TYPE="method" FQNAME="Controller void makeMove(int x, int y)" />
+  <problem_class id="FeatureEnvy" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Feature envy</problem_class>
+  <description>Class 'Board' accessed repeatedly in method &lt;code&gt;makeMove()&lt;/code&gt; #loc</description>
+  <highlighted_element>makeMove</highlighted_element>
+  <language>JAVA</language>
+  <offset>16</offset>
+  <length>8</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 12/student 12 (7).java</file>
+  <line>53</line>
+  <module>codeSmellsWork</module>
+  <package>&lt;default&gt;</package>
+  <entry_point TYPE="method" FQNAME="Controller void makeMove(int x, int y)" />
+  <problem_class id="FeatureEnvy" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Feature envy</problem_class>
+  <description>Class 'GUIOmok' accessed repeatedly in method &lt;code&gt;makeMove()&lt;/code&gt; #loc</description>
+  <highlighted_element>makeMove</highlighted_element>
+  <language>JAVA</language>
+  <offset>16</offset>
+  <length>8</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 12/student 12 (7).java</file>
+  <line>53</line>
+  <module>codeSmellsWork</module>
+  <package>&lt;default&gt;</package>
+  <entry_point TYPE="method" FQNAME="Controller void makeMove(int x, int y)" />
+  <problem_class id="FeatureEnvy" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Feature envy</problem_class>
+  <description>Class 'Player' accessed repeatedly in method &lt;code&gt;makeMove()&lt;/code&gt; #loc</description>
+  <highlighted_element>makeMove</highlighted_element>
+  <language>JAVA</language>
+  <offset>16</offset>
+  <length>8</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 12/student 12 (8).java</file>
+  <line>127</line>
+  <module>codeSmellsWork</module>
+  <package>&lt;default&gt;</package>
+  <entry_point TYPE="method" FQNAME="GUIOmok void addIOListener(OmokInterface listener)" />
+  <problem_class id="FeatureEnvy" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Feature envy</problem_class>
+  <description>Class 'OmokInterface' accessed repeatedly in method &lt;code&gt;addIOListener()&lt;/code&gt; #loc</description>
+  <highlighted_element>addIOListener</highlighted_element>
+  <language>JAVA</language>
+  <offset>16</offset>
+  <length>13</length>
+</problem>
+</problems>

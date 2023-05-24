@@ -1,0 +1,431 @@
+<problems>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 20/student 20 (1).java</file>
+  <line>38</line>
+  <module>codeSmellsWork</module>
+  <package>&lt;default&gt;</package>
+  <entry_point TYPE="method" FQNAME="Board int getSize()" />
+  <problem_class id="MissingJavadoc" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Missing Javadoc</problem_class>
+  <description>Required Javadoc is absent</description>
+  <highlighted_element>getSize</highlighted_element>
+  <language>JAVA</language>
+  <offset>15</offset>
+  <length>7</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 20/student 20 (1).java</file>
+  <line>67</line>
+  <module>codeSmellsWork</module>
+  <package>&lt;default&gt;</package>
+  <entry_point TYPE="method" FQNAME="Board int gameOver(int lastX, int lastY, Player lastPlayer, Game game)" />
+  <problem_class id="MissingJavadoc" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Missing Javadoc</problem_class>
+  <description>Required tag &lt;code&gt;@param&lt;/code&gt; is missing for parameter &lt;code&gt;game&lt;/code&gt;</description>
+  <highlighted_element>/**</highlighted_element>
+  <language>JAVA</language>
+  <offset>4</offset>
+  <length>3</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 20/student 20 (1).java</file>
+  <line>67</line>
+  <module>codeSmellsWork</module>
+  <package>&lt;default&gt;</package>
+  <entry_point TYPE="method" FQNAME="Board int gameOver(int lastX, int lastY, Player lastPlayer, Game game)" />
+  <problem_class id="MissingJavadoc" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Missing Javadoc</problem_class>
+  <description>Required tag &lt;code&gt;@param&lt;/code&gt; is missing for parameter &lt;code&gt;lastPlayer&lt;/code&gt;</description>
+  <highlighted_element>/**</highlighted_element>
+  <language>JAVA</language>
+  <offset>4</offset>
+  <length>3</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 20/student 20 (1).java</file>
+  <line>67</line>
+  <module>codeSmellsWork</module>
+  <package>&lt;default&gt;</package>
+  <entry_point TYPE="method" FQNAME="Board int gameOver(int lastX, int lastY, Player lastPlayer, Game game)" />
+  <problem_class id="MissingJavadoc" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Missing Javadoc</problem_class>
+  <description>Required tag &lt;code&gt;@param&lt;/code&gt; is missing for parameter &lt;code&gt;lastX&lt;/code&gt;</description>
+  <highlighted_element>/**</highlighted_element>
+  <language>JAVA</language>
+  <offset>4</offset>
+  <length>3</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 20/student 20 (1).java</file>
+  <line>67</line>
+  <module>codeSmellsWork</module>
+  <package>&lt;default&gt;</package>
+  <entry_point TYPE="method" FQNAME="Board int gameOver(int lastX, int lastY, Player lastPlayer, Game game)" />
+  <problem_class id="MissingJavadoc" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Missing Javadoc</problem_class>
+  <description>Required tag &lt;code&gt;@param&lt;/code&gt; is missing for parameter &lt;code&gt;lastY&lt;/code&gt;</description>
+  <highlighted_element>/**</highlighted_element>
+  <language>JAVA</language>
+  <offset>4</offset>
+  <length>3</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 20/student 20 (1).java</file>
+  <line>91</line>
+  <module>codeSmellsWork</module>
+  <package>&lt;default&gt;</package>
+  <entry_point TYPE="method" FQNAME="Board Player winner(int lastX, int lastY, Player lastPlayer)" />
+  <problem_class id="MissingJavadoc" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Missing Javadoc</problem_class>
+  <description>Required Javadoc is absent</description>
+  <highlighted_element>winner</highlighted_element>
+  <language>JAVA</language>
+  <offset>18</offset>
+  <length>6</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 20/student 20 (3).java</file>
+  <line>26</line>
+  <module>codeSmellsWork</module>
+  <package>&lt;default&gt;</package>
+  <entry_point TYPE="method" FQNAME="Controller Controller()" />
+  <problem_class id="MissingJavadoc" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Missing Javadoc</problem_class>
+  <description>Required Javadoc is absent</description>
+  <highlighted_element>Controller</highlighted_element>
+  <language>JAVA</language>
+  <offset>11</offset>
+  <length>10</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 20/student 20 (3).java</file>
+  <line>33</line>
+  <module>codeSmellsWork</module>
+  <package>&lt;default&gt;</package>
+  <entry_point TYPE="method" FQNAME="Controller void start()" />
+  <problem_class id="MissingJavadoc" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Missing Javadoc</problem_class>
+  <description>Required Javadoc is absent</description>
+  <highlighted_element>start</highlighted_element>
+  <language>JAVA</language>
+  <offset>16</offset>
+  <length>5</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 20/student 20 (3).java</file>
+  <line>99</line>
+  <module>codeSmellsWork</module>
+  <package>&lt;default&gt;</package>
+  <entry_point TYPE="method" FQNAME="Controller void setGameMode(int gameM)" />
+  <problem_class id="MissingJavadoc" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Missing Javadoc</problem_class>
+  <description>Required Javadoc is absent</description>
+  <highlighted_element>setGameMode</highlighted_element>
+  <language>JAVA</language>
+  <offset>16</offset>
+  <length>11</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 20/student 20 (4).java</file>
+  <line>58</line>
+  <module>codeSmellsWork</module>
+  <package>&lt;default&gt;</package>
+  <entry_point TYPE="method" FQNAME="Game void setBoard(Board board)" />
+  <problem_class id="MissingJavadoc" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Missing Javadoc</problem_class>
+  <description>Required Javadoc is absent</description>
+  <highlighted_element>setBoard</highlighted_element>
+  <language>JAVA</language>
+  <offset>16</offset>
+  <length>8</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 20/student 20 (4).java</file>
+  <line>62</line>
+  <module>codeSmellsWork</module>
+  <package>&lt;default&gt;</package>
+  <entry_point TYPE="method" FQNAME="Game void setGameMode(int gameMode)" />
+  <problem_class id="MissingJavadoc" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Missing Javadoc</problem_class>
+  <description>Required tag &lt;code&gt;@param&lt;/code&gt; is missing for parameter &lt;code&gt;gameMode&lt;/code&gt;</description>
+  <highlighted_element>/**</highlighted_element>
+  <language>JAVA</language>
+  <offset>4</offset>
+  <length>3</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 20/student 20 (4).java</file>
+  <line>80</line>
+  <module>codeSmellsWork</module>
+  <package>&lt;default&gt;</package>
+  <entry_point TYPE="method" FQNAME="Game Player getTurnAndUpdate()" />
+  <problem_class id="MissingJavadoc" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Missing Javadoc</problem_class>
+  <description>Required Javadoc is absent</description>
+  <highlighted_element>getTurnAndUpdate</highlighted_element>
+  <language>JAVA</language>
+  <offset>18</offset>
+  <length>16</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 20/student 20 (4).java</file>
+  <line>87</line>
+  <module>codeSmellsWork</module>
+  <package>&lt;default&gt;</package>
+  <entry_point TYPE="method" FQNAME="Game void setLastX(int lastX)" />
+  <problem_class id="MissingJavadoc" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Missing Javadoc</problem_class>
+  <description>Required Javadoc is absent</description>
+  <highlighted_element>setLastX</highlighted_element>
+  <language>JAVA</language>
+  <offset>16</offset>
+  <length>8</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 20/student 20 (4).java</file>
+  <line>90</line>
+  <module>codeSmellsWork</module>
+  <package>&lt;default&gt;</package>
+  <entry_point TYPE="method" FQNAME="Game void setLastY(int lastY)" />
+  <problem_class id="MissingJavadoc" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Missing Javadoc</problem_class>
+  <description>Required Javadoc is absent</description>
+  <highlighted_element>setLastY</highlighted_element>
+  <language>JAVA</language>
+  <offset>16</offset>
+  <length>8</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 20/student 20 (4).java</file>
+  <line>93</line>
+  <module>codeSmellsWork</module>
+  <package>&lt;default&gt;</package>
+  <entry_point TYPE="method" FQNAME="Game void setLastChar(char lastStone)" />
+  <problem_class id="MissingJavadoc" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Missing Javadoc</problem_class>
+  <description>Required Javadoc is absent</description>
+  <highlighted_element>setLastChar</highlighted_element>
+  <language>JAVA</language>
+  <offset>16</offset>
+  <length>11</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 20/student 20 (4).java</file>
+  <line>96</line>
+  <module>codeSmellsWork</module>
+  <package>&lt;default&gt;</package>
+  <entry_point TYPE="method" FQNAME="Game void setWinner(Player winner)" />
+  <problem_class id="MissingJavadoc" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Missing Javadoc</problem_class>
+  <description>Required Javadoc is absent</description>
+  <highlighted_element>setWinner</highlighted_element>
+  <language>JAVA</language>
+  <offset>16</offset>
+  <length>9</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 20/student 20 (4).java</file>
+  <line>99</line>
+  <module>codeSmellsWork</module>
+  <package>&lt;default&gt;</package>
+  <entry_point TYPE="method" FQNAME="Game int getLastX()" />
+  <problem_class id="MissingJavadoc" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Missing Javadoc</problem_class>
+  <description>Required Javadoc is absent</description>
+  <highlighted_element>getLastX</highlighted_element>
+  <language>JAVA</language>
+  <offset>15</offset>
+  <length>8</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 20/student 20 (4).java</file>
+  <line>102</line>
+  <module>codeSmellsWork</module>
+  <package>&lt;default&gt;</package>
+  <entry_point TYPE="method" FQNAME="Game int getLastY()" />
+  <problem_class id="MissingJavadoc" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Missing Javadoc</problem_class>
+  <description>Required Javadoc is absent</description>
+  <highlighted_element>getLastY</highlighted_element>
+  <language>JAVA</language>
+  <offset>15</offset>
+  <length>8</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 20/student 20 (4).java</file>
+  <line>106</line>
+  <module>codeSmellsWork</module>
+  <package>&lt;default&gt;</package>
+  <entry_point TYPE="method" FQNAME="Game Player getNextPlayerInTurn()" />
+  <problem_class id="MissingJavadoc" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Missing Javadoc</problem_class>
+  <description>Required Javadoc is absent</description>
+  <highlighted_element>getNextPlayerInTurn</highlighted_element>
+  <language>JAVA</language>
+  <offset>18</offset>
+  <length>19</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 20/student 20 (4).java</file>
+  <line>109</line>
+  <module>codeSmellsWork</module>
+  <package>&lt;default&gt;</package>
+  <entry_point TYPE="method" FQNAME="Game Player getWinner()" />
+  <problem_class id="MissingJavadoc" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Missing Javadoc</problem_class>
+  <description>Required Javadoc is absent</description>
+  <highlighted_element>getWinner</highlighted_element>
+  <language>JAVA</language>
+  <offset>18</offset>
+  <length>9</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 20/student 20 (4).java</file>
+  <line>112</line>
+  <module>codeSmellsWork</module>
+  <package>&lt;default&gt;</package>
+  <entry_point TYPE="method" FQNAME="Game int getNextX()" />
+  <problem_class id="MissingJavadoc" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Missing Javadoc</problem_class>
+  <description>Required Javadoc is absent</description>
+  <highlighted_element>getNextX</highlighted_element>
+  <language>JAVA</language>
+  <offset>15</offset>
+  <length>8</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 20/student 20 (4).java</file>
+  <line>116</line>
+  <module>codeSmellsWork</module>
+  <package>&lt;default&gt;</package>
+  <entry_point TYPE="method" FQNAME="Game int getNextY()" />
+  <problem_class id="MissingJavadoc" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Missing Javadoc</problem_class>
+  <description>Required Javadoc is absent</description>
+  <highlighted_element>getNextY</highlighted_element>
+  <language>JAVA</language>
+  <offset>15</offset>
+  <length>8</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 20/student 20 (5).java</file>
+  <line>1</line>
+  <module>codeSmellsWork</module>
+  <package>&lt;default&gt;</package>
+  <entry_point TYPE="class" FQNAME="Main" />
+  <problem_class id="MissingJavadoc" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Missing Javadoc</problem_class>
+  <description>Required Javadoc is absent</description>
+  <highlighted_element>Main</highlighted_element>
+  <language>JAVA</language>
+  <offset>13</offset>
+  <length>4</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 20/student 20 (5).java</file>
+  <line>2</line>
+  <module>codeSmellsWork</module>
+  <package>&lt;default&gt;</package>
+  <entry_point TYPE="method" FQNAME="Main void main(java.lang.String[] args)" />
+  <problem_class id="MissingJavadoc" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Missing Javadoc</problem_class>
+  <description>Required Javadoc is absent</description>
+  <highlighted_element>main</highlighted_element>
+  <language>JAVA</language>
+  <offset>23</offset>
+  <length>4</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 20/student 20 (7).java</file>
+  <line>1</line>
+  <module>codeSmellsWork</module>
+  <package>&lt;default&gt;</package>
+  <entry_point TYPE="class" FQNAME="Place" />
+  <problem_class id="MissingJavadoc" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Missing Javadoc</problem_class>
+  <description>Required Javadoc is absent</description>
+  <highlighted_element>Place</highlighted_element>
+  <language>JAVA</language>
+  <offset>13</offset>
+  <length>5</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 20/student 20 (7).java</file>
+  <line>14</line>
+  <module>codeSmellsWork</module>
+  <package>&lt;default&gt;</package>
+  <entry_point TYPE="method" FQNAME="Place Place(int x, int y)" />
+  <problem_class id="MissingJavadoc" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Missing Javadoc</problem_class>
+  <description>Required Javadoc is absent</description>
+  <highlighted_element>Place</highlighted_element>
+  <language>JAVA</language>
+  <offset>11</offset>
+  <length>5</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 20/student 20 (7).java</file>
+  <line>20</line>
+  <module>codeSmellsWork</module>
+  <package>&lt;default&gt;</package>
+  <entry_point TYPE="method" FQNAME="Place char getStone()" />
+  <problem_class id="MissingJavadoc" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Missing Javadoc</problem_class>
+  <description>Required Javadoc is absent</description>
+  <highlighted_element>getStone</highlighted_element>
+  <language>JAVA</language>
+  <offset>16</offset>
+  <length>8</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 20/student 20 (7).java</file>
+  <line>24</line>
+  <module>codeSmellsWork</module>
+  <package>&lt;default&gt;</package>
+  <entry_point TYPE="method" FQNAME="Place void setStone(char stone)" />
+  <problem_class id="MissingJavadoc" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Missing Javadoc</problem_class>
+  <description>Required Javadoc is absent</description>
+  <highlighted_element>setStone</highlighted_element>
+  <language>JAVA</language>
+  <offset>16</offset>
+  <length>8</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 20/student 20 (8).java</file>
+  <line>3</line>
+  <module>codeSmellsWork</module>
+  <package>&lt;default&gt;</package>
+  <entry_point TYPE="class" FQNAME="Player" />
+  <problem_class id="MissingJavadoc" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Missing Javadoc</problem_class>
+  <description>Required Javadoc is absent</description>
+  <highlighted_element>Player</highlighted_element>
+  <language>JAVA</language>
+  <offset>13</offset>
+  <length>6</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 20/student 20 (8).java</file>
+  <line>16</line>
+  <module>codeSmellsWork</module>
+  <package>&lt;default&gt;</package>
+  <entry_point TYPE="method" FQNAME="Player Player(char stone, java.lang.String playerName)" />
+  <problem_class id="MissingJavadoc" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Missing Javadoc</problem_class>
+  <description>Required tag &lt;code&gt;@param&lt;/code&gt; is missing for parameter &lt;code&gt;playerName&lt;/code&gt;</description>
+  <highlighted_element>/**</highlighted_element>
+  <language>JAVA</language>
+  <offset>4</offset>
+  <length>3</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 20/student 20 (8).java</file>
+  <line>23</line>
+  <module>codeSmellsWork</module>
+  <package>&lt;default&gt;</package>
+  <entry_point TYPE="method" FQNAME="Player Player(char stone, java.lang.String playerName, java.awt.Color color)" />
+  <problem_class id="MissingJavadoc" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Missing Javadoc</problem_class>
+  <description>Required tag &lt;code&gt;@param&lt;/code&gt; is missing for parameter &lt;code&gt;color&lt;/code&gt;</description>
+  <highlighted_element>/**</highlighted_element>
+  <language>JAVA</language>
+  <offset>4</offset>
+  <length>3</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 20/student 20 (8).java</file>
+  <line>31</line>
+  <module>codeSmellsWork</module>
+  <package>&lt;default&gt;</package>
+  <entry_point TYPE="method" FQNAME="Player char getStone()" />
+  <problem_class id="MissingJavadoc" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Missing Javadoc</problem_class>
+  <description>Required tag &lt;code&gt;@return&lt;/code&gt; is missing</description>
+  <highlighted_element>/**</highlighted_element>
+  <language>JAVA</language>
+  <offset>4</offset>
+  <length>3</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 20/student 20 (8).java</file>
+  <line>37</line>
+  <module>codeSmellsWork</module>
+  <package>&lt;default&gt;</package>
+  <entry_point TYPE="method" FQNAME="Player java.lang.String getPlayerName()" />
+  <problem_class id="MissingJavadoc" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Missing Javadoc</problem_class>
+  <description>Required tag &lt;code&gt;@return&lt;/code&gt; is missing</description>
+  <highlighted_element>/**</highlighted_element>
+  <language>JAVA</language>
+  <offset>4</offset>
+  <length>3</length>
+</problem>
+</problems>

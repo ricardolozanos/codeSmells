@@ -1,0 +1,15 @@
+<problems>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 33/student 33 (1).java</file>
+  <line>102</line>
+  <module>codeSmellsWork</module>
+  <package>Misc</package>
+  <entry_point TYPE="method" FQNAME="Misc.ChatDialog void main(java.lang.String[] args)" />
+  <problem_class id="MagicConstant" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Magic Constant</problem_class>
+  <description>Should be one of: JOptionPane.INFORMATION_MESSAGE, JOptionPane.WARNING_MESSAGE, JOptionPane.ERROR_MESSAGE, ...</description>
+  <highlighted_element>JOptionPane.YES_NO_OPTION</highlighted_element>
+  <language>JAVA</language>
+  <offset>90</offset>
+  <length>25</length>
+</problem>
+</problems>

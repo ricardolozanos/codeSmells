@@ -1,0 +1,28 @@
+<problems>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 10/student 10 (3).java</file>
+  <line>33</line>
+  <module>codeSmellsWork</module>
+  <package>omokGUI</package>
+  <entry_point TYPE="method" FQNAME="omokGUI.Game void Game2()" />
+  <problem_class id="NonCommentSourceStatements" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Overly long method</problem_class>
+  <description>&lt;code&gt;Game2&lt;/code&gt; is too long (# Non-comment source statements = 48) #loc</description>
+  <highlighted_element>Game2</highlighted_element>
+  <language>JAVA</language>
+  <offset>13</offset>
+  <length>5</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 10/student 10 (8).java</file>
+  <line>82</line>
+  <module>codeSmellsWork</module>
+  <package>omokGUI</package>
+  <entry_point TYPE="method" FQNAME="omokGUI.Board boolean isWin()" />
+  <problem_class id="NonCommentSourceStatements" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Overly long method</problem_class>
+  <description>&lt;code&gt;isWin&lt;/code&gt; is too long (# Non-comment source statements = 56) #loc</description>
+  <highlighted_element>isWin</highlighted_element>
+  <language>JAVA</language>
+  <offset>16</offset>
+  <length>5</length>
+</problem>
+</problems>

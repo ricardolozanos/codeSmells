@@ -1,0 +1,44 @@
+<problems>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 03/Student 03.java</file>
+  <line>27</line>
+  <module>codeSmellsWork</module>
+  <package>Contador</package>
+  <entry_point TYPE="field" FQNAME="Contador.BotonContador contentPane" />
+  <problem_class id="CanBeFinal" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Declaration can have 'final' modifier</problem_class>
+  <hints />
+  <description>Declaration can have final modifier</description>
+  <highlighted_element>contentPane</highlighted_element>
+  <language>JAVA</language>
+  <offset>16</offset>
+  <length>11</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 03/Student 03.java</file>
+  <line>28</line>
+  <module>codeSmellsWork</module>
+  <package>Contador</package>
+  <entry_point TYPE="field" FQNAME="Contador.BotonContador textField" />
+  <problem_class id="CanBeFinal" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Declaration can have 'final' modifier</problem_class>
+  <hints />
+  <description>Declaration can have final modifier</description>
+  <highlighted_element>textField</highlighted_element>
+  <language>JAVA</language>
+  <offset>20</offset>
+  <length>9</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 03/Student 03.java</file>
+  <line>29</line>
+  <module>codeSmellsWork</module>
+  <package>Contador</package>
+  <entry_point TYPE="field" FQNAME="Contador.BotonContador btnAumentar" />
+  <problem_class id="CanBeFinal" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Declaration can have 'final' modifier</problem_class>
+  <hints />
+  <description>Declaration can have final modifier</description>
+  <highlighted_element>btnAumentar</highlighted_element>
+  <language>JAVA</language>
+  <offset>17</offset>
+  <length>11</length>
+</problem>
+</problems>

@@ -1,0 +1,28 @@
+<problems>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 40/student 40 (3).java</file>
+  <line>27</line>
+  <module>codeSmellsWork</module>
+  <package>src.noapplet.example</package>
+  <entry_point TYPE="method" FQNAME="src.noapplet.example.CircularBall void checkCollision(Bounceable ball)" />
+  <problem_class id="UnnecessaryUnaryMinus" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Unnecessary unary minus</problem_class>
+  <description>Unnecessary unary &lt;code&gt;-&lt;/code&gt; operator #loc</description>
+  <highlighted_element>-</highlighted_element>
+  <language>JAVA</language>
+  <offset>18</offset>
+  <length>1</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 40/student 40 (3).java</file>
+  <line>28</line>
+  <module>codeSmellsWork</module>
+  <package>src.noapplet.example</package>
+  <entry_point TYPE="method" FQNAME="src.noapplet.example.CircularBall void checkCollision(Bounceable ball)" />
+  <problem_class id="UnnecessaryUnaryMinus" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Unnecessary unary minus</problem_class>
+  <description>Unnecessary unary &lt;code&gt;-&lt;/code&gt; operator #loc</description>
+  <highlighted_element>-</highlighted_element>
+  <language>JAVA</language>
+  <offset>18</offset>
+  <length>1</length>
+</problem>
+</problems>

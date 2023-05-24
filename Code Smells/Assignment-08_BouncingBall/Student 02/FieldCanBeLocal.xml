@@ -1,0 +1,15 @@
+<problems>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 02/student 02 (1).java</file>
+  <line>71</line>
+  <module>codeSmellsWork</module>
+  <package>noapplet.example</package>
+  <entry_point TYPE="field" FQNAME="noapplet.example.BouncingBallAnimation bounceable" />
+  <problem_class id="FieldCanBeLocal" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Field can be local</problem_class>
+  <description>Field can be converted to a local variable</description>
+  <highlighted_element>bounceable</highlighted_element>
+  <language>JAVA</language>
+  <offset>39</offset>
+  <length>10</length>
+</problem>
+</problems>

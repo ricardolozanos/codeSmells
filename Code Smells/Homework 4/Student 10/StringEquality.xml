@@ -1,0 +1,15 @@
+<problems>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 10/student 10 (7).java</file>
+  <line>16</line>
+  <module>codeSmellsWork</module>
+  <package>omokGUI</package>
+  <entry_point TYPE="method" FQNAME="omokGUI.Player int getNextPlayerNum()" />
+  <problem_class id="StringEquality" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">String comparison using '==', instead of 'equals()'</problem_class>
+  <description>String values are compared using &lt;code&gt;==&lt;/code&gt;, not 'equals()' #loc</description>
+  <highlighted_element>==</highlighted_element>
+  <language>JAVA</language>
+  <offset>12</offset>
+  <length>2</length>
+</problem>
+</problems>

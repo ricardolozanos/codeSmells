@@ -1,0 +1,53 @@
+<problems>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 06/student 06 (1).java</file>
+  <line>2</line>
+  <module>codeSmellsWork</module>
+  <package>&lt;default&gt;</package>
+  <entry_point TYPE="method" FQNAME="Balloon void speed(int inflation)" />
+  <language>JAVA</language>
+  <offset>9</offset>
+  <length>5</length>
+  <highlighted_element>speed</highlighted_element>
+  <problem_class id="unused" severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">unused declaration</problem_class>
+  <hints>
+    <hint value="comment" />
+    <hint value="delete" />
+  </hints>
+  <description>Method is never used as a member of this interface, but only as a member of the implementation class(es). The project will stay compilable if the method is removed from the interface.</description>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 06/student 06 (2).java</file>
+  <line>3</line>
+  <module>codeSmellsWork</module>
+  <package>&lt;default&gt;</package>
+  <entry_point TYPE="field" FQNAME="GrowingBalloon direction" />
+  <language>JAVA</language>
+  <offset>16</offset>
+  <length>9</length>
+  <highlighted_element>direction</highlighted_element>
+  <problem_class id="unused" severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">unused declaration</problem_class>
+  <hints>
+    <hint value="comment" />
+    <hint value="delete" />
+  </hints>
+  <description>Field is assigned but never accessed.</description>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 06/student 06 (4).java</file>
+  <line>22</line>
+  <module>codeSmellsWork</module>
+  <package>&lt;default&gt;</package>
+  <entry_point TYPE="method" FQNAME="ModularBalloonApp void paintComponent(java.awt.Graphics g)" />
+  <language>JAVA</language>
+  <offset>16</offset>
+  <length>14</length>
+  <highlighted_element>paintComponent</highlighted_element>
+  <problem_class id="unused" severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">unused declaration</problem_class>
+  <hints>
+    <hint value="comment" />
+    <hint value="delete" />
+  </hints>
+  <description>Method is never used.</description>
+</problem>
+</problems>

@@ -1,0 +1,392 @@
+<problems>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 05/student 05 (1).java</file>
+  <line>4</line>
+  <module>codeSmellsWork</module>
+  <package>&lt;default&gt;</package>
+  <entry_point TYPE="class" FQNAME="BoardTest" />
+  <problem_class id="MissingJavadoc" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Missing Javadoc</problem_class>
+  <description>Required Javadoc is absent</description>
+  <highlighted_element>BoardTest</highlighted_element>
+  <language>JAVA</language>
+  <offset>13</offset>
+  <length>9</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 05/student 05 (1).java</file>
+  <line>7</line>
+  <module>codeSmellsWork</module>
+  <package>&lt;default&gt;</package>
+  <entry_point TYPE="method" FQNAME="BoardTest void testPlayerAt()" />
+  <problem_class id="MissingJavadoc" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Missing Javadoc</problem_class>
+  <description>Required Javadoc is absent</description>
+  <highlighted_element>testPlayerAt</highlighted_element>
+  <language>JAVA</language>
+  <offset>16</offset>
+  <length>12</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 05/student 05 (1).java</file>
+  <line>15</line>
+  <module>codeSmellsWork</module>
+  <package>&lt;default&gt;</package>
+  <entry_point TYPE="method" FQNAME="BoardTest void testIsWonByHorizontal()" />
+  <problem_class id="MissingJavadoc" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Missing Javadoc</problem_class>
+  <description>Required Javadoc is absent</description>
+  <highlighted_element>testIsWonByHorizontal</highlighted_element>
+  <language>JAVA</language>
+  <offset>16</offset>
+  <length>21</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 05/student 05 (1).java</file>
+  <line>25</line>
+  <module>codeSmellsWork</module>
+  <package>&lt;default&gt;</package>
+  <entry_point TYPE="method" FQNAME="BoardTest void testIsWonByVertical()" />
+  <problem_class id="MissingJavadoc" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Missing Javadoc</problem_class>
+  <description>Required Javadoc is absent</description>
+  <highlighted_element>testIsWonByVertical</highlighted_element>
+  <language>JAVA</language>
+  <offset>16</offset>
+  <length>19</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 05/student 05 (1).java</file>
+  <line>35</line>
+  <module>codeSmellsWork</module>
+  <package>&lt;default&gt;</package>
+  <entry_point TYPE="method" FQNAME="BoardTest void testIsWonByDiagonal()" />
+  <problem_class id="MissingJavadoc" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Missing Javadoc</problem_class>
+  <description>Required Javadoc is absent</description>
+  <highlighted_element>testIsWonByDiagonal</highlighted_element>
+  <language>JAVA</language>
+  <offset>16</offset>
+  <length>19</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 05/student 05 (1).java</file>
+  <line>47</line>
+  <module>codeSmellsWork</module>
+  <package>&lt;default&gt;</package>
+  <entry_point TYPE="method" FQNAME="BoardTest void testWinningRowHorizontal()" />
+  <problem_class id="MissingJavadoc" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Missing Javadoc</problem_class>
+  <description>Required Javadoc is absent</description>
+  <highlighted_element>testWinningRowHorizontal</highlighted_element>
+  <language>JAVA</language>
+  <offset>16</offset>
+  <length>24</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 05/student 05 (1).java</file>
+  <line>57</line>
+  <module>codeSmellsWork</module>
+  <package>&lt;default&gt;</package>
+  <entry_point TYPE="method" FQNAME="BoardTest void testWinningRowVertical()" />
+  <problem_class id="MissingJavadoc" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Missing Javadoc</problem_class>
+  <description>Required Javadoc is absent</description>
+  <highlighted_element>testWinningRowVertical</highlighted_element>
+  <language>JAVA</language>
+  <offset>16</offset>
+  <length>22</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 05/student 05 (1).java</file>
+  <line>67</line>
+  <module>codeSmellsWork</module>
+  <package>&lt;default&gt;</package>
+  <entry_point TYPE="method" FQNAME="BoardTest void testWinningRowDiagonal()" />
+  <problem_class id="MissingJavadoc" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Missing Javadoc</problem_class>
+  <description>Required Javadoc is absent</description>
+  <highlighted_element>testWinningRowDiagonal</highlighted_element>
+  <language>JAVA</language>
+  <offset>16</offset>
+  <length>22</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 05/student 05 (2).java</file>
+  <line>6</line>
+  <module>codeSmellsWork</module>
+  <package>&lt;default&gt;</package>
+  <entry_point TYPE="class" FQNAME="BoardTest" />
+  <problem_class id="MissingJavadoc" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Missing Javadoc</problem_class>
+  <description>Required Javadoc is absent</description>
+  <highlighted_element>BoardTest</highlighted_element>
+  <language>JAVA</language>
+  <offset>13</offset>
+  <length>9</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 05/student 05 (2).java</file>
+  <line>9</line>
+  <module>codeSmellsWork</module>
+  <package>&lt;default&gt;</package>
+  <entry_point TYPE="method" FQNAME="BoardTest void testPlayerAt()" />
+  <problem_class id="MissingJavadoc" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Missing Javadoc</problem_class>
+  <description>Required Javadoc is absent</description>
+  <highlighted_element>testPlayerAt</highlighted_element>
+  <language>JAVA</language>
+  <offset>16</offset>
+  <length>12</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 05/student 05 (2).java</file>
+  <line>17</line>
+  <module>codeSmellsWork</module>
+  <package>&lt;default&gt;</package>
+  <entry_point TYPE="method" FQNAME="BoardTest void testIsWonByHorizontal()" />
+  <problem_class id="MissingJavadoc" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Missing Javadoc</problem_class>
+  <description>Required Javadoc is absent</description>
+  <highlighted_element>testIsWonByHorizontal</highlighted_element>
+  <language>JAVA</language>
+  <offset>16</offset>
+  <length>21</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 05/student 05 (2).java</file>
+  <line>27</line>
+  <module>codeSmellsWork</module>
+  <package>&lt;default&gt;</package>
+  <entry_point TYPE="method" FQNAME="BoardTest void testIsWonByVertical()" />
+  <problem_class id="MissingJavadoc" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Missing Javadoc</problem_class>
+  <description>Required Javadoc is absent</description>
+  <highlighted_element>testIsWonByVertical</highlighted_element>
+  <language>JAVA</language>
+  <offset>16</offset>
+  <length>19</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 05/student 05 (2).java</file>
+  <line>37</line>
+  <module>codeSmellsWork</module>
+  <package>&lt;default&gt;</package>
+  <entry_point TYPE="method" FQNAME="BoardTest void testIsWonByDiagonal()" />
+  <problem_class id="MissingJavadoc" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Missing Javadoc</problem_class>
+  <description>Required Javadoc is absent</description>
+  <highlighted_element>testIsWonByDiagonal</highlighted_element>
+  <language>JAVA</language>
+  <offset>16</offset>
+  <length>19</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 05/student 05 (2).java</file>
+  <line>49</line>
+  <module>codeSmellsWork</module>
+  <package>&lt;default&gt;</package>
+  <entry_point TYPE="method" FQNAME="BoardTest void testWinningRowHorizontal()" />
+  <problem_class id="MissingJavadoc" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Missing Javadoc</problem_class>
+  <description>Required Javadoc is absent</description>
+  <highlighted_element>testWinningRowHorizontal</highlighted_element>
+  <language>JAVA</language>
+  <offset>16</offset>
+  <length>24</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 05/student 05 (2).java</file>
+  <line>64</line>
+  <module>codeSmellsWork</module>
+  <package>&lt;default&gt;</package>
+  <entry_point TYPE="method" FQNAME="BoardTest void testWinningRowVertical()" />
+  <problem_class id="MissingJavadoc" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Missing Javadoc</problem_class>
+  <description>Required Javadoc is absent</description>
+  <highlighted_element>testWinningRowVertical</highlighted_element>
+  <language>JAVA</language>
+  <offset>16</offset>
+  <length>22</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 05/student 05 (2).java</file>
+  <line>79</line>
+  <module>codeSmellsWork</module>
+  <package>&lt;default&gt;</package>
+  <entry_point TYPE="method" FQNAME="BoardTest void testWinningRowDiagonal()" />
+  <problem_class id="MissingJavadoc" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Missing Javadoc</problem_class>
+  <description>Required Javadoc is absent</description>
+  <highlighted_element>testWinningRowDiagonal</highlighted_element>
+  <language>JAVA</language>
+  <offset>16</offset>
+  <length>22</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 05/student 05 (3).java</file>
+  <line>6</line>
+  <module>codeSmellsWork</module>
+  <package>omok.model</package>
+  <entry_point TYPE="class" FQNAME="omok.model.Board" />
+  <problem_class id="MissingJavadoc" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Missing Javadoc</problem_class>
+  <description>Required Javadoc is absent</description>
+  <highlighted_element>Board</highlighted_element>
+  <language>JAVA</language>
+  <offset>13</offset>
+  <length>5</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 05/student 05 (3).java</file>
+  <line>19</line>
+  <module>codeSmellsWork</module>
+  <package>omok.model</package>
+  <entry_point TYPE="method" FQNAME="omok.model.Board Board(int size)" />
+  <problem_class id="MissingJavadoc" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Missing Javadoc</problem_class>
+  <description>Required tag &lt;code&gt;@param&lt;/code&gt; is missing for parameter &lt;code&gt;size&lt;/code&gt;</description>
+  <highlighted_element>/**</highlighted_element>
+  <language>JAVA</language>
+  <offset>4</offset>
+  <length>3</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 05/student 05 (3).java</file>
+  <line>28</line>
+  <module>codeSmellsWork</module>
+  <package>omok.model</package>
+  <entry_point TYPE="method" FQNAME="omok.model.Board int size()" />
+  <problem_class id="MissingJavadoc" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Missing Javadoc</problem_class>
+  <description>Required tag &lt;code&gt;@return&lt;/code&gt; is missing</description>
+  <highlighted_element>/**</highlighted_element>
+  <language>JAVA</language>
+  <offset>4</offset>
+  <length>3</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 05/student 05 (3).java</file>
+  <line>44</line>
+  <module>codeSmellsWork</module>
+  <package>omok.model</package>
+  <entry_point TYPE="method" FQNAME="omok.model.Board boolean isFull()" />
+  <problem_class id="MissingJavadoc" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Missing Javadoc</problem_class>
+  <description>Required tag &lt;code&gt;@return&lt;/code&gt; is missing</description>
+  <highlighted_element>/**</highlighted_element>
+  <language>JAVA</language>
+  <offset>4</offset>
+  <length>3</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 05/student 05 (3).java</file>
+  <line>72</line>
+  <module>codeSmellsWork</module>
+  <package>omok.model</package>
+  <entry_point TYPE="method" FQNAME="omok.model.Board boolean isEmpty(int x, int y)" />
+  <problem_class id="MissingJavadoc" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Missing Javadoc</problem_class>
+  <description>Required tag &lt;code&gt;@return&lt;/code&gt; is missing</description>
+  <highlighted_element>/**</highlighted_element>
+  <language>JAVA</language>
+  <offset>4</offset>
+  <length>3</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 05/student 05 (3).java</file>
+  <line>83</line>
+  <module>codeSmellsWork</module>
+  <package>omok.model</package>
+  <entry_point TYPE="method" FQNAME="omok.model.Board boolean isOccupied(int x, int y)" />
+  <problem_class id="MissingJavadoc" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Missing Javadoc</problem_class>
+  <description>Required tag &lt;code&gt;@return&lt;/code&gt; is missing</description>
+  <highlighted_element>/**</highlighted_element>
+  <language>JAVA</language>
+  <offset>4</offset>
+  <length>3</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 05/student 05 (3).java</file>
+  <line>93</line>
+  <module>codeSmellsWork</module>
+  <package>omok.model</package>
+  <entry_point TYPE="method" FQNAME="omok.model.Board boolean isOccupiedBy(int x, int y, omok.model.Player player)" />
+  <problem_class id="MissingJavadoc" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Missing Javadoc</problem_class>
+  <description>Required tag &lt;code&gt;@param&lt;/code&gt; is missing for parameter &lt;code&gt;player&lt;/code&gt;</description>
+  <highlighted_element>/**</highlighted_element>
+  <language>JAVA</language>
+  <offset>4</offset>
+  <length>3</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 05/student 05 (3).java</file>
+  <line>93</line>
+  <module>codeSmellsWork</module>
+  <package>omok.model</package>
+  <entry_point TYPE="method" FQNAME="omok.model.Board boolean isOccupiedBy(int x, int y, omok.model.Player player)" />
+  <problem_class id="MissingJavadoc" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Missing Javadoc</problem_class>
+  <description>Required tag &lt;code&gt;@return&lt;/code&gt; is missing</description>
+  <highlighted_element>/**</highlighted_element>
+  <language>JAVA</language>
+  <offset>4</offset>
+  <length>3</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 05/student 05 (3).java</file>
+  <line>105</line>
+  <module>codeSmellsWork</module>
+  <package>omok.model</package>
+  <entry_point TYPE="method" FQNAME="omok.model.Board omok.model.Player playerAt(int x, int y)" />
+  <problem_class id="MissingJavadoc" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Missing Javadoc</problem_class>
+  <description>Required tag &lt;code&gt;@return&lt;/code&gt; is missing</description>
+  <highlighted_element>/**</highlighted_element>
+  <language>JAVA</language>
+  <offset>4</offset>
+  <length>3</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 05/student 05 (3).java</file>
+  <line>122</line>
+  <module>codeSmellsWork</module>
+  <package>omok.model</package>
+  <entry_point TYPE="method" FQNAME="omok.model.Board boolean isWonBy(omok.model.Player player)" />
+  <problem_class id="MissingJavadoc" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Missing Javadoc</problem_class>
+  <description>Required tag &lt;code&gt;@param&lt;/code&gt; is missing for parameter &lt;code&gt;player&lt;/code&gt;</description>
+  <highlighted_element>/**</highlighted_element>
+  <language>JAVA</language>
+  <offset>4</offset>
+  <length>3</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 05/student 05 (3).java</file>
+  <line>122</line>
+  <module>codeSmellsWork</module>
+  <package>omok.model</package>
+  <entry_point TYPE="method" FQNAME="omok.model.Board boolean isWonBy(omok.model.Player player)" />
+  <problem_class id="MissingJavadoc" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Missing Javadoc</problem_class>
+  <description>Required tag &lt;code&gt;@return&lt;/code&gt; is missing</description>
+  <highlighted_element>/**</highlighted_element>
+  <language>JAVA</language>
+  <offset>4</offset>
+  <length>3</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 05/student 05 (3).java</file>
+  <line>210</line>
+  <module>codeSmellsWork</module>
+  <package>omok.model</package>
+  <entry_point TYPE="method" FQNAME="omok.model.Board java.lang.Iterable&lt;omok.model.Board.Place&gt; winningRow()" />
+  <problem_class id="MissingJavadoc" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Missing Javadoc</problem_class>
+  <description>Required Javadoc is absent</description>
+  <highlighted_element>winningRow</highlighted_element>
+  <language>JAVA</language>
+  <offset>27</offset>
+  <length>10</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 05/student 05 (3).java</file>
+  <line>265</line>
+  <module>codeSmellsWork</module>
+  <package>omok.model</package>
+  <entry_point TYPE="method" FQNAME="omok.model.Player Player(java.lang.String name)" />
+  <problem_class id="MissingJavadoc" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Missing Javadoc</problem_class>
+  <description>Required tag &lt;code&gt;@param&lt;/code&gt; is missing for parameter &lt;code&gt;name&lt;/code&gt;</description>
+  <highlighted_element>/**</highlighted_element>
+  <language>JAVA</language>
+  <offset>4</offset>
+  <length>3</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 05/student 05 (3).java</file>
+  <line>270</line>
+  <module>codeSmellsWork</module>
+  <package>omok.model</package>
+  <entry_point TYPE="method" FQNAME="omok.model.Player java.lang.String name()" />
+  <problem_class id="MissingJavadoc" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Missing Javadoc</problem_class>
+  <description>Required tag &lt;code&gt;@return&lt;/code&gt; is missing</description>
+  <highlighted_element>/**</highlighted_element>
+  <language>JAVA</language>
+  <offset>4</offset>
+  <length>3</length>
+</problem>
+</problems>

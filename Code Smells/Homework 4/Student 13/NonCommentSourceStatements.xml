@@ -1,0 +1,28 @@
+<problems>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 13/student 13 (3).java</file>
+  <line>52</line>
+  <module>codeSmellsWork</module>
+  <package>&lt;default&gt;</package>
+  <entry_point TYPE="method" FQNAME="ComputerPlayer java.util.List&lt;int[]&gt; checkforSpots(int x, int y, int[][] board, int stoneNum, int direction, int quality)" />
+  <problem_class id="NonCommentSourceStatements" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Overly long method</problem_class>
+  <description>&lt;code&gt;checkforSpots&lt;/code&gt; is too long (# Non-comment source statements = 45) #loc</description>
+  <highlighted_element>checkforSpots</highlighted_element>
+  <language>JAVA</language>
+  <offset>24</offset>
+  <length>13</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 13/student 13 (5).java</file>
+  <line>46</line>
+  <module>codeSmellsWork</module>
+  <package>&lt;default&gt;</package>
+  <entry_point TYPE="method" FQNAME="GUserInterface void initPanels()" />
+  <problem_class id="NonCommentSourceStatements" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Overly long method</problem_class>
+  <description>&lt;code&gt;initPanels&lt;/code&gt; is too long (# Non-comment source statements = 36) #loc</description>
+  <highlighted_element>initPanels</highlighted_element>
+  <language>JAVA</language>
+  <offset>17</offset>
+  <length>10</length>
+</problem>
+</problems>

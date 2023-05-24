@@ -1,0 +1,28 @@
+<problems>
+<problem>
+  <file>file://$PROJECT_DIR$/src/student 12/Student 12 (1).java</file>
+  <line>14</line>
+  <module>codeSmellsWork</module>
+  <package>noapplet.example</package>
+  <entry_point TYPE="method" FQNAME="noapplet.example.Balloon Balloon(java.lang.String[] params)" />
+  <problem_class id="Convert2Lambda" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Anonymous type can be replaced with lambda</problem_class>
+  <description>Anonymous new ActionListener() can be replaced with lambda</description>
+  <highlighted_element>new ActionListener()</highlighted_element>
+  <language>JAVA</language>
+  <offset>29</offset>
+  <length>21</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/student 12/Student 12 (2).java</file>
+  <line>16</line>
+  <module>codeSmellsWork</module>
+  <package>noapplet.example</package>
+  <entry_point TYPE="method" FQNAME="noapplet.example.Balloon2 Balloon2(java.lang.String[] params)" />
+  <problem_class id="Convert2Lambda" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Anonymous type can be replaced with lambda</problem_class>
+  <description>Anonymous new ActionListener() can be replaced with lambda</description>
+  <highlighted_element>new ActionListener()</highlighted_element>
+  <language>JAVA</language>
+  <offset>29</offset>
+  <length>21</length>
+</problem>
+</problems>

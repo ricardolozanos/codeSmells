@@ -1,0 +1,189 @@
+<problems>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 29/student 29 (1).java</file>
+  <line>12</line>
+  <module>codeSmellsWork</module>
+  <package>&lt;default&gt;</package>
+  <entry_point TYPE="method" FQNAME="OmokUITest void testConstructor()" />
+  <language>JAVA</language>
+  <offset>6</offset>
+  <length>15</length>
+  <highlighted_element>testConstructor</highlighted_element>
+  <problem_class id="unused" severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">unused declaration</problem_class>
+  <hints>
+    <hint value="comment" />
+    <hint value="delete" />
+  </hints>
+  <description>&lt;ul&gt;&lt;li&gt;Method owner class is never instantiated OR&lt;/li&gt;&lt;li&gt;An instantiation is not reachable from entry points.&lt;/li&gt;&lt;/ul&gt;</description>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 29/student 29 (1).java</file>
+  <line>18</line>
+  <module>codeSmellsWork</module>
+  <package>&lt;default&gt;</package>
+  <entry_point TYPE="method" FQNAME="OmokUITest void testContructorBoolean()" />
+  <language>JAVA</language>
+  <offset>6</offset>
+  <length>21</length>
+  <highlighted_element>testContructorBoolean</highlighted_element>
+  <problem_class id="unused" severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">unused declaration</problem_class>
+  <hints>
+    <hint value="comment" />
+    <hint value="delete" />
+  </hints>
+  <description>&lt;ul&gt;&lt;li&gt;Method owner class is never instantiated OR&lt;/li&gt;&lt;li&gt;An instantiation is not reachable from entry points.&lt;/li&gt;&lt;/ul&gt;</description>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 29/student 29 (1).java</file>
+  <line>25</line>
+  <module>codeSmellsWork</module>
+  <package>&lt;default&gt;</package>
+  <entry_point TYPE="method" FQNAME="OmokUITest void testgetOmokUIStatus()" />
+  <language>JAVA</language>
+  <offset>6</offset>
+  <length>19</length>
+  <highlighted_element>testgetOmokUIStatus</highlighted_element>
+  <problem_class id="unused" severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">unused declaration</problem_class>
+  <hints>
+    <hint value="comment" />
+    <hint value="delete" />
+  </hints>
+  <description>&lt;ul&gt;&lt;li&gt;Method owner class is never instantiated OR&lt;/li&gt;&lt;li&gt;An instantiation is not reachable from entry points.&lt;/li&gt;&lt;/ul&gt;</description>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 29/student 29 (1).java</file>
+  <line>32</line>
+  <module>codeSmellsWork</module>
+  <package>&lt;default&gt;</package>
+  <entry_point TYPE="method" FQNAME="OmokUITest void testsetOmokUIStatus()" />
+  <language>JAVA</language>
+  <offset>6</offset>
+  <length>19</length>
+  <highlighted_element>testsetOmokUIStatus</highlighted_element>
+  <problem_class id="unused" severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">unused declaration</problem_class>
+  <hints>
+    <hint value="comment" />
+    <hint value="delete" />
+  </hints>
+  <description>&lt;ul&gt;&lt;li&gt;Method owner class is never instantiated OR&lt;/li&gt;&lt;li&gt;An instantiation is not reachable from entry points.&lt;/li&gt;&lt;/ul&gt;</description>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 29/student 29 (1).java</file>
+  <line>41</line>
+  <module>codeSmellsWork</module>
+  <package>&lt;default&gt;</package>
+  <entry_point TYPE="method" FQNAME="OmokUITest void testsetupOmokGame()" />
+  <language>JAVA</language>
+  <offset>6</offset>
+  <length>17</length>
+  <highlighted_element>testsetupOmokGame</highlighted_element>
+  <problem_class id="unused" severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">unused declaration</problem_class>
+  <hints>
+    <hint value="comment" />
+    <hint value="delete" />
+  </hints>
+  <description>&lt;ul&gt;&lt;li&gt;Method owner class is never instantiated OR&lt;/li&gt;&lt;li&gt;An instantiation is not reachable from entry points.&lt;/li&gt;&lt;/ul&gt;</description>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 29/student 29 (1).java</file>
+  <line>109</line>
+  <module>codeSmellsWork</module>
+  <package>&lt;default&gt;</package>
+  <entry_point TYPE="method" FQNAME="OmokUITest void testexecutePlayerTurn()" />
+  <language>JAVA</language>
+  <offset>6</offset>
+  <length>21</length>
+  <highlighted_element>testexecutePlayerTurn</highlighted_element>
+  <problem_class id="unused" severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">unused declaration</problem_class>
+  <hints>
+    <hint value="comment" />
+    <hint value="delete" />
+  </hints>
+  <description>&lt;ul&gt;&lt;li&gt;Method owner class is never instantiated OR&lt;/li&gt;&lt;li&gt;An instantiation is not reachable from entry points.&lt;/li&gt;&lt;/ul&gt;</description>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 29/student 29 (1).java</file>
+  <line>138</line>
+  <module>codeSmellsWork</module>
+  <package>&lt;default&gt;</package>
+  <entry_point TYPE="method" FQNAME="OmokUITest void testexecutePlayerTurnQuit()" />
+  <language>JAVA</language>
+  <offset>6</offset>
+  <length>25</length>
+  <highlighted_element>testexecutePlayerTurnQuit</highlighted_element>
+  <problem_class id="unused" severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">unused declaration</problem_class>
+  <hints>
+    <hint value="comment" />
+    <hint value="delete" />
+  </hints>
+  <description>&lt;ul&gt;&lt;li&gt;Method owner class is never instantiated OR&lt;/li&gt;&lt;li&gt;An instantiation is not reachable from entry points.&lt;/li&gt;&lt;/ul&gt;</description>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 29/student 29 (1).java</file>
+  <line>172</line>
+  <module>codeSmellsWork</module>
+  <package>&lt;default&gt;</package>
+  <entry_point TYPE="method" FQNAME="OmokUITest void testexecutePlayerTurnHint()" />
+  <language>JAVA</language>
+  <offset>6</offset>
+  <length>25</length>
+  <highlighted_element>testexecutePlayerTurnHint</highlighted_element>
+  <problem_class id="unused" severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">unused declaration</problem_class>
+  <hints>
+    <hint value="comment" />
+    <hint value="delete" />
+  </hints>
+  <description>&lt;ul&gt;&lt;li&gt;Method owner class is never instantiated OR&lt;/li&gt;&lt;li&gt;An instantiation is not reachable from entry points.&lt;/li&gt;&lt;/ul&gt;</description>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 29/student 29 (1).java</file>
+  <line>204</line>
+  <module>codeSmellsWork</module>
+  <package>&lt;default&gt;</package>
+  <entry_point TYPE="method" FQNAME="OmokUITest void testdrawOmokBoard()" />
+  <language>JAVA</language>
+  <offset>6</offset>
+  <length>17</length>
+  <highlighted_element>testdrawOmokBoard</highlighted_element>
+  <problem_class id="unused" severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">unused declaration</problem_class>
+  <hints>
+    <hint value="comment" />
+    <hint value="delete" />
+  </hints>
+  <description>&lt;ul&gt;&lt;li&gt;Method owner class is never instantiated OR&lt;/li&gt;&lt;li&gt;An instantiation is not reachable from entry points.&lt;/li&gt;&lt;/ul&gt;</description>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 29/student 29 (1).java</file>
+  <line>225</line>
+  <module>codeSmellsWork</module>
+  <package>&lt;default&gt;</package>
+  <entry_point TYPE="method" FQNAME="OmokUITest void testgameOver()" />
+  <language>JAVA</language>
+  <offset>6</offset>
+  <length>12</length>
+  <highlighted_element>testgameOver</highlighted_element>
+  <problem_class id="unused" severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">unused declaration</problem_class>
+  <hints>
+    <hint value="comment" />
+    <hint value="delete" />
+  </hints>
+  <description>&lt;ul&gt;&lt;li&gt;Method owner class is never instantiated OR&lt;/li&gt;&lt;li&gt;An instantiation is not reachable from entry points.&lt;/li&gt;&lt;/ul&gt;</description>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 29/student 29 (1).java</file>
+  <line>9</line>
+  <module>codeSmellsWork</module>
+  <package>&lt;default&gt;</package>
+  <entry_point TYPE="class" FQNAME="OmokUITest" />
+  <language>JAVA</language>
+  <offset>6</offset>
+  <length>10</length>
+  <highlighted_element>OmokUITest</highlighted_element>
+  <problem_class id="unused" severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">unused declaration</problem_class>
+  <hints>
+    <hint value="comment" />
+    <hint value="delete" />
+  </hints>
+  <description>Class is not instantiated.</description>
+</problem>
+</problems>

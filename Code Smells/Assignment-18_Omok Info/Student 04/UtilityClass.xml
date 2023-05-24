@@ -1,0 +1,15 @@
+<problems>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 04/Student 04.java</file>
+  <line>9</line>
+  <module>codeSmellsWork</module>
+  <package>exercises.OmokInfo</package>
+  <entry_point TYPE="class" FQNAME="exercises.OmokInfo.WebServiceAccess" />
+  <problem_class id="UtilityClass" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Utility class</problem_class>
+  <description>Class &lt;code&gt;WebServiceAccess&lt;/code&gt; has only 'static' members, indicating procedural construction #loc</description>
+  <highlighted_element>WebServiceAccess</highlighted_element>
+  <language>JAVA</language>
+  <offset>13</offset>
+  <length>16</length>
+</problem>
+</problems>

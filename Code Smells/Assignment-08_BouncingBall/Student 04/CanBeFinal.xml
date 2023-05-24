@@ -1,0 +1,44 @@
+<problems>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 04/student 04 (1).java</file>
+  <line>16</line>
+  <module>codeSmellsWork</module>
+  <package>noapplet.assignments.BouncingBall</package>
+  <entry_point TYPE="field" FQNAME="noapplet.assignments.BouncingBall.Ball radius" />
+  <problem_class id="CanBeFinal" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Declaration can have 'final' modifier</problem_class>
+  <hints />
+  <description>Declaration can have final modifier</description>
+  <highlighted_element>radius</highlighted_element>
+  <language>JAVA</language>
+  <offset>8</offset>
+  <length>6</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 04/student 04 (1).java</file>
+  <line>17</line>
+  <module>codeSmellsWork</module>
+  <package>noapplet.assignments.BouncingBall</package>
+  <entry_point TYPE="field" FQNAME="noapplet.assignments.BouncingBall.Ball color" />
+  <problem_class id="CanBeFinal" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Declaration can have 'final' modifier</problem_class>
+  <hints />
+  <description>Declaration can have final modifier</description>
+  <highlighted_element>color</highlighted_element>
+  <language>JAVA</language>
+  <offset>10</offset>
+  <length>5</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 04/student 04 (2).java</file>
+  <line>11</line>
+  <module>codeSmellsWork</module>
+  <package>noapplet.assignments.BouncingBall</package>
+  <entry_point TYPE="field" FQNAME="noapplet.assignments.BouncingBall.BouncingBall numOfBalls" />
+  <problem_class id="CanBeFinal" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Declaration can have 'final' modifier</problem_class>
+  <hints />
+  <description>Declaration can have final modifier</description>
+  <highlighted_element>numOfBalls</highlighted_element>
+  <language>JAVA</language>
+  <offset>16</offset>
+  <length>10</length>
+</problem>
+</problems>

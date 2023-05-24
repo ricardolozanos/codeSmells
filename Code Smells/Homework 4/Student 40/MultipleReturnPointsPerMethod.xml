@@ -1,0 +1,15 @@
+<problems>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 40/student 40 (2).java</file>
+  <line>32</line>
+  <module>codeSmellsWork</module>
+  <package>src.noapplet.example</package>
+  <entry_point TYPE="method" FQNAME="src.noapplet.example.MainPanel javax.swing.ImageIcon createImageIcon(java.lang.String filename)" />
+  <problem_class id="MultipleReturnPointsPerMethod" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Method with multiple return points</problem_class>
+  <description>&lt;code&gt;createImageIcon&lt;/code&gt; has 2 return points #loc</description>
+  <highlighted_element>createImageIcon</highlighted_element>
+  <language>JAVA</language>
+  <offset>22</offset>
+  <length>15</length>
+</problem>
+</problems>

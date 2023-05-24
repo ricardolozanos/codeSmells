@@ -1,0 +1,41 @@
+<problems>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 06/student 06 (2).java</file>
+  <line>9</line>
+  <module>codeSmellsWork</module>
+  <package>&lt;default&gt;</package>
+  <entry_point TYPE="method" FQNAME="CPUPlayer boolean makeMove(int x, int y, Board board)" />
+  <problem_class id="NonCommentSourceStatements" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Overly long method</problem_class>
+  <description>&lt;code&gt;makeMove&lt;/code&gt; is too long (# Non-comment source statements = 57) #loc</description>
+  <highlighted_element>makeMove</highlighted_element>
+  <language>JAVA</language>
+  <offset>19</offset>
+  <length>8</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 06/student 06 (5).java</file>
+  <line>14</line>
+  <module>codeSmellsWork</module>
+  <package>&lt;default&gt;</package>
+  <entry_point TYPE="method" FQNAME="OmokGUI OmokGUI(Board board)" />
+  <problem_class id="NonCommentSourceStatements" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Overly long method</problem_class>
+  <description>&lt;code&gt;OmokGUI&lt;/code&gt; is too long (# Non-comment source statements = 76) #loc</description>
+  <highlighted_element>OmokGUI</highlighted_element>
+  <language>JAVA</language>
+  <offset>11</offset>
+  <length>7</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 06/student 06 (7).java</file>
+  <line>123</line>
+  <module>codeSmellsWork</module>
+  <package>&lt;default&gt;</package>
+  <entry_point TYPE="method" FQNAME="Board boolean winningRow(Player player)" />
+  <problem_class id="NonCommentSourceStatements" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Overly long method</problem_class>
+  <description>&lt;code&gt;winningRow&lt;/code&gt; is too long (# Non-comment source statements = 49) #loc</description>
+  <highlighted_element>winningRow</highlighted_element>
+  <language>JAVA</language>
+  <offset>19</offset>
+  <length>10</length>
+</problem>
+</problems>

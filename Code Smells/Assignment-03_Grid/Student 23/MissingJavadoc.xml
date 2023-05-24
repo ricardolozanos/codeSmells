@@ -1,0 +1,80 @@
+<problems>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Main.java</file>
+  <line>1</line>
+  <module>codeSmellsWork</module>
+  <package>&lt;default&gt;</package>
+  <entry_point TYPE="class" FQNAME="Main" />
+  <problem_class id="MissingJavadoc" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Missing Javadoc</problem_class>
+  <description>Required Javadoc is absent</description>
+  <highlighted_element>Main</highlighted_element>
+  <language>JAVA</language>
+  <offset>13</offset>
+  <length>4</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Main.java</file>
+  <line>2</line>
+  <module>codeSmellsWork</module>
+  <package>&lt;default&gt;</package>
+  <entry_point TYPE="method" FQNAME="Main void main(java.lang.String[] args)" />
+  <problem_class id="MissingJavadoc" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Missing Javadoc</problem_class>
+  <description>Required Javadoc is absent</description>
+  <highlighted_element>main</highlighted_element>
+  <language>JAVA</language>
+  <offset>23</offset>
+  <length>4</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 23/student 23.java</file>
+  <line>5</line>
+  <module>codeSmellsWork</module>
+  <package>noapplet</package>
+  <entry_point TYPE="class" FQNAME="noapplet.Omok" />
+  <problem_class id="MissingJavadoc" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Missing Javadoc</problem_class>
+  <description>Required Javadoc is absent</description>
+  <highlighted_element>Omok</highlighted_element>
+  <language>JAVA</language>
+  <offset>13</offset>
+  <length>4</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 23/student 23.java</file>
+  <line>7</line>
+  <module>codeSmellsWork</module>
+  <package>noapplet</package>
+  <entry_point TYPE="method" FQNAME="noapplet.Omok Omok()" />
+  <problem_class id="MissingJavadoc" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Missing Javadoc</problem_class>
+  <description>Required Javadoc is absent</description>
+  <highlighted_element>Omok</highlighted_element>
+  <language>JAVA</language>
+  <offset>11</offset>
+  <length>4</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 23/student 23.java</file>
+  <line>10</line>
+  <module>codeSmellsWork</module>
+  <package>noapplet</package>
+  <entry_point TYPE="method" FQNAME="noapplet.Omok Omok(java.lang.String[] params)" />
+  <problem_class id="MissingJavadoc" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Missing Javadoc</problem_class>
+  <description>Required Javadoc is absent</description>
+  <highlighted_element>Omok</highlighted_element>
+  <language>JAVA</language>
+  <offset>11</offset>
+  <length>4</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 23/student 23.java</file>
+  <line>33</line>
+  <module>codeSmellsWork</module>
+  <package>noapplet</package>
+  <entry_point TYPE="method" FQNAME="noapplet.Omok void main(java.lang.String[] args)" />
+  <problem_class id="MissingJavadoc" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Missing Javadoc</problem_class>
+  <description>Required Javadoc is absent</description>
+  <highlighted_element>main</highlighted_element>
+  <language>JAVA</language>
+  <offset>23</offset>
+  <length>4</length>
+</problem>
+</problems>

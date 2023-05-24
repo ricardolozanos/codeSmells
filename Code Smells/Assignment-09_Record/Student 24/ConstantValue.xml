@@ -1,0 +1,15 @@
+<problems>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 24/Student 24.java</file>
+  <line>29</line>
+  <module>codeSmellsWork</module>
+  <package>&lt;default&gt;</package>
+  <entry_point TYPE="method" FQNAME="place int hashcode()" />
+  <problem_class id="ConstantValue" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Constant values</problem_class>
+  <description>Result of &lt;code&gt;i &lt;&lt; 8&lt;/code&gt; is always '0'</description>
+  <highlighted_element>i &lt;&lt; 8</highlighted_element>
+  <language>JAVA</language>
+  <offset>12</offset>
+  <length>6</length>
+</problem>
+</problems>

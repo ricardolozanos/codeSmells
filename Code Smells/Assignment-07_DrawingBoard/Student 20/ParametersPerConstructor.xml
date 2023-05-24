@@ -1,0 +1,54 @@
+<problems>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 20/student 20 (3).java</file>
+  <line>7</line>
+  <module>codeSmellsWork</module>
+  <package>&lt;default&gt;</package>
+  <entry_point TYPE="method" FQNAME="Rectangle Rectangle(java.lang.String shape, int x, int y, int width, int height, java.awt.Color color)" />
+  <problem_class id="ParametersPerConstructor" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Constructor with too many parameters</problem_class>
+  <description>&lt;code&gt;Rectangle()&lt;/code&gt; has too many parameters (num parameters = 6) #loc</description>
+  <highlighted_element>Rectangle</highlighted_element>
+  <language>JAVA</language>
+  <offset>11</offset>
+  <length>9</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 20/student 20 (4).java</file>
+  <line>11</line>
+  <module>codeSmellsWork</module>
+  <package>&lt;default&gt;</package>
+  <entry_point TYPE="method" FQNAME="Shape Shape(java.lang.String shape, int x, int y, int width, int height, java.awt.Color color)" />
+  <problem_class id="ParametersPerConstructor" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Constructor with too many parameters</problem_class>
+  <description>&lt;code&gt;Shape()&lt;/code&gt; has too many parameters (num parameters = 6) #loc</description>
+  <highlighted_element>Shape</highlighted_element>
+  <language>JAVA</language>
+  <offset>15</offset>
+  <length>5</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 20/student 20 (5).java</file>
+  <line>9</line>
+  <module>codeSmellsWork</module>
+  <package>&lt;default&gt;</package>
+  <entry_point TYPE="method" FQNAME="Triangle Triangle(java.lang.String shape, int x, int y, int width, int height, java.awt.Color color)" />
+  <problem_class id="ParametersPerConstructor" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Constructor with too many parameters</problem_class>
+  <description>&lt;code&gt;Triangle()&lt;/code&gt; has too many parameters (num parameters = 6) #loc</description>
+  <highlighted_element>Triangle</highlighted_element>
+  <language>JAVA</language>
+  <offset>11</offset>
+  <length>8</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 20/student 20 (6).java</file>
+  <line>7</line>
+  <module>codeSmellsWork</module>
+  <package>&lt;default&gt;</package>
+  <entry_point TYPE="method" FQNAME="Circle Circle(java.lang.String shape, int x, int y, int width, int height, java.awt.Color color)" />
+  <problem_class id="ParametersPerConstructor" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Constructor with too many parameters</problem_class>
+  <description>&lt;code&gt;Circle()&lt;/code&gt; has too many parameters (num parameters = 6) #loc</description>
+  <highlighted_element>Circle</highlighted_element>
+  <language>JAVA</language>
+  <offset>11</offset>
+  <length>6</length>
+</problem>
+</problems>

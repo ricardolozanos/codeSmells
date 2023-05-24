@@ -1,0 +1,28 @@
+<problems>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 13/student 13 (1).java</file>
+  <line>18</line>
+  <module>codeSmellsWork</module>
+  <package>&lt;default&gt;</package>
+  <entry_point TYPE="method" FQNAME="UserInterface void drawBoard(int[][] board)" />
+  <problem_class id="MethodWithMultipleLoops" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Method with multiple loops</problem_class>
+  <description>&lt;code&gt;drawBoard&lt;/code&gt; contains 2 loops #loc</description>
+  <highlighted_element>drawBoard</highlighted_element>
+  <language>JAVA</language>
+  <offset>16</offset>
+  <length>9</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 13/student 13 (3).java</file>
+  <line>26</line>
+  <module>codeSmellsWork</module>
+  <package>&lt;default&gt;</package>
+  <entry_point TYPE="method" FQNAME="UserInterfaceTest void testDrawBoard()" />
+  <problem_class id="MethodWithMultipleLoops" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Method with multiple loops</problem_class>
+  <description>&lt;code&gt;testDrawBoard&lt;/code&gt; contains 2 loops #loc</description>
+  <highlighted_element>testDrawBoard</highlighted_element>
+  <language>JAVA</language>
+  <offset>16</offset>
+  <length>13</length>
+</problem>
+</problems>

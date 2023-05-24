@@ -1,0 +1,58 @@
+<problems>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 06/student 06 (2).java</file>
+  <line>3</line>
+  <module>codeSmellsWork</module>
+  <package>&lt;default&gt;</package>
+  <entry_point TYPE="field" FQNAME="GrowingBalloon direction" />
+  <problem_class id="CanBeFinal" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Declaration can have 'final' modifier</problem_class>
+  <hints />
+  <description>Declaration can have final modifier</description>
+  <highlighted_element>direction</highlighted_element>
+  <language>JAVA</language>
+  <offset>16</offset>
+  <length>9</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 06/student 06 (4).java</file>
+  <line>5</line>
+  <module>codeSmellsWork</module>
+  <package>&lt;default&gt;</package>
+  <entry_point TYPE="field" FQNAME="ModularBalloonApp expands" />
+  <problem_class id="CanBeFinal" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Declaration can have 'final' modifier</problem_class>
+  <hints />
+  <description>Declaration can have final modifier</description>
+  <highlighted_element>expands</highlighted_element>
+  <language>JAVA</language>
+  <offset>12</offset>
+  <length>7</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 06/student 06 (4).java</file>
+  <line>6</line>
+  <module>codeSmellsWork</module>
+  <package>&lt;default&gt;</package>
+  <entry_point TYPE="field" FQNAME="ModularBalloonApp shrinks" />
+  <problem_class id="CanBeFinal" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Declaration can have 'final' modifier</problem_class>
+  <hints />
+  <description>Declaration can have final modifier</description>
+  <highlighted_element>shrinks</highlighted_element>
+  <language>JAVA</language>
+  <offset>12</offset>
+  <length>7</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 06/student 06 (4).java</file>
+  <line>7</line>
+  <module>codeSmellsWork</module>
+  <package>&lt;default&gt;</package>
+  <entry_point TYPE="field" FQNAME="ModularBalloonApp mode" />
+  <problem_class id="CanBeFinal" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Declaration can have 'final' modifier</problem_class>
+  <hints />
+  <description>Declaration can have final modifier</description>
+  <highlighted_element>mode</highlighted_element>
+  <language>JAVA</language>
+  <offset>8</offset>
+  <length>4</length>
+</problem>
+</problems>

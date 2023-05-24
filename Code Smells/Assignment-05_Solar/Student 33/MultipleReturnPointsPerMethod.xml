@@ -1,0 +1,15 @@
+<problems>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 33/Student 33.java</file>
+  <line>66</line>
+  <module>codeSmellsWork</module>
+  <package>noapplet.example.solar</package>
+  <entry_point TYPE="method" FQNAME="noapplet.example.solar.Planet void Update(java.awt.Graphics g, long millisecond, double xOffset, double yOffset)" />
+  <problem_class id="MultipleReturnPointsPerMethod" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Method with multiple return points</problem_class>
+  <description>&lt;code&gt;Update&lt;/code&gt; has 2 return points #loc</description>
+  <highlighted_element>Update</highlighted_element>
+  <language>JAVA</language>
+  <offset>16</offset>
+  <length>6</length>
+</problem>
+</problems>

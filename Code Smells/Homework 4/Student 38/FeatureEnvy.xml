@@ -1,0 +1,80 @@
+<problems>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 38/student 38 (3).java</file>
+  <line>31</line>
+  <module>codeSmellsWork</module>
+  <package>&lt;default&gt;</package>
+  <entry_point TYPE="method" FQNAME="ComputerPlayer int[] makeMove(Board board)" />
+  <problem_class id="FeatureEnvy" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Feature envy</problem_class>
+  <description>Class 'Board' accessed repeatedly in method &lt;code&gt;makeMove()&lt;/code&gt; #loc</description>
+  <highlighted_element>makeMove</highlighted_element>
+  <language>JAVA</language>
+  <offset>17</offset>
+  <length>8</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 38/student 38 (3).java</file>
+  <line>73</line>
+  <module>codeSmellsWork</module>
+  <package>&lt;default&gt;</package>
+  <entry_point TYPE="method" FQNAME="ComputerPlayer int evaluatePosition(Board board, int row, int col, Stone currentStone)" />
+  <problem_class id="FeatureEnvy" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Feature envy</problem_class>
+  <description>Class 'Board' accessed repeatedly in method &lt;code&gt;evaluatePosition()&lt;/code&gt; #loc</description>
+  <highlighted_element>evaluatePosition</highlighted_element>
+  <language>JAVA</language>
+  <offset>16</offset>
+  <length>16</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 38/student 38 (7).java</file>
+  <line>177</line>
+  <module>codeSmellsWork</module>
+  <package>&lt;default&gt;</package>
+  <entry_point TYPE="method" FQNAME="GUIInterface void handleMouseClick(int x, int y)" />
+  <problem_class id="FeatureEnvy" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Feature envy</problem_class>
+  <description>Class 'Board' accessed repeatedly in method &lt;code&gt;handleMouseClick()&lt;/code&gt; #loc</description>
+  <highlighted_element>handleMouseClick</highlighted_element>
+  <language>JAVA</language>
+  <offset>16</offset>
+  <length>16</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 38/student 38 (7).java</file>
+  <line>177</line>
+  <module>codeSmellsWork</module>
+  <package>&lt;default&gt;</package>
+  <entry_point TYPE="method" FQNAME="GUIInterface void handleMouseClick(int x, int y)" />
+  <problem_class id="FeatureEnvy" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Feature envy</problem_class>
+  <description>Class 'Player' accessed repeatedly in method &lt;code&gt;handleMouseClick()&lt;/code&gt; #loc</description>
+  <highlighted_element>handleMouseClick</highlighted_element>
+  <language>JAVA</language>
+  <offset>16</offset>
+  <length>16</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 38/student 38 (7).java</file>
+  <line>220</line>
+  <module>codeSmellsWork</module>
+  <package>&lt;default&gt;</package>
+  <entry_point TYPE="method" FQNAME="GUIInterface void displayComputerMove()" />
+  <problem_class id="FeatureEnvy" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Feature envy</problem_class>
+  <description>Class 'Board' accessed repeatedly in method &lt;code&gt;displayComputerMove()&lt;/code&gt; #loc</description>
+  <highlighted_element>displayComputerMove</highlighted_element>
+  <language>JAVA</language>
+  <offset>17</offset>
+  <length>19</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 38/student 38 (7).java</file>
+  <line>220</line>
+  <module>codeSmellsWork</module>
+  <package>&lt;default&gt;</package>
+  <entry_point TYPE="method" FQNAME="GUIInterface void displayComputerMove()" />
+  <problem_class id="FeatureEnvy" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Feature envy</problem_class>
+  <description>Class 'Player' accessed repeatedly in method &lt;code&gt;displayComputerMove()&lt;/code&gt; #loc</description>
+  <highlighted_element>displayComputerMove</highlighted_element>
+  <language>JAVA</language>
+  <offset>17</offset>
+  <length>19</length>
+</problem>
+</problems>

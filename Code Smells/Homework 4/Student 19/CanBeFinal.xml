@@ -1,0 +1,156 @@
+<problems>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 19/student 19 (10).java</file>
+  <line>6</line>
+  <module>codeSmellsWork</module>
+  <package>omok</package>
+  <entry_point TYPE="field" FQNAME="omok.Player name" />
+  <problem_class id="CanBeFinal" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Declaration can have 'final' modifier</problem_class>
+  <hints />
+  <description>Declaration can have final modifier</description>
+  <highlighted_element>name</highlighted_element>
+  <language>JAVA</language>
+  <offset>16</offset>
+  <length>4</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 19/student 19 (10).java</file>
+  <line>7</line>
+  <module>codeSmellsWork</module>
+  <package>omok</package>
+  <entry_point TYPE="field" FQNAME="omok.Player color" />
+  <problem_class id="CanBeFinal" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Declaration can have 'final' modifier</problem_class>
+  <hints />
+  <description>Declaration can have final modifier</description>
+  <highlighted_element>color</highlighted_element>
+  <language>JAVA</language>
+  <offset>15</offset>
+  <length>5</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 19/student 19 (2).java</file>
+  <line>15</line>
+  <module>codeSmellsWork</module>
+  <package>omok</package>
+  <entry_point TYPE="field" FQNAME="omok.BoardPanel coords" />
+  <problem_class id="CanBeFinal" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Declaration can have 'final' modifier</problem_class>
+  <hints />
+  <description>Declaration can have final modifier</description>
+  <highlighted_element>coords</highlighted_element>
+  <language>JAVA</language>
+  <offset>16</offset>
+  <length>6</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 19/student 19 (2).java</file>
+  <line>19</line>
+  <module>codeSmellsWork</module>
+  <package>omok</package>
+  <entry_point TYPE="field" FQNAME="omok.BoardPanel space" />
+  <problem_class id="CanBeFinal" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Declaration can have 'final' modifier</problem_class>
+  <hints />
+  <description>Declaration can have final modifier</description>
+  <highlighted_element>space</highlighted_element>
+  <language>JAVA</language>
+  <offset>14</offset>
+  <length>5</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 19/student 19 (3).java</file>
+  <line>13</line>
+  <module>codeSmellsWork</module>
+  <package>omok</package>
+  <entry_point TYPE="field" FQNAME="omok.Controller GUI" />
+  <problem_class id="CanBeFinal" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Declaration can have 'final' modifier</problem_class>
+  <hints />
+  <description>Declaration can have final modifier</description>
+  <highlighted_element>GUI</highlighted_element>
+  <language>JAVA</language>
+  <offset>13</offset>
+  <length>3</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 19/student 19 (3).java</file>
+  <line>14</line>
+  <module>codeSmellsWork</module>
+  <package>omok</package>
+  <entry_point TYPE="field" FQNAME="omok.Controller game" />
+  <problem_class id="CanBeFinal" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Declaration can have 'final' modifier</problem_class>
+  <hints />
+  <description>Declaration can have final modifier</description>
+  <highlighted_element>game</highlighted_element>
+  <language>JAVA</language>
+  <offset>14</offset>
+  <length>4</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 19/student 19 (4).java</file>
+  <line>9</line>
+  <module>codeSmellsWork</module>
+  <package>omok</package>
+  <entry_point TYPE="field" FQNAME="omok.Game players" />
+  <problem_class id="CanBeFinal" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Declaration can have 'final' modifier</problem_class>
+  <hints />
+  <description>Declaration can have final modifier</description>
+  <highlighted_element>players</highlighted_element>
+  <language>JAVA</language>
+  <offset>22</offset>
+  <length>7</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 19/student 19 (4).java</file>
+  <line>11</line>
+  <module>codeSmellsWork</module>
+  <package>omok</package>
+  <entry_point TYPE="field" FQNAME="omok.Game board" />
+  <problem_class id="CanBeFinal" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Declaration can have 'final' modifier</problem_class>
+  <hints />
+  <description>Declaration can have final modifier</description>
+  <highlighted_element>board</highlighted_element>
+  <language>JAVA</language>
+  <offset>20</offset>
+  <length>5</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 19/student 19 (5).java</file>
+  <line>4</line>
+  <module>codeSmellsWork</module>
+  <package>omok</package>
+  <entry_point TYPE="field" FQNAME="omok.Game_Board size" />
+  <problem_class id="CanBeFinal" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Declaration can have 'final' modifier</problem_class>
+  <hints />
+  <description>Declaration can have final modifier</description>
+  <highlighted_element>size</highlighted_element>
+  <language>JAVA</language>
+  <offset>13</offset>
+  <length>4</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 19/student 19 (5).java</file>
+  <line>5</line>
+  <module>codeSmellsWork</module>
+  <package>omok</package>
+  <entry_point TYPE="field" FQNAME="omok.Game_Board boardDisplay" />
+  <problem_class id="CanBeFinal" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Declaration can have 'final' modifier</problem_class>
+  <hints />
+  <description>Declaration can have final modifier</description>
+  <highlighted_element>boardDisplay</highlighted_element>
+  <language>JAVA</language>
+  <offset>20</offset>
+  <length>12</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 19/student 19 (6).java</file>
+  <line>20</line>
+  <module>codeSmellsWork</module>
+  <package>omok</package>
+  <entry_point TYPE="field" FQNAME="omok.GUI board" />
+  <problem_class id="CanBeFinal" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Declaration can have 'final' modifier</problem_class>
+  <hints />
+  <description>Declaration can have final modifier</description>
+  <highlighted_element>board</highlighted_element>
+  <language>JAVA</language>
+  <offset>21</offset>
+  <length>5</length>
+</problem>
+</problems>

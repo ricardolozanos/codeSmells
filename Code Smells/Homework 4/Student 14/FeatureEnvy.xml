@@ -1,0 +1,15 @@
+<problems>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 14/student 14 (10).java</file>
+  <line>177</line>
+  <module>codeSmellsWork</module>
+  <package>game.GUI</package>
+  <entry_point TYPE="method" FQNAME="game.GUI.Omokui void gamestart()" />
+  <problem_class id="FeatureEnvy" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Feature envy</problem_class>
+  <description>Class 'omokGame' accessed repeatedly in method &lt;code&gt;gamestart()&lt;/code&gt; #loc</description>
+  <highlighted_element>gamestart</highlighted_element>
+  <language>JAVA</language>
+  <offset>13</offset>
+  <length>9</length>
+</problem>
+</problems>

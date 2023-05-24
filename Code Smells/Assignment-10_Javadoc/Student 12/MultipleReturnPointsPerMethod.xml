@@ -1,0 +1,15 @@
+<problems>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 12/Student 12.java</file>
+  <line>89</line>
+  <module>codeSmellsWork</module>
+  <package>&lt;default&gt;</package>
+  <entry_point TYPE="method" FQNAME="BoardJdoc int[][] checkWin()" />
+  <problem_class id="MultipleReturnPointsPerMethod" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Method with multiple return points</problem_class>
+  <description>&lt;code&gt;checkWin&lt;/code&gt; has 6 return points #loc</description>
+  <highlighted_element>checkWin</highlighted_element>
+  <language>JAVA</language>
+  <offset>19</offset>
+  <length>8</length>
+</problem>
+</problems>

@@ -1,0 +1,67 @@
+<problems>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 35/student 35 (2).java</file>
+  <line>1</line>
+  <module>codeSmellsWork</module>
+  <package>drawingBoard</package>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/src/Student 35/student 35 (2).java" />
+  <problem_class id="WrongPackageStatement" severity="ERROR" attribute_key="ERRORS_ATTRIBUTES">Wrong package statement</problem_class>
+  <description>Package name 'drawingBoard' does not correspond to the file path 'Student 35'</description>
+  <highlighted_element>drawingBoard</highlighted_element>
+  <language>JAVA</language>
+  <offset>8</offset>
+  <length>12</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 35/student 35 (3).java</file>
+  <line>1</line>
+  <module>codeSmellsWork</module>
+  <package>drawingBoard</package>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/src/Student 35/student 35 (3).java" />
+  <problem_class id="WrongPackageStatement" severity="ERROR" attribute_key="ERRORS_ATTRIBUTES">Wrong package statement</problem_class>
+  <description>Package name 'drawingBoard' does not correspond to the file path 'Student 35'</description>
+  <highlighted_element>drawingBoard</highlighted_element>
+  <language>JAVA</language>
+  <offset>8</offset>
+  <length>12</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 35/student 35 (4).java</file>
+  <line>1</line>
+  <module>codeSmellsWork</module>
+  <package>drawingBoard</package>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/src/Student 35/student 35 (4).java" />
+  <problem_class id="WrongPackageStatement" severity="ERROR" attribute_key="ERRORS_ATTRIBUTES">Wrong package statement</problem_class>
+  <description>Package name 'drawingBoard' does not correspond to the file path 'Student 35'</description>
+  <highlighted_element>drawingBoard</highlighted_element>
+  <language>JAVA</language>
+  <offset>8</offset>
+  <length>12</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 35/student 35 (5).java</file>
+  <line>1</line>
+  <module>codeSmellsWork</module>
+  <package>drawingBoard</package>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/src/Student 35/student 35 (5).java" />
+  <problem_class id="WrongPackageStatement" severity="ERROR" attribute_key="ERRORS_ATTRIBUTES">Wrong package statement</problem_class>
+  <description>Package name 'drawingBoard' does not correspond to the file path 'Student 35'</description>
+  <highlighted_element>drawingBoard</highlighted_element>
+  <language>JAVA</language>
+  <offset>8</offset>
+  <length>12</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 35/student 35 (6).java</file>
+  <line>1</line>
+  <module>codeSmellsWork</module>
+  <package>drawingBoard</package>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/src/Student 35/student 35 (6).java" />
+  <problem_class id="WrongPackageStatement" severity="ERROR" attribute_key="ERRORS_ATTRIBUTES">Wrong package statement</problem_class>
+  <description>Package name 'drawingBoard' does not correspond to the file path 'Student 35'</description>
+  <highlighted_element>drawingBoard</highlighted_element>
+  <language>JAVA</language>
+  <offset>8</offset>
+  <length>12</length>
+</problem>
+</problems>

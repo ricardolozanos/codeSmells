@@ -1,0 +1,41 @@
+<problems>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 27/student 27 (1).java</file>
+  <line>9</line>
+  <module>codeSmellsWork</module>
+  <package>omokGui</package>
+  <entry_point TYPE="field" FQNAME="omokGui.OmokGui opponentSelected" />
+  <problem_class id="FieldMayBeFinal" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Field may be 'final'</problem_class>
+  <description>Field &lt;code&gt;opponentSelected&lt;/code&gt; may be 'final' #loc</description>
+  <highlighted_element>opponentSelected</highlighted_element>
+  <language>JAVA</language>
+  <offset>16</offset>
+  <length>16</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 27/student 27 (1).java</file>
+  <line>10</line>
+  <module>codeSmellsWork</module>
+  <package>omokGui</package>
+  <entry_point TYPE="field" FQNAME="omokGui.OmokGui options" />
+  <problem_class id="FieldMayBeFinal" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Field may be 'final'</problem_class>
+  <description>Field &lt;code&gt;options&lt;/code&gt; may be 'final' #loc</description>
+  <highlighted_element>options</highlighted_element>
+  <language>JAVA</language>
+  <offset>18</offset>
+  <length>7</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 27/student 27 (1).java</file>
+  <line>11</line>
+  <module>codeSmellsWork</module>
+  <package>omokGui</package>
+  <entry_point TYPE="field" FQNAME="omokGui.OmokGui optionsList" />
+  <problem_class id="FieldMayBeFinal" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Field may be 'final'</problem_class>
+  <description>Field &lt;code&gt;optionsList&lt;/code&gt; may be 'final' #loc</description>
+  <highlighted_element>optionsList</highlighted_element>
+  <language>JAVA</language>
+  <offset>27</offset>
+  <length>11</length>
+</problem>
+</problems>

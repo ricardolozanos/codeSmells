@@ -1,0 +1,44 @@
+<problems>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 25/student 25 (2).java</file>
+  <line>6</line>
+  <module>codeSmellsWork</module>
+  <package>noapplet.example</package>
+  <entry_point TYPE="field" FQNAME="noapplet.example.shape x" />
+  <problem_class id="CanBeFinal" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Declaration can have 'final' modifier</problem_class>
+  <hints />
+  <description>Declaration can have final modifier</description>
+  <highlighted_element>x</highlighted_element>
+  <language>JAVA</language>
+  <offset>8</offset>
+  <length>1</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 25/student 25 (2).java</file>
+  <line>7</line>
+  <module>codeSmellsWork</module>
+  <package>noapplet.example</package>
+  <entry_point TYPE="field" FQNAME="noapplet.example.shape y" />
+  <problem_class id="CanBeFinal" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Declaration can have 'final' modifier</problem_class>
+  <hints />
+  <description>Declaration can have final modifier</description>
+  <highlighted_element>y</highlighted_element>
+  <language>JAVA</language>
+  <offset>8</offset>
+  <length>1</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 25/student 25 (2).java</file>
+  <line>8</line>
+  <module>codeSmellsWork</module>
+  <package>noapplet.example</package>
+  <entry_point TYPE="field" FQNAME="noapplet.example.shape color" />
+  <problem_class id="CanBeFinal" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Declaration can have 'final' modifier</problem_class>
+  <hints />
+  <description>Declaration can have final modifier</description>
+  <highlighted_element>color</highlighted_element>
+  <language>JAVA</language>
+  <offset>10</offset>
+  <length>5</length>
+</problem>
+</problems>

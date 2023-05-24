@@ -1,0 +1,15 @@
+<problems>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 11/student 11 (2).java</file>
+  <line>62</line>
+  <module>codeSmellsWork</module>
+  <package>&lt;default&gt;</package>
+  <entry_point TYPE="method" FQNAME="CounterGUI void buttonActions(java.awt.event.ActionEvent e)" />
+  <problem_class id="FeatureEnvy" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Feature envy</problem_class>
+  <description>Class 'Counter' accessed repeatedly in method &lt;code&gt;buttonActions()&lt;/code&gt; #loc</description>
+  <highlighted_element>buttonActions</highlighted_element>
+  <language>JAVA</language>
+  <offset>16</offset>
+  <length>13</length>
+</problem>
+</problems>

@@ -1,0 +1,119 @@
+<problems>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 02/student 02 (1).java</file>
+  <line>11</line>
+  <module>codeSmellsWork</module>
+  <package>OmokConsole.Model</package>
+  <entry_point TYPE="method" FQNAME="OmokConsole.Model.Board Board()" />
+  <problem_class id="MethodWithMultipleLoops" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Method with multiple loops</problem_class>
+  <description>&lt;code&gt;Board&lt;/code&gt; contains 2 loops #loc</description>
+  <highlighted_element>Board</highlighted_element>
+  <language>JAVA</language>
+  <offset>11</offset>
+  <length>5</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 02/student 02 (1).java</file>
+  <line>23</line>
+  <module>codeSmellsWork</module>
+  <package>OmokConsole.Model</package>
+  <entry_point TYPE="method" FQNAME="OmokConsole.Model.Board Board(int size)" />
+  <problem_class id="MethodWithMultipleLoops" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Method with multiple loops</problem_class>
+  <description>&lt;code&gt;Board&lt;/code&gt; contains 2 loops #loc</description>
+  <highlighted_element>Board</highlighted_element>
+  <language>JAVA</language>
+  <offset>11</offset>
+  <length>5</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 02/student 02 (11).java</file>
+  <line>66</line>
+  <module>codeSmellsWork</module>
+  <package>OmokConsole.Model</package>
+  <entry_point TYPE="method" FQNAME="OmokConsole.Model.PVPGame int countPieces(int player, int x, int y, int dx, int dy)" />
+  <problem_class id="MethodWithMultipleLoops" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Method with multiple loops</problem_class>
+  <description>&lt;code&gt;countPieces&lt;/code&gt; contains 2 loops #loc</description>
+  <highlighted_element>countPieces</highlighted_element>
+  <language>JAVA</language>
+  <offset>15</offset>
+  <length>11</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 02/student 02 (11).java</file>
+  <line>98</line>
+  <module>codeSmellsWork</module>
+  <package>OmokConsole.Model</package>
+  <entry_point TYPE="method" FQNAME="OmokConsole.Model.PVPGame boolean checkTie()" />
+  <problem_class id="MethodWithMultipleLoops" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Method with multiple loops</problem_class>
+  <description>&lt;code&gt;checkTie&lt;/code&gt; contains 2 loops #loc</description>
+  <highlighted_element>checkTie</highlighted_element>
+  <language>JAVA</language>
+  <offset>19</offset>
+  <length>8</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 02/student 02 (2).java</file>
+  <line>78</line>
+  <module>codeSmellsWork</module>
+  <package>OmokConsole.UI</package>
+  <entry_point TYPE="method" FQNAME="OmokConsole.UI.BoardPanel void paintPieceCom(OmokConsole.Model.Board board)" />
+  <problem_class id="MethodWithMultipleLoops" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Method with multiple loops</problem_class>
+  <description>&lt;code&gt;paintPieceCom&lt;/code&gt; contains 2 loops #loc</description>
+  <highlighted_element>paintPieceCom</highlighted_element>
+  <language>JAVA</language>
+  <offset>16</offset>
+  <length>13</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 02/student 02 (3).java</file>
+  <line>110</line>
+  <module>codeSmellsWork</module>
+  <package>OmokConsole.Model</package>
+  <entry_point TYPE="method" FQNAME="OmokConsole.Model.COMGame int countPieces(int player, int x, int y, int dx, int dy)" />
+  <problem_class id="MethodWithMultipleLoops" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Method with multiple loops</problem_class>
+  <description>&lt;code&gt;countPieces&lt;/code&gt; contains 2 loops #loc</description>
+  <highlighted_element>countPieces</highlighted_element>
+  <language>JAVA</language>
+  <offset>15</offset>
+  <length>11</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 02/student 02 (3).java</file>
+  <line>163</line>
+  <module>codeSmellsWork</module>
+  <package>OmokConsole.Model</package>
+  <entry_point TYPE="method" FQNAME="OmokConsole.Model.COMGame boolean checkTie()" />
+  <problem_class id="MethodWithMultipleLoops" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Method with multiple loops</problem_class>
+  <description>&lt;code&gt;checkTie&lt;/code&gt; contains 2 loops #loc</description>
+  <highlighted_element>checkTie</highlighted_element>
+  <language>JAVA</language>
+  <offset>19</offset>
+  <length>8</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 02/student 02 (4).java</file>
+  <line>49</line>
+  <module>codeSmellsWork</module>
+  <package>OmokConsole.UI</package>
+  <entry_point TYPE="method" FQNAME="OmokConsole.UI.ConsoleUI void printBoard(OmokConsole.Model.Board board)" />
+  <problem_class id="MethodWithMultipleLoops" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Method with multiple loops</problem_class>
+  <description>&lt;code&gt;printBoard&lt;/code&gt; contains 5 loops #loc</description>
+  <highlighted_element>printBoard</highlighted_element>
+  <language>JAVA</language>
+  <offset>16</offset>
+  <length>10</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 02/student 02 (5).java</file>
+  <line>18</line>
+  <module>codeSmellsWork</module>
+  <package>OmokConsole.UI</package>
+  <entry_point TYPE="method" FQNAME="OmokConsole.UI.Controller void run()" />
+  <problem_class id="MethodWithMultipleLoops" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Method with multiple loops</problem_class>
+  <description>&lt;code&gt;run&lt;/code&gt; contains 6 loops #loc</description>
+  <highlighted_element>run</highlighted_element>
+  <language>JAVA</language>
+  <offset>16</offset>
+  <length>3</length>
+</problem>
+</problems>

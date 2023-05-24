@@ -1,0 +1,145 @@
+<problems>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 18/student 18 (1).java</file>
+  <line>15</line>
+  <module>codeSmellsWork</module>
+  <package>&lt;default&gt;</package>
+  <entry_point TYPE="class" FQNAME="Board" />
+  <problem_class id="WrongPackageStatement" severity="ERROR" attribute_key="ERRORS_ATTRIBUTES">Wrong package statement</problem_class>
+  <description>Missing package statement but package name 'Student 18' which corresponds to the file path is invalid</description>
+  <highlighted_element>Board</highlighted_element>
+  <language>JAVA</language>
+  <offset>13</offset>
+  <length>5</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 18/student 18 (10).java</file>
+  <line>2</line>
+  <module>codeSmellsWork</module>
+  <package>&lt;default&gt;</package>
+  <entry_point TYPE="class" FQNAME="PVP" />
+  <problem_class id="WrongPackageStatement" severity="ERROR" attribute_key="ERRORS_ATTRIBUTES">Wrong package statement</problem_class>
+  <description>Missing package statement but package name 'Student 18' which corresponds to the file path is invalid</description>
+  <highlighted_element>PVP</highlighted_element>
+  <language>JAVA</language>
+  <offset>13</offset>
+  <length>3</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 18/student 18 (11).java</file>
+  <line>3</line>
+  <module>codeSmellsWork</module>
+  <package>&lt;default&gt;</package>
+  <entry_point TYPE="class" FQNAME="UI" />
+  <problem_class id="WrongPackageStatement" severity="ERROR" attribute_key="ERRORS_ATTRIBUTES">Wrong package statement</problem_class>
+  <description>Missing package statement but package name 'Student 18' which corresponds to the file path is invalid</description>
+  <highlighted_element>UI</highlighted_element>
+  <language>JAVA</language>
+  <offset>13</offset>
+  <length>2</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 18/student 18 (2).java</file>
+  <line>13</line>
+  <module>codeSmellsWork</module>
+  <package>&lt;default&gt;</package>
+  <entry_point TYPE="class" FQNAME="BoardPanel" />
+  <problem_class id="WrongPackageStatement" severity="ERROR" attribute_key="ERRORS_ATTRIBUTES">Wrong package statement</problem_class>
+  <description>Missing package statement but package name 'Student 18' which corresponds to the file path is invalid</description>
+  <highlighted_element>BoardPanel</highlighted_element>
+  <language>JAVA</language>
+  <offset>13</offset>
+  <length>10</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 18/student 18 (3).java</file>
+  <line>2</line>
+  <module>codeSmellsWork</module>
+  <package>&lt;default&gt;</package>
+  <entry_point TYPE="class" FQNAME="Computer" />
+  <problem_class id="WrongPackageStatement" severity="ERROR" attribute_key="ERRORS_ATTRIBUTES">Wrong package statement</problem_class>
+  <description>Missing package statement but package name 'Student 18' which corresponds to the file path is invalid</description>
+  <highlighted_element>Computer</highlighted_element>
+  <language>JAVA</language>
+  <offset>13</offset>
+  <length>8</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 18/student 18 (4).java</file>
+  <line>2</line>
+  <module>codeSmellsWork</module>
+  <package>&lt;default&gt;</package>
+  <entry_point TYPE="class" FQNAME="Game" />
+  <problem_class id="WrongPackageStatement" severity="ERROR" attribute_key="ERRORS_ATTRIBUTES">Wrong package statement</problem_class>
+  <description>Missing package statement but package name 'Student 18' which corresponds to the file path is invalid</description>
+  <highlighted_element>Game</highlighted_element>
+  <language>JAVA</language>
+  <offset>13</offset>
+  <length>4</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 18/student 18 (5).java</file>
+  <line>10</line>
+  <module>codeSmellsWork</module>
+  <package>&lt;default&gt;</package>
+  <entry_point TYPE="class" FQNAME="main" />
+  <problem_class id="WrongPackageStatement" severity="ERROR" attribute_key="ERRORS_ATTRIBUTES">Wrong package statement</problem_class>
+  <description>Missing package statement but package name 'Student 18' which corresponds to the file path is invalid</description>
+  <highlighted_element>main</highlighted_element>
+  <language>JAVA</language>
+  <offset>13</offset>
+  <length>4</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 18/student 18 (6).java</file>
+  <line>26</line>
+  <module>codeSmellsWork</module>
+  <package>&lt;default&gt;</package>
+  <entry_point TYPE="class" FQNAME="OmokGUI" />
+  <problem_class id="WrongPackageStatement" severity="ERROR" attribute_key="ERRORS_ATTRIBUTES">Wrong package statement</problem_class>
+  <description>Missing package statement but package name 'Student 18' which corresponds to the file path is invalid</description>
+  <highlighted_element>OmokGUI</highlighted_element>
+  <language>JAVA</language>
+  <offset>13</offset>
+  <length>7</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 18/student 18 (7).java</file>
+  <line>2</line>
+  <module>codeSmellsWork</module>
+  <package>&lt;default&gt;</package>
+  <entry_point TYPE="class" FQNAME="Place" />
+  <problem_class id="WrongPackageStatement" severity="ERROR" attribute_key="ERRORS_ATTRIBUTES">Wrong package statement</problem_class>
+  <description>Missing package statement but package name 'Student 18' which corresponds to the file path is invalid</description>
+  <highlighted_element>Place</highlighted_element>
+  <language>JAVA</language>
+  <offset>13</offset>
+  <length>5</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 18/student 18 (8).java</file>
+  <line>2</line>
+  <module>codeSmellsWork</module>
+  <package>&lt;default&gt;</package>
+  <entry_point TYPE="class" FQNAME="Player" />
+  <problem_class id="WrongPackageStatement" severity="ERROR" attribute_key="ERRORS_ATTRIBUTES">Wrong package statement</problem_class>
+  <description>Missing package statement but package name 'Student 18' which corresponds to the file path is invalid</description>
+  <highlighted_element>Player</highlighted_element>
+  <language>JAVA</language>
+  <offset>13</offset>
+  <length>6</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 18/student 18 (9).java</file>
+  <line>2</line>
+  <module>codeSmellsWork</module>
+  <package>&lt;default&gt;</package>
+  <entry_point TYPE="class" FQNAME="PVC" />
+  <problem_class id="WrongPackageStatement" severity="ERROR" attribute_key="ERRORS_ATTRIBUTES">Wrong package statement</problem_class>
+  <description>Missing package statement but package name 'Student 18' which corresponds to the file path is invalid</description>
+  <highlighted_element>PVC</highlighted_element>
+  <language>JAVA</language>
+  <offset>13</offset>
+  <length>3</length>
+</problem>
+</problems>

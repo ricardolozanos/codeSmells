@@ -1,0 +1,145 @@
+<problems>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 14/student 14 (1).java</file>
+  <line>1</line>
+  <module>codeSmellsWork</module>
+  <package>game</package>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/src/Student 14/student 14 (1).java" />
+  <problem_class id="WrongPackageStatement" severity="ERROR" attribute_key="ERRORS_ATTRIBUTES">Wrong package statement</problem_class>
+  <description>Package name 'game' does not correspond to the file path 'Student 14'</description>
+  <highlighted_element>game</highlighted_element>
+  <language>JAVA</language>
+  <offset>8</offset>
+  <length>4</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 14/student 14 (10).java</file>
+  <line>1</line>
+  <module>codeSmellsWork</module>
+  <package>game.GUI</package>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/src/Student 14/student 14 (10).java" />
+  <problem_class id="WrongPackageStatement" severity="ERROR" attribute_key="ERRORS_ATTRIBUTES">Wrong package statement</problem_class>
+  <description>Package name 'game.GUI' does not correspond to the file path 'Student 14'</description>
+  <highlighted_element>game.GUI</highlighted_element>
+  <language>JAVA</language>
+  <offset>8</offset>
+  <length>8</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 14/student 14 (11).java</file>
+  <line>1</line>
+  <module>codeSmellsWork</module>
+  <package>game</package>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/src/Student 14/student 14 (11).java" />
+  <problem_class id="WrongPackageStatement" severity="ERROR" attribute_key="ERRORS_ATTRIBUTES">Wrong package statement</problem_class>
+  <description>Package name 'game' does not correspond to the file path 'Student 14'</description>
+  <highlighted_element>game</highlighted_element>
+  <language>JAVA</language>
+  <offset>8</offset>
+  <length>4</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 14/student 14 (2).java</file>
+  <line>1</line>
+  <module>codeSmellsWork</module>
+  <package>game</package>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/src/Student 14/student 14 (2).java" />
+  <problem_class id="WrongPackageStatement" severity="ERROR" attribute_key="ERRORS_ATTRIBUTES">Wrong package statement</problem_class>
+  <description>Package name 'game' does not correspond to the file path 'Student 14'</description>
+  <highlighted_element>game</highlighted_element>
+  <language>JAVA</language>
+  <offset>8</offset>
+  <length>4</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 14/student 14 (3).java</file>
+  <line>1</line>
+  <module>codeSmellsWork</module>
+  <package>game.GUI</package>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/src/Student 14/student 14 (3).java" />
+  <problem_class id="WrongPackageStatement" severity="ERROR" attribute_key="ERRORS_ATTRIBUTES">Wrong package statement</problem_class>
+  <description>Package name 'game.GUI' does not correspond to the file path 'Student 14'</description>
+  <highlighted_element>game.GUI</highlighted_element>
+  <language>JAVA</language>
+  <offset>8</offset>
+  <length>8</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 14/student 14 (4).java</file>
+  <line>1</line>
+  <module>codeSmellsWork</module>
+  <package>game</package>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/src/Student 14/student 14 (4).java" />
+  <problem_class id="WrongPackageStatement" severity="ERROR" attribute_key="ERRORS_ATTRIBUTES">Wrong package statement</problem_class>
+  <description>Package name 'game' does not correspond to the file path 'Student 14'</description>
+  <highlighted_element>game</highlighted_element>
+  <language>JAVA</language>
+  <offset>8</offset>
+  <length>4</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 14/student 14 (5).java</file>
+  <line>1</line>
+  <module>codeSmellsWork</module>
+  <package>game</package>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/src/Student 14/student 14 (5).java" />
+  <problem_class id="WrongPackageStatement" severity="ERROR" attribute_key="ERRORS_ATTRIBUTES">Wrong package statement</problem_class>
+  <description>Package name 'game' does not correspond to the file path 'Student 14'</description>
+  <highlighted_element>game</highlighted_element>
+  <language>JAVA</language>
+  <offset>8</offset>
+  <length>4</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 14/student 14 (6).java</file>
+  <line>1</line>
+  <module>codeSmellsWork</module>
+  <package>game</package>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/src/Student 14/student 14 (6).java" />
+  <problem_class id="WrongPackageStatement" severity="ERROR" attribute_key="ERRORS_ATTRIBUTES">Wrong package statement</problem_class>
+  <description>Package name 'game' does not correspond to the file path 'Student 14'</description>
+  <highlighted_element>game</highlighted_element>
+  <language>JAVA</language>
+  <offset>8</offset>
+  <length>4</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 14/student 14 (7).java</file>
+  <line>1</line>
+  <module>codeSmellsWork</module>
+  <package>game.GUI</package>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/src/Student 14/student 14 (7).java" />
+  <problem_class id="WrongPackageStatement" severity="ERROR" attribute_key="ERRORS_ATTRIBUTES">Wrong package statement</problem_class>
+  <description>Package name 'game.GUI' does not correspond to the file path 'Student 14'</description>
+  <highlighted_element>game.GUI</highlighted_element>
+  <language>JAVA</language>
+  <offset>8</offset>
+  <length>8</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 14/student 14 (8).java</file>
+  <line>1</line>
+  <module>codeSmellsWork</module>
+  <package>game</package>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/src/Student 14/student 14 (8).java" />
+  <problem_class id="WrongPackageStatement" severity="ERROR" attribute_key="ERRORS_ATTRIBUTES">Wrong package statement</problem_class>
+  <description>Package name 'game' does not correspond to the file path 'Student 14'</description>
+  <highlighted_element>game</highlighted_element>
+  <language>JAVA</language>
+  <offset>8</offset>
+  <length>4</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 14/student 14 (9).java</file>
+  <line>1</line>
+  <module>codeSmellsWork</module>
+  <package>game</package>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/src/Student 14/student 14 (9).java" />
+  <problem_class id="WrongPackageStatement" severity="ERROR" attribute_key="ERRORS_ATTRIBUTES">Wrong package statement</problem_class>
+  <description>Package name 'game' does not correspond to the file path 'Student 14'</description>
+  <highlighted_element>game</highlighted_element>
+  <language>JAVA</language>
+  <offset>8</offset>
+  <length>4</length>
+</problem>
+</problems>

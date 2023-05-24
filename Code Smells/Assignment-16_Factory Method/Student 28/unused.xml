@@ -1,0 +1,70 @@
+<problems>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 28/Student 28.java</file>
+  <line>20</line>
+  <module>codeSmellsWork</module>
+  <package>noapplet.example</package>
+  <entry_point TYPE="method" FQNAME="noapplet.example.ModularBalloonApp void init()" />
+  <language>JAVA</language>
+  <offset>16</offset>
+  <length>4</length>
+  <highlighted_element>init</highlighted_element>
+  <problem_class id="unused" severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">unused declaration</problem_class>
+  <hints>
+    <hint value="comment" />
+    <hint value="delete" />
+  </hints>
+  <description>Method is not reachable from entry points.</description>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 28/Student 28.java</file>
+  <line>37</line>
+  <module>codeSmellsWork</module>
+  <package>noapplet.example</package>
+  <entry_point TYPE="method" FQNAME="noapplet.example.ModularBalloonApp void paintComponent(java.awt.Graphics g)" />
+  <language>JAVA</language>
+  <offset>19</offset>
+  <length>14</length>
+  <highlighted_element>paintComponent</highlighted_element>
+  <problem_class id="unused" severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">unused declaration</problem_class>
+  <hints>
+    <hint value="comment" />
+    <hint value="delete" />
+  </hints>
+  <description>Method is not reachable from entry points.</description>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 28/Student 28.java</file>
+  <line>45</line>
+  <module>codeSmellsWork</module>
+  <package>noapplet.example</package>
+  <entry_point TYPE="method" FQNAME="noapplet.example.ModularBalloonApp void start()" />
+  <language>JAVA</language>
+  <offset>16</offset>
+  <length>5</length>
+  <highlighted_element>start</highlighted_element>
+  <problem_class id="unused" severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">unused declaration</problem_class>
+  <hints>
+    <hint value="comment" />
+    <hint value="delete" />
+  </hints>
+  <description>Method is never used.</description>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 28/Student 28.java</file>
+  <line>48</line>
+  <module>codeSmellsWork</module>
+  <package>noapplet.example</package>
+  <entry_point TYPE="method" FQNAME="noapplet.example.ModularBalloonApp void stop()" />
+  <language>JAVA</language>
+  <offset>16</offset>
+  <length>4</length>
+  <highlighted_element>stop</highlighted_element>
+  <problem_class id="unused" severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">unused declaration</problem_class>
+  <hints>
+    <hint value="comment" />
+    <hint value="delete" />
+  </hints>
+  <description>Method is never used.</description>
+</problem>
+</problems>

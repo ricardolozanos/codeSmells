@@ -1,0 +1,132 @@
+<problems>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 10/student 10 (1).java</file>
+  <line>9</line>
+  <module>codeSmellsWork</module>
+  <package>noapplet.example.solar</package>
+  <entry_point TYPE="field" FQNAME="noapplet.example.solar.Planet distance" />
+  <problem_class id="FieldMayBeFinal" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Field may be 'final'</problem_class>
+  <description>Field &lt;code&gt;distance&lt;/code&gt; may be 'final' #loc</description>
+  <highlighted_element>distance</highlighted_element>
+  <language>JAVA</language>
+  <offset>13</offset>
+  <length>8</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 10/student 10 (1).java</file>
+  <line>9</line>
+  <module>codeSmellsWork</module>
+  <package>noapplet.example.solar</package>
+  <entry_point TYPE="field" FQNAME="noapplet.example.solar.Planet radius" />
+  <problem_class id="FieldMayBeFinal" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Field may be 'final'</problem_class>
+  <description>Field &lt;code&gt;radius&lt;/code&gt; may be 'final' #loc</description>
+  <highlighted_element>radius</highlighted_element>
+  <language>JAVA</language>
+  <offset>23</offset>
+  <length>6</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 10/student 10 (1).java</file>
+  <line>9</line>
+  <module>codeSmellsWork</module>
+  <package>noapplet.example.solar</package>
+  <entry_point TYPE="field" FQNAME="noapplet.example.solar.Planet speed" />
+  <problem_class id="FieldMayBeFinal" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Field may be 'final'</problem_class>
+  <description>Field &lt;code&gt;speed&lt;/code&gt; may be 'final' #loc</description>
+  <highlighted_element>speed</highlighted_element>
+  <language>JAVA</language>
+  <offset>38</offset>
+  <length>5</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 10/student 10 (1).java</file>
+  <line>10</line>
+  <module>codeSmellsWork</module>
+  <package>noapplet.example.solar</package>
+  <entry_point TYPE="field" FQNAME="noapplet.example.solar.Planet color" />
+  <problem_class id="FieldMayBeFinal" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Field may be 'final'</problem_class>
+  <description>Field &lt;code&gt;color&lt;/code&gt; may be 'final' #loc</description>
+  <highlighted_element>color</highlighted_element>
+  <language>JAVA</language>
+  <offset>15</offset>
+  <length>5</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 10/student 10 (1).java</file>
+  <line>11</line>
+  <module>codeSmellsWork</module>
+  <package>noapplet.example.solar</package>
+  <entry_point TYPE="field" FQNAME="noapplet.example.solar.Planet sun" />
+  <problem_class id="FieldMayBeFinal" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Field may be 'final'</problem_class>
+  <description>Field &lt;code&gt;sun&lt;/code&gt; may be 'final' #loc</description>
+  <highlighted_element>sun</highlighted_element>
+  <language>JAVA</language>
+  <offset>13</offset>
+  <length>3</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 10/student 10 (4).java</file>
+  <line>7</line>
+  <module>codeSmellsWork</module>
+  <package>noapplet.example.solar</package>
+  <entry_point TYPE="field" FQNAME="noapplet.example.solar.Moon distance" />
+  <problem_class id="FieldMayBeFinal" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Field may be 'final'</problem_class>
+  <description>Field &lt;code&gt;distance&lt;/code&gt; may be 'final' #loc</description>
+  <highlighted_element>distance</highlighted_element>
+  <language>JAVA</language>
+  <offset>13</offset>
+  <length>8</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 10/student 10 (4).java</file>
+  <line>7</line>
+  <module>codeSmellsWork</module>
+  <package>noapplet.example.solar</package>
+  <entry_point TYPE="field" FQNAME="noapplet.example.solar.Moon radius" />
+  <problem_class id="FieldMayBeFinal" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Field may be 'final'</problem_class>
+  <description>Field &lt;code&gt;radius&lt;/code&gt; may be 'final' #loc</description>
+  <highlighted_element>radius</highlighted_element>
+  <language>JAVA</language>
+  <offset>23</offset>
+  <length>6</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 10/student 10 (4).java</file>
+  <line>7</line>
+  <module>codeSmellsWork</module>
+  <package>noapplet.example.solar</package>
+  <entry_point TYPE="field" FQNAME="noapplet.example.solar.Moon speed" />
+  <problem_class id="FieldMayBeFinal" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Field may be 'final'</problem_class>
+  <description>Field &lt;code&gt;speed&lt;/code&gt; may be 'final' #loc</description>
+  <highlighted_element>speed</highlighted_element>
+  <language>JAVA</language>
+  <offset>38</offset>
+  <length>5</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 10/student 10 (4).java</file>
+  <line>9</line>
+  <module>codeSmellsWork</module>
+  <package>noapplet.example.solar</package>
+  <entry_point TYPE="field" FQNAME="noapplet.example.solar.Moon color" />
+  <problem_class id="FieldMayBeFinal" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Field may be 'final'</problem_class>
+  <description>Field &lt;code&gt;color&lt;/code&gt; may be 'final' #loc</description>
+  <highlighted_element>color</highlighted_element>
+  <language>JAVA</language>
+  <offset>15</offset>
+  <length>5</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 10/student 10 (4).java</file>
+  <line>10</line>
+  <module>codeSmellsWork</module>
+  <package>noapplet.example.solar</package>
+  <entry_point TYPE="field" FQNAME="noapplet.example.solar.Moon planet" />
+  <problem_class id="FieldMayBeFinal" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Field may be 'final'</problem_class>
+  <description>Field &lt;code&gt;planet&lt;/code&gt; may be 'final' #loc</description>
+  <highlighted_element>planet</highlighted_element>
+  <language>JAVA</language>
+  <offset>16</offset>
+  <length>6</length>
+</problem>
+</problems>

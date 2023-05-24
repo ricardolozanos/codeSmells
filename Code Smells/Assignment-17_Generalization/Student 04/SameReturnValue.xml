@@ -1,0 +1,15 @@
+<problems>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 04/student 04 (3).java</file>
+  <line>47</line>
+  <module>codeSmellsWork</module>
+  <package>exercises.Generalization.MultiPlotter</package>
+  <entry_point TYPE="method" FQNAME="exercises.Generalization.MultiPlotter.MultiPlotter double func(double x)" />
+  <problem_class id="SameReturnValue" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Method always returns the same value</problem_class>
+  <description>Method &lt;code&gt;func()&lt;/code&gt; always returns &lt;code&gt;0&lt;/code&gt;</description>
+  <highlighted_element>func</highlighted_element>
+  <language>JAVA</language>
+  <offset>18</offset>
+  <length>4</length>
+</problem>
+</problems>

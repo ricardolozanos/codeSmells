@@ -1,0 +1,30 @@
+<problems>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 44/student 44.java</file>
+  <line>61</line>
+  <module>codeSmellsWork</module>
+  <package>noapplet</package>
+  <entry_point TYPE="field" FQNAME="noapplet.NoApplet parameters" />
+  <problem_class id="CanBeFinal" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Declaration can have 'final' modifier</problem_class>
+  <hints />
+  <description>Declaration can have final modifier</description>
+  <highlighted_element>parameters</highlighted_element>
+  <language>JAVA</language>
+  <offset>32</offset>
+  <length>10</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 44/student 44.java</file>
+  <line>63</line>
+  <module>codeSmellsWork</module>
+  <package>noapplet</package>
+  <entry_point TYPE="field" FQNAME="noapplet.NoApplet statusBar" />
+  <problem_class id="CanBeFinal" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Declaration can have 'final' modifier</problem_class>
+  <hints />
+  <description>Declaration can have final modifier</description>
+  <highlighted_element>statusBar</highlighted_element>
+  <language>JAVA</language>
+  <offset>19</offset>
+  <length>9</length>
+</problem>
+</problems>

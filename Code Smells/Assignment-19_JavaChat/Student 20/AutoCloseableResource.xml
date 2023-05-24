@@ -1,0 +1,15 @@
+<problems>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 20/student 20 (2).java</file>
+  <line>41</line>
+  <module>codeSmellsWork</module>
+  <package>&lt;default&gt;</package>
+  <entry_point TYPE="method" FQNAME="ChatServer void start()" />
+  <problem_class id="AutoCloseableResource" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">AutoCloseable used without 'try'-with-resources</problem_class>
+  <description>'ServerSocket' used without 'try'-with-resources statement #loc</description>
+  <highlighted_element>ServerSocket</highlighted_element>
+  <language>JAVA</language>
+  <offset>33</offset>
+  <length>12</length>
+</problem>
+</problems>

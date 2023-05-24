@@ -1,0 +1,15 @@
+<problems>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 45/Student 45.java</file>
+  <line>1</line>
+  <module>codeSmellsWork</module>
+  <package>omok</package>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/src/Student 45/Student 45.java" />
+  <problem_class id="WrongPackageStatement" severity="ERROR" attribute_key="ERRORS_ATTRIBUTES">Wrong package statement</problem_class>
+  <description>Package name 'omok' does not correspond to the file path 'Student 45'</description>
+  <highlighted_element>omok</highlighted_element>
+  <language>JAVA</language>
+  <offset>8</offset>
+  <length>4</length>
+</problem>
+</problems>

@@ -1,0 +1,15 @@
+<problems>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 31/student 31 (1).java</file>
+  <line>52</line>
+  <module>codeSmellsWork</module>
+  <package>noapplet.example</package>
+  <entry_point TYPE="method" FQNAME="noapplet.example.ChatDialog void configureGui()" />
+  <problem_class id="NonCommentSourceStatements" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Overly long method</problem_class>
+  <description>&lt;code&gt;configureGui&lt;/code&gt; is too long (# Non-comment source statements = 34) #loc</description>
+  <highlighted_element>configureGui</highlighted_element>
+  <language>JAVA</language>
+  <offset>17</offset>
+  <length>12</length>
+</problem>
+</problems>

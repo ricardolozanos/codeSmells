@@ -1,0 +1,18 @@
+<problems>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 29/student 29 (2).java</file>
+  <line>42</line>
+  <module>codeSmellsWork</module>
+  <package>plotter</package>
+  <entry_point TYPE="method" FQNAME="plotter.MultiPlotter void initMultiPlotter()" />
+  <problem_class id="EmptyMethod" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Empty method</problem_class>
+  <hints>
+    <hint value="false" />
+  </hints>
+  <description>The method is empty</description>
+  <highlighted_element>initMultiPlotter</highlighted_element>
+  <language>JAVA</language>
+  <offset>13</offset>
+  <length>16</length>
+</problem>
+</problems>

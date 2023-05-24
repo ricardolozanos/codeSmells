@@ -1,0 +1,15 @@
+<problems>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 22/student 22 (1).java</file>
+  <line>98</line>
+  <module>codeSmellsWork</module>
+  <package>HomeWork2.OmokGame</package>
+  <entry_point TYPE="method" FQNAME="HomeWork2.OmokGame.ConsoleUI int AskSize()" />
+  <problem_class id="PointlessBooleanExpression" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Pointless boolean expression</problem_class>
+  <description>&lt;code&gt;Scanner.hasNextInt() == false&lt;/code&gt; can be simplified to '!Scanner.hasNextInt()' #loc</description>
+  <highlighted_element>Scanner.hasNextInt() == false</highlighted_element>
+  <language>JAVA</language>
+  <offset>16</offset>
+  <length>29</length>
+</problem>
+</problems>

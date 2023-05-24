@@ -1,0 +1,67 @@
+<problems>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 20/Student 20.java</file>
+  <line>32</line>
+  <module>codeSmellsWork</module>
+  <package>&lt;default&gt;</package>
+  <entry_point TYPE="field" FQNAME="Sun width" />
+  <problem_class id="FieldCanBeLocal" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Field can be local</problem_class>
+  <description>Field can be converted to a local variable</description>
+  <highlighted_element>width</highlighted_element>
+  <language>JAVA</language>
+  <offset>22</offset>
+  <length>5</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 20/Student 20.java</file>
+  <line>32</line>
+  <module>codeSmellsWork</module>
+  <package>&lt;default&gt;</package>
+  <entry_point TYPE="field" FQNAME="Sun height" />
+  <problem_class id="FieldCanBeLocal" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Field can be local</problem_class>
+  <description>Field can be converted to a local variable</description>
+  <highlighted_element>height</highlighted_element>
+  <language>JAVA</language>
+  <offset>28</offset>
+  <length>6</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 20/Student 20.java</file>
+  <line>70</line>
+  <module>codeSmellsWork</module>
+  <package>&lt;default&gt;</package>
+  <entry_point TYPE="field" FQNAME="Planet speed" />
+  <problem_class id="FieldCanBeLocal" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Field can be local</problem_class>
+  <description>Field can be converted to a local variable</description>
+  <highlighted_element>speed</highlighted_element>
+  <language>JAVA</language>
+  <offset>30</offset>
+  <length>5</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 20/Student 20.java</file>
+  <line>70</line>
+  <module>codeSmellsWork</module>
+  <package>&lt;default&gt;</package>
+  <entry_point TYPE="field" FQNAME="Planet height" />
+  <problem_class id="FieldCanBeLocal" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Field can be local</problem_class>
+  <description>Field can be converted to a local variable</description>
+  <highlighted_element>height</highlighted_element>
+  <language>JAVA</language>
+  <offset>42</offset>
+  <length>6</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 20/Student 20.java</file>
+  <line>73</line>
+  <module>codeSmellsWork</module>
+  <package>&lt;default&gt;</package>
+  <entry_point TYPE="field" FQNAME="Planet moons" />
+  <problem_class id="FieldCanBeLocal" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Field can be local</problem_class>
+  <description>Field can be converted to a local variable</description>
+  <highlighted_element>moons</highlighted_element>
+  <language>JAVA</language>
+  <offset>33</offset>
+  <length>5</length>
+</problem>
+</problems>

@@ -1,0 +1,28 @@
+<problems>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 10/student 10 (1).java</file>
+  <line>9</line>
+  <module>codeSmellsWork</module>
+  <package>noapplet.example.solar</package>
+  <entry_point TYPE="field" FQNAME="noapplet.example.solar.Planet speed" />
+  <problem_class id="FieldCanBeLocal" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Field can be local</problem_class>
+  <description>Field can be converted to a local variable</description>
+  <highlighted_element>speed</highlighted_element>
+  <language>JAVA</language>
+  <offset>38</offset>
+  <length>5</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 10/student 10 (4).java</file>
+  <line>7</line>
+  <module>codeSmellsWork</module>
+  <package>noapplet.example.solar</package>
+  <entry_point TYPE="field" FQNAME="noapplet.example.solar.Moon speed" />
+  <problem_class id="FieldCanBeLocal" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Field can be local</problem_class>
+  <description>Field can be converted to a local variable</description>
+  <highlighted_element>speed</highlighted_element>
+  <language>JAVA</language>
+  <offset>38</offset>
+  <length>5</length>
+</problem>
+</problems>

@@ -1,0 +1,121 @@
+<problems>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 08/Student 08.java</file>
+  <line>8</line>
+  <module>codeSmellsWork</module>
+  <package>&lt;default&gt;</package>
+  <entry_point TYPE="field" FQNAME="ConsoleUI b" />
+  <language>JAVA</language>
+  <offset>17</offset>
+  <length>1</length>
+  <highlighted_element>b</highlighted_element>
+  <problem_class id="unused" severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">unused declaration</problem_class>
+  <hints>
+    <hint value="comment" />
+    <hint value="delete" />
+  </hints>
+  <description>Field is assigned but never accessed.</description>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 08/Student 08.java</file>
+  <line>11</line>
+  <module>codeSmellsWork</module>
+  <package>&lt;default&gt;</package>
+  <entry_point TYPE="method" FQNAME="ConsoleUI ConsoleUI()" />
+  <language>JAVA</language>
+  <offset>11</offset>
+  <length>9</length>
+  <highlighted_element>ConsoleUI</highlighted_element>
+  <problem_class id="unused" severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">unused declaration</problem_class>
+  <hints>
+    <hint value="comment" />
+    <hint value="delete" />
+  </hints>
+  <description>Constructor is never used.</description>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 08/Student 08.java</file>
+  <line>14</line>
+  <module>codeSmellsWork</module>
+  <package>&lt;default&gt;</package>
+  <entry_point TYPE="method" FQNAME="ConsoleUI void welcome()" />
+  <language>JAVA</language>
+  <offset>16</offset>
+  <length>7</length>
+  <highlighted_element>welcome</highlighted_element>
+  <problem_class id="unused" severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">unused declaration</problem_class>
+  <hints>
+    <hint value="comment" />
+    <hint value="delete" />
+  </hints>
+  <description>&lt;ul&gt;&lt;li&gt;Method owner class is never instantiated OR&lt;/li&gt;&lt;li&gt;An instantiation is not reachable from entry points.&lt;/li&gt;&lt;/ul&gt;</description>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 08/Student 08.java</file>
+  <line>23</line>
+  <module>codeSmellsWork</module>
+  <package>&lt;default&gt;</package>
+  <entry_point TYPE="method" FQNAME="ConsoleUI void printBoard(Board board)" />
+  <language>JAVA</language>
+  <offset>16</offset>
+  <length>10</length>
+  <highlighted_element>printBoard</highlighted_element>
+  <problem_class id="unused" severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">unused declaration</problem_class>
+  <hints>
+    <hint value="comment" />
+    <hint value="delete" />
+  </hints>
+  <description>&lt;ul&gt;&lt;li&gt;Method owner class is never instantiated OR&lt;/li&gt;&lt;li&gt;An instantiation is not reachable from entry points.&lt;/li&gt;&lt;/ul&gt;</description>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 08/Student 08.java</file>
+  <line>29</line>
+  <module>codeSmellsWork</module>
+  <package>&lt;default&gt;</package>
+  <entry_point TYPE="method" FQNAME="ConsoleUI void boardSize(int x)" />
+  <language>JAVA</language>
+  <offset>16</offset>
+  <length>9</length>
+  <highlighted_element>boardSize</highlighted_element>
+  <problem_class id="unused" severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">unused declaration</problem_class>
+  <hints>
+    <hint value="comment" />
+    <hint value="delete" />
+  </hints>
+  <description>&lt;ul&gt;&lt;li&gt;Method owner class is never instantiated OR&lt;/li&gt;&lt;li&gt;An instantiation is not reachable from entry points.&lt;/li&gt;&lt;/ul&gt;</description>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 08/Student 08.java</file>
+  <line>34</line>
+  <module>codeSmellsWork</module>
+  <package>&lt;default&gt;</package>
+  <entry_point TYPE="method" FQNAME="ConsoleUI void end()" />
+  <language>JAVA</language>
+  <offset>16</offset>
+  <length>3</length>
+  <highlighted_element>end</highlighted_element>
+  <problem_class id="unused" severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">unused declaration</problem_class>
+  <hints>
+    <hint value="comment" />
+    <hint value="delete" />
+  </hints>
+  <description>&lt;ul&gt;&lt;li&gt;Method owner class is never instantiated OR&lt;/li&gt;&lt;li&gt;An instantiation is not reachable from entry points.&lt;/li&gt;&lt;/ul&gt;</description>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 08/Student 08.java</file>
+  <line>40</line>
+  <module>codeSmellsWork</module>
+  <package>&lt;default&gt;</package>
+  <entry_point TYPE="method" FQNAME="ConsoleUI void printBoardSize()" />
+  <language>JAVA</language>
+  <offset>16</offset>
+  <length>14</length>
+  <highlighted_element>printBoardSize</highlighted_element>
+  <problem_class id="unused" severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">unused declaration</problem_class>
+  <hints>
+    <hint value="comment" />
+    <hint value="delete" />
+  </hints>
+  <description>&lt;ul&gt;&lt;li&gt;Method owner class is never instantiated OR&lt;/li&gt;&lt;li&gt;An instantiation is not reachable from entry points.&lt;/li&gt;&lt;/ul&gt;</description>
+</problem>
+</problems>

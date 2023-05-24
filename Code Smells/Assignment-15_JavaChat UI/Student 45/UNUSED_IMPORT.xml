@@ -1,0 +1,30 @@
+<problems>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 45/student 45 (1).java</file>
+  <line>4</line>
+  <module>codeSmellsWork</module>
+  <package>&lt;default&gt;</package>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/src/Student 45/student 45 (1).java" />
+  <problem_class id="UNUSED_IMPORT" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Unused import</problem_class>
+  <hints />
+  <description>Unused import &lt;code&gt;import java.awt.event.MouseAdapter;&lt;/code&gt; #loc</description>
+  <highlighted_element>import java.awt.event.MouseAdapter;</highlighted_element>
+  <language>JAVA</language>
+  <offset>0</offset>
+  <length>35</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 45/student 45 (1).java</file>
+  <line>5</line>
+  <module>codeSmellsWork</module>
+  <package>&lt;default&gt;</package>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/src/Student 45/student 45 (1).java" />
+  <problem_class id="UNUSED_IMPORT" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Unused import</problem_class>
+  <hints />
+  <description>Unused import &lt;code&gt;import java.awt.event.MouseEvent;&lt;/code&gt; #loc</description>
+  <highlighted_element>import java.awt.event.MouseEvent;</highlighted_element>
+  <language>JAVA</language>
+  <offset>0</offset>
+  <length>33</length>
+</problem>
+</problems>

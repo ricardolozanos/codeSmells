@@ -1,0 +1,28 @@
+<problems>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 22/student 22 (1).java</file>
+  <line>13</line>
+  <module>codeSmellsWork</module>
+  <package>&lt;default&gt;</package>
+  <entry_point TYPE="field" FQNAME="ChatDialog chatAreaScrollPane" />
+  <problem_class id="FieldCanBeLocal" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Field can be local</problem_class>
+  <description>Field can be converted to a local variable</description>
+  <highlighted_element>chatAreaScrollPane</highlighted_element>
+  <language>JAVA</language>
+  <offset>24</offset>
+  <length>18</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 22/student 22 (1).java</file>
+  <line>15</line>
+  <module>codeSmellsWork</module>
+  <package>&lt;default&gt;</package>
+  <entry_point TYPE="field" FQNAME="ChatDialog displayName" />
+  <problem_class id="FieldCanBeLocal" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Field can be local</problem_class>
+  <description>Field can be converted to a local variable</description>
+  <highlighted_element>displayName</highlighted_element>
+  <language>JAVA</language>
+  <offset>19</offset>
+  <length>11</length>
+</problem>
+</problems>

@@ -1,0 +1,36 @@
+<problems>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 38/student 38.java</file>
+  <line>18</line>
+  <module>codeSmellsWork</module>
+  <package>&lt;default&gt;</package>
+  <entry_point TYPE="method" FQNAME="ConsoleInterfaceTest void setUp()" />
+  <language>JAVA</language>
+  <offset>16</offset>
+  <length>5</length>
+  <highlighted_element>setUp</highlighted_element>
+  <problem_class id="" severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">unused declaration</problem_class>
+  <hints>
+    <hint value="comment" />
+    <hint value="delete" />
+  </hints>
+  <description>Method is never used.</description>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 38/student 38.java</file>
+  <line>25</line>
+  <module>codeSmellsWork</module>
+  <package>&lt;default&gt;</package>
+  <entry_point TYPE="method" FQNAME="ConsoleInterfaceTest void tearDown()" />
+  <language>JAVA</language>
+  <offset>16</offset>
+  <length>8</length>
+  <highlighted_element>tearDown</highlighted_element>
+  <problem_class id="" severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">unused declaration</problem_class>
+  <hints>
+    <hint value="comment" />
+    <hint value="delete" />
+  </hints>
+  <description>Method is never used.</description>
+</problem>
+</problems>

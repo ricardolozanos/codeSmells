@@ -1,0 +1,72 @@
+<problems>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 34/student 34 (2).java</file>
+  <line>11</line>
+  <module>codeSmellsWork</module>
+  <package>excs.ModularBallonApp</package>
+  <entry_point TYPE="field" FQNAME="excs.ModularBallonApp.EnhancedModularBalloonApp newBalloon" />
+  <problem_class id="CanBeFinal" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Declaration can have 'final' modifier</problem_class>
+  <hints />
+  <description>Declaration can have final modifier</description>
+  <highlighted_element>newBalloon</highlighted_element>
+  <language>JAVA</language>
+  <offset>22</offset>
+  <length>10</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 34/student 34 (3).java</file>
+  <line>11</line>
+  <module>codeSmellsWork</module>
+  <package>excs.ModularBallonApp</package>
+  <entry_point TYPE="field" FQNAME="excs.ModularBallonApp.growingAndShrinking color" />
+  <problem_class id="CanBeFinal" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Declaration can have 'final' modifier</problem_class>
+  <hints />
+  <description>Declaration can have final modifier</description>
+  <highlighted_element>color</highlighted_element>
+  <language>JAVA</language>
+  <offset>10</offset>
+  <length>5</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 34/student 34 (4).java</file>
+  <line>10</line>
+  <module>codeSmellsWork</module>
+  <package>excs.ModularBallonApp</package>
+  <entry_point TYPE="field" FQNAME="excs.ModularBallonApp.growingBalloon speed" />
+  <problem_class id="CanBeFinal" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Declaration can have 'final' modifier</problem_class>
+  <hints />
+  <description>Declaration can have final modifier</description>
+  <highlighted_element>speed</highlighted_element>
+  <language>JAVA</language>
+  <offset>8</offset>
+  <length>5</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 34/student 34 (4).java</file>
+  <line>11</line>
+  <module>codeSmellsWork</module>
+  <package>excs.ModularBallonApp</package>
+  <entry_point TYPE="field" FQNAME="excs.ModularBallonApp.growingBalloon color" />
+  <problem_class id="CanBeFinal" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Declaration can have 'final' modifier</problem_class>
+  <hints />
+  <description>Declaration can have final modifier</description>
+  <highlighted_element>color</highlighted_element>
+  <language>JAVA</language>
+  <offset>10</offset>
+  <length>5</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 34/student 34 (5).java</file>
+  <line>10</line>
+  <module>codeSmellsWork</module>
+  <package>excs.ModularBallonApp</package>
+  <entry_point TYPE="field" FQNAME="excs.ModularBallonApp.ModularBalloonApp newBalloon" />
+  <problem_class id="CanBeFinal" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Declaration can have 'final' modifier</problem_class>
+  <hints />
+  <description>Declaration can have final modifier</description>
+  <highlighted_element>newBalloon</highlighted_element>
+  <language>JAVA</language>
+  <offset>22</offset>
+  <length>10</length>
+</problem>
+</problems>

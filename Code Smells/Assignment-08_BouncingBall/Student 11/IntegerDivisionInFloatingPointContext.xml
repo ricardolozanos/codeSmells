@@ -1,0 +1,15 @@
+<problems>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 11/student 11 (5).java</file>
+  <line>44</line>
+  <module>codeSmellsWork</module>
+  <package>&lt;default&gt;</package>
+  <entry_point TYPE="method" FQNAME="BouncingBall void actionPerformed(java.awt.event.ActionEvent e)" />
+  <problem_class id="IntegerDivisionInFloatingPointContext" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Integer division in floating-point context</problem_class>
+  <description>&lt;code&gt;ball2.radius / 2&lt;/code&gt;: integer division in floating-point context #loc</description>
+  <highlighted_element>ball2.radius / 2</highlighted_element>
+  <language>JAVA</language>
+  <offset>47</offset>
+  <length>16</length>
+</problem>
+</problems>

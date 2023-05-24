@@ -1,0 +1,53 @@
+<problems>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 29/student 29 (1).java</file>
+  <line>10</line>
+  <module>codeSmellsWork</module>
+  <package>noapplet.test</package>
+  <entry_point TYPE="method" FQNAME="noapplet.test.Place Place(int x, int y)" />
+  <language>JAVA</language>
+  <offset>11</offset>
+  <length>5</length>
+  <highlighted_element>Place</highlighted_element>
+  <problem_class id="unused" severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">unused declaration</problem_class>
+  <hints>
+    <hint value="comment" />
+    <hint value="delete" />
+  </hints>
+  <description>Constructor is never used.</description>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 29/student 29 (1).java</file>
+  <line>37</line>
+  <module>codeSmellsWork</module>
+  <package>noapplet.test</package>
+  <entry_point TYPE="method" FQNAME="noapplet.test.Place int getX()" />
+  <language>JAVA</language>
+  <offset>15</offset>
+  <length>4</length>
+  <highlighted_element>getX</highlighted_element>
+  <problem_class id="unused" severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">unused declaration</problem_class>
+  <hints>
+    <hint value="comment" />
+    <hint value="delete" />
+  </hints>
+  <description>&lt;ul&gt;&lt;li&gt;Method owner class is never instantiated OR&lt;/li&gt;&lt;li&gt;An instantiation is not reachable from entry points.&lt;/li&gt;&lt;/ul&gt;</description>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 29/student 29 (1).java</file>
+  <line>41</line>
+  <module>codeSmellsWork</module>
+  <package>noapplet.test</package>
+  <entry_point TYPE="method" FQNAME="noapplet.test.Place int getY()" />
+  <language>JAVA</language>
+  <offset>15</offset>
+  <length>4</length>
+  <highlighted_element>getY</highlighted_element>
+  <problem_class id="unused" severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">unused declaration</problem_class>
+  <hints>
+    <hint value="comment" />
+    <hint value="delete" />
+  </hints>
+  <description>&lt;ul&gt;&lt;li&gt;Method owner class is never instantiated OR&lt;/li&gt;&lt;li&gt;An instantiation is not reachable from entry points.&lt;/li&gt;&lt;/ul&gt;</description>
+</problem>
+</problems>

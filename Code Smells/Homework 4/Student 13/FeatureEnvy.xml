@@ -1,0 +1,93 @@
+<problems>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 13/student 13 (4).java</file>
+  <line>75</line>
+  <module>codeSmellsWork</module>
+  <package>&lt;default&gt;</package>
+  <entry_point TYPE="method" FQNAME="GameController void placeStone(Playable player)" />
+  <problem_class id="FeatureEnvy" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Feature envy</problem_class>
+  <description>Class 'Board' accessed repeatedly in method &lt;code&gt;placeStone()&lt;/code&gt; #loc</description>
+  <highlighted_element>placeStone</highlighted_element>
+  <language>JAVA</language>
+  <offset>17</offset>
+  <length>10</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 13/student 13 (4).java</file>
+  <line>75</line>
+  <module>codeSmellsWork</module>
+  <package>&lt;default&gt;</package>
+  <entry_point TYPE="method" FQNAME="GameController void placeStone(Playable player)" />
+  <problem_class id="FeatureEnvy" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Feature envy</problem_class>
+  <description>Class 'Playable' accessed repeatedly in method &lt;code&gt;placeStone()&lt;/code&gt; #loc</description>
+  <highlighted_element>placeStone</highlighted_element>
+  <language>JAVA</language>
+  <offset>17</offset>
+  <length>10</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 13/student 13 (4).java</file>
+  <line>75</line>
+  <module>codeSmellsWork</module>
+  <package>&lt;default&gt;</package>
+  <entry_point TYPE="method" FQNAME="GameController void placeStone(Playable player)" />
+  <problem_class id="FeatureEnvy" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Feature envy</problem_class>
+  <description>Class 'UserInterfaceable' accessed repeatedly in method &lt;code&gt;placeStone()&lt;/code&gt; #loc</description>
+  <highlighted_element>placeStone</highlighted_element>
+  <language>JAVA</language>
+  <offset>17</offset>
+  <length>10</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 13/student 13 (4).java</file>
+  <line>95</line>
+  <module>codeSmellsWork</module>
+  <package>&lt;default&gt;</package>
+  <entry_point TYPE="method" FQNAME="GameController void strategyLoop()" />
+  <problem_class id="FeatureEnvy" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Feature envy</problem_class>
+  <description>Class 'Board' accessed repeatedly in method &lt;code&gt;strategyLoop()&lt;/code&gt; #loc</description>
+  <highlighted_element>strategyLoop</highlighted_element>
+  <language>JAVA</language>
+  <offset>17</offset>
+  <length>12</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 13/student 13 (4).java</file>
+  <line>95</line>
+  <module>codeSmellsWork</module>
+  <package>&lt;default&gt;</package>
+  <entry_point TYPE="method" FQNAME="GameController void strategyLoop()" />
+  <problem_class id="FeatureEnvy" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Feature envy</problem_class>
+  <description>Class 'UserInterfaceable' accessed repeatedly in method &lt;code&gt;strategyLoop()&lt;/code&gt; #loc</description>
+  <highlighted_element>strategyLoop</highlighted_element>
+  <language>JAVA</language>
+  <offset>17</offset>
+  <length>12</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 13/student 13 (4).java</file>
+  <line>132</line>
+  <module>codeSmellsWork</module>
+  <package>&lt;default&gt;</package>
+  <entry_point TYPE="method" FQNAME="GameController void placeStone(java.awt.event.MouseEvent e)" />
+  <problem_class id="FeatureEnvy" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Feature envy</problem_class>
+  <description>Class 'Board' accessed repeatedly in method &lt;code&gt;placeStone()&lt;/code&gt; #loc</description>
+  <highlighted_element>placeStone</highlighted_element>
+  <language>JAVA</language>
+  <offset>16</offset>
+  <length>10</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 13/student 13 (4).java</file>
+  <line>132</line>
+  <module>codeSmellsWork</module>
+  <package>&lt;default&gt;</package>
+  <entry_point TYPE="method" FQNAME="GameController void placeStone(java.awt.event.MouseEvent e)" />
+  <problem_class id="FeatureEnvy" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Feature envy</problem_class>
+  <description>Class 'UserInterfaceable' accessed repeatedly in method &lt;code&gt;placeStone()&lt;/code&gt; #loc</description>
+  <highlighted_element>placeStone</highlighted_element>
+  <language>JAVA</language>
+  <offset>16</offset>
+  <length>10</length>
+</problem>
+</problems>

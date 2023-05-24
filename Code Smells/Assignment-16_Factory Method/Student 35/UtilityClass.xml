@@ -1,0 +1,15 @@
+<problems>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 35/student 35 (5).java</file>
+  <line>3</line>
+  <module>codeSmellsWork</module>
+  <package>balloon</package>
+  <entry_point TYPE="class" FQNAME="balloon.ModularBalloonApp" />
+  <problem_class id="UtilityClass" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Utility class</problem_class>
+  <description>Class &lt;code&gt;ModularBalloonApp&lt;/code&gt; has only 'static' members, indicating procedural construction #loc</description>
+  <highlighted_element>ModularBalloonApp</highlighted_element>
+  <language>JAVA</language>
+  <offset>13</offset>
+  <length>17</length>
+</problem>
+</problems>

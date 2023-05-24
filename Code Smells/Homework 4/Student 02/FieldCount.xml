@@ -1,0 +1,28 @@
+<problems>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 02/student 02 (3).java</file>
+  <line>5</line>
+  <module>codeSmellsWork</module>
+  <package>OmokConsole.Model</package>
+  <entry_point TYPE="class" FQNAME="OmokConsole.Model.COMGame" />
+  <problem_class id="FieldCount" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Class with too many fields</problem_class>
+  <description>&lt;code&gt;COMGame&lt;/code&gt; has too many fields (field count = 13) #loc</description>
+  <highlighted_element>COMGame</highlighted_element>
+  <language>JAVA</language>
+  <offset>13</offset>
+  <length>7</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 02/student 02 (7).java</file>
+  <line>9</line>
+  <module>codeSmellsWork</module>
+  <package>OmokConsole.UI</package>
+  <entry_point TYPE="class" FQNAME="OmokConsole.UI.GUI" />
+  <problem_class id="FieldCount" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Class with too many fields</problem_class>
+  <description>&lt;code&gt;GUI&lt;/code&gt; has too many fields (field count = 12) #loc</description>
+  <highlighted_element>GUI</highlighted_element>
+  <language>JAVA</language>
+  <offset>13</offset>
+  <length>3</length>
+</problem>
+</problems>

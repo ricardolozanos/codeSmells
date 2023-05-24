@@ -1,0 +1,67 @@
+<problems>
+<problem>
+  <file>file://$PROJECT_DIR$/src/student 11/Student 11.java</file>
+  <line>7</line>
+  <module>codeSmellsWork</module>
+  <package>&lt;default&gt;</package>
+  <entry_point TYPE="field" FQNAME="Balloon WIDTH" />
+  <problem_class id="FieldMayBeFinal" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Field may be 'final'</problem_class>
+  <description>Field &lt;code&gt;WIDTH&lt;/code&gt; may be 'final' #loc</description>
+  <highlighted_element>WIDTH</highlighted_element>
+  <language>JAVA</language>
+  <offset>23</offset>
+  <length>5</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/student 11/Student 11.java</file>
+  <line>7</line>
+  <module>codeSmellsWork</module>
+  <package>&lt;default&gt;</package>
+  <entry_point TYPE="field" FQNAME="Balloon HEIGHT" />
+  <problem_class id="FieldMayBeFinal" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Field may be 'final'</problem_class>
+  <description>Field &lt;code&gt;HEIGHT&lt;/code&gt; may be 'final' #loc</description>
+  <highlighted_element>HEIGHT</highlighted_element>
+  <language>JAVA</language>
+  <offset>36</offset>
+  <length>6</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/student 11/Student 11.java</file>
+  <line>8</line>
+  <module>codeSmellsWork</module>
+  <package>&lt;default&gt;</package>
+  <entry_point TYPE="field" FQNAME="Balloon MIN_DIAMETER" />
+  <problem_class id="FieldMayBeFinal" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Field may be 'final'</problem_class>
+  <description>Field &lt;code&gt;MIN_DIAMETER&lt;/code&gt; may be 'final' #loc</description>
+  <highlighted_element>MIN_DIAMETER</highlighted_element>
+  <language>JAVA</language>
+  <offset>23</offset>
+  <length>12</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/student 11/Student 11.java</file>
+  <line>10</line>
+  <module>codeSmellsWork</module>
+  <package>&lt;default&gt;</package>
+  <entry_point TYPE="field" FQNAME="Balloon panel" />
+  <problem_class id="FieldMayBeFinal" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Field may be 'final'</problem_class>
+  <description>Field &lt;code&gt;panel&lt;/code&gt; may be 'final' #loc</description>
+  <highlighted_element>panel</highlighted_element>
+  <language>JAVA</language>
+  <offset>26</offset>
+  <length>5</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/student 11/Student 11.java</file>
+  <line>11</line>
+  <module>codeSmellsWork</module>
+  <package>&lt;default&gt;</package>
+  <entry_point TYPE="field" FQNAME="Balloon balloonColor" />
+  <problem_class id="FieldMayBeFinal" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Field may be 'final'</problem_class>
+  <description>Field &lt;code&gt;balloonColor&lt;/code&gt; may be 'final' #loc</description>
+  <highlighted_element>balloonColor</highlighted_element>
+  <language>JAVA</language>
+  <offset>25</offset>
+  <length>12</length>
+</problem>
+</problems>

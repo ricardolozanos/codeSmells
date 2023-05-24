@@ -1,0 +1,28 @@
+<problems>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 41/student 41 (1).java</file>
+  <line>7</line>
+  <module>codeSmellsWork</module>
+  <package>noapplet</package>
+  <entry_point TYPE="field" FQNAME="noapplet.MultiPlotter functions" />
+  <problem_class id="RawUseOfParameterizedType" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Raw use of parameterized class</problem_class>
+  <description>Raw use of parameterized class &lt;code&gt;Function&lt;/code&gt; #loc</description>
+  <highlighted_element>Function</highlighted_element>
+  <language>JAVA</language>
+  <offset>14</offset>
+  <length>8</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 41/student 41 (1).java</file>
+  <line>24</line>
+  <module>codeSmellsWork</module>
+  <package>noapplet</package>
+  <entry_point TYPE="method" FQNAME="noapplet.MultiPlotter void addFunction(java.util.function.Function f, java.awt.Color c)" />
+  <problem_class id="RawUseOfParameterizedType" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Raw use of parameterized class</problem_class>
+  <description>Raw use of parameterized class &lt;code&gt;Function&lt;/code&gt; #loc</description>
+  <highlighted_element>Function</highlighted_element>
+  <language>JAVA</language>
+  <offset>31</offset>
+  <length>8</length>
+</problem>
+</problems>

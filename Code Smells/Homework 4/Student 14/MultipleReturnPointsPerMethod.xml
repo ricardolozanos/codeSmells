@@ -1,0 +1,132 @@
+<problems>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 14/student 14 (2).java</file>
+  <line>27</line>
+  <module>codeSmellsWork</module>
+  <package>game</package>
+  <entry_point TYPE="method" FQNAME="game.board boolean windetect(int[] lastPlaced)" />
+  <problem_class id="MultipleReturnPointsPerMethod" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Method with multiple return points</problem_class>
+  <description>&lt;code&gt;windetect&lt;/code&gt; has 9 return points #loc</description>
+  <highlighted_element>windetect</highlighted_element>
+  <language>JAVA</language>
+  <offset>19</offset>
+  <length>9</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 14/student 14 (2).java</file>
+  <line>291</line>
+  <module>codeSmellsWork</module>
+  <package>game</package>
+  <entry_point TYPE="method" FQNAME="game.board boolean isfull()" />
+  <problem_class id="MultipleReturnPointsPerMethod" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Method with multiple return points</problem_class>
+  <description>&lt;code&gt;isfull&lt;/code&gt; has 2 return points #loc</description>
+  <highlighted_element>isfull</highlighted_element>
+  <language>JAVA</language>
+  <offset>19</offset>
+  <length>6</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 14/student 14 (2).java</file>
+  <line>313</line>
+  <module>codeSmellsWork</module>
+  <package>game</package>
+  <entry_point TYPE="method" FQNAME="game.board int checkud(int lookX, int lookY, java.lang.String[] cords, int rowsize, int axis, int dir, java.lang.String token)" />
+  <problem_class id="MultipleReturnPointsPerMethod" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Method with multiple return points</problem_class>
+  <description>&lt;code&gt;checkud&lt;/code&gt; has 3 return points #loc</description>
+  <highlighted_element>checkud</highlighted_element>
+  <language>JAVA</language>
+  <offset>15</offset>
+  <length>7</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 14/student 14 (2).java</file>
+  <line>333</line>
+  <module>codeSmellsWork</module>
+  <package>game</package>
+  <entry_point TYPE="method" FQNAME="game.board int checkdiag(int lookX, int lookY, java.lang.String[] cords, int rowsize, int dir, int mod, java.lang.String token)" />
+  <problem_class id="MultipleReturnPointsPerMethod" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Method with multiple return points</problem_class>
+  <description>&lt;code&gt;checkdiag&lt;/code&gt; has 3 return points #loc</description>
+  <highlighted_element>checkdiag</highlighted_element>
+  <language>JAVA</language>
+  <offset>16</offset>
+  <length>9</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 14/student 14 (4).java</file>
+  <line>21</line>
+  <module>codeSmellsWork</module>
+  <package>game</package>
+  <entry_point TYPE="method" FQNAME="game.conoleUI java.lang.Boolean endgame(java.util.Scanner k)" />
+  <problem_class id="MultipleReturnPointsPerMethod" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Method with multiple return points</problem_class>
+  <description>&lt;code&gt;endgame&lt;/code&gt; has 2 return points #loc</description>
+  <highlighted_element>endgame</highlighted_element>
+  <language>JAVA</language>
+  <offset>19</offset>
+  <length>7</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 14/student 14 (4).java</file>
+  <line>35</line>
+  <module>codeSmellsWork</module>
+  <package>game</package>
+  <entry_point TYPE="method" FQNAME="game.conoleUI int gameselect(java.util.Scanner k)" />
+  <problem_class id="MultipleReturnPointsPerMethod" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Method with multiple return points</problem_class>
+  <description>&lt;code&gt;gameselect&lt;/code&gt; has 3 return points #loc</description>
+  <highlighted_element>gameselect</highlighted_element>
+  <language>JAVA</language>
+  <offset>15</offset>
+  <length>10</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 14/student 14 (4).java</file>
+  <line>75</line>
+  <module>codeSmellsWork</module>
+  <package>game</package>
+  <entry_point TYPE="method" FQNAME="game.conoleUI int[] getpos(int player, java.util.Scanner k, omokGame game)" />
+  <problem_class id="MultipleReturnPointsPerMethod" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Method with multiple return points</problem_class>
+  <description>&lt;code&gt;getpos&lt;/code&gt; has 2 return points #loc</description>
+  <highlighted_element>getpos</highlighted_element>
+  <language>JAVA</language>
+  <offset>17</offset>
+  <length>6</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 14/student 14 (4).java</file>
+  <line>101</line>
+  <module>codeSmellsWork</module>
+  <package>game</package>
+  <entry_point TYPE="method" FQNAME="game.conoleUI int sizeAsk(java.util.Scanner k)" />
+  <problem_class id="MultipleReturnPointsPerMethod" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Method with multiple return points</problem_class>
+  <description>&lt;code&gt;sizeAsk&lt;/code&gt; has 3 return points #loc</description>
+  <highlighted_element>sizeAsk</highlighted_element>
+  <language>JAVA</language>
+  <offset>15</offset>
+  <length>7</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 14/student 14 (5).java</file>
+  <line>44</line>
+  <module>codeSmellsWork</module>
+  <package>game</package>
+  <entry_point TYPE="method" FQNAME="game.Controll boolean round()" />
+  <problem_class id="MultipleReturnPointsPerMethod" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Method with multiple return points</problem_class>
+  <description>&lt;code&gt;round&lt;/code&gt; has 3 return points #loc</description>
+  <highlighted_element>round</highlighted_element>
+  <language>JAVA</language>
+  <offset>20</offset>
+  <length>5</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 14/student 14 (8).java</file>
+  <line>11</line>
+  <module>codeSmellsWork</module>
+  <package>game</package>
+  <entry_point TYPE="method" FQNAME="game.mplayer int[] place()" />
+  <problem_class id="MultipleReturnPointsPerMethod" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Method with multiple return points</problem_class>
+  <description>&lt;code&gt;place&lt;/code&gt; has 3 return points #loc</description>
+  <highlighted_element>place</highlighted_element>
+  <language>JAVA</language>
+  <offset>17</offset>
+  <length>5</length>
+</problem>
+</problems>

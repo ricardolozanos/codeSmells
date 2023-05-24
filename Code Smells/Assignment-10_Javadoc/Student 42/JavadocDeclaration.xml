@@ -1,0 +1,93 @@
+<problems>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 42/Student 42.java</file>
+  <line>149</line>
+  <module>codeSmellsWork</module>
+  <package>&lt;default&gt;</package>
+  <entry_point TYPE="method" FQNAME="Board int countStonesInARow(int row, int col, Stone color)" />
+  <problem_class id="JavadocDeclaration" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Javadoc declaration problems</problem_class>
+  <description>&lt;code&gt;@param row&lt;/code&gt; tag description is missing</description>
+  <highlighted_element>row</highlighted_element>
+  <language>JAVA</language>
+  <offset>14</offset>
+  <length>3</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 42/Student 42.java</file>
+  <line>150</line>
+  <module>codeSmellsWork</module>
+  <package>&lt;default&gt;</package>
+  <entry_point TYPE="method" FQNAME="Board int countStonesInARow(int row, int col, Stone color)" />
+  <problem_class id="JavadocDeclaration" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Javadoc declaration problems</problem_class>
+  <description>&lt;code&gt;@param col&lt;/code&gt; tag description is missing</description>
+  <highlighted_element>col</highlighted_element>
+  <language>JAVA</language>
+  <offset>14</offset>
+  <length>3</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 42/Student 42.java</file>
+  <line>151</line>
+  <module>codeSmellsWork</module>
+  <package>&lt;default&gt;</package>
+  <entry_point TYPE="method" FQNAME="Board int countStonesInARow(int row, int col, Stone color)" />
+  <problem_class id="JavadocDeclaration" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Javadoc declaration problems</problem_class>
+  <description>&lt;code&gt;@param color&lt;/code&gt; tag description is missing</description>
+  <highlighted_element>color</highlighted_element>
+  <language>JAVA</language>
+  <offset>14</offset>
+  <length>5</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 42/Student 42.java</file>
+  <line>169</line>
+  <module>codeSmellsWork</module>
+  <package>&lt;default&gt;</package>
+  <entry_point TYPE="method" FQNAME="Board int[] getAdjacentRow(int row)" />
+  <problem_class id="JavadocDeclaration" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Javadoc declaration problems</problem_class>
+  <description>&lt;code&gt;@param row&lt;/code&gt; tag description is missing</description>
+  <highlighted_element>row</highlighted_element>
+  <language>JAVA</language>
+  <offset>14</offset>
+  <length>3</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 42/Student 42.java</file>
+  <line>181</line>
+  <module>codeSmellsWork</module>
+  <package>&lt;default&gt;</package>
+  <entry_point TYPE="method" FQNAME="Board int[] getAdjacentCol(int col)" />
+  <problem_class id="JavadocDeclaration" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Javadoc declaration problems</problem_class>
+  <description>&lt;code&gt;@param col&lt;/code&gt; tag description is missing</description>
+  <highlighted_element>col</highlighted_element>
+  <language>JAVA</language>
+  <offset>14</offset>
+  <length>3</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 42/Student 42.java</file>
+  <line>194</line>
+  <module>codeSmellsWork</module>
+  <package>&lt;default&gt;</package>
+  <entry_point TYPE="method" FQNAME="Board void removeStone(int x, int y)" />
+  <problem_class id="JavadocDeclaration" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Javadoc declaration problems</problem_class>
+  <description>&lt;code&gt;@param x&lt;/code&gt; tag description is missing</description>
+  <highlighted_element>x</highlighted_element>
+  <language>JAVA</language>
+  <offset>14</offset>
+  <length>1</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 42/Student 42.java</file>
+  <line>195</line>
+  <module>codeSmellsWork</module>
+  <package>&lt;default&gt;</package>
+  <entry_point TYPE="method" FQNAME="Board void removeStone(int x, int y)" />
+  <problem_class id="JavadocDeclaration" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Javadoc declaration problems</problem_class>
+  <description>&lt;code&gt;@param y&lt;/code&gt; tag description is missing</description>
+  <highlighted_element>y</highlighted_element>
+  <language>JAVA</language>
+  <offset>14</offset>
+  <length>1</length>
+</problem>
+</problems>

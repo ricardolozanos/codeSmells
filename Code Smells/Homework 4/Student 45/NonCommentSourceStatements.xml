@@ -1,0 +1,28 @@
+<problems>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 45/student 45 (7).java</file>
+  <line>13</line>
+  <module>codeSmellsWork</module>
+  <package>guiboard</package>
+  <entry_point TYPE="method" FQNAME="guiboard.Main Main(java.lang.String title)" />
+  <problem_class id="NonCommentSourceStatements" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Overly long method</problem_class>
+  <description>&lt;code&gt;Main&lt;/code&gt; is too long (# Non-comment source statements = 38) #loc</description>
+  <highlighted_element>Main</highlighted_element>
+  <language>JAVA</language>
+  <offset>11</offset>
+  <length>4</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 45/student 45 (8).java</file>
+  <line>15</line>
+  <module>codeSmellsWork</module>
+  <package>guiboard.panels</package>
+  <entry_point TYPE="method" FQNAME="guiboard.panels.MainPanel MainPanel()" />
+  <problem_class id="NonCommentSourceStatements" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Overly long method</problem_class>
+  <description>&lt;code&gt;MainPanel&lt;/code&gt; is too long (# Non-comment source statements = 46) #loc</description>
+  <highlighted_element>MainPanel</highlighted_element>
+  <language>JAVA</language>
+  <offset>11</offset>
+  <length>9</length>
+</problem>
+</problems>

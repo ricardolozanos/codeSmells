@@ -1,0 +1,41 @@
+<problems>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 11/student 11 (1).java</file>
+  <line>2</line>
+  <module>codeSmellsWork</module>
+  <package>&lt;default&gt;</package>
+  <entry_point TYPE="class" FQNAME="Function" />
+  <problem_class id="WrongPackageStatement" severity="ERROR" attribute_key="ERRORS_ATTRIBUTES">Wrong package statement</problem_class>
+  <description>Missing package statement but package name 'Student 11' which corresponds to the file path is invalid</description>
+  <highlighted_element>Function</highlighted_element>
+  <language>JAVA</language>
+  <offset>17</offset>
+  <length>8</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 11/student 11 (2).java</file>
+  <line>5</line>
+  <module>codeSmellsWork</module>
+  <package>&lt;default&gt;</package>
+  <entry_point TYPE="class" FQNAME="MultiPlotter" />
+  <problem_class id="WrongPackageStatement" severity="ERROR" attribute_key="ERRORS_ATTRIBUTES">Wrong package statement</problem_class>
+  <description>Missing package statement but package name 'Student 11' which corresponds to the file path is invalid</description>
+  <highlighted_element>MultiPlotter</highlighted_element>
+  <language>JAVA</language>
+  <offset>13</offset>
+  <length>12</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 11/student 11 (3).java</file>
+  <line>3</line>
+  <module>codeSmellsWork</module>
+  <package>&lt;default&gt;</package>
+  <entry_point TYPE="class" FQNAME="SineCosinePlotter" />
+  <problem_class id="WrongPackageStatement" severity="ERROR" attribute_key="ERRORS_ATTRIBUTES">Wrong package statement</problem_class>
+  <description>Missing package statement but package name 'Student 11' which corresponds to the file path is invalid</description>
+  <highlighted_element>SineCosinePlotter</highlighted_element>
+  <language>JAVA</language>
+  <offset>13</offset>
+  <length>17</length>
+</problem>
+</problems>

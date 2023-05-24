@@ -1,0 +1,51 @@
+<problems>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 21/student 21 (1).java</file>
+  <line>95</line>
+  <module>codeSmellsWork</module>
+  <package>noapplet.example</package>
+  <entry_point TYPE="method" FQNAME="noapplet.example.ChatDialogUI void connectClicked(java.awt.event.ActionEvent event)" />
+  <problem_class id="unused" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Unused declaration</problem_class>
+  <hints>
+    <hint value="event" />
+  </hints>
+  <description>Parameter &lt;code&gt;event&lt;/code&gt; is not used</description>
+  <highlighted_element>event</highlighted_element>
+  <language>JAVA</language>
+  <offset>42</offset>
+  <length>5</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 21/student 21 (1).java</file>
+  <line>114</line>
+  <module>codeSmellsWork</module>
+  <package>noapplet.example</package>
+  <entry_point TYPE="method" FQNAME="noapplet.example.ChatDialogUI void sendClicked(java.awt.event.ActionEvent event)" />
+  <problem_class id="unused" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Unused declaration</problem_class>
+  <hints>
+    <hint value="event" />
+  </hints>
+  <description>Parameter &lt;code&gt;event&lt;/code&gt; is not used</description>
+  <highlighted_element>event</highlighted_element>
+  <language>JAVA</language>
+  <offset>39</offset>
+  <length>5</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 21/student 21 (1).java</file>
+  <line>121</line>
+  <module>codeSmellsWork</module>
+  <package>noapplet.example</package>
+  <entry_point TYPE="method" FQNAME="noapplet.example.ChatDialogUI void warn(java.lang.String msg)" />
+  <language>JAVA</language>
+  <offset>15</offset>
+  <length>4</length>
+  <highlighted_element>warn</highlighted_element>
+  <problem_class id="unused" severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">unused declaration</problem_class>
+  <hints>
+    <hint value="comment" />
+    <hint value="delete" />
+  </hints>
+  <description>Method is never used.</description>
+</problem>
+</problems>

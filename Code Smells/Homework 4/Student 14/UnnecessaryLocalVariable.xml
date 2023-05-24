@@ -1,0 +1,15 @@
+<problems>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 14/student 14 (4).java</file>
+  <line>88</line>
+  <module>codeSmellsWork</module>
+  <package>game</package>
+  <entry_point TYPE="method" FQNAME="game.conoleUI int[] getpos(int player, java.util.Scanner k, omokGame game)" />
+  <problem_class id="UnnecessaryLocalVariable" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Redundant local variable</problem_class>
+  <description>Local variable &lt;code&gt;out&lt;/code&gt; is redundant #loc</description>
+  <highlighted_element>out</highlighted_element>
+  <language>JAVA</language>
+  <offset>30</offset>
+  <length>3</length>
+</problem>
+</problems>

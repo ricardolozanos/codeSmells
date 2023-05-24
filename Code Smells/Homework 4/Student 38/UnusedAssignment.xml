@@ -1,0 +1,15 @@
+<problems>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 38/student 38 (7).java</file>
+  <line>71</line>
+  <module>codeSmellsWork</module>
+  <package>&lt;default&gt;</package>
+  <entry_point TYPE="method" FQNAME="GUIInterface GUIInterface(Board board)" />
+  <problem_class id="UnusedAssignment" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Unused assignment</problem_class>
+  <description>Variable &lt;code&gt;result&lt;/code&gt; initializer &lt;code&gt;JOptionPane.YES_OPTION&lt;/code&gt; is redundant</description>
+  <highlighted_element>JOptionPane.YES_OPTION</highlighted_element>
+  <language>JAVA</language>
+  <offset>25</offset>
+  <length>22</length>
+</problem>
+</problems>

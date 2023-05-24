@@ -1,0 +1,33 @@
+<problems>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 15/Student 15.java</file>
+  <line>24</line>
+  <module>codeSmellsWork</module>
+  <package>&lt;default&gt;</package>
+  <entry_point TYPE="method" FQNAME="ChatDialog ChatDialog()" />
+  <language>JAVA</language>
+  <offset>11</offset>
+  <length>10</length>
+  <highlighted_element>ChatDialog</highlighted_element>
+  <problem_class id="unused" severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">unused declaration</problem_class>
+  <hints>
+    <hint value="comment" />
+    <hint value="delete" />
+  </hints>
+  <description>Constructor is never used.</description>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 15/Student 15.java</file>
+  <line>41</line>
+  <module>codeSmellsWork</module>
+  <package>&lt;default&gt;</package>
+  <entry_point TYPE="method" FQNAME="ChatDialog void configureGui()" />
+  <problem_class id="unused" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Unused declaration</problem_class>
+  <hints />
+  <description>Variable &lt;code&gt;toolBar&lt;/code&gt; is never used</description>
+  <highlighted_element>toolBar</highlighted_element>
+  <language>JAVA</language>
+  <offset>17</offset>
+  <length>7</length>
+</problem>
+</problems>

@@ -1,0 +1,236 @@
+<problems>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 06/student 06 (5).java</file>
+  <line>1</line>
+  <module>codeSmellsWork</module>
+  <package>&lt;default&gt;</package>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/src/Student 06/student 06 (5).java" />
+  <problem_class id="SingleClassImport" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Single class import</problem_class>
+  <description>Single class import &lt;code&gt;import java.io.InputStream;&lt;/code&gt; #loc</description>
+  <highlighted_element>import java.io.InputStream;</highlighted_element>
+  <language>JAVA</language>
+  <offset>0</offset>
+  <length>27</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 06/student 06 (5).java</file>
+  <line>2</line>
+  <module>codeSmellsWork</module>
+  <package>&lt;default&gt;</package>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/src/Student 06/student 06 (5).java" />
+  <problem_class id="SingleClassImport" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Single class import</problem_class>
+  <description>Single class import &lt;code&gt;import java.io.OutputStream;&lt;/code&gt; #loc</description>
+  <highlighted_element>import java.io.OutputStream;</highlighted_element>
+  <language>JAVA</language>
+  <offset>0</offset>
+  <length>28</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 06/student 06 (5).java</file>
+  <line>3</line>
+  <module>codeSmellsWork</module>
+  <package>&lt;default&gt;</package>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/src/Student 06/student 06 (5).java" />
+  <problem_class id="SingleClassImport" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Single class import</problem_class>
+  <description>Single class import &lt;code&gt;import java.io.PrintStream;&lt;/code&gt; #loc</description>
+  <highlighted_element>import java.io.PrintStream;</highlighted_element>
+  <language>JAVA</language>
+  <offset>0</offset>
+  <length>27</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 06/student 06 (5).java</file>
+  <line>4</line>
+  <module>codeSmellsWork</module>
+  <package>&lt;default&gt;</package>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/src/Student 06/student 06 (5).java" />
+  <problem_class id="SingleClassImport" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Single class import</problem_class>
+  <description>Single class import &lt;code&gt;import java.util.Scanner;&lt;/code&gt; #loc</description>
+  <highlighted_element>import java.util.Scanner;</highlighted_element>
+  <language>JAVA</language>
+  <offset>0</offset>
+  <length>25</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 06/student 06 (6).java</file>
+  <line>1</line>
+  <module>codeSmellsWork</module>
+  <package>&lt;default&gt;</package>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/src/Student 06/student 06 (6).java" />
+  <problem_class id="SingleClassImport" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Single class import</problem_class>
+  <description>Single class import &lt;code&gt;import org.junit.jupiter.api.Test;&lt;/code&gt; #loc</description>
+  <highlighted_element>import org.junit.jupiter.api.Test;</highlighted_element>
+  <language>JAVA</language>
+  <offset>0</offset>
+  <length>34</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 06/student 06 (6).java</file>
+  <line>3</line>
+  <module>codeSmellsWork</module>
+  <package>&lt;default&gt;</package>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/src/Student 06/student 06 (6).java" />
+  <problem_class id="SingleClassImport" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Single class import</problem_class>
+  <description>Single class import &lt;code&gt;import java.io.ByteArrayInputStream;&lt;/code&gt; #loc</description>
+  <highlighted_element>import java.io.ByteArrayInputStream;</highlighted_element>
+  <language>JAVA</language>
+  <offset>0</offset>
+  <length>36</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 06/student 06 (6).java</file>
+  <line>4</line>
+  <module>codeSmellsWork</module>
+  <package>&lt;default&gt;</package>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/src/Student 06/student 06 (6).java" />
+  <problem_class id="SingleClassImport" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Single class import</problem_class>
+  <description>Single class import &lt;code&gt;import java.io.ByteArrayOutputStream;&lt;/code&gt; #loc</description>
+  <highlighted_element>import java.io.ByteArrayOutputStream;</highlighted_element>
+  <language>JAVA</language>
+  <offset>0</offset>
+  <length>37</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 06/student 06 (6).java</file>
+  <line>5</line>
+  <module>codeSmellsWork</module>
+  <package>&lt;default&gt;</package>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/src/Student 06/student 06 (6).java" />
+  <problem_class id="SingleClassImport" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Single class import</problem_class>
+  <description>Single class import &lt;code&gt;import java.io.PrintStream;&lt;/code&gt; #loc</description>
+  <highlighted_element>import java.io.PrintStream;</highlighted_element>
+  <language>JAVA</language>
+  <offset>0</offset>
+  <length>27</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 06/student 06 (6).java</file>
+  <line>6</line>
+  <module>codeSmellsWork</module>
+  <package>&lt;default&gt;</package>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/src/Student 06/student 06 (6).java" />
+  <problem_class id="SingleClassImport" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Single class import</problem_class>
+  <description>Single class import &lt;code&gt;import java.io.InputStream;&lt;/code&gt; #loc</description>
+  <highlighted_element>import java.io.InputStream;</highlighted_element>
+  <language>JAVA</language>
+  <offset>0</offset>
+  <length>27</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 06/student 06 (6).java</file>
+  <line>7</line>
+  <module>codeSmellsWork</module>
+  <package>&lt;default&gt;</package>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/src/Student 06/student 06 (6).java" />
+  <problem_class id="SingleClassImport" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Single class import</problem_class>
+  <description>Single class import &lt;code&gt;import java.util.Scanner;&lt;/code&gt; #loc</description>
+  <highlighted_element>import java.util.Scanner;</highlighted_element>
+  <language>JAVA</language>
+  <offset>0</offset>
+  <length>25</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 06/student 06 (7).java</file>
+  <line>1</line>
+  <module>codeSmellsWork</module>
+  <package>&lt;default&gt;</package>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/src/Student 06/student 06 (7).java" />
+  <problem_class id="SingleClassImport" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Single class import</problem_class>
+  <description>Single class import &lt;code&gt;import java.util.ArrayList;&lt;/code&gt; #loc</description>
+  <highlighted_element>import java.util.ArrayList;</highlighted_element>
+  <language>JAVA</language>
+  <offset>0</offset>
+  <length>27</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 06/student 06 (7).java</file>
+  <line>2</line>
+  <module>codeSmellsWork</module>
+  <package>&lt;default&gt;</package>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/src/Student 06/student 06 (7).java" />
+  <problem_class id="SingleClassImport" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Single class import</problem_class>
+  <description>Single class import &lt;code&gt;import java.util.List;&lt;/code&gt; #loc</description>
+  <highlighted_element>import java.util.List;</highlighted_element>
+  <language>JAVA</language>
+  <offset>0</offset>
+  <length>22</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 06/student 06 (7).java</file>
+  <line>3</line>
+  <module>codeSmellsWork</module>
+  <package>&lt;default&gt;</package>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/src/Student 06/student 06 (7).java" />
+  <problem_class id="SingleClassImport" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Single class import</problem_class>
+  <description>Single class import &lt;code&gt;import java.util.HashSet;&lt;/code&gt; #loc</description>
+  <highlighted_element>import java.util.HashSet;</highlighted_element>
+  <language>JAVA</language>
+  <offset>0</offset>
+  <length>25</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 06/student 06 (7).java</file>
+  <line>4</line>
+  <module>codeSmellsWork</module>
+  <package>&lt;default&gt;</package>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/src/Student 06/student 06 (7).java" />
+  <problem_class id="SingleClassImport" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Single class import</problem_class>
+  <description>Single class import &lt;code&gt;import java.util.Set;&lt;/code&gt; #loc</description>
+  <highlighted_element>import java.util.Set;</highlighted_element>
+  <language>JAVA</language>
+  <offset>0</offset>
+  <length>21</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 06/student 06 (8).java</file>
+  <line>1</line>
+  <module>codeSmellsWork</module>
+  <package>&lt;default&gt;</package>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/src/Student 06/student 06 (8).java" />
+  <problem_class id="SingleClassImport" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Single class import</problem_class>
+  <description>Single class import &lt;code&gt;import java.util.Scanner;&lt;/code&gt; #loc</description>
+  <highlighted_element>import java.util.Scanner;</highlighted_element>
+  <language>JAVA</language>
+  <offset>0</offset>
+  <length>25</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 06/student 06 (9).java</file>
+  <line>1</line>
+  <module>codeSmellsWork</module>
+  <package>&lt;default&gt;</package>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/src/Student 06/student 06 (9).java" />
+  <problem_class id="SingleClassImport" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Single class import</problem_class>
+  <description>Single class import &lt;code&gt;import java.util.HashSet;&lt;/code&gt; #loc</description>
+  <highlighted_element>import java.util.HashSet;</highlighted_element>
+  <language>JAVA</language>
+  <offset>0</offset>
+  <length>25</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 06/student 06 (9).java</file>
+  <line>2</line>
+  <module>codeSmellsWork</module>
+  <package>&lt;default&gt;</package>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/src/Student 06/student 06 (9).java" />
+  <problem_class id="SingleClassImport" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Single class import</problem_class>
+  <description>Single class import &lt;code&gt;import java.util.Random;&lt;/code&gt; #loc</description>
+  <highlighted_element>import java.util.Random;</highlighted_element>
+  <language>JAVA</language>
+  <offset>0</offset>
+  <length>24</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 06/student 06 (9).java</file>
+  <line>3</line>
+  <module>codeSmellsWork</module>
+  <package>&lt;default&gt;</package>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/src/Student 06/student 06 (9).java" />
+  <problem_class id="SingleClassImport" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Single class import</problem_class>
+  <description>Single class import &lt;code&gt;import java.util.Set;&lt;/code&gt; #loc</description>
+  <highlighted_element>import java.util.Set;</highlighted_element>
+  <language>JAVA</language>
+  <offset>0</offset>
+  <length>21</length>
+</problem>
+</problems>

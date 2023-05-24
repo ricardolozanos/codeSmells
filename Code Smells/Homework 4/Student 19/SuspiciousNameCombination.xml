@@ -1,0 +1,41 @@
+<problems>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 19/student 19 (5).java</file>
+  <line>50</line>
+  <module>codeSmellsWork</module>
+  <package>omok</package>
+  <entry_point TYPE="method" FQNAME="omok.Game_Board boolean checkWin(Player activePlayer, int[] coord)" />
+  <problem_class id="SuspiciousNameCombination" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Suspicious variable/parameter name combination</problem_class>
+  <description>'y' should probably not be assigned to 'x'</description>
+  <highlighted_element>x</highlighted_element>
+  <language>JAVA</language>
+  <offset>3</offset>
+  <length>1</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 19/student 19 (5).java</file>
+  <line>53</line>
+  <module>codeSmellsWork</module>
+  <package>omok</package>
+  <entry_point TYPE="method" FQNAME="omok.Game_Board boolean checkWin(Player activePlayer, int[] coord)" />
+  <problem_class id="SuspiciousNameCombination" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Suspicious variable/parameter name combination</problem_class>
+  <description>'x' should probably not be assigned to 'y'</description>
+  <highlighted_element>y</highlighted_element>
+  <language>JAVA</language>
+  <offset>3</offset>
+  <length>1</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 19/student 19 (5).java</file>
+  <line>71</line>
+  <module>codeSmellsWork</module>
+  <package>omok</package>
+  <entry_point TYPE="method" FQNAME="omok.Game_Board boolean checkWin(Player activePlayer, int[] coord)" />
+  <problem_class id="SuspiciousNameCombination" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Suspicious variable/parameter name combination</problem_class>
+  <description>'x' should probably not be assigned to 'y'</description>
+  <highlighted_element>y</highlighted_element>
+  <language>JAVA</language>
+  <offset>3</offset>
+  <length>1</length>
+</problem>
+</problems>

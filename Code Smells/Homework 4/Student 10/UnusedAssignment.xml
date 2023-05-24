@@ -1,0 +1,28 @@
+<problems>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 10/student 10 (8).java</file>
+  <line>60</line>
+  <module>codeSmellsWork</module>
+  <package>omokGUI</package>
+  <entry_point TYPE="method" FQNAME="omokGUI.Board int convertToIndex(int x)" />
+  <problem_class id="UnusedAssignment" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Unused assignment</problem_class>
+  <description>Variable &lt;code&gt;valid&lt;/code&gt; initializer &lt;code&gt;0&lt;/code&gt; is redundant</description>
+  <highlighted_element>0</highlighted_element>
+  <language>JAVA</language>
+  <offset>16</offset>
+  <length>1</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 10/student 10 (8).java</file>
+  <line>61</line>
+  <module>codeSmellsWork</module>
+  <package>omokGUI</package>
+  <entry_point TYPE="method" FQNAME="omokGUI.Board int convertToIndex(int x)" />
+  <problem_class id="UnusedAssignment" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Unused assignment</problem_class>
+  <description>Variable &lt;code&gt;valid2&lt;/code&gt; initializer &lt;code&gt;0&lt;/code&gt; is redundant</description>
+  <highlighted_element>0</highlighted_element>
+  <language>JAVA</language>
+  <offset>15</offset>
+  <length>1</length>
+</problem>
+</problems>

@@ -1,0 +1,613 @@
+<problems>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 14/student 14 (1).java</file>
+  <line>3</line>
+  <module>codeSmellsWork</module>
+  <package>game</package>
+  <entry_point TYPE="class" FQNAME="game.App" />
+  <problem_class id="MissingJavadoc" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Missing Javadoc</problem_class>
+  <description>Required Javadoc is absent</description>
+  <highlighted_element>App</highlighted_element>
+  <language>JAVA</language>
+  <offset>13</offset>
+  <length>3</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 14/student 14 (1).java</file>
+  <line>4</line>
+  <module>codeSmellsWork</module>
+  <package>game</package>
+  <entry_point TYPE="method" FQNAME="game.App void main(java.lang.String[] args)" />
+  <problem_class id="MissingJavadoc" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Missing Javadoc</problem_class>
+  <description>Required tag &lt;code&gt;@param&lt;/code&gt; is missing for parameter &lt;code&gt;args&lt;/code&gt;</description>
+  <highlighted_element>/**</highlighted_element>
+  <language>JAVA</language>
+  <offset>4</offset>
+  <length>3</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 14/student 14 (1).java</file>
+  <line>4</line>
+  <module>codeSmellsWork</module>
+  <package>game</package>
+  <entry_point TYPE="method" FQNAME="game.App void main(java.lang.String[] args)" />
+  <problem_class id="MissingJavadoc" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Missing Javadoc</problem_class>
+  <description>Required tag &lt;code&gt;@throws&lt;/code&gt; java.lang.Exception is missing</description>
+  <highlighted_element>/**</highlighted_element>
+  <language>JAVA</language>
+  <offset>4</offset>
+  <length>3</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 14/student 14 (10).java</file>
+  <line>30</line>
+  <module>codeSmellsWork</module>
+  <package>game.GUI</package>
+  <entry_point TYPE="method" FQNAME="game.GUI.Omokui Omokui()" />
+  <problem_class id="MissingJavadoc" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Missing Javadoc</problem_class>
+  <description>Required Javadoc is absent</description>
+  <highlighted_element>Omokui</highlighted_element>
+  <language>JAVA</language>
+  <offset>11</offset>
+  <length>6</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 14/student 14 (10).java</file>
+  <line>217</line>
+  <module>codeSmellsWork</module>
+  <package>game.GUI</package>
+  <entry_point TYPE="method" FQNAME="game.GUI.Omokui void main(java.lang.String[] args)" />
+  <problem_class id="MissingJavadoc" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Missing Javadoc</problem_class>
+  <description>Required Javadoc is absent</description>
+  <highlighted_element>main</highlighted_element>
+  <language>JAVA</language>
+  <offset>23</offset>
+  <length>4</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 14/student 14 (11).java</file>
+  <line>9</line>
+  <module>codeSmellsWork</module>
+  <package>game</package>
+  <entry_point TYPE="method" FQNAME="game.player player(board field, java.lang.String token)" />
+  <problem_class id="MissingJavadoc" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Missing Javadoc</problem_class>
+  <description>Required Javadoc is absent</description>
+  <highlighted_element>player</highlighted_element>
+  <language>JAVA</language>
+  <offset>11</offset>
+  <length>6</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 14/student 14 (11).java</file>
+  <line>14</line>
+  <module>codeSmellsWork</module>
+  <package>game</package>
+  <entry_point TYPE="method" FQNAME="game.player int[] place(int[] places)" />
+  <problem_class id="MissingJavadoc" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Missing Javadoc</problem_class>
+  <description>Required Javadoc is absent</description>
+  <highlighted_element>place</highlighted_element>
+  <language>JAVA</language>
+  <offset>17</offset>
+  <length>5</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 14/student 14 (11).java</file>
+  <line>18</line>
+  <module>codeSmellsWork</module>
+  <package>game</package>
+  <entry_point TYPE="method" FQNAME="game.player int[] place()" />
+  <problem_class id="MissingJavadoc" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Missing Javadoc</problem_class>
+  <description>Required tag &lt;code&gt;@return&lt;/code&gt; is missing</description>
+  <highlighted_element>/**</highlighted_element>
+  <language>JAVA</language>
+  <offset>4</offset>
+  <length>3</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 14/student 14 (2).java</file>
+  <line>8</line>
+  <module>codeSmellsWork</module>
+  <package>game</package>
+  <entry_point TYPE="field" FQNAME="game.board blockneed" />
+  <problem_class id="MissingJavadoc" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Missing Javadoc</problem_class>
+  <description>Required Javadoc is absent</description>
+  <highlighted_element>blockneed</highlighted_element>
+  <language>JAVA</language>
+  <offset>17</offset>
+  <length>9</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 14/student 14 (2).java</file>
+  <line>9</line>
+  <module>codeSmellsWork</module>
+  <package>game</package>
+  <entry_point TYPE="field" FQNAME="game.board aiwin" />
+  <problem_class id="MissingJavadoc" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Missing Javadoc</problem_class>
+  <description>Required Javadoc is absent</description>
+  <highlighted_element>aiwin</highlighted_element>
+  <language>JAVA</language>
+  <offset>17</offset>
+  <length>5</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 14/student 14 (2).java</file>
+  <line>11</line>
+  <module>codeSmellsWork</module>
+  <package>game</package>
+  <entry_point TYPE="method" FQNAME="game.board board(java.lang.String[][] field)" />
+  <problem_class id="MissingJavadoc" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Missing Javadoc</problem_class>
+  <description>Required Javadoc is absent</description>
+  <highlighted_element>board</highlighted_element>
+  <language>JAVA</language>
+  <offset>11</offset>
+  <length>5</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 14/student 14 (2).java</file>
+  <line>18</line>
+  <module>codeSmellsWork</module>
+  <package>game</package>
+  <entry_point TYPE="method" FQNAME="game.board board(int size)" />
+  <problem_class id="MissingJavadoc" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Missing Javadoc</problem_class>
+  <description>Required Javadoc is absent</description>
+  <highlighted_element>board</highlighted_element>
+  <language>JAVA</language>
+  <offset>11</offset>
+  <length>5</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 14/student 14 (2).java</file>
+  <line>21</line>
+  <module>codeSmellsWork</module>
+  <package>game</package>
+  <entry_point TYPE="method" FQNAME="game.board java.lang.String[][] getboard()" />
+  <problem_class id="MissingJavadoc" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Missing Javadoc</problem_class>
+  <description>Required tag &lt;code&gt;@return&lt;/code&gt; is missing</description>
+  <highlighted_element>/**</highlighted_element>
+  <language>JAVA</language>
+  <offset>4</offset>
+  <length>3</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 14/student 14 (2).java</file>
+  <line>26</line>
+  <module>codeSmellsWork</module>
+  <package>game</package>
+  <entry_point TYPE="method" FQNAME="game.board boolean windetect(int[] lastPlaced)" />
+  <problem_class id="MissingJavadoc" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Missing Javadoc</problem_class>
+  <description>Required tag &lt;code&gt;@param&lt;/code&gt; is missing for parameter &lt;code&gt;lastPlaced&lt;/code&gt;</description>
+  <highlighted_element>/**</highlighted_element>
+  <language>JAVA</language>
+  <offset>4</offset>
+  <length>3</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 14/student 14 (2).java</file>
+  <line>26</line>
+  <module>codeSmellsWork</module>
+  <package>game</package>
+  <entry_point TYPE="method" FQNAME="game.board boolean windetect(int[] lastPlaced)" />
+  <problem_class id="MissingJavadoc" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Missing Javadoc</problem_class>
+  <description>Required tag &lt;code&gt;@return&lt;/code&gt; is missing</description>
+  <highlighted_element>/**</highlighted_element>
+  <language>JAVA</language>
+  <offset>4</offset>
+  <length>3</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 14/student 14 (2).java</file>
+  <line>290</line>
+  <module>codeSmellsWork</module>
+  <package>game</package>
+  <entry_point TYPE="method" FQNAME="game.board boolean isfull()" />
+  <problem_class id="MissingJavadoc" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Missing Javadoc</problem_class>
+  <description>Required tag &lt;code&gt;@return&lt;/code&gt; is missing</description>
+  <highlighted_element>/**</highlighted_element>
+  <language>JAVA</language>
+  <offset>4</offset>
+  <length>3</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 14/student 14 (2).java</file>
+  <line>303</line>
+  <module>codeSmellsWork</module>
+  <package>game</package>
+  <entry_point TYPE="method" FQNAME="game.board void showwinn(java.lang.String[] wincords)" />
+  <problem_class id="MissingJavadoc" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Missing Javadoc</problem_class>
+  <description>Required tag &lt;code&gt;@param&lt;/code&gt; is missing for parameter &lt;code&gt;wincords&lt;/code&gt;</description>
+  <highlighted_element>/**</highlighted_element>
+  <language>JAVA</language>
+  <offset>4</offset>
+  <length>3</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 14/student 14 (3).java</file>
+  <line>12</line>
+  <module>codeSmellsWork</module>
+  <package>game.GUI</package>
+  <entry_point TYPE="class" FQNAME="game.GUI.Bordwig" />
+  <problem_class id="MissingJavadoc" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Missing Javadoc</problem_class>
+  <description>Required Javadoc is absent</description>
+  <highlighted_element>Bordwig</highlighted_element>
+  <language>JAVA</language>
+  <offset>13</offset>
+  <length>7</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 14/student 14 (3).java</file>
+  <line>18</line>
+  <module>codeSmellsWork</module>
+  <package>game.GUI</package>
+  <entry_point TYPE="method" FQNAME="game.GUI.Bordwig Bordwig(board field)" />
+  <problem_class id="MissingJavadoc" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Missing Javadoc</problem_class>
+  <description>Required Javadoc is absent</description>
+  <highlighted_element>Bordwig</highlighted_element>
+  <language>JAVA</language>
+  <offset>11</offset>
+  <length>7</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 14/student 14 (3).java</file>
+  <line>21</line>
+  <module>codeSmellsWork</module>
+  <package>game.GUI</package>
+  <entry_point TYPE="method" FQNAME="game.GUI.Bordwig Bordwig()" />
+  <problem_class id="MissingJavadoc" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Missing Javadoc</problem_class>
+  <description>Required Javadoc is absent</description>
+  <highlighted_element>Bordwig</highlighted_element>
+  <language>JAVA</language>
+  <offset>11</offset>
+  <length>7</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 14/student 14 (4).java</file>
+  <line>10</line>
+  <module>codeSmellsWork</module>
+  <package>game</package>
+  <entry_point TYPE="method" FQNAME="game.conoleUI conoleUI(java.io.PrintStream out)" />
+  <problem_class id="MissingJavadoc" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Missing Javadoc</problem_class>
+  <description>Required Javadoc is absent</description>
+  <highlighted_element>conoleUI</highlighted_element>
+  <language>JAVA</language>
+  <offset>11</offset>
+  <length>8</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 14/student 14 (4).java</file>
+  <line>13</line>
+  <module>codeSmellsWork</module>
+  <package>game</package>
+  <entry_point TYPE="method" FQNAME="game.conoleUI conoleUI()" />
+  <problem_class id="MissingJavadoc" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Missing Javadoc</problem_class>
+  <description>Required Javadoc is absent</description>
+  <highlighted_element>conoleUI</highlighted_element>
+  <language>JAVA</language>
+  <offset>11</offset>
+  <length>8</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 14/student 14 (4).java</file>
+  <line>20</line>
+  <module>codeSmellsWork</module>
+  <package>game</package>
+  <entry_point TYPE="method" FQNAME="game.conoleUI java.lang.Boolean endgame(java.util.Scanner k)" />
+  <problem_class id="MissingJavadoc" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Missing Javadoc</problem_class>
+  <description>Required tag &lt;code&gt;@param&lt;/code&gt; is missing for parameter &lt;code&gt;k&lt;/code&gt;</description>
+  <highlighted_element>/**</highlighted_element>
+  <language>JAVA</language>
+  <offset>4</offset>
+  <length>3</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 14/student 14 (4).java</file>
+  <line>20</line>
+  <module>codeSmellsWork</module>
+  <package>game</package>
+  <entry_point TYPE="method" FQNAME="game.conoleUI java.lang.Boolean endgame(java.util.Scanner k)" />
+  <problem_class id="MissingJavadoc" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Missing Javadoc</problem_class>
+  <description>Required tag &lt;code&gt;@return&lt;/code&gt; is missing</description>
+  <highlighted_element>/**</highlighted_element>
+  <language>JAVA</language>
+  <offset>4</offset>
+  <length>3</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 14/student 14 (4).java</file>
+  <line>34</line>
+  <module>codeSmellsWork</module>
+  <package>game</package>
+  <entry_point TYPE="method" FQNAME="game.conoleUI int gameselect(java.util.Scanner k)" />
+  <problem_class id="MissingJavadoc" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Missing Javadoc</problem_class>
+  <description>Required tag &lt;code&gt;@param&lt;/code&gt; is missing for parameter &lt;code&gt;k&lt;/code&gt;</description>
+  <highlighted_element>/**</highlighted_element>
+  <language>JAVA</language>
+  <offset>4</offset>
+  <length>3</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 14/student 14 (4).java</file>
+  <line>34</line>
+  <module>codeSmellsWork</module>
+  <package>game</package>
+  <entry_point TYPE="method" FQNAME="game.conoleUI int gameselect(java.util.Scanner k)" />
+  <problem_class id="MissingJavadoc" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Missing Javadoc</problem_class>
+  <description>Required tag &lt;code&gt;@return&lt;/code&gt; is missing</description>
+  <highlighted_element>/**</highlighted_element>
+  <language>JAVA</language>
+  <offset>4</offset>
+  <length>3</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 14/student 14 (4).java</file>
+  <line>56</line>
+  <module>codeSmellsWork</module>
+  <package>game</package>
+  <entry_point TYPE="method" FQNAME="game.conoleUI void drawBoard(omokGame game)" />
+  <problem_class id="MissingJavadoc" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Missing Javadoc</problem_class>
+  <description>Required tag &lt;code&gt;@param&lt;/code&gt; is missing for parameter &lt;code&gt;game&lt;/code&gt;</description>
+  <highlighted_element>/**</highlighted_element>
+  <language>JAVA</language>
+  <offset>4</offset>
+  <length>3</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 14/student 14 (4).java</file>
+  <line>74</line>
+  <module>codeSmellsWork</module>
+  <package>game</package>
+  <entry_point TYPE="method" FQNAME="game.conoleUI int[] getpos(int player, java.util.Scanner k, omokGame game)" />
+  <problem_class id="MissingJavadoc" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Missing Javadoc</problem_class>
+  <description>Required tag &lt;code&gt;@param&lt;/code&gt; is missing for parameter &lt;code&gt;game&lt;/code&gt;</description>
+  <highlighted_element>/**</highlighted_element>
+  <language>JAVA</language>
+  <offset>4</offset>
+  <length>3</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 14/student 14 (4).java</file>
+  <line>74</line>
+  <module>codeSmellsWork</module>
+  <package>game</package>
+  <entry_point TYPE="method" FQNAME="game.conoleUI int[] getpos(int player, java.util.Scanner k, omokGame game)" />
+  <problem_class id="MissingJavadoc" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Missing Javadoc</problem_class>
+  <description>Required tag &lt;code&gt;@param&lt;/code&gt; is missing for parameter &lt;code&gt;k&lt;/code&gt;</description>
+  <highlighted_element>/**</highlighted_element>
+  <language>JAVA</language>
+  <offset>4</offset>
+  <length>3</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 14/student 14 (4).java</file>
+  <line>74</line>
+  <module>codeSmellsWork</module>
+  <package>game</package>
+  <entry_point TYPE="method" FQNAME="game.conoleUI int[] getpos(int player, java.util.Scanner k, omokGame game)" />
+  <problem_class id="MissingJavadoc" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Missing Javadoc</problem_class>
+  <description>Required tag &lt;code&gt;@param&lt;/code&gt; is missing for parameter &lt;code&gt;player&lt;/code&gt;</description>
+  <highlighted_element>/**</highlighted_element>
+  <language>JAVA</language>
+  <offset>4</offset>
+  <length>3</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 14/student 14 (4).java</file>
+  <line>74</line>
+  <module>codeSmellsWork</module>
+  <package>game</package>
+  <entry_point TYPE="method" FQNAME="game.conoleUI int[] getpos(int player, java.util.Scanner k, omokGame game)" />
+  <problem_class id="MissingJavadoc" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Missing Javadoc</problem_class>
+  <description>Required tag &lt;code&gt;@return&lt;/code&gt; is missing</description>
+  <highlighted_element>/**</highlighted_element>
+  <language>JAVA</language>
+  <offset>4</offset>
+  <length>3</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 14/student 14 (4).java</file>
+  <line>100</line>
+  <module>codeSmellsWork</module>
+  <package>game</package>
+  <entry_point TYPE="method" FQNAME="game.conoleUI int sizeAsk(java.util.Scanner k)" />
+  <problem_class id="MissingJavadoc" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Missing Javadoc</problem_class>
+  <description>Required tag &lt;code&gt;@param&lt;/code&gt; is missing for parameter &lt;code&gt;k&lt;/code&gt;</description>
+  <highlighted_element>/**</highlighted_element>
+  <language>JAVA</language>
+  <offset>4</offset>
+  <length>3</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 14/student 14 (4).java</file>
+  <line>100</line>
+  <module>codeSmellsWork</module>
+  <package>game</package>
+  <entry_point TYPE="method" FQNAME="game.conoleUI int sizeAsk(java.util.Scanner k)" />
+  <problem_class id="MissingJavadoc" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Missing Javadoc</problem_class>
+  <description>Required tag &lt;code&gt;@return&lt;/code&gt; is missing</description>
+  <highlighted_element>/**</highlighted_element>
+  <language>JAVA</language>
+  <offset>4</offset>
+  <length>3</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 14/student 14 (4).java</file>
+  <line>121</line>
+  <module>codeSmellsWork</module>
+  <package>game</package>
+  <entry_point TYPE="method" FQNAME="game.conoleUI boolean printwinner(int curplayer, omokGame game)" />
+  <problem_class id="MissingJavadoc" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Missing Javadoc</problem_class>
+  <description>Required tag &lt;code&gt;@param&lt;/code&gt; is missing for parameter &lt;code&gt;curplayer&lt;/code&gt;</description>
+  <highlighted_element>/**</highlighted_element>
+  <language>JAVA</language>
+  <offset>4</offset>
+  <length>3</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 14/student 14 (4).java</file>
+  <line>121</line>
+  <module>codeSmellsWork</module>
+  <package>game</package>
+  <entry_point TYPE="method" FQNAME="game.conoleUI boolean printwinner(int curplayer, omokGame game)" />
+  <problem_class id="MissingJavadoc" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Missing Javadoc</problem_class>
+  <description>Required tag &lt;code&gt;@param&lt;/code&gt; is missing for parameter &lt;code&gt;game&lt;/code&gt;</description>
+  <highlighted_element>/**</highlighted_element>
+  <language>JAVA</language>
+  <offset>4</offset>
+  <length>3</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 14/student 14 (4).java</file>
+  <line>121</line>
+  <module>codeSmellsWork</module>
+  <package>game</package>
+  <entry_point TYPE="method" FQNAME="game.conoleUI boolean printwinner(int curplayer, omokGame game)" />
+  <problem_class id="MissingJavadoc" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Missing Javadoc</problem_class>
+  <description>Required tag &lt;code&gt;@return&lt;/code&gt; is missing</description>
+  <highlighted_element>/**</highlighted_element>
+  <language>JAVA</language>
+  <offset>4</offset>
+  <length>3</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 14/student 14 (5).java</file>
+  <line>15</line>
+  <module>codeSmellsWork</module>
+  <package>game</package>
+  <entry_point TYPE="method" FQNAME="game.Controll Controll(java.io.InputStream in, java.io.PrintStream out)" />
+  <problem_class id="MissingJavadoc" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Missing Javadoc</problem_class>
+  <description>Required Javadoc is absent</description>
+  <highlighted_element>Controll</highlighted_element>
+  <language>JAVA</language>
+  <offset>11</offset>
+  <length>8</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 14/student 14 (6).java</file>
+  <line>6</line>
+  <module>codeSmellsWork</module>
+  <package>game</package>
+  <entry_point TYPE="method" FQNAME="game.hplayer hplayer(board field, java.lang.String token)" />
+  <problem_class id="MissingJavadoc" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Missing Javadoc</problem_class>
+  <description>Required Javadoc is absent</description>
+  <highlighted_element>hplayer</highlighted_element>
+  <language>JAVA</language>
+  <offset>11</offset>
+  <length>7</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 14/student 14 (7).java</file>
+  <line>3</line>
+  <module>codeSmellsWork</module>
+  <package>game.GUI</package>
+  <entry_point TYPE="class" FQNAME="game.GUI.main" />
+  <problem_class id="MissingJavadoc" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Missing Javadoc</problem_class>
+  <description>Required Javadoc is absent</description>
+  <highlighted_element>main</highlighted_element>
+  <language>JAVA</language>
+  <offset>13</offset>
+  <length>4</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 14/student 14 (7).java</file>
+  <line>4</line>
+  <module>codeSmellsWork</module>
+  <package>game.GUI</package>
+  <entry_point TYPE="method" FQNAME="game.GUI.main void main(java.lang.String[] args)" />
+  <problem_class id="MissingJavadoc" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Missing Javadoc</problem_class>
+  <description>Required tag &lt;code&gt;@param&lt;/code&gt; is missing for parameter &lt;code&gt;args&lt;/code&gt;</description>
+  <highlighted_element>/**</highlighted_element>
+  <language>JAVA</language>
+  <offset>4</offset>
+  <length>3</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 14/student 14 (7).java</file>
+  <line>4</line>
+  <module>codeSmellsWork</module>
+  <package>game.GUI</package>
+  <entry_point TYPE="method" FQNAME="game.GUI.main void main(java.lang.String[] args)" />
+  <problem_class id="MissingJavadoc" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Missing Javadoc</problem_class>
+  <description>Required tag &lt;code&gt;@throws&lt;/code&gt; java.lang.Exception is missing</description>
+  <highlighted_element>/**</highlighted_element>
+  <language>JAVA</language>
+  <offset>4</offset>
+  <length>3</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 14/student 14 (8).java</file>
+  <line>6</line>
+  <module>codeSmellsWork</module>
+  <package>game</package>
+  <entry_point TYPE="method" FQNAME="game.mplayer mplayer(board field, java.lang.String token)" />
+  <problem_class id="MissingJavadoc" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Missing Javadoc</problem_class>
+  <description>Required Javadoc is absent</description>
+  <highlighted_element>mplayer</highlighted_element>
+  <language>JAVA</language>
+  <offset>11</offset>
+  <length>7</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 14/student 14 (8).java</file>
+  <line>10</line>
+  <module>codeSmellsWork</module>
+  <package>game</package>
+  <entry_point TYPE="method" FQNAME="game.mplayer int[] place()" />
+  <problem_class id="MissingJavadoc" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Missing Javadoc</problem_class>
+  <description>Required tag &lt;code&gt;@return&lt;/code&gt; is missing</description>
+  <highlighted_element>/**</highlighted_element>
+  <language>JAVA</language>
+  <offset>4</offset>
+  <length>3</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 14/student 14 (9).java</file>
+  <line>13</line>
+  <module>codeSmellsWork</module>
+  <package>game</package>
+  <entry_point TYPE="field" FQNAME="game.omokGame players" />
+  <problem_class id="MissingJavadoc" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Missing Javadoc</problem_class>
+  <description>Required Javadoc is absent</description>
+  <highlighted_element>players</highlighted_element>
+  <language>JAVA</language>
+  <offset>20</offset>
+  <length>7</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 14/student 14 (9).java</file>
+  <line>15</line>
+  <module>codeSmellsWork</module>
+  <package>game</package>
+  <entry_point TYPE="method" FQNAME="game.omokGame omokGame(int type, int size)" />
+  <problem_class id="MissingJavadoc" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Missing Javadoc</problem_class>
+  <description>Required tag &lt;code&gt;@param&lt;/code&gt; is missing for parameter &lt;code&gt;size&lt;/code&gt;</description>
+  <highlighted_element>/**</highlighted_element>
+  <language>JAVA</language>
+  <offset>4</offset>
+  <length>3</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 14/student 14 (9).java</file>
+  <line>34</line>
+  <module>codeSmellsWork</module>
+  <package>game</package>
+  <entry_point TYPE="method" FQNAME="game.omokGame int getplayer()" />
+  <problem_class id="MissingJavadoc" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Missing Javadoc</problem_class>
+  <description>Required tag &lt;code&gt;@return&lt;/code&gt; is missing</description>
+  <highlighted_element>/**</highlighted_element>
+  <language>JAVA</language>
+  <offset>4</offset>
+  <length>3</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 14/student 14 (9).java</file>
+  <line>45</line>
+  <module>codeSmellsWork</module>
+  <package>game</package>
+  <entry_point TYPE="method" FQNAME="game.omokGame board gamespace()" />
+  <problem_class id="MissingJavadoc" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Missing Javadoc</problem_class>
+  <description>Required Javadoc is absent</description>
+  <highlighted_element>gamespace</highlighted_element>
+  <language>JAVA</language>
+  <offset>17</offset>
+  <length>9</length>
+</problem>
+</problems>

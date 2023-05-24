@@ -1,0 +1,34 @@
+Name: Estrella Lara (eblara)
+Assignment: Exercise: Balloon
+Date Submitted: Sunday, February 5, 2023 11:52:21 PM MST
+Current Grade: 10.00
+
+Submission Field:
+There is no student submission text data for this assignment.
+
+Comments:
+Good afternoon to whom it corresponds,
+
+I apologize I did not follow exactly the instructions about the subclass and I created several similar files. I am still trying to figure out how to complete these kinds of homework. I will be going to office hours this week to catch up and ask for help (my schedule didn't allow me to go last week), I hope you understand.
+
+Thank you so much!
+
+Files:
+	Original filename: MyFrame2.java
+	Filename: Exercise_ Balloon_eblara_attempt_2023-02-05-23-52-21_MyFrame2.java
+
+	Original filename: Main.java
+	Filename: Exercise_ Balloon_eblara_attempt_2023-02-05-23-52-21_Main.java
+
+	Original filename: Balloon2.java
+	Filename: Exercise_ Balloon_eblara_attempt_2023-02-05-23-52-21_Balloon2.java
+
+	Original filename: MyFrame.java
+	Filename: Exercise_ Balloon_eblara_attempt_2023-02-05-23-52-21_MyFrame.java
+
+	Original filename: Balloon.java
+	Filename: Exercise_ Balloon_eblara_attempt_2023-02-05-23-52-21_Balloon.java
+
+	Original filename: Main2.java
+	Filename: Exercise_ Balloon_eblara_attempt_2023-02-05-23-52-21_Main2.java
+

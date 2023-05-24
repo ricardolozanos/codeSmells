@@ -1,0 +1,119 @@
+<problems>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 32/student 32.java</file>
+  <line>72</line>
+  <module>codeSmellsWork</module>
+  <package>noapplet.drawingBoard</package>
+  <entry_point TYPE="field" FQNAME="noapplet.drawingBoard.Triangle x" />
+  <problem_class id="FieldMayBeFinal" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Field may be 'final'</problem_class>
+  <description>Field &lt;code&gt;x&lt;/code&gt; may be 'final' #loc</description>
+  <highlighted_element>x</highlighted_element>
+  <language>JAVA</language>
+  <offset>19</offset>
+  <length>1</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 32/student 32.java</file>
+  <line>73</line>
+  <module>codeSmellsWork</module>
+  <package>noapplet.drawingBoard</package>
+  <entry_point TYPE="field" FQNAME="noapplet.drawingBoard.Triangle y" />
+  <problem_class id="FieldMayBeFinal" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Field may be 'final'</problem_class>
+  <description>Field &lt;code&gt;y&lt;/code&gt; may be 'final' #loc</description>
+  <highlighted_element>y</highlighted_element>
+  <language>JAVA</language>
+  <offset>19</offset>
+  <length>1</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 32/student 32.java</file>
+  <line>74</line>
+  <module>codeSmellsWork</module>
+  <package>noapplet.drawingBoard</package>
+  <entry_point TYPE="field" FQNAME="noapplet.drawingBoard.Triangle size" />
+  <problem_class id="FieldMayBeFinal" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Field may be 'final'</problem_class>
+  <description>Field &lt;code&gt;size&lt;/code&gt; may be 'final' #loc</description>
+  <highlighted_element>size</highlighted_element>
+  <language>JAVA</language>
+  <offset>16</offset>
+  <length>4</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 32/student 32.java</file>
+  <line>86</line>
+  <module>codeSmellsWork</module>
+  <package>noapplet.drawingBoard</package>
+  <entry_point TYPE="field" FQNAME="noapplet.drawingBoard.circle x" />
+  <problem_class id="FieldMayBeFinal" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Field may be 'final'</problem_class>
+  <description>Field &lt;code&gt;x&lt;/code&gt; may be 'final' #loc</description>
+  <highlighted_element>x</highlighted_element>
+  <language>JAVA</language>
+  <offset>16</offset>
+  <length>1</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 32/student 32.java</file>
+  <line>86</line>
+  <module>codeSmellsWork</module>
+  <package>noapplet.drawingBoard</package>
+  <entry_point TYPE="field" FQNAME="noapplet.drawingBoard.circle y" />
+  <problem_class id="FieldMayBeFinal" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Field may be 'final'</problem_class>
+  <description>Field &lt;code&gt;y&lt;/code&gt; may be 'final' #loc</description>
+  <highlighted_element>y</highlighted_element>
+  <language>JAVA</language>
+  <offset>19</offset>
+  <length>1</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 32/student 32.java</file>
+  <line>87</line>
+  <module>codeSmellsWork</module>
+  <package>noapplet.drawingBoard</package>
+  <entry_point TYPE="field" FQNAME="noapplet.drawingBoard.circle size" />
+  <problem_class id="FieldMayBeFinal" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Field may be 'final'</problem_class>
+  <description>Field &lt;code&gt;size&lt;/code&gt; may be 'final' #loc</description>
+  <highlighted_element>size</highlighted_element>
+  <language>JAVA</language>
+  <offset>16</offset>
+  <length>4</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 32/student 32.java</file>
+  <line>99</line>
+  <module>codeSmellsWork</module>
+  <package>noapplet.drawingBoard</package>
+  <entry_point TYPE="field" FQNAME="noapplet.drawingBoard.square x" />
+  <problem_class id="FieldMayBeFinal" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Field may be 'final'</problem_class>
+  <description>Field &lt;code&gt;x&lt;/code&gt; may be 'final' #loc</description>
+  <highlighted_element>x</highlighted_element>
+  <language>JAVA</language>
+  <offset>16</offset>
+  <length>1</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 32/student 32.java</file>
+  <line>99</line>
+  <module>codeSmellsWork</module>
+  <package>noapplet.drawingBoard</package>
+  <entry_point TYPE="field" FQNAME="noapplet.drawingBoard.square y" />
+  <problem_class id="FieldMayBeFinal" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Field may be 'final'</problem_class>
+  <description>Field &lt;code&gt;y&lt;/code&gt; may be 'final' #loc</description>
+  <highlighted_element>y</highlighted_element>
+  <language>JAVA</language>
+  <offset>18</offset>
+  <length>1</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 32/student 32.java</file>
+  <line>100</line>
+  <module>codeSmellsWork</module>
+  <package>noapplet.drawingBoard</package>
+  <entry_point TYPE="field" FQNAME="noapplet.drawingBoard.square size" />
+  <problem_class id="FieldMayBeFinal" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Field may be 'final'</problem_class>
+  <description>Field &lt;code&gt;size&lt;/code&gt; may be 'final' #loc</description>
+  <highlighted_element>size</highlighted_element>
+  <language>JAVA</language>
+  <offset>16</offset>
+  <length>4</length>
+</problem>
+</problems>

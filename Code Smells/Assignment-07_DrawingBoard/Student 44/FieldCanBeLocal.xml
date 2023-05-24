@@ -1,0 +1,28 @@
+<problems>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 44/student 44.java</file>
+  <line>10</line>
+  <module>codeSmellsWork</module>
+  <package>noapplet</package>
+  <entry_point TYPE="field" FQNAME="noapplet.DrawingShapes timer" />
+  <problem_class id="FieldCanBeLocal" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Field can be local</problem_class>
+  <description>Field can be converted to a local variable</description>
+  <highlighted_element>timer</highlighted_element>
+  <language>JAVA</language>
+  <offset>18</offset>
+  <length>5</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 44/student 44.java</file>
+  <line>73</line>
+  <module>codeSmellsWork</module>
+  <package>noapplet</package>
+  <entry_point TYPE="field" FQNAME="noapplet.Triangle size" />
+  <problem_class id="FieldCanBeLocal" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Field can be local</problem_class>
+  <description>Field can be converted to a local variable</description>
+  <highlighted_element>size</highlighted_element>
+  <language>JAVA</language>
+  <offset>16</offset>
+  <length>4</length>
+</problem>
+</problems>

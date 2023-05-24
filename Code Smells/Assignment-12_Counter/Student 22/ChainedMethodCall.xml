@@ -1,0 +1,67 @@
+<problems>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 22/student 22 (1).java</file>
+  <line>107</line>
+  <module>codeSmellsWork</module>
+  <package>AnimationNoApplet</package>
+  <entry_point TYPE="method" FQNAME="AnimationNoApplet.NoApplet java.net.URL getCodeBase()" />
+  <problem_class id="ChainedMethodCall" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Chained method calls</problem_class>
+  <description>Chained method call &lt;code&gt;getResource()&lt;/code&gt; #loc</description>
+  <highlighted_element>getResource</highlighted_element>
+  <language>JAVA</language>
+  <offset>26</offset>
+  <length>11</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 22/student 22 (1).java</file>
+  <line>115</line>
+  <module>codeSmellsWork</module>
+  <package>AnimationNoApplet</package>
+  <entry_point TYPE="method" FQNAME="AnimationNoApplet.NoApplet java.net.URL getDocumentBase()" />
+  <problem_class id="ChainedMethodCall" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Chained method calls</problem_class>
+  <description>Chained method call &lt;code&gt;getResource()&lt;/code&gt; #loc</description>
+  <highlighted_element>getResource</highlighted_element>
+  <language>JAVA</language>
+  <offset>26</offset>
+  <length>11</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 22/student 22 (1).java</file>
+  <line>265</line>
+  <module>codeSmellsWork</module>
+  <package>AnimationNoApplet</package>
+  <entry_point TYPE="method" FQNAME="AnimationNoApplet.NoApplet void run()" />
+  <problem_class id="ChainedMethodCall" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Chained method calls</problem_class>
+  <description>Chained method call &lt;code&gt;getSimpleName()&lt;/code&gt; #loc</description>
+  <highlighted_element>getSimpleName</highlighted_element>
+  <language>JAVA</language>
+  <offset>34</offset>
+  <length>13</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 22/student 22 (1).java</file>
+  <line>273</line>
+  <module>codeSmellsWork</module>
+  <package>AnimationNoApplet</package>
+  <entry_point TYPE="method" FQNAME="AnimationNoApplet.NoApplet void main(java.lang.String[] args)" />
+  <problem_class id="ChainedMethodCall" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Chained method calls</problem_class>
+  <description>Chained method call &lt;code&gt;run()&lt;/code&gt; #loc</description>
+  <highlighted_element>run</highlighted_element>
+  <language>JAVA</language>
+  <offset>27</offset>
+  <length>3</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 22/student 22 (2).java</file>
+  <line>42</line>
+  <module>codeSmellsWork</module>
+  <package>&lt;default&gt;</package>
+  <entry_point TYPE="method" FQNAME="Counter void main(java.lang.String[] args)" />
+  <problem_class id="ChainedMethodCall" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Chained method calls</problem_class>
+  <description>Chained method call &lt;code&gt;run()&lt;/code&gt; #loc</description>
+  <highlighted_element>run</highlighted_element>
+  <language>JAVA</language>
+  <offset>22</offset>
+  <length>3</length>
+</problem>
+</problems>

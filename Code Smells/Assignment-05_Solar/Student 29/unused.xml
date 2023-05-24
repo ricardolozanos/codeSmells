@@ -1,0 +1,240 @@
+<problems>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 29/student 29 (1).java</file>
+  <line>17</line>
+  <module>codeSmellsWork</module>
+  <package>SolarSystem</package>
+  <entry_point TYPE="method" FQNAME="SolarSystem.Moon Moon(int distance, int angle, int radius, java.awt.Color color, Planet planet)" />
+  <language>JAVA</language>
+  <offset>8</offset>
+  <length>4</length>
+  <highlighted_element>Moon</highlighted_element>
+  <problem_class id="unused" severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">unused declaration</problem_class>
+  <hints>
+    <hint value="comment" />
+    <hint value="delete" />
+  </hints>
+  <description>Constructor is never used.</description>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 29/student 29 (1).java</file>
+  <line>25</line>
+  <module>codeSmellsWork</module>
+  <package>SolarSystem</package>
+  <entry_point TYPE="method" FQNAME="SolarSystem.Moon void drawMoon(java.awt.Graphics g)" />
+  <language>JAVA</language>
+  <offset>13</offset>
+  <length>8</length>
+  <highlighted_element>drawMoon</highlighted_element>
+  <problem_class id="unused" severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">unused declaration</problem_class>
+  <hints>
+    <hint value="comment" />
+    <hint value="delete" />
+  </hints>
+  <description>&lt;ul&gt;&lt;li&gt;Method owner class is never instantiated OR&lt;/li&gt;&lt;li&gt;An instantiation is not reachable from entry points.&lt;/li&gt;&lt;/ul&gt;</description>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 29/student 29 (2).java</file>
+  <line>21</line>
+  <module>codeSmellsWork</module>
+  <package>SolarSystem</package>
+  <entry_point TYPE="method" FQNAME="SolarSystem.Planet Planet(int distance, int angle, int radius, java.awt.Color color, Sun sun)" />
+  <language>JAVA</language>
+  <offset>8</offset>
+  <length>6</length>
+  <highlighted_element>Planet</highlighted_element>
+  <problem_class id="unused" severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">unused declaration</problem_class>
+  <hints>
+    <hint value="comment" />
+    <hint value="delete" />
+  </hints>
+  <description>Constructor is never used.</description>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 29/student 29 (2).java</file>
+  <line>29</line>
+  <module>codeSmellsWork</module>
+  <package>SolarSystem</package>
+  <entry_point TYPE="method" FQNAME="SolarSystem.Planet int getX()" />
+  <language>JAVA</language>
+  <offset>12</offset>
+  <length>4</length>
+  <highlighted_element>getX</highlighted_element>
+  <problem_class id="unused" severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">unused declaration</problem_class>
+  <hints>
+    <hint value="comment" />
+    <hint value="delete" />
+  </hints>
+  <description>&lt;ul&gt;&lt;li&gt;Method owner class is never instantiated OR&lt;/li&gt;&lt;li&gt;An instantiation is not reachable from entry points.&lt;/li&gt;&lt;/ul&gt;</description>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 29/student 29 (2).java</file>
+  <line>33</line>
+  <module>codeSmellsWork</module>
+  <package>SolarSystem</package>
+  <entry_point TYPE="method" FQNAME="SolarSystem.Planet int getY()" />
+  <language>JAVA</language>
+  <offset>12</offset>
+  <length>4</length>
+  <highlighted_element>getY</highlighted_element>
+  <problem_class id="unused" severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">unused declaration</problem_class>
+  <hints>
+    <hint value="comment" />
+    <hint value="delete" />
+  </hints>
+  <description>&lt;ul&gt;&lt;li&gt;Method owner class is never instantiated OR&lt;/li&gt;&lt;li&gt;An instantiation is not reachable from entry points.&lt;/li&gt;&lt;/ul&gt;</description>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 29/student 29 (2).java</file>
+  <line>37</line>
+  <module>codeSmellsWork</module>
+  <package>SolarSystem</package>
+  <entry_point TYPE="method" FQNAME="SolarSystem.Planet void drawPlanet(java.awt.Graphics g)" />
+  <language>JAVA</language>
+  <offset>13</offset>
+  <length>10</length>
+  <highlighted_element>drawPlanet</highlighted_element>
+  <problem_class id="unused" severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">unused declaration</problem_class>
+  <hints>
+    <hint value="comment" />
+    <hint value="delete" />
+  </hints>
+  <description>&lt;ul&gt;&lt;li&gt;Method owner class is never instantiated OR&lt;/li&gt;&lt;li&gt;An instantiation is not reachable from entry points.&lt;/li&gt;&lt;/ul&gt;</description>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 29/student 29 (3).java</file>
+  <line>29</line>
+  <module>codeSmellsWork</module>
+  <package>SolarSystem</package>
+  <entry_point TYPE="method" FQNAME="SolarSystem.SolarSystemMain void initAnimation()" />
+  <language>JAVA</language>
+  <offset>16</offset>
+  <length>13</length>
+  <highlighted_element>initAnimation</highlighted_element>
+  <problem_class id="unused" severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">unused declaration</problem_class>
+  <hints>
+    <hint value="comment" />
+    <hint value="delete" />
+  </hints>
+  <description>Method is never used.</description>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 29/student 29 (3).java</file>
+  <line>34</line>
+  <module>codeSmellsWork</module>
+  <package>SolarSystem</package>
+  <entry_point TYPE="method" FQNAME="SolarSystem.SolarSystemMain void paintComponent(java.awt.Graphics g)" />
+  <language>JAVA</language>
+  <offset>16</offset>
+  <length>14</length>
+  <highlighted_element>paintComponent</highlighted_element>
+  <problem_class id="unused" severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">unused declaration</problem_class>
+  <hints>
+    <hint value="comment" />
+    <hint value="delete" />
+  </hints>
+  <description>Method is never used.</description>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 29/student 29 (4).java</file>
+  <line>17</line>
+  <module>codeSmellsWork</module>
+  <package>SolarSystem</package>
+  <entry_point TYPE="method" FQNAME="SolarSystem.Sun Sun(int x, int y, int radius, java.awt.Color color)" />
+  <language>JAVA</language>
+  <offset>8</offset>
+  <length>3</length>
+  <highlighted_element>Sun</highlighted_element>
+  <problem_class id="unused" severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">unused declaration</problem_class>
+  <hints>
+    <hint value="comment" />
+    <hint value="delete" />
+  </hints>
+  <description>Constructor is never used.</description>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 29/student 29 (4).java</file>
+  <line>24</line>
+  <module>codeSmellsWork</module>
+  <package>SolarSystem</package>
+  <entry_point TYPE="method" FQNAME="SolarSystem.Sun int getX()" />
+  <language>JAVA</language>
+  <offset>12</offset>
+  <length>4</length>
+  <highlighted_element>getX</highlighted_element>
+  <problem_class id="unused" severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">unused declaration</problem_class>
+  <hints>
+    <hint value="comment" />
+    <hint value="delete" />
+  </hints>
+  <description>&lt;ul&gt;&lt;li&gt;Method owner class is never instantiated OR&lt;/li&gt;&lt;li&gt;An instantiation is not reachable from entry points.&lt;/li&gt;&lt;/ul&gt;</description>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 29/student 29 (4).java</file>
+  <line>28</line>
+  <module>codeSmellsWork</module>
+  <package>SolarSystem</package>
+  <entry_point TYPE="method" FQNAME="SolarSystem.Sun int getY()" />
+  <language>JAVA</language>
+  <offset>12</offset>
+  <length>4</length>
+  <highlighted_element>getY</highlighted_element>
+  <problem_class id="unused" severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">unused declaration</problem_class>
+  <hints>
+    <hint value="comment" />
+    <hint value="delete" />
+  </hints>
+  <description>&lt;ul&gt;&lt;li&gt;Method owner class is never instantiated OR&lt;/li&gt;&lt;li&gt;An instantiation is not reachable from entry points.&lt;/li&gt;&lt;/ul&gt;</description>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 29/student 29 (4).java</file>
+  <line>32</line>
+  <module>codeSmellsWork</module>
+  <package>SolarSystem</package>
+  <entry_point TYPE="method" FQNAME="SolarSystem.Sun void drawSun(java.awt.Graphics g)" />
+  <language>JAVA</language>
+  <offset>13</offset>
+  <length>7</length>
+  <highlighted_element>drawSun</highlighted_element>
+  <problem_class id="unused" severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">unused declaration</problem_class>
+  <hints>
+    <hint value="comment" />
+    <hint value="delete" />
+  </hints>
+  <description>&lt;ul&gt;&lt;li&gt;Method owner class is never instantiated OR&lt;/li&gt;&lt;li&gt;An instantiation is not reachable from entry points.&lt;/li&gt;&lt;/ul&gt;</description>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 29/student 29 (5).java</file>
+  <line>8</line>
+  <module>codeSmellsWork</module>
+  <package>SolarSystem</package>
+  <entry_point TYPE="method" FQNAME="SolarSystem.FixedStar FixedStar()" />
+  <language>JAVA</language>
+  <offset>8</offset>
+  <length>9</length>
+  <highlighted_element>FixedStar</highlighted_element>
+  <problem_class id="unused" severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">unused declaration</problem_class>
+  <hints>
+    <hint value="comment" />
+    <hint value="delete" />
+  </hints>
+  <description>Constructor is never used.</description>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 29/student 29 (5).java</file>
+  <line>12</line>
+  <module>codeSmellsWork</module>
+  <package>SolarSystem</package>
+  <entry_point TYPE="method" FQNAME="SolarSystem.FixedStar void drawFixedStar(java.awt.Graphics g)" />
+  <language>JAVA</language>
+  <offset>13</offset>
+  <length>13</length>
+  <highlighted_element>drawFixedStar</highlighted_element>
+  <problem_class id="unused" severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">unused declaration</problem_class>
+  <hints>
+    <hint value="comment" />
+    <hint value="delete" />
+  </hints>
+  <description>&lt;ul&gt;&lt;li&gt;Method owner class is never instantiated OR&lt;/li&gt;&lt;li&gt;An instantiation is not reachable from entry points.&lt;/li&gt;&lt;/ul&gt;</description>
+</problem>
+</problems>

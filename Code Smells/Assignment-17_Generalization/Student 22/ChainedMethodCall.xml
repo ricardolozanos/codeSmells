@@ -1,0 +1,28 @@
+<problems>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 22/Student 22.java</file>
+  <line>131</line>
+  <module>codeSmellsWork</module>
+  <package>&lt;default&gt;</package>
+  <entry_point TYPE="method" FQNAME="MultiPlotter void main(java.lang.String[] args)" />
+  <problem_class id="ChainedMethodCall" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Chained method calls</problem_class>
+  <description>Chained method call &lt;code&gt;run()&lt;/code&gt; #loc</description>
+  <highlighted_element>run</highlighted_element>
+  <language>JAVA</language>
+  <offset>10</offset>
+  <length>3</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 22/Student 22.java</file>
+  <line>144</line>
+  <module>codeSmellsWork</module>
+  <package>&lt;default&gt;</package>
+  <entry_point TYPE="method" FQNAME="SineCosinePlotter void main(java.lang.String[] args)" />
+  <problem_class id="ChainedMethodCall" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Chained method calls</problem_class>
+  <description>Chained method call &lt;code&gt;run()&lt;/code&gt; #loc</description>
+  <highlighted_element>run</highlighted_element>
+  <language>JAVA</language>
+  <offset>32</offset>
+  <length>3</length>
+</problem>
+</problems>

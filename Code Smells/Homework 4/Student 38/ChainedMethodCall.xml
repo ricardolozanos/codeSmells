@@ -1,0 +1,54 @@
+<problems>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 38/student 38 (10).java</file>
+  <line>105</line>
+  <module>codeSmellsWork</module>
+  <package>&lt;default&gt;</package>
+  <entry_point TYPE="method" FQNAME="NoApplet java.net.URL getCodeBase()" />
+  <problem_class id="ChainedMethodCall" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Chained method calls</problem_class>
+  <description>Chained method call &lt;code&gt;getResource()&lt;/code&gt; #loc</description>
+  <highlighted_element>getResource</highlighted_element>
+  <language>JAVA</language>
+  <offset>26</offset>
+  <length>11</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 38/student 38 (10).java</file>
+  <line>113</line>
+  <module>codeSmellsWork</module>
+  <package>&lt;default&gt;</package>
+  <entry_point TYPE="method" FQNAME="NoApplet java.net.URL getDocumentBase()" />
+  <problem_class id="ChainedMethodCall" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Chained method calls</problem_class>
+  <description>Chained method call &lt;code&gt;getResource()&lt;/code&gt; #loc</description>
+  <highlighted_element>getResource</highlighted_element>
+  <language>JAVA</language>
+  <offset>26</offset>
+  <length>11</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 38/student 38 (10).java</file>
+  <line>263</line>
+  <module>codeSmellsWork</module>
+  <package>&lt;default&gt;</package>
+  <entry_point TYPE="method" FQNAME="NoApplet void run()" />
+  <problem_class id="ChainedMethodCall" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Chained method calls</problem_class>
+  <description>Chained method call &lt;code&gt;getSimpleName()&lt;/code&gt; #loc</description>
+  <highlighted_element>getSimpleName</highlighted_element>
+  <language>JAVA</language>
+  <offset>34</offset>
+  <length>13</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 38/student 38 (7).java</file>
+  <line>49</line>
+  <module>codeSmellsWork</module>
+  <package>&lt;default&gt;</package>
+  <entry_point TYPE="method" FQNAME="GUIInterface GUIInterface(Board board)" />
+  <problem_class id="ChainedMethodCall" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Chained method calls</problem_class>
+  <description>Chained method call &lt;code&gt;add()&lt;/code&gt; #loc</description>
+  <highlighted_element>add</highlighted_element>
+  <language>JAVA</language>
+  <offset>31</offset>
+  <length>3</length>
+</problem>
+</problems>

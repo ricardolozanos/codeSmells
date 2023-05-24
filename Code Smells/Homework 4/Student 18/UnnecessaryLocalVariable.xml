@@ -1,0 +1,28 @@
+<problems>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 18/student 18 (11).java</file>
+  <line>25</line>
+  <module>codeSmellsWork</module>
+  <package>&lt;default&gt;</package>
+  <entry_point TYPE="method" FQNAME="UI int askForTurnX()" />
+  <problem_class id="UnnecessaryLocalVariable" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Redundant local variable</problem_class>
+  <description>Local variable &lt;code&gt;move&lt;/code&gt; is redundant #loc</description>
+  <highlighted_element>move</highlighted_element>
+  <language>JAVA</language>
+  <offset>6</offset>
+  <length>4</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 18/student 18 (11).java</file>
+  <line>30</line>
+  <module>codeSmellsWork</module>
+  <package>&lt;default&gt;</package>
+  <entry_point TYPE="method" FQNAME="UI int askForTurnY()" />
+  <problem_class id="UnnecessaryLocalVariable" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Redundant local variable</problem_class>
+  <description>Local variable &lt;code&gt;move&lt;/code&gt; is redundant #loc</description>
+  <highlighted_element>move</highlighted_element>
+  <language>JAVA</language>
+  <offset>6</offset>
+  <length>4</length>
+</problem>
+</problems>

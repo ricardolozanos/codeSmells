@@ -1,0 +1,41 @@
+<problems>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 22/student 22 (1).java</file>
+  <line>70</line>
+  <module>codeSmellsWork</module>
+  <package>noapplet.BounceBall</package>
+  <entry_point TYPE="field" FQNAME="noapplet.BounceBall.BouncingBallAnimation color" />
+  <problem_class id="FieldMayBeFinal" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Field may be 'final'</problem_class>
+  <description>Field &lt;code&gt;color&lt;/code&gt; may be 'final' #loc</description>
+  <highlighted_element>color</highlighted_element>
+  <language>JAVA</language>
+  <offset>18</offset>
+  <length>5</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 22/student 22 (1).java</file>
+  <line>71</line>
+  <module>codeSmellsWork</module>
+  <package>noapplet.BounceBall</package>
+  <entry_point TYPE="field" FQNAME="noapplet.BounceBall.BouncingBallAnimation radius" />
+  <problem_class id="FieldMayBeFinal" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Field may be 'final'</problem_class>
+  <description>Field &lt;code&gt;radius&lt;/code&gt; may be 'final' #loc</description>
+  <highlighted_element>radius</highlighted_element>
+  <language>JAVA</language>
+  <offset>16</offset>
+  <length>6</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 22/student 22 (2).java</file>
+  <line>79</line>
+  <module>codeSmellsWork</module>
+  <package>noapplet.BounceBall</package>
+  <entry_point TYPE="field" FQNAME="noapplet.BounceBall.CircleBall bouncingBall" />
+  <problem_class id="FieldMayBeFinal" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Field may be 'final'</problem_class>
+  <description>Field &lt;code&gt;bouncingBall&lt;/code&gt; may be 'final' #loc</description>
+  <highlighted_element>bouncingBall</highlighted_element>
+  <language>JAVA</language>
+  <offset>25</offset>
+  <length>12</length>
+</problem>
+</problems>

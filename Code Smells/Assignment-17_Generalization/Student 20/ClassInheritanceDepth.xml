@@ -1,0 +1,28 @@
+<problems>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 20/student 20 (2).java</file>
+  <line>3</line>
+  <module>codeSmellsWork</module>
+  <package>&lt;default&gt;</package>
+  <entry_point TYPE="class" FQNAME="MultiPlotter" />
+  <problem_class id="ClassInheritanceDepth" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Class too deep in inheritance tree</problem_class>
+  <description>&lt;code&gt;MultiPlotter&lt;/code&gt; is too deep in inheritance tree (inheritance depth = 3) #loc</description>
+  <highlighted_element>MultiPlotter</highlighted_element>
+  <language>JAVA</language>
+  <offset>13</offset>
+  <length>12</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 20/student 20 (6).java</file>
+  <line>2</line>
+  <module>codeSmellsWork</module>
+  <package>&lt;default&gt;</package>
+  <entry_point TYPE="class" FQNAME="SineCosinePlotter" />
+  <problem_class id="ClassInheritanceDepth" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Class too deep in inheritance tree</problem_class>
+  <description>&lt;code&gt;SineCosinePlotter&lt;/code&gt; is too deep in inheritance tree (inheritance depth = 4) #loc</description>
+  <highlighted_element>SineCosinePlotter</highlighted_element>
+  <language>JAVA</language>
+  <offset>13</offset>
+  <length>17</length>
+</problem>
+</problems>

@@ -1,0 +1,15 @@
+<problems>
+<problem>
+  <file>file://$PROJECT_DIR$/src/student 31/Student 31.java</file>
+  <line>34</line>
+  <module>codeSmellsWork</module>
+  <package>noapplet.example</package>
+  <entry_point TYPE="field" FQNAME="noapplet.example.animation.circleanimation y" />
+  <problem_class id="FieldMayBeFinal" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Field may be 'final'</problem_class>
+  <description>Field &lt;code&gt;y&lt;/code&gt; may be 'final' #loc</description>
+  <highlighted_element>y</highlighted_element>
+  <language>JAVA</language>
+  <offset>20</offset>
+  <length>1</length>
+</problem>
+</problems>

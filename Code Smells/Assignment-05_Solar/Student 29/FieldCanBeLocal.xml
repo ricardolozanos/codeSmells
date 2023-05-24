@@ -1,0 +1,93 @@
+<problems>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 29/student 29 (3).java</file>
+  <line>14</line>
+  <module>codeSmellsWork</module>
+  <package>SolarSystem</package>
+  <entry_point TYPE="field" FQNAME="SolarSystem.SolarSystemMain dim" />
+  <problem_class id="FieldCanBeLocal" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Field can be local</problem_class>
+  <description>Field can be converted to a local variable</description>
+  <highlighted_element>dim</highlighted_element>
+  <language>JAVA</language>
+  <offset>19</offset>
+  <length>3</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 29/student 29 (3).java</file>
+  <line>15</line>
+  <module>codeSmellsWork</module>
+  <package>SolarSystem</package>
+  <entry_point TYPE="field" FQNAME="SolarSystem.SolarSystemMain TheSun" />
+  <problem_class id="FieldCanBeLocal" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Field can be local</problem_class>
+  <description>Field can be converted to a local variable</description>
+  <highlighted_element>TheSun</highlighted_element>
+  <language>JAVA</language>
+  <offset>13</offset>
+  <length>6</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 29/student 29 (3).java</file>
+  <line>16</line>
+  <module>codeSmellsWork</module>
+  <package>SolarSystem</package>
+  <entry_point TYPE="field" FQNAME="SolarSystem.SolarSystemMain Earth" />
+  <problem_class id="FieldCanBeLocal" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Field can be local</problem_class>
+  <description>Field can be converted to a local variable</description>
+  <highlighted_element>Earth</highlighted_element>
+  <language>JAVA</language>
+  <offset>16</offset>
+  <length>5</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 29/student 29 (3).java</file>
+  <line>17</line>
+  <module>codeSmellsWork</module>
+  <package>SolarSystem</package>
+  <entry_point TYPE="field" FQNAME="SolarSystem.SolarSystemMain Mars" />
+  <problem_class id="FieldCanBeLocal" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Field can be local</problem_class>
+  <description>Field can be converted to a local variable</description>
+  <highlighted_element>Mars</highlighted_element>
+  <language>JAVA</language>
+  <offset>16</offset>
+  <length>4</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 29/student 29 (3).java</file>
+  <line>18</line>
+  <module>codeSmellsWork</module>
+  <package>SolarSystem</package>
+  <entry_point TYPE="field" FQNAME="SolarSystem.SolarSystemMain EarthMoon" />
+  <problem_class id="FieldCanBeLocal" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Field can be local</problem_class>
+  <description>Field can be converted to a local variable</description>
+  <highlighted_element>EarthMoon</highlighted_element>
+  <language>JAVA</language>
+  <offset>14</offset>
+  <length>9</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 29/student 29 (3).java</file>
+  <line>19</line>
+  <module>codeSmellsWork</module>
+  <package>SolarSystem</package>
+  <entry_point TYPE="field" FQNAME="SolarSystem.SolarSystemMain MarsMoon" />
+  <problem_class id="FieldCanBeLocal" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Field can be local</problem_class>
+  <description>Field can be converted to a local variable</description>
+  <highlighted_element>MarsMoon</highlighted_element>
+  <language>JAVA</language>
+  <offset>14</offset>
+  <length>8</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 29/student 29 (3).java</file>
+  <line>21</line>
+  <module>codeSmellsWork</module>
+  <package>SolarSystem</package>
+  <entry_point TYPE="field" FQNAME="SolarSystem.SolarSystemMain stars" />
+  <problem_class id="FieldCanBeLocal" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Field can be local</problem_class>
+  <description>Field can be converted to a local variable</description>
+  <highlighted_element>stars</highlighted_element>
+  <language>JAVA</language>
+  <offset>19</offset>
+  <length>5</length>
+</problem>
+</problems>

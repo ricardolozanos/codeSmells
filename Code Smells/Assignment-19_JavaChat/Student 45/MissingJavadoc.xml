@@ -1,0 +1,80 @@
+<problems>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 45/student 45 (1).java</file>
+  <line>50</line>
+  <module>codeSmellsWork</module>
+  <package>javaChat</package>
+  <entry_point TYPE="method" FQNAME="javaChat.ChatDialogUI ChatDialogUI(java.awt.Dimension dim)" />
+  <problem_class id="MissingJavadoc" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Missing Javadoc</problem_class>
+  <description>Required tag &lt;code&gt;@param&lt;/code&gt; is missing for parameter &lt;code&gt;dim&lt;/code&gt;</description>
+  <highlighted_element>/**</highlighted_element>
+  <language>JAVA</language>
+  <offset>1</offset>
+  <length>3</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 45/student 45 (1).java</file>
+  <line>143</line>
+  <module>codeSmellsWork</module>
+  <package>javaChat</package>
+  <entry_point TYPE="method" FQNAME="javaChat.ChatDialogUI void main(java.lang.String[] args)" />
+  <problem_class id="MissingJavadoc" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Missing Javadoc</problem_class>
+  <description>Required Javadoc is absent</description>
+  <highlighted_element>main</highlighted_element>
+  <language>JAVA</language>
+  <offset>20</offset>
+  <length>4</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 45/student 45 (2).java</file>
+  <line>76</line>
+  <module>codeSmellsWork</module>
+  <package>javaChat</package>
+  <entry_point TYPE="method" FQNAME="javaChat.ChatServer void main(java.lang.String[] args)" />
+  <problem_class id="MissingJavadoc" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Missing Javadoc</problem_class>
+  <description>Required Javadoc is absent</description>
+  <highlighted_element>main</highlighted_element>
+  <language>JAVA</language>
+  <offset>20</offset>
+  <length>4</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 45/student 45 (3).java</file>
+  <line>14</line>
+  <module>codeSmellsWork</module>
+  <package>javachat</package>
+  <entry_point TYPE="class" FQNAME="javachat.ChatDialog" />
+  <problem_class id="MissingJavadoc" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Missing Javadoc</problem_class>
+  <description>Required Javadoc is absent</description>
+  <highlighted_element>ChatDialog</highlighted_element>
+  <language>JAVA</language>
+  <offset>13</offset>
+  <length>10</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 45/student 45 (3).java</file>
+  <line>32</line>
+  <module>codeSmellsWork</module>
+  <package>javachat</package>
+  <entry_point TYPE="method" FQNAME="javachat.ChatDialog ChatDialog(java.awt.Dimension dim)" />
+  <problem_class id="MissingJavadoc" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Missing Javadoc</problem_class>
+  <description>Required tag &lt;code&gt;@param&lt;/code&gt; is missing for parameter &lt;code&gt;dim&lt;/code&gt;</description>
+  <highlighted_element>/**</highlighted_element>
+  <language>JAVA</language>
+  <offset>4</offset>
+  <length>3</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 45/student 45 (3).java</file>
+  <line>124</line>
+  <module>codeSmellsWork</module>
+  <package>javachat</package>
+  <entry_point TYPE="method" FQNAME="javachat.ChatDialog void main(java.lang.String[] args)" />
+  <problem_class id="MissingJavadoc" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Missing Javadoc</problem_class>
+  <description>Required Javadoc is absent</description>
+  <highlighted_element>main</highlighted_element>
+  <language>JAVA</language>
+  <offset>23</offset>
+  <length>4</length>
+</problem>
+</problems>

@@ -1,0 +1,70 @@
+<problems>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 02/Student 02.java</file>
+  <line>11</line>
+  <module>codeSmellsWork</module>
+  <package>OmokConsole.Model</package>
+  <entry_point TYPE="method" FQNAME="OmokConsole.Model.Board Board()" />
+  <language>JAVA</language>
+  <offset>11</offset>
+  <length>5</length>
+  <highlighted_element>Board</highlighted_element>
+  <problem_class id="unused" severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">unused declaration</problem_class>
+  <hints>
+    <hint value="comment" />
+    <hint value="delete" />
+  </hints>
+  <description>Constructor is never used.</description>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 02/Student 02.java</file>
+  <line>23</line>
+  <module>codeSmellsWork</module>
+  <package>OmokConsole.Model</package>
+  <entry_point TYPE="method" FQNAME="OmokConsole.Model.Board Board(int size)" />
+  <language>JAVA</language>
+  <offset>11</offset>
+  <length>5</length>
+  <highlighted_element>Board</highlighted_element>
+  <problem_class id="unused" severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">unused declaration</problem_class>
+  <hints>
+    <hint value="comment" />
+    <hint value="delete" />
+  </hints>
+  <description>Constructor is never used.</description>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 02/Student 02.java</file>
+  <line>36</line>
+  <module>codeSmellsWork</module>
+  <package>OmokConsole.Model</package>
+  <entry_point TYPE="method" FQNAME="OmokConsole.Model.Board int[][] getBoard()" />
+  <language>JAVA</language>
+  <offset>19</offset>
+  <length>8</length>
+  <highlighted_element>getBoard</highlighted_element>
+  <problem_class id="unused" severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">unused declaration</problem_class>
+  <hints>
+    <hint value="comment" />
+    <hint value="delete" />
+  </hints>
+  <description>&lt;ul&gt;&lt;li&gt;Method owner class is never instantiated OR&lt;/li&gt;&lt;li&gt;An instantiation is not reachable from entry points.&lt;/li&gt;&lt;/ul&gt;</description>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 02/Student 02.java</file>
+  <line>43</line>
+  <module>codeSmellsWork</module>
+  <package>OmokConsole.Model</package>
+  <entry_point TYPE="method" FQNAME="OmokConsole.Model.Board int getSize()" />
+  <language>JAVA</language>
+  <offset>15</offset>
+  <length>7</length>
+  <highlighted_element>getSize</highlighted_element>
+  <problem_class id="unused" severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">unused declaration</problem_class>
+  <hints>
+    <hint value="comment" />
+    <hint value="delete" />
+  </hints>
+  <description>&lt;ul&gt;&lt;li&gt;Method owner class is never instantiated OR&lt;/li&gt;&lt;li&gt;An instantiation is not reachable from entry points.&lt;/li&gt;&lt;/ul&gt;</description>
+</problem>
+</problems>

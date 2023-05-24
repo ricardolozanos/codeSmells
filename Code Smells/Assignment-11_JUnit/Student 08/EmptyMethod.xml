@@ -1,0 +1,50 @@
+<problems>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 08/student 08 (2).java</file>
+  <line>29</line>
+  <module>codeSmellsWork</module>
+  <package>&lt;default&gt;</package>
+  <entry_point TYPE="method" FQNAME="ConsoleUITest void testConsoleUI()" />
+  <problem_class id="EmptyMethod" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Empty method</problem_class>
+  <hints>
+    <hint value="false" />
+  </hints>
+  <description>The method is empty</description>
+  <highlighted_element>testConsoleUI</highlighted_element>
+  <language>JAVA</language>
+  <offset>9</offset>
+  <length>13</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 08/student 08 (2).java</file>
+  <line>37</line>
+  <module>codeSmellsWork</module>
+  <package>&lt;default&gt;</package>
+  <entry_point TYPE="method" FQNAME="ConsoleUITest void testPrintBoard(Board board)" />
+  <problem_class id="EmptyMethod" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Empty method</problem_class>
+  <hints>
+    <hint value="false" />
+  </hints>
+  <description>The method is empty</description>
+  <highlighted_element>testPrintBoard</highlighted_element>
+  <language>JAVA</language>
+  <offset>9</offset>
+  <length>14</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 08/student 08 (2).java</file>
+  <line>39</line>
+  <module>codeSmellsWork</module>
+  <package>&lt;default&gt;</package>
+  <entry_point TYPE="method" FQNAME="ConsoleUITest void testBoardSize(int x)" />
+  <problem_class id="EmptyMethod" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Empty method</problem_class>
+  <hints>
+    <hint value="false" />
+  </hints>
+  <description>The method is empty</description>
+  <highlighted_element>testBoardSize</highlighted_element>
+  <language>JAVA</language>
+  <offset>9</offset>
+  <length>13</length>
+</problem>
+</problems>

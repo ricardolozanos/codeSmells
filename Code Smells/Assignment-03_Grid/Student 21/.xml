@@ -1,0 +1,36 @@
+<problems>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Main.java</file>
+  <line>2</line>
+  <module>codeSmellsWork</module>
+  <package>&lt;default&gt;</package>
+  <entry_point TYPE="method" FQNAME="Main void main(java.lang.String[] args)" />
+  <language>JAVA</language>
+  <offset>23</offset>
+  <length>4</length>
+  <highlighted_element>main</highlighted_element>
+  <problem_class id="" severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">unused declaration</problem_class>
+  <hints>
+    <hint value="comment" />
+    <hint value="delete" />
+  </hints>
+  <description>Method is never used.</description>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 21/student 21 (1).java</file>
+  <line>49</line>
+  <module>codeSmellsWork</module>
+  <package>noapplet.example</package>
+  <entry_point TYPE="method" FQNAME="noapplet.example.HelloWorld void main(java.lang.String[] args)" />
+  <language>JAVA</language>
+  <offset>23</offset>
+  <length>4</length>
+  <highlighted_element>main</highlighted_element>
+  <problem_class id="" severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">unused declaration</problem_class>
+  <hints>
+    <hint value="comment" />
+    <hint value="delete" />
+  </hints>
+  <description>Method is never used.</description>
+</problem>
+</problems>

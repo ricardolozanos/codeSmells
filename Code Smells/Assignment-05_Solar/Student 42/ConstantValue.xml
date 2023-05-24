@@ -1,0 +1,28 @@
+<problems>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 42/student 42 (7).java</file>
+  <line>28</line>
+  <module>codeSmellsWork</module>
+  <package>noapplet.solar</package>
+  <entry_point TYPE="method" FQNAME="noapplet.solar.Moon void draw(java.awt.Graphics g)" />
+  <problem_class id="ConstantValue" severity="WEAK WARNING" attribute_key="INFO_ATTRIBUTES">Constant values</problem_class>
+  <description>Value &lt;code&gt;x&lt;/code&gt; is always 'null'</description>
+  <highlighted_element>x</highlighted_element>
+  <language>JAVA</language>
+  <offset>24</offset>
+  <length>1</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 42/student 42 (7).java</file>
+  <line>28</line>
+  <module>codeSmellsWork</module>
+  <package>noapplet.solar</package>
+  <entry_point TYPE="method" FQNAME="noapplet.solar.Moon void draw(java.awt.Graphics g)" />
+  <problem_class id="ConstantValue" severity="WEAK WARNING" attribute_key="INFO_ATTRIBUTES">Constant values</problem_class>
+  <description>Value &lt;code&gt;y&lt;/code&gt; is always 'null'</description>
+  <highlighted_element>y</highlighted_element>
+  <language>JAVA</language>
+  <offset>32</offset>
+  <length>1</length>
+</problem>
+</problems>

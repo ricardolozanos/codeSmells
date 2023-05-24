@@ -1,0 +1,15 @@
+<problems>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 34/student 34 (2).java</file>
+  <line>45</line>
+  <module>codeSmellsWork</module>
+  <package>omokThings</package>
+  <entry_point TYPE="method" FQNAME="omokThings.Game void gameLoop(Player playerNum, Player playerNum2, int gameMode)" />
+  <problem_class id="LoopConditionNotUpdatedInsideLoop" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Loop variable not updated inside loop</problem_class>
+  <description>Variable 'quit' is not updated inside loop #loc</description>
+  <highlighted_element>quit</highlighted_element>
+  <language>JAVA</language>
+  <offset>15</offset>
+  <length>4</length>
+</problem>
+</problems>

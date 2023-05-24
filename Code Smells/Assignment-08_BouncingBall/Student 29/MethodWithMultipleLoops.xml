@@ -1,0 +1,15 @@
+<problems>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 29/student 29 (3).java</file>
+  <line>23</line>
+  <module>codeSmellsWork</module>
+  <package>BouncingBall</package>
+  <entry_point TYPE="method" FQNAME="BouncingBall.CircleBall void checkCollision(java.awt.Graphics g, Ball[] b)" />
+  <problem_class id="MethodWithMultipleLoops" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Method with multiple loops</problem_class>
+  <description>&lt;code&gt;checkCollision&lt;/code&gt; contains 5 loops #loc</description>
+  <highlighted_element>checkCollision</highlighted_element>
+  <language>JAVA</language>
+  <offset>13</offset>
+  <length>14</length>
+</problem>
+</problems>

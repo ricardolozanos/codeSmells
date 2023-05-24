@@ -1,0 +1,16 @@
+<problems>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 41/student 41 (5).java</file>
+  <line>15</line>
+  <module>codeSmellsWork</module>
+  <package>noapplet</package>
+  <entry_point TYPE="method" FQNAME="noapplet.Game boolean placeStone(int x, int y)" />
+  <problem_class id="UnusedReturnValue" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Method can be made 'void'</problem_class>
+  <hints />
+  <description>Return value of the method is never used</description>
+  <highlighted_element>placeStone</highlighted_element>
+  <language>JAVA</language>
+  <offset>22</offset>
+  <length>10</length>
+</problem>
+</problems>

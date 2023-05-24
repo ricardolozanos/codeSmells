@@ -1,0 +1,54 @@
+<problems>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 18/student 18 (1).java</file>
+  <line>80</line>
+  <module>codeSmellsWork</module>
+  <package>&lt;default&gt;</package>
+  <entry_point TYPE="method" FQNAME="Board boolean isEmpty(int x, int y)" />
+  <problem_class id="TrivialIf" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Redundant 'if' statement</problem_class>
+  <description>&lt;code&gt;if&lt;/code&gt; statement can be simplified #loc</description>
+  <highlighted_element>if</highlighted_element>
+  <language>JAVA</language>
+  <offset>2</offset>
+  <length>2</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 18/student 18 (1).java</file>
+  <line>87</line>
+  <module>codeSmellsWork</module>
+  <package>&lt;default&gt;</package>
+  <entry_point TYPE="method" FQNAME="Board boolean isOccupied(int x, int y)" />
+  <problem_class id="TrivialIf" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Redundant 'if' statement</problem_class>
+  <description>&lt;code&gt;if&lt;/code&gt; statement can be simplified #loc</description>
+  <highlighted_element>if</highlighted_element>
+  <language>JAVA</language>
+  <offset>2</offset>
+  <length>2</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 18/student 18 (1).java</file>
+  <line>153</line>
+  <module>codeSmellsWork</module>
+  <package>&lt;default&gt;</package>
+  <entry_point TYPE="method" FQNAME="Board boolean Won(Player p, int x, int y)" />
+  <problem_class id="TrivialIf" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Redundant 'if' statement</problem_class>
+  <description>&lt;code&gt;if&lt;/code&gt; statement can be simplified #loc</description>
+  <highlighted_element>if</highlighted_element>
+  <language>JAVA</language>
+  <offset>2</offset>
+  <length>2</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 18/student 18 (8).java</file>
+  <line>79</line>
+  <module>codeSmellsWork</module>
+  <package>&lt;default&gt;</package>
+  <entry_point TYPE="method" FQNAME="Player boolean HaveIWon(Board board, int x, int y)" />
+  <problem_class id="TrivialIf" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Redundant 'if' statement</problem_class>
+  <description>&lt;code&gt;if&lt;/code&gt; statement can be simplified #loc</description>
+  <highlighted_element>if</highlighted_element>
+  <language>JAVA</language>
+  <offset>2</offset>
+  <length>2</length>
+</problem>
+</problems>

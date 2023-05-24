@@ -1,0 +1,54 @@
+<problems>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 31/student 31 (4).java</file>
+  <line>115</line>
+  <module>codeSmellsWork</module>
+  <package>noapplet.example</package>
+  <entry_point TYPE="method" FQNAME="noapplet.example.Map boolean winCheckRD(int x, int y)" />
+  <problem_class id="ConstantValue" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Constant values</problem_class>
+  <description>Condition &lt;code&gt;i&lt;0&lt;/code&gt; is always &lt;code&gt;false&lt;/code&gt;</description>
+  <highlighted_element>i&lt;0</highlighted_element>
+  <language>JAVA</language>
+  <offset>49</offset>
+  <length>3</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 31/student 31 (4).java</file>
+  <line>115</line>
+  <module>codeSmellsWork</module>
+  <package>noapplet.example</package>
+  <entry_point TYPE="method" FQNAME="noapplet.example.Map boolean winCheckRD(int x, int y)" />
+  <problem_class id="ConstantValue" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Constant values</problem_class>
+  <description>Condition &lt;code&gt;z&lt;0&lt;/code&gt; is always &lt;code&gt;false&lt;/code&gt;</description>
+  <highlighted_element>z&lt;0</highlighted_element>
+  <language>JAVA</language>
+  <offset>54</offset>
+  <length>3</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 31/student 31 (4).java</file>
+  <line>192</line>
+  <module>codeSmellsWork</module>
+  <package>noapplet.example</package>
+  <entry_point TYPE="method" FQNAME="noapplet.example.Map boolean winCheckOneRD(int x, int y)" />
+  <problem_class id="ConstantValue" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Constant values</problem_class>
+  <description>Condition &lt;code&gt;i&lt;0&lt;/code&gt; is always &lt;code&gt;false&lt;/code&gt;</description>
+  <highlighted_element>i&lt;0</highlighted_element>
+  <language>JAVA</language>
+  <offset>49</offset>
+  <length>3</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 31/student 31 (4).java</file>
+  <line>192</line>
+  <module>codeSmellsWork</module>
+  <package>noapplet.example</package>
+  <entry_point TYPE="method" FQNAME="noapplet.example.Map boolean winCheckOneRD(int x, int y)" />
+  <problem_class id="ConstantValue" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Constant values</problem_class>
+  <description>Condition &lt;code&gt;z&lt;0&lt;/code&gt; is always &lt;code&gt;false&lt;/code&gt;</description>
+  <highlighted_element>z&lt;0</highlighted_element>
+  <language>JAVA</language>
+  <offset>54</offset>
+  <length>3</length>
+</problem>
+</problems>

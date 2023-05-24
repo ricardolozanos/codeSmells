@@ -1,0 +1,15 @@
+<problems>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 10/Student 10.java</file>
+  <line>97</line>
+  <module>codeSmellsWork</module>
+  <package>javaChat</package>
+  <entry_point TYPE="method" FQNAME="javaChat.ChatDialogUI void connectClicked(java.awt.event.ActionEvent event)" />
+  <problem_class id="UnusedAssignment" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Unused assignment</problem_class>
+  <description>Variable &lt;code&gt;str&lt;/code&gt; initializer &lt;code&gt;null&lt;/code&gt; is redundant</description>
+  <highlighted_element>null</highlighted_element>
+  <language>JAVA</language>
+  <offset>22</offset>
+  <length>4</length>
+</problem>
+</problems>

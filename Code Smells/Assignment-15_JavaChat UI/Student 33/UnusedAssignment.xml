@@ -1,0 +1,15 @@
+<problems>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 33/student 33 (1).java</file>
+  <line>85</line>
+  <module>codeSmellsWork</module>
+  <package>Misc</package>
+  <entry_point TYPE="method" FQNAME="Misc.ChatDialog void configureGui()" />
+  <problem_class id="UnusedAssignment" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Unused assignment</problem_class>
+  <description>The value &lt;code&gt;messText.getText() + &quot;\n&quot;&lt;/code&gt; assigned to &lt;code&gt;funky&lt;/code&gt; is never used</description>
+  <highlighted_element>funky</highlighted_element>
+  <language>JAVA</language>
+  <offset>35</offset>
+  <length>5</length>
+</problem>
+</problems>

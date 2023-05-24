@@ -1,0 +1,15 @@
+<problems>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 02/student 02.java</file>
+  <line>1</line>
+  <module>codeSmellsWork</module>
+  <package>noapplet.DrawingBoard</package>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/src/Student 02/student 02.java" />
+  <problem_class id="WrongPackageStatement" severity="ERROR" attribute_key="ERRORS_ATTRIBUTES">Wrong package statement</problem_class>
+  <description>Package name 'noapplet.DrawingBoard' does not correspond to the file path 'Student 02'</description>
+  <highlighted_element>noapplet.DrawingBoard</highlighted_element>
+  <language>JAVA</language>
+  <offset>8</offset>
+  <length>21</length>
+</problem>
+</problems>

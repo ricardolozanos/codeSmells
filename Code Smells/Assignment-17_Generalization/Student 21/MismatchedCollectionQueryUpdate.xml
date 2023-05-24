@@ -1,0 +1,15 @@
+<problems>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 21/student 21 (3).java</file>
+  <line>12</line>
+  <module>codeSmellsWork</module>
+  <package>noapplet.example</package>
+  <entry_point TYPE="method" FQNAME="noapplet.example.SineCosinePlotter void initMultiPlotter()" />
+  <problem_class id="MismatchedCollectionQueryUpdate" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Mismatched query and update of collection</problem_class>
+  <description>Contents of collection &lt;code&gt;a&lt;/code&gt; are updated, but never queried #loc</description>
+  <highlighted_element>a</highlighted_element>
+  <language>JAVA</language>
+  <offset>17</offset>
+  <length>1</length>
+</problem>
+</problems>

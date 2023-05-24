@@ -1,0 +1,36 @@
+<problems>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 11/student 11 (1).java</file>
+  <line>2</line>
+  <module>codeSmellsWork</module>
+  <package>&lt;default&gt;</package>
+  <entry_point TYPE="method" FQNAME="Balloon Balloon growingBalloon()" />
+  <language>JAVA</language>
+  <offset>12</offset>
+  <length>14</length>
+  <highlighted_element>growingBalloon</highlighted_element>
+  <problem_class id="unused" severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">unused declaration</problem_class>
+  <hints>
+    <hint value="comment" />
+    <hint value="delete" />
+  </hints>
+  <description>Method is never used as a member of this interface, but only as a member of the implementation class(es). The project will stay compilable if the method is removed from the interface.</description>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 11/student 11 (1).java</file>
+  <line>3</line>
+  <module>codeSmellsWork</module>
+  <package>&lt;default&gt;</package>
+  <entry_point TYPE="method" FQNAME="Balloon Balloon growingShrinkingBalloon()" />
+  <language>JAVA</language>
+  <offset>12</offset>
+  <length>23</length>
+  <highlighted_element>growingShrinkingBalloon</highlighted_element>
+  <problem_class id="unused" severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">unused declaration</problem_class>
+  <hints>
+    <hint value="comment" />
+    <hint value="delete" />
+  </hints>
+  <description>Method is never used as a member of this interface, but only as a member of the implementation class(es). The project will stay compilable if the method is removed from the interface.</description>
+</problem>
+</problems>

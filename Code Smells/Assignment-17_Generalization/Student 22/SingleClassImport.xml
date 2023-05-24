@@ -1,0 +1,28 @@
+<problems>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 22/Student 22.java</file>
+  <line>2</line>
+  <module>codeSmellsWork</module>
+  <package>&lt;default&gt;</package>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/src/Student 22/Student 22.java" />
+  <problem_class id="SingleClassImport" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Single class import</problem_class>
+  <description>Single class import &lt;code&gt;import java.util.ArrayList;&lt;/code&gt; #loc</description>
+  <highlighted_element>import java.util.ArrayList;</highlighted_element>
+  <language>JAVA</language>
+  <offset>0</offset>
+  <length>27</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 22/Student 22.java</file>
+  <line>3</line>
+  <module>codeSmellsWork</module>
+  <package>&lt;default&gt;</package>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/src/Student 22/Student 22.java" />
+  <problem_class id="SingleClassImport" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Single class import</problem_class>
+  <description>Single class import &lt;code&gt;import java.util.List;&lt;/code&gt; #loc</description>
+  <highlighted_element>import java.util.List;</highlighted_element>
+  <language>JAVA</language>
+  <offset>0</offset>
+  <length>22</length>
+</problem>
+</problems>

@@ -1,0 +1,630 @@
+<problems>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 04/student 04 (1).java</file>
+  <line>167</line>
+  <module>codeSmellsWork</module>
+  <package>HW4_GUI.console</package>
+  <entry_point TYPE="method" FQNAME="HW4_GUI.console.Board Coordinate getSuggestion(char playerSymbol)" />
+  <language>JAVA</language>
+  <offset>22</offset>
+  <length>13</length>
+  <highlighted_element>getSuggestion</highlighted_element>
+  <problem_class id="unused" severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">unused declaration</problem_class>
+  <hints>
+    <hint value="comment" />
+    <hint value="delete" />
+  </hints>
+  <description>Method is never used.</description>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 04/student 04 (10).java</file>
+  <line>7</line>
+  <module>codeSmellsWork</module>
+  <package>HW4_GUI.console</package>
+  <entry_point TYPE="method" FQNAME="HW4_GUI.console.Player Player(java.lang.String name, char symbol)" />
+  <language>JAVA</language>
+  <offset>11</offset>
+  <length>6</length>
+  <highlighted_element>Player</highlighted_element>
+  <problem_class id="unused" severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">unused declaration</problem_class>
+  <hints>
+    <hint value="comment" />
+    <hint value="delete" />
+  </hints>
+  <description>Constructor is never used.</description>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 04/student 04 (2).java</file>
+  <line>18</line>
+  <module>codeSmellsWork</module>
+  <package>HW4_GUI</package>
+  <entry_point TYPE="method" FQNAME="HW4_GUI.BoardController BoardController(BoardPanel boardPanel, HW4_GUI.console.Board board, int mode)" />
+  <language>JAVA</language>
+  <offset>11</offset>
+  <length>15</length>
+  <highlighted_element>BoardController</highlighted_element>
+  <problem_class id="unused" severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">unused declaration</problem_class>
+  <hints>
+    <hint value="comment" />
+    <hint value="delete" />
+  </hints>
+  <description>Constructor is never used.</description>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 04/student 04 (2).java</file>
+  <line>43</line>
+  <module>codeSmellsWork</module>
+  <package>HW4_GUI</package>
+  <entry_point TYPE="method" FQNAME="HW4_GUI.BoardController void checkWinner(int i, int j, HW4_GUI.console.Player currentPlayer)" />
+  <language>JAVA</language>
+  <offset>16</offset>
+  <length>11</length>
+  <highlighted_element>checkWinner</highlighted_element>
+  <problem_class id="unused" severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">unused declaration</problem_class>
+  <hints>
+    <hint value="comment" />
+    <hint value="delete" />
+  </hints>
+  <description>&lt;ul&gt;&lt;li&gt;Method owner class is never instantiated OR&lt;/li&gt;&lt;li&gt;An instantiation is not reachable from entry points.&lt;/li&gt;&lt;/ul&gt;</description>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 04/student 04 (2).java</file>
+  <line>61</line>
+  <module>codeSmellsWork</module>
+  <package>HW4_GUI</package>
+  <entry_point TYPE="method" FQNAME="HW4_GUI.BoardController void computerMove()" />
+  <language>JAVA</language>
+  <offset>16</offset>
+  <length>12</length>
+  <highlighted_element>computerMove</highlighted_element>
+  <problem_class id="unused" severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">unused declaration</problem_class>
+  <hints>
+    <hint value="comment" />
+    <hint value="delete" />
+  </hints>
+  <description>&lt;ul&gt;&lt;li&gt;Method owner class is never instantiated OR&lt;/li&gt;&lt;li&gt;An instantiation is not reachable from entry points.&lt;/li&gt;&lt;/ul&gt;</description>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 04/student 04 (2).java</file>
+  <line>74</line>
+  <module>codeSmellsWork</module>
+  <package>HW4_GUI</package>
+  <entry_point TYPE="method" FQNAME="HW4_GUI.BoardController void makeMove(int i, int j)" />
+  <language>JAVA</language>
+  <offset>16</offset>
+  <length>8</length>
+  <highlighted_element>makeMove</highlighted_element>
+  <problem_class id="unused" severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">unused declaration</problem_class>
+  <hints>
+    <hint value="comment" />
+    <hint value="delete" />
+  </hints>
+  <description>&lt;ul&gt;&lt;li&gt;Method owner class is never instantiated OR&lt;/li&gt;&lt;li&gt;An instantiation is not reachable from entry points.&lt;/li&gt;&lt;/ul&gt;</description>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 04/student 04 (2).java</file>
+  <line>85</line>
+  <module>codeSmellsWork</module>
+  <package>HW4_GUI</package>
+  <entry_point TYPE="method" FQNAME="HW4_GUI.BoardController HW4_GUI.console.Player getCurrentPlayer()" />
+  <language>JAVA</language>
+  <offset>18</offset>
+  <length>16</length>
+  <highlighted_element>getCurrentPlayer</highlighted_element>
+  <problem_class id="unused" severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">unused declaration</problem_class>
+  <hints>
+    <hint value="comment" />
+    <hint value="delete" />
+  </hints>
+  <description>&lt;ul&gt;&lt;li&gt;Method owner class is never instantiated OR&lt;/li&gt;&lt;li&gt;An instantiation is not reachable from entry points.&lt;/li&gt;&lt;/ul&gt;</description>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 04/student 04 (2).java</file>
+  <line>93</line>
+  <module>codeSmellsWork</module>
+  <package>HW4_GUI</package>
+  <entry_point TYPE="method" FQNAME="HW4_GUI.BoardController void setCurrentPlayer(HW4_GUI.console.Player currentPlayer)" />
+  <language>JAVA</language>
+  <offset>16</offset>
+  <length>16</length>
+  <highlighted_element>setCurrentPlayer</highlighted_element>
+  <problem_class id="unused" severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">unused declaration</problem_class>
+  <hints>
+    <hint value="comment" />
+    <hint value="delete" />
+  </hints>
+  <description>&lt;ul&gt;&lt;li&gt;Method owner class is never instantiated OR&lt;/li&gt;&lt;li&gt;An instantiation is not reachable from entry points.&lt;/li&gt;&lt;/ul&gt;</description>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 04/student 04 (2).java</file>
+  <line>102</line>
+  <module>codeSmellsWork</module>
+  <package>HW4_GUI</package>
+  <entry_point TYPE="method" FQNAME="HW4_GUI.BoardController HW4_GUI.console.Player getPlayer1()" />
+  <language>JAVA</language>
+  <offset>18</offset>
+  <length>10</length>
+  <highlighted_element>getPlayer1</highlighted_element>
+  <problem_class id="unused" severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">unused declaration</problem_class>
+  <hints>
+    <hint value="comment" />
+    <hint value="delete" />
+  </hints>
+  <description>&lt;ul&gt;&lt;li&gt;Method owner class is never instantiated OR&lt;/li&gt;&lt;li&gt;An instantiation is not reachable from entry points.&lt;/li&gt;&lt;/ul&gt;</description>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 04/student 04 (2).java</file>
+  <line>110</line>
+  <module>codeSmellsWork</module>
+  <package>HW4_GUI</package>
+  <entry_point TYPE="method" FQNAME="HW4_GUI.BoardController void setPlayer1(HW4_GUI.console.Player player1)" />
+  <language>JAVA</language>
+  <offset>16</offset>
+  <length>10</length>
+  <highlighted_element>setPlayer1</highlighted_element>
+  <problem_class id="unused" severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">unused declaration</problem_class>
+  <hints>
+    <hint value="comment" />
+    <hint value="delete" />
+  </hints>
+  <description>&lt;ul&gt;&lt;li&gt;Method owner class is never instantiated OR&lt;/li&gt;&lt;li&gt;An instantiation is not reachable from entry points.&lt;/li&gt;&lt;/ul&gt;</description>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 04/student 04 (2).java</file>
+  <line>126</line>
+  <module>codeSmellsWork</module>
+  <package>HW4_GUI</package>
+  <entry_point TYPE="method" FQNAME="HW4_GUI.BoardController void setOpponent(HW4_GUI.console.Player opponent)" />
+  <language>JAVA</language>
+  <offset>16</offset>
+  <length>11</length>
+  <highlighted_element>setOpponent</highlighted_element>
+  <problem_class id="unused" severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">unused declaration</problem_class>
+  <hints>
+    <hint value="comment" />
+    <hint value="delete" />
+  </hints>
+  <description>&lt;ul&gt;&lt;li&gt;Method owner class is never instantiated OR&lt;/li&gt;&lt;li&gt;An instantiation is not reachable from entry points.&lt;/li&gt;&lt;/ul&gt;</description>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 04/student 04 (3).java</file>
+  <line>27</line>
+  <module>codeSmellsWork</module>
+  <package>HW4_GUI</package>
+  <entry_point TYPE="method" FQNAME="HW4_GUI.BoardPanel BoardPanel(HW4_GUI.console.Board board)" />
+  <language>JAVA</language>
+  <offset>11</offset>
+  <length>10</length>
+  <highlighted_element>BoardPanel</highlighted_element>
+  <problem_class id="unused" severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">unused declaration</problem_class>
+  <hints>
+    <hint value="comment" />
+    <hint value="delete" />
+  </hints>
+  <description>Constructor is never used.</description>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 04/student 04 (3).java</file>
+  <line>43</line>
+  <module>codeSmellsWork</module>
+  <package>HW4_GUI</package>
+  <entry_point TYPE="method" FQNAME="HW4_GUI.BoardPanel HW4_GUI.console.Board getBoard()" />
+  <language>JAVA</language>
+  <offset>17</offset>
+  <length>8</length>
+  <highlighted_element>getBoard</highlighted_element>
+  <problem_class id="unused" severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">unused declaration</problem_class>
+  <hints>
+    <hint value="comment" />
+    <hint value="delete" />
+  </hints>
+  <description>&lt;ul&gt;&lt;li&gt;Method owner class is never instantiated OR&lt;/li&gt;&lt;li&gt;An instantiation is not reachable from entry points.&lt;/li&gt;&lt;/ul&gt;</description>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 04/student 04 (3).java</file>
+  <line>51</line>
+  <module>codeSmellsWork</module>
+  <package>HW4_GUI</package>
+  <entry_point TYPE="method" FQNAME="HW4_GUI.BoardPanel javax.swing.JLabel getJLabel()" />
+  <language>JAVA</language>
+  <offset>18</offset>
+  <length>9</length>
+  <highlighted_element>getJLabel</highlighted_element>
+  <problem_class id="unused" severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">unused declaration</problem_class>
+  <hints>
+    <hint value="comment" />
+    <hint value="delete" />
+  </hints>
+  <description>&lt;ul&gt;&lt;li&gt;Method owner class is never instantiated OR&lt;/li&gt;&lt;li&gt;An instantiation is not reachable from entry points.&lt;/li&gt;&lt;/ul&gt;</description>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 04/student 04 (3).java</file>
+  <line>59</line>
+  <module>codeSmellsWork</module>
+  <package>HW4_GUI</package>
+  <entry_point TYPE="method" FQNAME="HW4_GUI.BoardPanel void setLabel(java.lang.String text)" />
+  <language>JAVA</language>
+  <offset>16</offset>
+  <length>8</length>
+  <highlighted_element>setLabel</highlighted_element>
+  <problem_class id="unused" severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">unused declaration</problem_class>
+  <hints>
+    <hint value="comment" />
+    <hint value="delete" />
+  </hints>
+  <description>&lt;ul&gt;&lt;li&gt;Method owner class is never instantiated OR&lt;/li&gt;&lt;li&gt;An instantiation is not reachable from entry points.&lt;/li&gt;&lt;/ul&gt;</description>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 04/student 04 (3).java</file>
+  <line>63</line>
+  <module>codeSmellsWork</module>
+  <package>HW4_GUI</package>
+  <entry_point TYPE="method" FQNAME="HW4_GUI.BoardPanel void displayMessage(java.lang.String message, boolean isDraw)" />
+  <language>JAVA</language>
+  <offset>16</offset>
+  <length>14</length>
+  <highlighted_element>displayMessage</highlighted_element>
+  <problem_class id="unused" severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">unused declaration</problem_class>
+  <hints>
+    <hint value="comment" />
+    <hint value="delete" />
+  </hints>
+  <description>&lt;ul&gt;&lt;li&gt;Method owner class is never instantiated OR&lt;/li&gt;&lt;li&gt;An instantiation is not reachable from entry points.&lt;/li&gt;&lt;/ul&gt;</description>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 04/student 04 (3).java</file>
+  <line>74</line>
+  <module>codeSmellsWork</module>
+  <package>HW4_GUI</package>
+  <entry_point TYPE="method" FQNAME="HW4_GUI.BoardPanel void initializeBoard()" />
+  <language>JAVA</language>
+  <offset>16</offset>
+  <length>15</length>
+  <highlighted_element>initializeBoard</highlighted_element>
+  <problem_class id="unused" severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">unused declaration</problem_class>
+  <hints>
+    <hint value="comment" />
+    <hint value="delete" />
+  </hints>
+  <description>&lt;ul&gt;&lt;li&gt;Method owner class is never instantiated OR&lt;/li&gt;&lt;li&gt;An instantiation is not reachable from entry points.&lt;/li&gt;&lt;/ul&gt;</description>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 04/student 04 (3).java</file>
+  <line>151</line>
+  <module>codeSmellsWork</module>
+  <package>HW4_GUI</package>
+  <entry_point TYPE="method" FQNAME="HW4_GUI.BoardPanel void drawHoverEffect(int size, int squareSize, java.awt.Graphics g)" />
+  <problem_class id="unused" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Unused declaration</problem_class>
+  <hints>
+    <hint value="size" />
+  </hints>
+  <description>Parameter &lt;code&gt;size&lt;/code&gt; is not used</description>
+  <highlighted_element>size</highlighted_element>
+  <language>JAVA</language>
+  <offset>37</offset>
+  <length>4</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 04/student 04 (4).java</file>
+  <line>8</line>
+  <module>codeSmellsWork</module>
+  <package>HW4_GUI.console</package>
+  <entry_point TYPE="method" FQNAME="HW4_GUI.console.ComputerPlayer ComputerPlayer(java.lang.String name, char symbol)" />
+  <language>JAVA</language>
+  <offset>11</offset>
+  <length>14</length>
+  <highlighted_element>ComputerPlayer</highlighted_element>
+  <problem_class id="unused" severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">unused declaration</problem_class>
+  <hints>
+    <hint value="comment" />
+    <hint value="delete" />
+  </hints>
+  <description>All constructor usages belong to the calls chain that has no members reachable from entry points.</description>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 04/student 04 (4).java</file>
+  <line>15</line>
+  <module>codeSmellsWork</module>
+  <package>HW4_GUI.console</package>
+  <entry_point TYPE="method" FQNAME="HW4_GUI.console.ComputerPlayer Coordinate pickPlace(Board board)" />
+  <language>JAVA</language>
+  <offset>22</offset>
+  <length>9</length>
+  <highlighted_element>pickPlace</highlighted_element>
+  <problem_class id="unused" severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">unused declaration</problem_class>
+  <hints>
+    <hint value="comment" />
+    <hint value="delete" />
+  </hints>
+  <description>&lt;ul&gt;&lt;li&gt;Method owner class is never instantiated OR&lt;/li&gt;&lt;li&gt;An instantiation is not reachable from entry points.&lt;/li&gt;&lt;/ul&gt;</description>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 04/student 04 (5).java</file>
+  <line>8</line>
+  <module>codeSmellsWork</module>
+  <package>HW4_GUI.console</package>
+  <entry_point TYPE="method" FQNAME="HW4_GUI.console.ConsoleUI ConsoleUI()" />
+  <language>JAVA</language>
+  <offset>11</offset>
+  <length>9</length>
+  <highlighted_element>ConsoleUI</highlighted_element>
+  <problem_class id="unused" severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">unused declaration</problem_class>
+  <hints>
+    <hint value="comment" />
+    <hint value="delete" />
+  </hints>
+  <description>Constructor is never used.</description>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 04/student 04 (5).java</file>
+  <line>12</line>
+  <module>codeSmellsWork</module>
+  <package>HW4_GUI.console</package>
+  <entry_point TYPE="method" FQNAME="HW4_GUI.console.ConsoleUI int chooseGameMode()" />
+  <language>JAVA</language>
+  <offset>15</offset>
+  <length>14</length>
+  <highlighted_element>chooseGameMode</highlighted_element>
+  <problem_class id="unused" severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">unused declaration</problem_class>
+  <hints>
+    <hint value="comment" />
+    <hint value="delete" />
+  </hints>
+  <description>&lt;ul&gt;&lt;li&gt;Method owner class is never instantiated OR&lt;/li&gt;&lt;li&gt;An instantiation is not reachable from entry points.&lt;/li&gt;&lt;/ul&gt;</description>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 04/student 04 (5).java</file>
+  <line>19</line>
+  <module>codeSmellsWork</module>
+  <package>HW4_GUI.console</package>
+  <entry_point TYPE="method" FQNAME="HW4_GUI.console.ConsoleUI java.lang.String getPlayerName(int playerNumber)" />
+  <language>JAVA</language>
+  <offset>18</offset>
+  <length>13</length>
+  <highlighted_element>getPlayerName</highlighted_element>
+  <problem_class id="unused" severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">unused declaration</problem_class>
+  <hints>
+    <hint value="comment" />
+    <hint value="delete" />
+  </hints>
+  <description>&lt;ul&gt;&lt;li&gt;Method owner class is never instantiated OR&lt;/li&gt;&lt;li&gt;An instantiation is not reachable from entry points.&lt;/li&gt;&lt;/ul&gt;</description>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 04/student 04 (5).java</file>
+  <line>24</line>
+  <module>codeSmellsWork</module>
+  <package>HW4_GUI.console</package>
+  <entry_point TYPE="method" FQNAME="HW4_GUI.console.ConsoleUI void showBoard(Board board)" />
+  <language>JAVA</language>
+  <offset>16</offset>
+  <length>9</length>
+  <highlighted_element>showBoard</highlighted_element>
+  <problem_class id="unused" severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">unused declaration</problem_class>
+  <hints>
+    <hint value="comment" />
+    <hint value="delete" />
+  </hints>
+  <description>&lt;ul&gt;&lt;li&gt;Method owner class is never instantiated OR&lt;/li&gt;&lt;li&gt;An instantiation is not reachable from entry points.&lt;/li&gt;&lt;/ul&gt;</description>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 04/student 04 (5).java</file>
+  <line>36</line>
+  <module>codeSmellsWork</module>
+  <package>HW4_GUI.console</package>
+  <entry_point TYPE="method" FQNAME="HW4_GUI.console.ConsoleUI Coordinate playerMove(Player player)" />
+  <language>JAVA</language>
+  <offset>22</offset>
+  <length>10</length>
+  <highlighted_element>playerMove</highlighted_element>
+  <problem_class id="unused" severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">unused declaration</problem_class>
+  <hints>
+    <hint value="comment" />
+    <hint value="delete" />
+  </hints>
+  <description>&lt;ul&gt;&lt;li&gt;Method owner class is never instantiated OR&lt;/li&gt;&lt;li&gt;An instantiation is not reachable from entry points.&lt;/li&gt;&lt;/ul&gt;</description>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 04/student 04 (5).java</file>
+  <line>47</line>
+  <module>codeSmellsWork</module>
+  <package>HW4_GUI.console</package>
+  <entry_point TYPE="method" FQNAME="HW4_GUI.console.ConsoleUI int chooseMove()" />
+  <language>JAVA</language>
+  <offset>15</offset>
+  <length>10</length>
+  <highlighted_element>chooseMove</highlighted_element>
+  <problem_class id="unused" severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">unused declaration</problem_class>
+  <hints>
+    <hint value="comment" />
+    <hint value="delete" />
+  </hints>
+  <description>&lt;ul&gt;&lt;li&gt;Method owner class is never instantiated OR&lt;/li&gt;&lt;li&gt;An instantiation is not reachable from entry points.&lt;/li&gt;&lt;/ul&gt;</description>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 04/student 04 (5).java</file>
+  <line>54</line>
+  <module>codeSmellsWork</module>
+  <package>HW4_GUI.console</package>
+  <entry_point TYPE="method" FQNAME="HW4_GUI.console.ConsoleUI int chooseBoardSize()" />
+  <language>JAVA</language>
+  <offset>15</offset>
+  <length>15</length>
+  <highlighted_element>chooseBoardSize</highlighted_element>
+  <problem_class id="unused" severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">unused declaration</problem_class>
+  <hints>
+    <hint value="comment" />
+    <hint value="delete" />
+  </hints>
+  <description>&lt;ul&gt;&lt;li&gt;Method owner class is never instantiated OR&lt;/li&gt;&lt;li&gt;An instantiation is not reachable from entry points.&lt;/li&gt;&lt;/ul&gt;</description>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 04/student 04 (5).java</file>
+  <line>60</line>
+  <module>codeSmellsWork</module>
+  <package>HW4_GUI.console</package>
+  <entry_point TYPE="method" FQNAME="HW4_GUI.console.ConsoleUI void showInvalidMove()" />
+  <language>JAVA</language>
+  <offset>16</offset>
+  <length>15</length>
+  <highlighted_element>showInvalidMove</highlighted_element>
+  <problem_class id="unused" severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">unused declaration</problem_class>
+  <hints>
+    <hint value="comment" />
+    <hint value="delete" />
+  </hints>
+  <description>&lt;ul&gt;&lt;li&gt;Method owner class is never instantiated OR&lt;/li&gt;&lt;li&gt;An instantiation is not reachable from entry points.&lt;/li&gt;&lt;/ul&gt;</description>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 04/student 04 (5).java</file>
+  <line>64</line>
+  <module>codeSmellsWork</module>
+  <package>HW4_GUI.console</package>
+  <entry_point TYPE="method" FQNAME="HW4_GUI.console.ConsoleUI void showWinner(Player player)" />
+  <language>JAVA</language>
+  <offset>16</offset>
+  <length>10</length>
+  <highlighted_element>showWinner</highlighted_element>
+  <problem_class id="unused" severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">unused declaration</problem_class>
+  <hints>
+    <hint value="comment" />
+    <hint value="delete" />
+  </hints>
+  <description>&lt;ul&gt;&lt;li&gt;Method owner class is never instantiated OR&lt;/li&gt;&lt;li&gt;An instantiation is not reachable from entry points.&lt;/li&gt;&lt;/ul&gt;</description>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 04/student 04 (5).java</file>
+  <line>68</line>
+  <module>codeSmellsWork</module>
+  <package>HW4_GUI.console</package>
+  <entry_point TYPE="method" FQNAME="HW4_GUI.console.ConsoleUI void showTie()" />
+  <language>JAVA</language>
+  <offset>16</offset>
+  <length>7</length>
+  <highlighted_element>showTie</highlighted_element>
+  <problem_class id="unused" severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">unused declaration</problem_class>
+  <hints>
+    <hint value="comment" />
+    <hint value="delete" />
+  </hints>
+  <description>&lt;ul&gt;&lt;li&gt;Method owner class is never instantiated OR&lt;/li&gt;&lt;li&gt;An instantiation is not reachable from entry points.&lt;/li&gt;&lt;/ul&gt;</description>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 04/student 04 (5).java</file>
+  <line>72</line>
+  <module>codeSmellsWork</module>
+  <package>HW4_GUI.console</package>
+  <entry_point TYPE="method" FQNAME="HW4_GUI.console.ConsoleUI void GameModeError()" />
+  <language>JAVA</language>
+  <offset>16</offset>
+  <length>13</length>
+  <highlighted_element>GameModeError</highlighted_element>
+  <problem_class id="unused" severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">unused declaration</problem_class>
+  <hints>
+    <hint value="comment" />
+    <hint value="delete" />
+  </hints>
+  <description>&lt;ul&gt;&lt;li&gt;Method owner class is never instantiated OR&lt;/li&gt;&lt;li&gt;An instantiation is not reachable from entry points.&lt;/li&gt;&lt;/ul&gt;</description>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 04/student 04 (6).java</file>
+  <line>15</line>
+  <module>codeSmellsWork</module>
+  <package>HW4_GUI.console</package>
+  <entry_point TYPE="method" FQNAME="HW4_GUI.console.Coordinate Coordinate(int x, int y)" />
+  <language>JAVA</language>
+  <offset>11</offset>
+  <length>10</length>
+  <highlighted_element>Coordinate</highlighted_element>
+  <problem_class id="unused" severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">unused declaration</problem_class>
+  <hints>
+    <hint value="comment" />
+    <hint value="delete" />
+  </hints>
+  <description>All constructor usages belong to the calls chain that has no members reachable from entry points.</description>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 04/student 04 (6).java</file>
+  <line>32</line>
+  <module>codeSmellsWork</module>
+  <package>HW4_GUI.console</package>
+  <entry_point TYPE="method" FQNAME="HW4_GUI.console.Coordinate void setX(int x)" />
+  <language>JAVA</language>
+  <offset>16</offset>
+  <length>4</length>
+  <highlighted_element>setX</highlighted_element>
+  <problem_class id="unused" severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">unused declaration</problem_class>
+  <hints>
+    <hint value="comment" />
+    <hint value="delete" />
+  </hints>
+  <description>&lt;ul&gt;&lt;li&gt;Method owner class is never instantiated OR&lt;/li&gt;&lt;li&gt;An instantiation is not reachable from entry points.&lt;/li&gt;&lt;/ul&gt;</description>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 04/student 04 (6).java</file>
+  <line>48</line>
+  <module>codeSmellsWork</module>
+  <package>HW4_GUI.console</package>
+  <entry_point TYPE="method" FQNAME="HW4_GUI.console.Coordinate void setY(int y)" />
+  <language>JAVA</language>
+  <offset>16</offset>
+  <length>4</length>
+  <highlighted_element>setY</highlighted_element>
+  <problem_class id="unused" severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">unused declaration</problem_class>
+  <hints>
+    <hint value="comment" />
+    <hint value="delete" />
+  </hints>
+  <description>&lt;ul&gt;&lt;li&gt;Method owner class is never instantiated OR&lt;/li&gt;&lt;li&gt;An instantiation is not reachable from entry points.&lt;/li&gt;&lt;/ul&gt;</description>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 04/student 04 (7).java</file>
+  <line>6</line>
+  <module>codeSmellsWork</module>
+  <package>HW4_GUI.console</package>
+  <entry_point TYPE="method" FQNAME="HW4_GUI.console.HumanPlayer HumanPlayer(java.lang.String name, char piece, ConsoleUI ui)" />
+  <language>JAVA</language>
+  <offset>11</offset>
+  <length>11</length>
+  <highlighted_element>HumanPlayer</highlighted_element>
+  <problem_class id="unused" severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">unused declaration</problem_class>
+  <hints>
+    <hint value="comment" />
+    <hint value="delete" />
+  </hints>
+  <description>All constructor usages belong to the calls chain that has no members reachable from entry points.</description>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 04/student 04 (7).java</file>
+  <line>12</line>
+  <module>codeSmellsWork</module>
+  <package>HW4_GUI.console</package>
+  <entry_point TYPE="method" FQNAME="HW4_GUI.console.HumanPlayer Coordinate pickPlace(Board board)" />
+  <language>JAVA</language>
+  <offset>22</offset>
+  <length>9</length>
+  <highlighted_element>pickPlace</highlighted_element>
+  <problem_class id="unused" severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">unused declaration</problem_class>
+  <hints>
+    <hint value="comment" />
+    <hint value="delete" />
+  </hints>
+  <description>&lt;ul&gt;&lt;li&gt;Method owner class is never instantiated OR&lt;/li&gt;&lt;li&gt;An instantiation is not reachable from entry points.&lt;/li&gt;&lt;/ul&gt;</description>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 04/student 04 (9).java</file>
+  <line>12</line>
+  <module>codeSmellsWork</module>
+  <package>HW4_GUI</package>
+  <entry_point TYPE="method" FQNAME="HW4_GUI.OmokAction OmokAction(java.lang.String name, javax.swing.ImageIcon icon, java.lang.String descr, int mnemonic, int accelerator, java.lang.Runnable runnable)" />
+  <language>JAVA</language>
+  <offset>11</offset>
+  <length>10</length>
+  <highlighted_element>OmokAction</highlighted_element>
+  <problem_class id="unused" severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">unused declaration</problem_class>
+  <hints>
+    <hint value="comment" />
+    <hint value="delete" />
+  </hints>
+  <description>Constructor is never used.</description>
+</problem>
+</problems>

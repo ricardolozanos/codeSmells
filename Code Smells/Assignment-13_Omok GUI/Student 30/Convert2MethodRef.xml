@@ -1,0 +1,15 @@
+<problems>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 30/student 30 (2).java</file>
+  <line>26</line>
+  <module>codeSmellsWork</module>
+  <package>&lt;default&gt;</package>
+  <entry_point TYPE="method" FQNAME="OmokGui void main(java.lang.String[] args)" />
+  <problem_class id="Convert2MethodRef" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Lambda can be replaced with method reference</problem_class>
+  <description>Lambda can be replaced with method reference</description>
+  <highlighted_element>new OmokGui()</highlighted_element>
+  <language>JAVA</language>
+  <offset>51</offset>
+  <length>13</length>
+</problem>
+</problems>

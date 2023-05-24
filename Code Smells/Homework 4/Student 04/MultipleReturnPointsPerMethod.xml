@@ -1,0 +1,67 @@
+<problems>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 04/student 04 (1).java</file>
+  <line>54</line>
+  <module>codeSmellsWork</module>
+  <package>HW4_GUI.console</package>
+  <entry_point TYPE="method" FQNAME="HW4_GUI.console.Board boolean makeMove(int row, int col, char piece)" />
+  <problem_class id="MultipleReturnPointsPerMethod" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Method with multiple return points</problem_class>
+  <description>&lt;code&gt;makeMove&lt;/code&gt; has 2 return points #loc</description>
+  <highlighted_element>makeMove</highlighted_element>
+  <language>JAVA</language>
+  <offset>19</offset>
+  <length>8</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 04/student 04 (1).java</file>
+  <line>77</line>
+  <module>codeSmellsWork</module>
+  <package>HW4_GUI.console</package>
+  <entry_point TYPE="method" FQNAME="HW4_GUI.console.Board boolean isFull()" />
+  <problem_class id="MultipleReturnPointsPerMethod" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Method with multiple return points</problem_class>
+  <description>&lt;code&gt;isFull&lt;/code&gt; has 2 return points #loc</description>
+  <highlighted_element>isFull</highlighted_element>
+  <language>JAVA</language>
+  <offset>19</offset>
+  <length>6</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 04/student 04 (1).java</file>
+  <line>95</line>
+  <module>codeSmellsWork</module>
+  <package>HW4_GUI.console</package>
+  <entry_point TYPE="method" FQNAME="HW4_GUI.console.Board boolean hasWinner(int row, int col)" />
+  <problem_class id="MultipleReturnPointsPerMethod" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Method with multiple return points</problem_class>
+  <description>&lt;code&gt;hasWinner&lt;/code&gt; has 5 return points #loc</description>
+  <highlighted_element>hasWinner</highlighted_element>
+  <language>JAVA</language>
+  <offset>19</offset>
+  <length>9</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 04/student 04 (1).java</file>
+  <line>167</line>
+  <module>codeSmellsWork</module>
+  <package>HW4_GUI.console</package>
+  <entry_point TYPE="method" FQNAME="HW4_GUI.console.Board Coordinate getSuggestion(char playerSymbol)" />
+  <problem_class id="MultipleReturnPointsPerMethod" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Method with multiple return points</problem_class>
+  <description>&lt;code&gt;getSuggestion&lt;/code&gt; has 3 return points #loc</description>
+  <highlighted_element>getSuggestion</highlighted_element>
+  <language>JAVA</language>
+  <offset>22</offset>
+  <length>13</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 04/student 04 (8).java</file>
+  <line>166</line>
+  <module>codeSmellsWork</module>
+  <package>HW4_GUI</package>
+  <entry_point TYPE="method" FQNAME="HW4_GUI.Main javax.swing.ImageIcon createImageIcon(java.lang.String filename)" />
+  <problem_class id="MultipleReturnPointsPerMethod" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Method with multiple return points</problem_class>
+  <description>&lt;code&gt;createImageIcon&lt;/code&gt; has 2 return points #loc</description>
+  <highlighted_element>createImageIcon</highlighted_element>
+  <language>JAVA</language>
+  <offset>22</offset>
+  <length>15</length>
+</problem>
+</problems>

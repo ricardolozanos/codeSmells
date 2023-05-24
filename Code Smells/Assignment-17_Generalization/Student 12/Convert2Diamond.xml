@@ -1,0 +1,28 @@
+<problems>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 12/student 12 (3).java</file>
+  <line>7</line>
+  <module>codeSmellsWork</module>
+  <package>&lt;default&gt;</package>
+  <entry_point TYPE="field" FQNAME="MultiPlotter functions" />
+  <problem_class id="Convert2Diamond" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Explicit type can be replaced with '&lt;&gt;'</problem_class>
+  <description>Explicit type argument Function can be replaced with &lt;&gt;</description>
+  <highlighted_element>Function</highlighted_element>
+  <language>JAVA</language>
+  <offset>45</offset>
+  <length>8</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 12/student 12 (3).java</file>
+  <line>8</line>
+  <module>codeSmellsWork</module>
+  <package>&lt;default&gt;</package>
+  <entry_point TYPE="field" FQNAME="MultiPlotter colors" />
+  <problem_class id="Convert2Diamond" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Explicit type can be replaced with '&lt;&gt;'</problem_class>
+  <description>Explicit type argument Color can be replaced with &lt;&gt;</description>
+  <highlighted_element>Color</highlighted_element>
+  <language>JAVA</language>
+  <offset>39</offset>
+  <length>5</length>
+</problem>
+</problems>

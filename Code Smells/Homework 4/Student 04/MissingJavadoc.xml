@@ -1,0 +1,444 @@
+<problems>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 04/student 04 (10).java</file>
+  <line>3</line>
+  <module>codeSmellsWork</module>
+  <package>HW4_GUI.console</package>
+  <entry_point TYPE="class" FQNAME="HW4_GUI.console.Player" />
+  <problem_class id="MissingJavadoc" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Missing Javadoc</problem_class>
+  <description>Required Javadoc is absent</description>
+  <highlighted_element>Player</highlighted_element>
+  <language>JAVA</language>
+  <offset>22</offset>
+  <length>6</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 04/student 04 (10).java</file>
+  <line>7</line>
+  <module>codeSmellsWork</module>
+  <package>HW4_GUI.console</package>
+  <entry_point TYPE="method" FQNAME="HW4_GUI.console.Player Player(java.lang.String name, char symbol)" />
+  <problem_class id="MissingJavadoc" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Missing Javadoc</problem_class>
+  <description>Required Javadoc is absent</description>
+  <highlighted_element>Player</highlighted_element>
+  <language>JAVA</language>
+  <offset>11</offset>
+  <length>6</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 04/student 04 (10).java</file>
+  <line>12</line>
+  <module>codeSmellsWork</module>
+  <package>HW4_GUI.console</package>
+  <entry_point TYPE="method" FQNAME="HW4_GUI.console.Player java.lang.String getName()" />
+  <problem_class id="MissingJavadoc" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Missing Javadoc</problem_class>
+  <description>Required Javadoc is absent</description>
+  <highlighted_element>getName</highlighted_element>
+  <language>JAVA</language>
+  <offset>18</offset>
+  <length>7</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 04/student 04 (10).java</file>
+  <line>16</line>
+  <module>codeSmellsWork</module>
+  <package>HW4_GUI.console</package>
+  <entry_point TYPE="method" FQNAME="HW4_GUI.console.Player char getSymbol()" />
+  <problem_class id="MissingJavadoc" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Missing Javadoc</problem_class>
+  <description>Required Javadoc is absent</description>
+  <highlighted_element>getSymbol</highlighted_element>
+  <language>JAVA</language>
+  <offset>16</offset>
+  <length>9</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 04/student 04 (10).java</file>
+  <line>20</line>
+  <module>codeSmellsWork</module>
+  <package>HW4_GUI.console</package>
+  <entry_point TYPE="method" FQNAME="HW4_GUI.console.Player Coordinate pickPlace(Board board)" />
+  <problem_class id="MissingJavadoc" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Missing Javadoc</problem_class>
+  <description>Required Javadoc is absent</description>
+  <highlighted_element>pickPlace</highlighted_element>
+  <language>JAVA</language>
+  <offset>31</offset>
+  <length>9</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 04/student 04 (2).java</file>
+  <line>10</line>
+  <module>codeSmellsWork</module>
+  <package>HW4_GUI</package>
+  <entry_point TYPE="class" FQNAME="HW4_GUI.BoardController" />
+  <problem_class id="MissingJavadoc" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Missing Javadoc</problem_class>
+  <description>Required Javadoc is absent</description>
+  <highlighted_element>BoardController</highlighted_element>
+  <language>JAVA</language>
+  <offset>13</offset>
+  <length>15</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 04/student 04 (2).java</file>
+  <line>18</line>
+  <module>codeSmellsWork</module>
+  <package>HW4_GUI</package>
+  <entry_point TYPE="method" FQNAME="HW4_GUI.BoardController BoardController(BoardPanel boardPanel, HW4_GUI.console.Board board, int mode)" />
+  <problem_class id="MissingJavadoc" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Missing Javadoc</problem_class>
+  <description>Required Javadoc is absent</description>
+  <highlighted_element>BoardController</highlighted_element>
+  <language>JAVA</language>
+  <offset>11</offset>
+  <length>15</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 04/student 04 (3).java</file>
+  <line>18</line>
+  <module>codeSmellsWork</module>
+  <package>HW4_GUI</package>
+  <entry_point TYPE="class" FQNAME="HW4_GUI.BoardPanel" />
+  <problem_class id="MissingJavadoc" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Missing Javadoc</problem_class>
+  <description>Required Javadoc is absent</description>
+  <highlighted_element>BoardPanel</highlighted_element>
+  <language>JAVA</language>
+  <offset>13</offset>
+  <length>10</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 04/student 04 (3).java</file>
+  <line>27</line>
+  <module>codeSmellsWork</module>
+  <package>HW4_GUI</package>
+  <entry_point TYPE="method" FQNAME="HW4_GUI.BoardPanel BoardPanel(HW4_GUI.console.Board board)" />
+  <problem_class id="MissingJavadoc" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Missing Javadoc</problem_class>
+  <description>Required Javadoc is absent</description>
+  <highlighted_element>BoardPanel</highlighted_element>
+  <language>JAVA</language>
+  <offset>11</offset>
+  <length>10</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 04/student 04 (3).java</file>
+  <line>39</line>
+  <module>codeSmellsWork</module>
+  <package>HW4_GUI</package>
+  <entry_point TYPE="method" FQNAME="HW4_GUI.BoardPanel void getNewOpponent(int mode)" />
+  <problem_class id="MissingJavadoc" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Missing Javadoc</problem_class>
+  <description>Required Javadoc is absent</description>
+  <highlighted_element>getNewOpponent</highlighted_element>
+  <language>JAVA</language>
+  <offset>16</offset>
+  <length>14</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 04/student 04 (3).java</file>
+  <line>43</line>
+  <module>codeSmellsWork</module>
+  <package>HW4_GUI</package>
+  <entry_point TYPE="method" FQNAME="HW4_GUI.BoardPanel HW4_GUI.console.Board getBoard()" />
+  <problem_class id="MissingJavadoc" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Missing Javadoc</problem_class>
+  <description>Required Javadoc is absent</description>
+  <highlighted_element>getBoard</highlighted_element>
+  <language>JAVA</language>
+  <offset>17</offset>
+  <length>8</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 04/student 04 (3).java</file>
+  <line>55</line>
+  <module>codeSmellsWork</module>
+  <package>HW4_GUI</package>
+  <entry_point TYPE="method" FQNAME="HW4_GUI.BoardPanel void setLabel(java.lang.String text)" />
+  <problem_class id="MissingJavadoc" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Missing Javadoc</problem_class>
+  <description>Required tag &lt;code&gt;@param&lt;/code&gt; is missing for parameter &lt;code&gt;text&lt;/code&gt;</description>
+  <highlighted_element>/**</highlighted_element>
+  <language>JAVA</language>
+  <offset>4</offset>
+  <length>3</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 04/student 04 (3).java</file>
+  <line>63</line>
+  <module>codeSmellsWork</module>
+  <package>HW4_GUI</package>
+  <entry_point TYPE="method" FQNAME="HW4_GUI.BoardPanel void displayMessage(java.lang.String message, boolean isDraw)" />
+  <problem_class id="MissingJavadoc" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Missing Javadoc</problem_class>
+  <description>Required Javadoc is absent</description>
+  <highlighted_element>displayMessage</highlighted_element>
+  <language>JAVA</language>
+  <offset>16</offset>
+  <length>14</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 04/student 04 (4).java</file>
+  <line>5</line>
+  <module>codeSmellsWork</module>
+  <package>HW4_GUI.console</package>
+  <entry_point TYPE="class" FQNAME="HW4_GUI.console.ComputerPlayer" />
+  <problem_class id="MissingJavadoc" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Missing Javadoc</problem_class>
+  <description>Required Javadoc is absent</description>
+  <highlighted_element>ComputerPlayer</highlighted_element>
+  <language>JAVA</language>
+  <offset>13</offset>
+  <length>14</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 04/student 04 (4).java</file>
+  <line>8</line>
+  <module>codeSmellsWork</module>
+  <package>HW4_GUI.console</package>
+  <entry_point TYPE="method" FQNAME="HW4_GUI.console.ComputerPlayer ComputerPlayer(java.lang.String name, char symbol)" />
+  <problem_class id="MissingJavadoc" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Missing Javadoc</problem_class>
+  <description>Required Javadoc is absent</description>
+  <highlighted_element>ComputerPlayer</highlighted_element>
+  <language>JAVA</language>
+  <offset>11</offset>
+  <length>14</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 04/student 04 (4).java</file>
+  <line>15</line>
+  <module>codeSmellsWork</module>
+  <package>HW4_GUI.console</package>
+  <entry_point TYPE="method" FQNAME="HW4_GUI.console.ComputerPlayer Coordinate pickPlace(Board board)" />
+  <problem_class id="MissingJavadoc" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Missing Javadoc</problem_class>
+  <description>Required Javadoc is absent</description>
+  <highlighted_element>pickPlace</highlighted_element>
+  <language>JAVA</language>
+  <offset>22</offset>
+  <length>9</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 04/student 04 (5).java</file>
+  <line>5</line>
+  <module>codeSmellsWork</module>
+  <package>HW4_GUI.console</package>
+  <entry_point TYPE="class" FQNAME="HW4_GUI.console.ConsoleUI" />
+  <problem_class id="MissingJavadoc" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Missing Javadoc</problem_class>
+  <description>Required Javadoc is absent</description>
+  <highlighted_element>ConsoleUI</highlighted_element>
+  <language>JAVA</language>
+  <offset>13</offset>
+  <length>9</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 04/student 04 (5).java</file>
+  <line>8</line>
+  <module>codeSmellsWork</module>
+  <package>HW4_GUI.console</package>
+  <entry_point TYPE="method" FQNAME="HW4_GUI.console.ConsoleUI ConsoleUI()" />
+  <problem_class id="MissingJavadoc" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Missing Javadoc</problem_class>
+  <description>Required Javadoc is absent</description>
+  <highlighted_element>ConsoleUI</highlighted_element>
+  <language>JAVA</language>
+  <offset>11</offset>
+  <length>9</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 04/student 04 (5).java</file>
+  <line>12</line>
+  <module>codeSmellsWork</module>
+  <package>HW4_GUI.console</package>
+  <entry_point TYPE="method" FQNAME="HW4_GUI.console.ConsoleUI int chooseGameMode()" />
+  <problem_class id="MissingJavadoc" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Missing Javadoc</problem_class>
+  <description>Required Javadoc is absent</description>
+  <highlighted_element>chooseGameMode</highlighted_element>
+  <language>JAVA</language>
+  <offset>15</offset>
+  <length>14</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 04/student 04 (5).java</file>
+  <line>19</line>
+  <module>codeSmellsWork</module>
+  <package>HW4_GUI.console</package>
+  <entry_point TYPE="method" FQNAME="HW4_GUI.console.ConsoleUI java.lang.String getPlayerName(int playerNumber)" />
+  <problem_class id="MissingJavadoc" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Missing Javadoc</problem_class>
+  <description>Required Javadoc is absent</description>
+  <highlighted_element>getPlayerName</highlighted_element>
+  <language>JAVA</language>
+  <offset>18</offset>
+  <length>13</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 04/student 04 (5).java</file>
+  <line>24</line>
+  <module>codeSmellsWork</module>
+  <package>HW4_GUI.console</package>
+  <entry_point TYPE="method" FQNAME="HW4_GUI.console.ConsoleUI void showBoard(Board board)" />
+  <problem_class id="MissingJavadoc" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Missing Javadoc</problem_class>
+  <description>Required Javadoc is absent</description>
+  <highlighted_element>showBoard</highlighted_element>
+  <language>JAVA</language>
+  <offset>16</offset>
+  <length>9</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 04/student 04 (5).java</file>
+  <line>36</line>
+  <module>codeSmellsWork</module>
+  <package>HW4_GUI.console</package>
+  <entry_point TYPE="method" FQNAME="HW4_GUI.console.ConsoleUI Coordinate playerMove(Player player)" />
+  <problem_class id="MissingJavadoc" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Missing Javadoc</problem_class>
+  <description>Required Javadoc is absent</description>
+  <highlighted_element>playerMove</highlighted_element>
+  <language>JAVA</language>
+  <offset>22</offset>
+  <length>10</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 04/student 04 (5).java</file>
+  <line>47</line>
+  <module>codeSmellsWork</module>
+  <package>HW4_GUI.console</package>
+  <entry_point TYPE="method" FQNAME="HW4_GUI.console.ConsoleUI int chooseMove()" />
+  <problem_class id="MissingJavadoc" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Missing Javadoc</problem_class>
+  <description>Required Javadoc is absent</description>
+  <highlighted_element>chooseMove</highlighted_element>
+  <language>JAVA</language>
+  <offset>15</offset>
+  <length>10</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 04/student 04 (5).java</file>
+  <line>54</line>
+  <module>codeSmellsWork</module>
+  <package>HW4_GUI.console</package>
+  <entry_point TYPE="method" FQNAME="HW4_GUI.console.ConsoleUI int chooseBoardSize()" />
+  <problem_class id="MissingJavadoc" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Missing Javadoc</problem_class>
+  <description>Required Javadoc is absent</description>
+  <highlighted_element>chooseBoardSize</highlighted_element>
+  <language>JAVA</language>
+  <offset>15</offset>
+  <length>15</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 04/student 04 (5).java</file>
+  <line>60</line>
+  <module>codeSmellsWork</module>
+  <package>HW4_GUI.console</package>
+  <entry_point TYPE="method" FQNAME="HW4_GUI.console.ConsoleUI void showInvalidMove()" />
+  <problem_class id="MissingJavadoc" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Missing Javadoc</problem_class>
+  <description>Required Javadoc is absent</description>
+  <highlighted_element>showInvalidMove</highlighted_element>
+  <language>JAVA</language>
+  <offset>16</offset>
+  <length>15</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 04/student 04 (5).java</file>
+  <line>64</line>
+  <module>codeSmellsWork</module>
+  <package>HW4_GUI.console</package>
+  <entry_point TYPE="method" FQNAME="HW4_GUI.console.ConsoleUI void showWinner(Player player)" />
+  <problem_class id="MissingJavadoc" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Missing Javadoc</problem_class>
+  <description>Required Javadoc is absent</description>
+  <highlighted_element>showWinner</highlighted_element>
+  <language>JAVA</language>
+  <offset>16</offset>
+  <length>10</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 04/student 04 (5).java</file>
+  <line>68</line>
+  <module>codeSmellsWork</module>
+  <package>HW4_GUI.console</package>
+  <entry_point TYPE="method" FQNAME="HW4_GUI.console.ConsoleUI void showTie()" />
+  <problem_class id="MissingJavadoc" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Missing Javadoc</problem_class>
+  <description>Required Javadoc is absent</description>
+  <highlighted_element>showTie</highlighted_element>
+  <language>JAVA</language>
+  <offset>16</offset>
+  <length>7</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 04/student 04 (5).java</file>
+  <line>72</line>
+  <module>codeSmellsWork</module>
+  <package>HW4_GUI.console</package>
+  <entry_point TYPE="method" FQNAME="HW4_GUI.console.ConsoleUI void GameModeError()" />
+  <problem_class id="MissingJavadoc" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Missing Javadoc</problem_class>
+  <description>Required Javadoc is absent</description>
+  <highlighted_element>GameModeError</highlighted_element>
+  <language>JAVA</language>
+  <offset>16</offset>
+  <length>13</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 04/student 04 (7).java</file>
+  <line>3</line>
+  <module>codeSmellsWork</module>
+  <package>HW4_GUI.console</package>
+  <entry_point TYPE="class" FQNAME="HW4_GUI.console.HumanPlayer" />
+  <problem_class id="MissingJavadoc" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Missing Javadoc</problem_class>
+  <description>Required Javadoc is absent</description>
+  <highlighted_element>HumanPlayer</highlighted_element>
+  <language>JAVA</language>
+  <offset>13</offset>
+  <length>11</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 04/student 04 (7).java</file>
+  <line>6</line>
+  <module>codeSmellsWork</module>
+  <package>HW4_GUI.console</package>
+  <entry_point TYPE="method" FQNAME="HW4_GUI.console.HumanPlayer HumanPlayer(java.lang.String name, char piece, ConsoleUI ui)" />
+  <problem_class id="MissingJavadoc" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Missing Javadoc</problem_class>
+  <description>Required Javadoc is absent</description>
+  <highlighted_element>HumanPlayer</highlighted_element>
+  <language>JAVA</language>
+  <offset>11</offset>
+  <length>11</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 04/student 04 (7).java</file>
+  <line>12</line>
+  <module>codeSmellsWork</module>
+  <package>HW4_GUI.console</package>
+  <entry_point TYPE="method" FQNAME="HW4_GUI.console.HumanPlayer Coordinate pickPlace(Board board)" />
+  <problem_class id="MissingJavadoc" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Missing Javadoc</problem_class>
+  <description>Required Javadoc is absent</description>
+  <highlighted_element>pickPlace</highlighted_element>
+  <language>JAVA</language>
+  <offset>22</offset>
+  <length>9</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 04/student 04 (8).java</file>
+  <line>23</line>
+  <module>codeSmellsWork</module>
+  <package>HW4_GUI</package>
+  <entry_point TYPE="class" FQNAME="HW4_GUI.Main" />
+  <problem_class id="MissingJavadoc" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Missing Javadoc</problem_class>
+  <description>Required Javadoc is absent</description>
+  <highlighted_element>Main</highlighted_element>
+  <language>JAVA</language>
+  <offset>13</offset>
+  <length>4</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 04/student 04 (8).java</file>
+  <line>30</line>
+  <module>codeSmellsWork</module>
+  <package>HW4_GUI</package>
+  <entry_point TYPE="method" FQNAME="HW4_GUI.Main Main(BoardPanel boardPanel)" />
+  <problem_class id="MissingJavadoc" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Missing Javadoc</problem_class>
+  <description>Required Javadoc is absent</description>
+  <highlighted_element>Main</highlighted_element>
+  <language>JAVA</language>
+  <offset>11</offset>
+  <length>4</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 04/student 04 (8).java</file>
+  <line>174</line>
+  <module>codeSmellsWork</module>
+  <package>HW4_GUI</package>
+  <entry_point TYPE="method" FQNAME="HW4_GUI.Main void main(java.lang.String[] args)" />
+  <problem_class id="MissingJavadoc" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Missing Javadoc</problem_class>
+  <description>Required Javadoc is absent</description>
+  <highlighted_element>main</highlighted_element>
+  <language>JAVA</language>
+  <offset>23</offset>
+  <length>4</length>
+</problem>
+</problems>

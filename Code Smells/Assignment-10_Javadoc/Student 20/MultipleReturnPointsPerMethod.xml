@@ -1,0 +1,15 @@
+<problems>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 20/student 20 (1).java</file>
+  <line>113</line>
+  <module>codeSmellsWork</module>
+  <package>Omok</package>
+  <entry_point TYPE="method" FQNAME="Omok.Board boolean validMove(int x, int y)" />
+  <problem_class id="MultipleReturnPointsPerMethod" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Method with multiple return points</problem_class>
+  <description>&lt;code&gt;validMove&lt;/code&gt; has 2 return points #loc</description>
+  <highlighted_element>validMove</highlighted_element>
+  <language>JAVA</language>
+  <offset>19</offset>
+  <length>9</length>
+</problem>
+</problems>

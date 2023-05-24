@@ -1,0 +1,28 @@
+<problems>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 45/student 45 (2).java</file>
+  <line>31</line>
+  <module>codeSmellsWork</module>
+  <package>javaChat</package>
+  <entry_point TYPE="field" FQNAME="javaChat.ChatServer clients" />
+  <problem_class id="FieldMayBeFinal" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Field may be 'final'</problem_class>
+  <description>Field &lt;code&gt;clients&lt;/code&gt; may be 'final' #loc</description>
+  <highlighted_element>clients</highlighted_element>
+  <language>JAVA</language>
+  <offset>27</offset>
+  <length>7</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 45/student 45 (2).java</file>
+  <line>90</line>
+  <module>codeSmellsWork</module>
+  <package>javaChat</package>
+  <entry_point TYPE="field" FQNAME="javaChat.ChatServer.ClientHandler incoming" />
+  <problem_class id="FieldMayBeFinal" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Field may be 'final'</problem_class>
+  <description>Field &lt;code&gt;incoming&lt;/code&gt; may be 'final' #loc</description>
+  <highlighted_element>incoming</highlighted_element>
+  <language>JAVA</language>
+  <offset>20</offset>
+  <length>8</length>
+</problem>
+</problems>

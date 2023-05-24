@@ -1,0 +1,80 @@
+<problems>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 15/student 15 (9).java</file>
+  <line>62</line>
+  <module>codeSmellsWork</module>
+  <package>&lt;default&gt;</package>
+  <entry_point TYPE="method" FQNAME="GameBoard GameBoard clone()" />
+  <problem_class id="RawUseOfParameterizedType" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Raw use of parameterized class</problem_class>
+  <description>Raw use of parameterized class &lt;code&gt;GameBoard&lt;/code&gt; #loc</description>
+  <highlighted_element>GameBoard</highlighted_element>
+  <language>JAVA</language>
+  <offset>11</offset>
+  <length>9</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 15/student 15 (9).java</file>
+  <line>63</line>
+  <module>codeSmellsWork</module>
+  <package>&lt;default&gt;</package>
+  <entry_point TYPE="method" FQNAME="GameBoard GameBoard clone()" />
+  <problem_class id="RawUseOfParameterizedType" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Raw use of parameterized class</problem_class>
+  <description>Raw use of parameterized class &lt;code&gt;GameBoard&lt;/code&gt; #loc</description>
+  <highlighted_element>GameBoard</highlighted_element>
+  <language>JAVA</language>
+  <offset>19</offset>
+  <length>9</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 15/student 15 (9).java</file>
+  <line>66</line>
+  <module>codeSmellsWork</module>
+  <package>&lt;default&gt;</package>
+  <entry_point TYPE="method" FQNAME="GameBoard java.util.ArrayList isGameWon(int posX, int posY)" />
+  <problem_class id="RawUseOfParameterizedType" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Raw use of parameterized class</problem_class>
+  <description>Raw use of parameterized class &lt;code&gt;ArrayList&lt;/code&gt; #loc</description>
+  <highlighted_element>ArrayList</highlighted_element>
+  <language>JAVA</language>
+  <offset>11</offset>
+  <length>9</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 15/student 15 (9).java</file>
+  <line>80</line>
+  <module>codeSmellsWork</module>
+  <package>&lt;default&gt;</package>
+  <entry_point TYPE="method" FQNAME="GameBoard java.util.ArrayList isGameWon(int x, int y, int dx, int dy, Player player)" />
+  <problem_class id="RawUseOfParameterizedType" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Raw use of parameterized class</problem_class>
+  <description>Raw use of parameterized class &lt;code&gt;ArrayList&lt;/code&gt; #loc</description>
+  <highlighted_element>ArrayList</highlighted_element>
+  <language>JAVA</language>
+  <offset>11</offset>
+  <length>9</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 15/student 15 (9).java</file>
+  <line>82</line>
+  <module>codeSmellsWork</module>
+  <package>&lt;default&gt;</package>
+  <entry_point TYPE="method" FQNAME="GameBoard java.util.ArrayList isGameWon(int x, int y, int dx, int dy, Player player)" />
+  <problem_class id="RawUseOfParameterizedType" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Raw use of parameterized class</problem_class>
+  <description>Raw use of parameterized class &lt;code&gt;ArrayList&lt;/code&gt; #loc</description>
+  <highlighted_element>ArrayList</highlighted_element>
+  <language>JAVA</language>
+  <offset>33</offset>
+  <length>9</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 15/student 15 (9).java</file>
+  <line>130</line>
+  <module>codeSmellsWork</module>
+  <package>&lt;default&gt;</package>
+  <entry_point TYPE="method" FQNAME="GameBoard java.util.ArrayList&lt;java.util.ArrayList&lt;T&gt;&gt; getPuckBoard()" />
+  <problem_class id="RawUseOfParameterizedType" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Raw use of parameterized class</problem_class>
+  <description>Raw use of parameterized class &lt;code&gt;ArrayList&lt;/code&gt; #loc</description>
+  <highlighted_element>ArrayList</highlighted_element>
+  <language>JAVA</language>
+  <offset>19</offset>
+  <length>9</length>
+</problem>
+</problems>

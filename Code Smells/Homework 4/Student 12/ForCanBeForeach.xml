@@ -1,0 +1,54 @@
+<problems>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 12/student 12 (4).java</file>
+  <line>150</line>
+  <module>codeSmellsWork</module>
+  <package>&lt;default&gt;</package>
+  <entry_point TYPE="method" FQNAME="Board boolean isWonBy(Player player)" />
+  <problem_class id="ForCanBeForeach" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">'for' loop can be replaced with enhanced for loop</problem_class>
+  <description>&lt;code&gt;for&lt;/code&gt; loop can be replaced with enhanced 'for' #loc</description>
+  <highlighted_element>for</highlighted_element>
+  <language>JAVA</language>
+  <offset>24</offset>
+  <length>3</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 12/student 12 (4).java</file>
+  <line>163</line>
+  <module>codeSmellsWork</module>
+  <package>&lt;default&gt;</package>
+  <entry_point TYPE="method" FQNAME="Board boolean isWonBy(Player player)" />
+  <problem_class id="ForCanBeForeach" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">'for' loop can be replaced with enhanced for loop</problem_class>
+  <description>&lt;code&gt;for&lt;/code&gt; loop can be replaced with enhanced 'for' #loc</description>
+  <highlighted_element>for</highlighted_element>
+  <language>JAVA</language>
+  <offset>24</offset>
+  <length>3</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 12/student 12 (4).java</file>
+  <line>179</line>
+  <module>codeSmellsWork</module>
+  <package>&lt;default&gt;</package>
+  <entry_point TYPE="method" FQNAME="Board boolean isWonBy(Player player)" />
+  <problem_class id="ForCanBeForeach" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">'for' loop can be replaced with enhanced for loop</problem_class>
+  <description>&lt;code&gt;for&lt;/code&gt; loop can be replaced with enhanced 'for' #loc</description>
+  <highlighted_element>for</highlighted_element>
+  <language>JAVA</language>
+  <offset>20</offset>
+  <length>3</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 12/student 12 (4).java</file>
+  <line>194</line>
+  <module>codeSmellsWork</module>
+  <package>&lt;default&gt;</package>
+  <entry_point TYPE="method" FQNAME="Board boolean isWonBy(Player player)" />
+  <problem_class id="ForCanBeForeach" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">'for' loop can be replaced with enhanced for loop</problem_class>
+  <description>&lt;code&gt;for&lt;/code&gt; loop can be replaced with enhanced 'for' #loc</description>
+  <highlighted_element>for</highlighted_element>
+  <language>JAVA</language>
+  <offset>20</offset>
+  <length>3</length>
+</problem>
+</problems>

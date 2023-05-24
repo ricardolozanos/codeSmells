@@ -1,0 +1,54 @@
+<problems>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 04/student 04 (2).java</file>
+  <line>62</line>
+  <module>codeSmellsWork</module>
+  <package>HW4_GUI</package>
+  <entry_point TYPE="method" FQNAME="HW4_GUI.BoardController void computerMove()" />
+  <problem_class id="ChainedMethodCall" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Chained method calls</problem_class>
+  <description>Chained method call &lt;code&gt;pickPlace()&lt;/code&gt; #loc</description>
+  <highlighted_element>pickPlace</highlighted_element>
+  <language>JAVA</language>
+  <offset>48</offset>
+  <length>9</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 04/student 04 (2).java</file>
+  <line>63</line>
+  <module>codeSmellsWork</module>
+  <package>HW4_GUI</package>
+  <entry_point TYPE="method" FQNAME="HW4_GUI.BoardController void computerMove()" />
+  <problem_class id="ChainedMethodCall" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Chained method calls</problem_class>
+  <description>Chained method call &lt;code&gt;getSymbol()&lt;/code&gt; #loc</description>
+  <highlighted_element>getSymbol</highlighted_element>
+  <language>JAVA</language>
+  <offset>79</offset>
+  <length>9</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 04/student 04 (8).java</file>
+  <line>70</line>
+  <module>codeSmellsWork</module>
+  <package>HW4_GUI</package>
+  <entry_point TYPE="method" FQNAME="HW4_GUI.Main void createMenu()" />
+  <problem_class id="ChainedMethodCall" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Chained method calls</problem_class>
+  <description>Chained method call &lt;code&gt;setAccessibleDescription()&lt;/code&gt; #loc</description>
+  <highlighted_element>setAccessibleDescription</highlighted_element>
+  <language>JAVA</language>
+  <offset>36</offset>
+  <length>24</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 04/student 04 (8).java</file>
+  <line>167</line>
+  <module>codeSmellsWork</module>
+  <package>HW4_GUI</package>
+  <entry_point TYPE="method" FQNAME="HW4_GUI.Main javax.swing.ImageIcon createImageIcon(java.lang.String filename)" />
+  <problem_class id="ChainedMethodCall" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Chained method calls</problem_class>
+  <description>Chained method call &lt;code&gt;getResource()&lt;/code&gt; #loc</description>
+  <highlighted_element>getResource</highlighted_element>
+  <language>JAVA</language>
+  <offset>34</offset>
+  <length>11</length>
+</problem>
+</problems>

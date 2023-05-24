@@ -1,0 +1,15 @@
+<problems>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 24/student 24 (5).java</file>
+  <line>12</line>
+  <module>codeSmellsWork</module>
+  <package>noapplet.example</package>
+  <entry_point TYPE="method" FQNAME="noapplet.example.Collision void detect()" />
+  <problem_class id="MethodWithMultipleLoops" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Method with multiple loops</problem_class>
+  <description>&lt;code&gt;detect&lt;/code&gt; contains 2 loops #loc</description>
+  <highlighted_element>detect</highlighted_element>
+  <language>JAVA</language>
+  <offset>16</offset>
+  <length>6</length>
+</problem>
+</problems>

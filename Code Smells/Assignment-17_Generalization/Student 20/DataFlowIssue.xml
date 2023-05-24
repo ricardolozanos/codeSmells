@@ -1,0 +1,15 @@
+<problems>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 20/student 20 (2).java</file>
+  <line>23</line>
+  <module>codeSmellsWork</module>
+  <package>&lt;default&gt;</package>
+  <entry_point TYPE="method" FQNAME="MultiPlotter void addFunction(Function func, java.awt.Color color)" />
+  <problem_class id="DataFlowIssue" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Nullability and data flow problems</problem_class>
+  <description>Variable is already assigned to this value</description>
+  <highlighted_element>color</highlighted_element>
+  <language>JAVA</language>
+  <offset>8</offset>
+  <length>5</length>
+</problem>
+</problems>

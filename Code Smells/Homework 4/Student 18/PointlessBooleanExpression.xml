@@ -1,0 +1,67 @@
+<problems>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 18/student 18 (10).java</file>
+  <line>41</line>
+  <module>codeSmellsWork</module>
+  <package>&lt;default&gt;</package>
+  <entry_point TYPE="method" FQNAME="PVP void run()" />
+  <problem_class id="PointlessBooleanExpression" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Pointless boolean expression</problem_class>
+  <description>&lt;code&gt;open == false&lt;/code&gt; can be simplified to '!open' #loc</description>
+  <highlighted_element>open == false</highlighted_element>
+  <language>JAVA</language>
+  <offset>6</offset>
+  <length>13</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 18/student 18 (10).java</file>
+  <line>47</line>
+  <module>codeSmellsWork</module>
+  <package>&lt;default&gt;</package>
+  <entry_point TYPE="method" FQNAME="PVP void run()" />
+  <problem_class id="PointlessBooleanExpression" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Pointless boolean expression</problem_class>
+  <description>&lt;code&gt;open == false&lt;/code&gt; can be simplified to '!open' #loc</description>
+  <highlighted_element>open == false</highlighted_element>
+  <language>JAVA</language>
+  <offset>6</offset>
+  <length>13</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 18/student 18 (8).java</file>
+  <line>86</line>
+  <module>codeSmellsWork</module>
+  <package>&lt;default&gt;</package>
+  <entry_point TYPE="method" FQNAME="Player boolean checkWin()" />
+  <problem_class id="PointlessBooleanExpression" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Pointless boolean expression</problem_class>
+  <description>&lt;code&gt;this.won == true&lt;/code&gt; can be simplified to 'this.won' #loc</description>
+  <highlighted_element>this.won == true</highlighted_element>
+  <language>JAVA</language>
+  <offset>6</offset>
+  <length>16</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 18/student 18 (9).java</file>
+  <line>40</line>
+  <module>codeSmellsWork</module>
+  <package>&lt;default&gt;</package>
+  <entry_point TYPE="method" FQNAME="PVC void run()" />
+  <problem_class id="PointlessBooleanExpression" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Pointless boolean expression</problem_class>
+  <description>&lt;code&gt;open == false&lt;/code&gt; can be simplified to '!open' #loc</description>
+  <highlighted_element>open == false</highlighted_element>
+  <language>JAVA</language>
+  <offset>6</offset>
+  <length>13</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 18/student 18 (9).java</file>
+  <line>46</line>
+  <module>codeSmellsWork</module>
+  <package>&lt;default&gt;</package>
+  <entry_point TYPE="method" FQNAME="PVC void run()" />
+  <problem_class id="PointlessBooleanExpression" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Pointless boolean expression</problem_class>
+  <description>&lt;code&gt;open == false&lt;/code&gt; can be simplified to '!open' #loc</description>
+  <highlighted_element>open == false</highlighted_element>
+  <language>JAVA</language>
+  <offset>6</offset>
+  <length>13</length>
+</problem>
+</problems>

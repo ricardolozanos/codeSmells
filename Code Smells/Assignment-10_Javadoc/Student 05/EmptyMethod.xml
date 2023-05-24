@@ -1,0 +1,34 @@
+<problems>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 05/student 05 (1).java</file>
+  <line>56</line>
+  <module>codeSmellsWork</module>
+  <package>&lt;default&gt;</package>
+  <entry_point TYPE="method" FQNAME="ConsoleUI void playHumanGame()" />
+  <problem_class id="EmptyMethod" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Empty method</problem_class>
+  <hints>
+    <hint value="false" />
+  </hints>
+  <description>The method is empty</description>
+  <highlighted_element>playHumanGame</highlighted_element>
+  <language>JAVA</language>
+  <offset>17</offset>
+  <length>13</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 05/student 05 (1).java</file>
+  <line>63</line>
+  <module>codeSmellsWork</module>
+  <package>&lt;default&gt;</package>
+  <entry_point TYPE="method" FQNAME="ConsoleUI void playStrategyGame()" />
+  <problem_class id="EmptyMethod" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Empty method</problem_class>
+  <hints>
+    <hint value="false" />
+  </hints>
+  <description>The method is empty</description>
+  <highlighted_element>playStrategyGame</highlighted_element>
+  <language>JAVA</language>
+  <offset>17</offset>
+  <length>16</length>
+</problem>
+</problems>

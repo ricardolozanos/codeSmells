@@ -1,0 +1,119 @@
+<problems>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 19/student 19 (1).java</file>
+  <line>1</line>
+  <module>codeSmellsWork</module>
+  <package>omok</package>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/src/Student 19/student 19 (1).java" />
+  <problem_class id="WrongPackageStatement" severity="ERROR" attribute_key="ERRORS_ATTRIBUTES">Wrong package statement</problem_class>
+  <description>Package name 'omok' does not correspond to the file path 'Student 19'</description>
+  <highlighted_element>omok</highlighted_element>
+  <language>JAVA</language>
+  <offset>8</offset>
+  <length>4</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 19/student 19 (10).java</file>
+  <line>1</line>
+  <module>codeSmellsWork</module>
+  <package>omok</package>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/src/Student 19/student 19 (10).java" />
+  <problem_class id="WrongPackageStatement" severity="ERROR" attribute_key="ERRORS_ATTRIBUTES">Wrong package statement</problem_class>
+  <description>Package name 'omok' does not correspond to the file path 'Student 19'</description>
+  <highlighted_element>omok</highlighted_element>
+  <language>JAVA</language>
+  <offset>8</offset>
+  <length>4</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 19/student 19 (2).java</file>
+  <line>1</line>
+  <module>codeSmellsWork</module>
+  <package>omok</package>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/src/Student 19/student 19 (2).java" />
+  <problem_class id="WrongPackageStatement" severity="ERROR" attribute_key="ERRORS_ATTRIBUTES">Wrong package statement</problem_class>
+  <description>Package name 'omok' does not correspond to the file path 'Student 19'</description>
+  <highlighted_element>omok</highlighted_element>
+  <language>JAVA</language>
+  <offset>8</offset>
+  <length>4</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 19/student 19 (3).java</file>
+  <line>1</line>
+  <module>codeSmellsWork</module>
+  <package>omok</package>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/src/Student 19/student 19 (3).java" />
+  <problem_class id="WrongPackageStatement" severity="ERROR" attribute_key="ERRORS_ATTRIBUTES">Wrong package statement</problem_class>
+  <description>Package name 'omok' does not correspond to the file path 'Student 19'</description>
+  <highlighted_element>omok</highlighted_element>
+  <language>JAVA</language>
+  <offset>8</offset>
+  <length>4</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 19/student 19 (4).java</file>
+  <line>1</line>
+  <module>codeSmellsWork</module>
+  <package>omok</package>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/src/Student 19/student 19 (4).java" />
+  <problem_class id="WrongPackageStatement" severity="ERROR" attribute_key="ERRORS_ATTRIBUTES">Wrong package statement</problem_class>
+  <description>Package name 'omok' does not correspond to the file path 'Student 19'</description>
+  <highlighted_element>omok</highlighted_element>
+  <language>JAVA</language>
+  <offset>8</offset>
+  <length>4</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 19/student 19 (5).java</file>
+  <line>1</line>
+  <module>codeSmellsWork</module>
+  <package>omok</package>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/src/Student 19/student 19 (5).java" />
+  <problem_class id="WrongPackageStatement" severity="ERROR" attribute_key="ERRORS_ATTRIBUTES">Wrong package statement</problem_class>
+  <description>Package name 'omok' does not correspond to the file path 'Student 19'</description>
+  <highlighted_element>omok</highlighted_element>
+  <language>JAVA</language>
+  <offset>8</offset>
+  <length>4</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 19/student 19 (6).java</file>
+  <line>1</line>
+  <module>codeSmellsWork</module>
+  <package>omok</package>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/src/Student 19/student 19 (6).java" />
+  <problem_class id="WrongPackageStatement" severity="ERROR" attribute_key="ERRORS_ATTRIBUTES">Wrong package statement</problem_class>
+  <description>Package name 'omok' does not correspond to the file path 'Student 19'</description>
+  <highlighted_element>omok</highlighted_element>
+  <language>JAVA</language>
+  <offset>8</offset>
+  <length>4</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 19/student 19 (7).java</file>
+  <line>1</line>
+  <module>codeSmellsWork</module>
+  <package>omok</package>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/src/Student 19/student 19 (7).java" />
+  <problem_class id="WrongPackageStatement" severity="ERROR" attribute_key="ERRORS_ATTRIBUTES">Wrong package statement</problem_class>
+  <description>Package name 'omok' does not correspond to the file path 'Student 19'</description>
+  <highlighted_element>omok</highlighted_element>
+  <language>JAVA</language>
+  <offset>8</offset>
+  <length>4</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 19/student 19 (9).java</file>
+  <line>1</line>
+  <module>codeSmellsWork</module>
+  <package>omok</package>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/src/Student 19/student 19 (9).java" />
+  <problem_class id="WrongPackageStatement" severity="ERROR" attribute_key="ERRORS_ATTRIBUTES">Wrong package statement</problem_class>
+  <description>Package name 'omok' does not correspond to the file path 'Student 19'</description>
+  <highlighted_element>omok</highlighted_element>
+  <language>JAVA</language>
+  <offset>8</offset>
+  <length>4</length>
+</problem>
+</problems>

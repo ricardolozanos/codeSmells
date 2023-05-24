@@ -1,0 +1,119 @@
+<problems>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 11/student 11 (1).java</file>
+  <line>48</line>
+  <module>codeSmellsWork</module>
+  <package>&lt;default&gt;</package>
+  <entry_point TYPE="method" FQNAME="Controller void placeStone(int x, int y)" />
+  <problem_class id="MultipleReturnPointsPerMethod" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Method with multiple return points</problem_class>
+  <description>&lt;code&gt;placeStone&lt;/code&gt; has 2 return points #loc</description>
+  <highlighted_element>placeStone</highlighted_element>
+  <language>JAVA</language>
+  <offset>16</offset>
+  <length>10</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 11/student 11 (1).java</file>
+  <line>70</line>
+  <module>codeSmellsWork</module>
+  <package>&lt;default&gt;</package>
+  <entry_point TYPE="method" FQNAME="Controller Player getWinner()" />
+  <problem_class id="MultipleReturnPointsPerMethod" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Method with multiple return points</problem_class>
+  <description>&lt;code&gt;getWinner&lt;/code&gt; has 2 return points #loc</description>
+  <highlighted_element>getWinner</highlighted_element>
+  <language>JAVA</language>
+  <offset>18</offset>
+  <length>9</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 11/student 11 (2).java</file>
+  <line>110</line>
+  <module>codeSmellsWork</module>
+  <package>&lt;default&gt;</package>
+  <entry_point TYPE="method" FQNAME="GUIPlay void startGame(java.awt.event.ActionEvent e)" />
+  <problem_class id="MultipleReturnPointsPerMethod" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Method with multiple return points</problem_class>
+  <description>&lt;code&gt;startGame&lt;/code&gt; has 2 return points #loc</description>
+  <highlighted_element>startGame</highlighted_element>
+  <language>JAVA</language>
+  <offset>17</offset>
+  <length>9</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 11/student 11 (2).java</file>
+  <line>136</line>
+  <module>codeSmellsWork</module>
+  <package>&lt;default&gt;</package>
+  <entry_point TYPE="method" FQNAME="GUIPlay void announceWinner()" />
+  <problem_class id="MultipleReturnPointsPerMethod" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Method with multiple return points</problem_class>
+  <description>&lt;code&gt;announceWinner&lt;/code&gt; has 2 return points #loc</description>
+  <highlighted_element>announceWinner</highlighted_element>
+  <language>JAVA</language>
+  <offset>17</offset>
+  <length>14</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 11/student 11 (6).java</file>
+  <line>45</line>
+  <module>codeSmellsWork</module>
+  <package>&lt;default&gt;</package>
+  <entry_point TYPE="method" FQNAME="Board boolean isFull()" />
+  <problem_class id="MultipleReturnPointsPerMethod" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Method with multiple return points</problem_class>
+  <description>&lt;code&gt;isFull&lt;/code&gt; has 2 return points #loc</description>
+  <highlighted_element>isFull</highlighted_element>
+  <language>JAVA</language>
+  <offset>19</offset>
+  <length>6</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 11/student 11 (6).java</file>
+  <line>125</line>
+  <module>codeSmellsWork</module>
+  <package>&lt;default&gt;</package>
+  <entry_point TYPE="method" FQNAME="Board boolean isWonBy(Player player)" />
+  <problem_class id="MultipleReturnPointsPerMethod" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Method with multiple return points</problem_class>
+  <description>&lt;code&gt;isWonBy&lt;/code&gt; has 2 return points #loc</description>
+  <highlighted_element>isWonBy</highlighted_element>
+  <language>JAVA</language>
+  <offset>19</offset>
+  <length>7</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 11/student 11 (6).java</file>
+  <line>134</line>
+  <module>codeSmellsWork</module>
+  <package>&lt;default&gt;</package>
+  <entry_point TYPE="method" FQNAME="Board java.lang.Iterable&lt;Board.Place&gt; winningRow()" />
+  <problem_class id="MultipleReturnPointsPerMethod" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Method with multiple return points</problem_class>
+  <description>&lt;code&gt;winningRow&lt;/code&gt; has 6 return points #loc</description>
+  <highlighted_element>winningRow</highlighted_element>
+  <language>JAVA</language>
+  <offset>27</offset>
+  <length>10</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 11/student 11 (7).java</file>
+  <line>31</line>
+  <module>codeSmellsWork</module>
+  <package>&lt;default&gt;</package>
+  <entry_point TYPE="method" FQNAME="BoardPanel$1 void mouseClicked(java.awt.event.MouseEvent e)" />
+  <problem_class id="MultipleReturnPointsPerMethod" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Method with multiple return points</problem_class>
+  <description>&lt;code&gt;mouseClicked&lt;/code&gt; has 2 return points #loc</description>
+  <highlighted_element>mouseClicked</highlighted_element>
+  <language>JAVA</language>
+  <offset>20</offset>
+  <length>12</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 11/student 11 (7).java</file>
+  <line>130</line>
+  <module>codeSmellsWork</module>
+  <package>&lt;default&gt;</package>
+  <entry_point TYPE="method" FQNAME="BoardPanel void drawWinningRow(java.awt.Graphics g)" />
+  <problem_class id="MultipleReturnPointsPerMethod" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Method with multiple return points</problem_class>
+  <description>&lt;code&gt;drawWinningRow&lt;/code&gt; has 2 return points #loc</description>
+  <highlighted_element>drawWinningRow</highlighted_element>
+  <language>JAVA</language>
+  <offset>19</offset>
+  <length>14</length>
+</problem>
+</problems>

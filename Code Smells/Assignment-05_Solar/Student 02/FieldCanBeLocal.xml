@@ -1,0 +1,67 @@
+<problems>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 02/student 02 (3).java</file>
+  <line>68</line>
+  <module>codeSmellsWork</module>
+  <package>noapplet.example.solar</package>
+  <entry_point TYPE="field" FQNAME="noapplet.example.solar.Planet angle" />
+  <problem_class id="FieldCanBeLocal" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Field can be local</problem_class>
+  <description>Field can be converted to a local variable</description>
+  <highlighted_element>angle</highlighted_element>
+  <language>JAVA</language>
+  <offset>16</offset>
+  <length>5</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 02/student 02 (3).java</file>
+  <line>70</line>
+  <module>codeSmellsWork</module>
+  <package>noapplet.example.solar</package>
+  <entry_point TYPE="field" FQNAME="noapplet.example.solar.Planet y" />
+  <problem_class id="FieldCanBeLocal" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Field can be local</problem_class>
+  <description>Field can be converted to a local variable</description>
+  <highlighted_element>y</highlighted_element>
+  <language>JAVA</language>
+  <offset>16</offset>
+  <length>1</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 02/student 02 (3).java</file>
+  <line>72</line>
+  <module>codeSmellsWork</module>
+  <package>noapplet.example.solar</package>
+  <entry_point TYPE="field" FQNAME="noapplet.example.solar.Planet speed" />
+  <problem_class id="FieldCanBeLocal" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Field can be local</problem_class>
+  <description>Field can be converted to a local variable</description>
+  <highlighted_element>speed</highlighted_element>
+  <language>JAVA</language>
+  <offset>16</offset>
+  <length>5</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 02/student 02 (3).java</file>
+  <line>115</line>
+  <module>codeSmellsWork</module>
+  <package>noapplet.example.solar</package>
+  <entry_point TYPE="field" FQNAME="noapplet.example.solar.Moon angle" />
+  <problem_class id="FieldCanBeLocal" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Field can be local</problem_class>
+  <description>Field can be converted to a local variable</description>
+  <highlighted_element>angle</highlighted_element>
+  <language>JAVA</language>
+  <offset>16</offset>
+  <length>5</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 02/student 02 (3).java</file>
+  <line>117</line>
+  <module>codeSmellsWork</module>
+  <package>noapplet.example.solar</package>
+  <entry_point TYPE="field" FQNAME="noapplet.example.solar.Moon speed" />
+  <problem_class id="FieldCanBeLocal" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Field can be local</problem_class>
+  <description>Field can be converted to a local variable</description>
+  <highlighted_element>speed</highlighted_element>
+  <language>JAVA</language>
+  <offset>16</offset>
+  <length>5</length>
+</problem>
+</problems>

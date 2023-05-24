@@ -1,0 +1,19 @@
+<problems>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 33/student 33 (1).java</file>
+  <line>92</line>
+  <module>codeSmellsWork</module>
+  <package>Misc</package>
+  <entry_point TYPE="method" FQNAME="Misc.ChatDialog void warn(java.lang.String msg)" />
+  <language>JAVA</language>
+  <offset>17</offset>
+  <length>4</length>
+  <highlighted_element>warn</highlighted_element>
+  <problem_class id="unused" severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">unused declaration</problem_class>
+  <hints>
+    <hint value="comment" />
+    <hint value="delete" />
+  </hints>
+  <description>Method is never used.</description>
+</problem>
+</problems>

@@ -1,0 +1,188 @@
+<problems>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 10/student 10 (1).java</file>
+  <line>10</line>
+  <module>codeSmellsWork</module>
+  <package>jUnitHW</package>
+  <entry_point TYPE="field" FQNAME="jUnitHW.ConsoleUI out" />
+  <language>JAVA</language>
+  <offset>20</offset>
+  <length>3</length>
+  <highlighted_element>out</highlighted_element>
+  <problem_class id="unused" severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">unused declaration</problem_class>
+  <hints>
+    <hint value="comment" />
+    <hint value="delete" />
+  </hints>
+  <description>Field is assigned but never accessed.</description>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 10/student 10 (1).java</file>
+  <line>14</line>
+  <module>codeSmellsWork</module>
+  <package>jUnitHW</package>
+  <entry_point TYPE="method" FQNAME="jUnitHW.ConsoleUI ConsoleUI(Board bd, java.io.InputStream in, java.io.PrintStream out)" />
+  <language>JAVA</language>
+  <offset>8</offset>
+  <length>9</length>
+  <highlighted_element>ConsoleUI</highlighted_element>
+  <problem_class id="unused" severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">unused declaration</problem_class>
+  <hints>
+    <hint value="comment" />
+    <hint value="delete" />
+  </hints>
+  <description>Constructor is never used.</description>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 10/student 10 (1).java</file>
+  <line>25</line>
+  <module>codeSmellsWork</module>
+  <package>jUnitHW</package>
+  <entry_point TYPE="method" FQNAME="jUnitHW.ConsoleUI int promptMode()" />
+  <language>JAVA</language>
+  <offset>12</offset>
+  <length>10</length>
+  <highlighted_element>promptMode</highlighted_element>
+  <problem_class id="unused" severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">unused declaration</problem_class>
+  <hints>
+    <hint value="comment" />
+    <hint value="delete" />
+  </hints>
+  <description>&lt;ul&gt;&lt;li&gt;Method owner class is never instantiated OR&lt;/li&gt;&lt;li&gt;An instantiation is not reachable from entry points.&lt;/li&gt;&lt;/ul&gt;</description>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 10/student 10 (1).java</file>
+  <line>32</line>
+  <module>codeSmellsWork</module>
+  <package>jUnitHW</package>
+  <entry_point TYPE="method" FQNAME="jUnitHW.ConsoleUI void printBoard()" />
+  <language>JAVA</language>
+  <offset>13</offset>
+  <length>10</length>
+  <highlighted_element>printBoard</highlighted_element>
+  <problem_class id="unused" severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">unused declaration</problem_class>
+  <hints>
+    <hint value="comment" />
+    <hint value="delete" />
+  </hints>
+  <description>&lt;ul&gt;&lt;li&gt;Method owner class is never instantiated OR&lt;/li&gt;&lt;li&gt;An instantiation is not reachable from entry points.&lt;/li&gt;&lt;/ul&gt;</description>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 10/student 10 (1).java</file>
+  <line>36</line>
+  <module>codeSmellsWork</module>
+  <package>jUnitHW</package>
+  <entry_point TYPE="method" FQNAME="jUnitHW.ConsoleUI int promptMove(Player p)" />
+  <language>JAVA</language>
+  <offset>12</offset>
+  <length>10</length>
+  <highlighted_element>promptMove</highlighted_element>
+  <problem_class id="unused" severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">unused declaration</problem_class>
+  <hints>
+    <hint value="comment" />
+    <hint value="delete" />
+  </hints>
+  <description>&lt;ul&gt;&lt;li&gt;Method owner class is never instantiated OR&lt;/li&gt;&lt;li&gt;An instantiation is not reachable from entry points.&lt;/li&gt;&lt;/ul&gt;</description>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 10/student 10 (1).java</file>
+  <line>36</line>
+  <module>codeSmellsWork</module>
+  <package>jUnitHW</package>
+  <entry_point TYPE="method" FQNAME="jUnitHW.ConsoleUI int promptMove(Player p)" />
+  <problem_class id="unused" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Unused declaration</problem_class>
+  <hints>
+    <hint value="p" />
+  </hints>
+  <description>Parameter &lt;code&gt;p&lt;/code&gt; is not used</description>
+  <highlighted_element>p</highlighted_element>
+  <language>JAVA</language>
+  <offset>30</offset>
+  <length>1</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 10/student 10 (2).java</file>
+  <line>12</line>
+  <module>codeSmellsWork</module>
+  <package>jUnitHW</package>
+  <entry_point TYPE="field" FQNAME="jUnitHW.ConsoleUITest board" />
+  <language>JAVA</language>
+  <offset>15</offset>
+  <length>5</length>
+  <highlighted_element>board</highlighted_element>
+  <problem_class id="unused" severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">unused declaration</problem_class>
+  <hints>
+    <hint value="comment" />
+    <hint value="delete" />
+  </hints>
+  <description>Field has no usages.</description>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 10/student 10 (2).java</file>
+  <line>13</line>
+  <module>codeSmellsWork</module>
+  <package>jUnitHW</package>
+  <entry_point TYPE="field" FQNAME="jUnitHW.ConsoleUITest in" />
+  <language>JAVA</language>
+  <offset>21</offset>
+  <length>2</length>
+  <highlighted_element>in</highlighted_element>
+  <problem_class id="unused" severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">unused declaration</problem_class>
+  <hints>
+    <hint value="comment" />
+    <hint value="delete" />
+  </hints>
+  <description>Field is never assigned.</description>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 10/student 10 (2).java</file>
+  <line>14</line>
+  <module>codeSmellsWork</module>
+  <package>jUnitHW</package>
+  <entry_point TYPE="field" FQNAME="jUnitHW.ConsoleUITest out" />
+  <language>JAVA</language>
+  <offset>21</offset>
+  <length>3</length>
+  <highlighted_element>out</highlighted_element>
+  <problem_class id="unused" severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">unused declaration</problem_class>
+  <hints>
+    <hint value="comment" />
+    <hint value="delete" />
+  </hints>
+  <description>Field is never assigned.</description>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 10/student 10 (2).java</file>
+  <line>17</line>
+  <module>codeSmellsWork</module>
+  <package>jUnitHW</package>
+  <entry_point TYPE="method" FQNAME="jUnitHW.ConsoleUITest void test()" />
+  <language>JAVA</language>
+  <offset>6</offset>
+  <length>4</length>
+  <highlighted_element>test</highlighted_element>
+  <problem_class id="unused" severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">unused declaration</problem_class>
+  <hints>
+    <hint value="comment" />
+    <hint value="delete" />
+  </hints>
+  <description>&lt;ul&gt;&lt;li&gt;Method owner class is never instantiated OR&lt;/li&gt;&lt;li&gt;An instantiation is not reachable from entry points.&lt;/li&gt;&lt;/ul&gt;</description>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 10/student 10 (2).java</file>
+  <line>10</line>
+  <module>codeSmellsWork</module>
+  <package>jUnitHW</package>
+  <entry_point TYPE="class" FQNAME="jUnitHW.ConsoleUITest" />
+  <language>JAVA</language>
+  <offset>6</offset>
+  <length>13</length>
+  <highlighted_element>ConsoleUITest</highlighted_element>
+  <problem_class id="unused" severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">unused declaration</problem_class>
+  <hints>
+    <hint value="comment" />
+    <hint value="delete" />
+  </hints>
+  <description>Class is not instantiated.</description>
+</problem>
+</problems>

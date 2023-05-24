@@ -1,0 +1,28 @@
+<problems>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 08/student 08 (1).java</file>
+  <line>12</line>
+  <module>codeSmellsWork</module>
+  <package>&lt;default&gt;</package>
+  <entry_point TYPE="method" FQNAME="EnhancedModularBalloonApp ModularBalloonApp createBalloon()" />
+  <problem_class id="ReturnThis" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Return of 'this'</problem_class>
+  <description>Return of &lt;code&gt;this&lt;/code&gt; #loc</description>
+  <highlighted_element>this</highlighted_element>
+  <language>JAVA</language>
+  <offset>15</offset>
+  <length>4</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 08/student 08 (2).java</file>
+  <line>16</line>
+  <module>codeSmellsWork</module>
+  <package>&lt;default&gt;</package>
+  <entry_point TYPE="method" FQNAME="ModularBalloonApp ModularBalloonApp createBalloon()" />
+  <problem_class id="ReturnThis" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Return of 'this'</problem_class>
+  <description>Return of &lt;code&gt;this&lt;/code&gt; #loc</description>
+  <highlighted_element>this</highlighted_element>
+  <language>JAVA</language>
+  <offset>15</offset>
+  <length>4</length>
+</problem>
+</problems>

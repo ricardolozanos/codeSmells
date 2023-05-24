@@ -1,0 +1,28 @@
+<problems>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 31/student 31.java</file>
+  <line>151</line>
+  <module>codeSmellsWork</module>
+  <package>noapplet.example</package>
+  <entry_point TYPE="method" FQNAME="noapplet.example.BouncingBallAnimation void BouncingBallAnimationFour(java.awt.Graphics g)" />
+  <problem_class id="DuplicateCondition" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Duplicate condition</problem_class>
+  <description>Duplicate condition &lt;code&gt;x2 &gt; (x1 - radius) &amp;&amp; x2 &lt; x1&lt;/code&gt; #loc</description>
+  <highlighted_element>x2 &gt; (x1 - radius) &amp;&amp; x2 &lt; x1</highlighted_element>
+  <language>JAVA</language>
+  <offset>54</offset>
+  <length>29</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 31/student 31.java</file>
+  <line>151</line>
+  <module>codeSmellsWork</module>
+  <package>noapplet.example</package>
+  <entry_point TYPE="method" FQNAME="noapplet.example.BouncingBallAnimation void BouncingBallAnimationFour(java.awt.Graphics g)" />
+  <problem_class id="DuplicateCondition" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Duplicate condition</problem_class>
+  <description>Duplicate condition &lt;code&gt;x2 &gt; (x1 - radius) &amp;&amp; x2 &lt; x1&lt;/code&gt; #loc</description>
+  <highlighted_element>x2 &gt; (x1 - radius) &amp;&amp; x2 &lt; x1</highlighted_element>
+  <language>JAVA</language>
+  <offset>89</offset>
+  <length>29</length>
+</problem>
+</problems>

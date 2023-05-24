@@ -1,0 +1,15 @@
+<problems>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 32/student 32 (2).java</file>
+  <line>42</line>
+  <module>codeSmellsWork</module>
+  <package>&lt;default&gt;</package>
+  <entry_point TYPE="method" FQNAME="ChatServer void start()" />
+  <problem_class id="InfiniteLoopStatement" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Infinite loop statement</problem_class>
+  <description>&lt;code&gt;for&lt;/code&gt; statement cannot complete without throwing an exception #loc</description>
+  <highlighted_element>for</highlighted_element>
+  <language>JAVA</language>
+  <offset>12</offset>
+  <length>3</length>
+</problem>
+</problems>

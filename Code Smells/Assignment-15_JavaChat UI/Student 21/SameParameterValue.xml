@@ -1,0 +1,18 @@
+<problems>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 21/student 21 (1).java</file>
+  <line>124</line>
+  <module>codeSmellsWork</module>
+  <package>noapplet.example</package>
+  <entry_point TYPE="method" FQNAME="noapplet.example.ChatDialog void warn(java.lang.String msg)" />
+  <problem_class id="SameParameterValue" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Method parameter is always the same value</problem_class>
+  <hints>
+    <hint value="msg &quot;Not Connected to Server&quot;" />
+  </hints>
+  <description>Actual value of parameter &lt;code&gt;msg&lt;/code&gt; is always 'Not Connected to Server'</description>
+  <highlighted_element>msg</highlighted_element>
+  <language>JAVA</language>
+  <offset>26</offset>
+  <length>3</length>
+</problem>
+</problems>

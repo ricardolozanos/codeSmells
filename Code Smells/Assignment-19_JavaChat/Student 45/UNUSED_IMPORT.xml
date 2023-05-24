@@ -1,0 +1,58 @@
+<problems>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 45/student 45 (1).java</file>
+  <line>12</line>
+  <module>codeSmellsWork</module>
+  <package>javaChat</package>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/src/Student 45/student 45 (1).java" />
+  <problem_class id="UNUSED_IMPORT" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Unused import</problem_class>
+  <hints />
+  <description>Unused import &lt;code&gt;import java.io.OutputStreamWriter;&lt;/code&gt; #loc</description>
+  <highlighted_element>import java.io.OutputStreamWriter;</highlighted_element>
+  <language>JAVA</language>
+  <offset>0</offset>
+  <length>34</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 45/student 45 (1).java</file>
+  <line>14</line>
+  <module>codeSmellsWork</module>
+  <package>javaChat</package>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/src/Student 45/student 45 (1).java" />
+  <problem_class id="UNUSED_IMPORT" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Unused import</problem_class>
+  <hints />
+  <description>Unused import &lt;code&gt;import java.net.ServerSocket;&lt;/code&gt; #loc</description>
+  <highlighted_element>import java.net.ServerSocket;</highlighted_element>
+  <language>JAVA</language>
+  <offset>0</offset>
+  <length>29</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 45/student 45 (1).java</file>
+  <line>16</line>
+  <module>codeSmellsWork</module>
+  <package>javaChat</package>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/src/Student 45/student 45 (1).java" />
+  <problem_class id="UNUSED_IMPORT" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Unused import</problem_class>
+  <hints />
+  <description>Unused import &lt;code&gt;import java.net.UnknownHostException;&lt;/code&gt; #loc</description>
+  <highlighted_element>import java.net.UnknownHostException;</highlighted_element>
+  <language>JAVA</language>
+  <offset>0</offset>
+  <length>37</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 45/student 45 (3).java</file>
+  <line>8</line>
+  <module>codeSmellsWork</module>
+  <package>javachat</package>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/src/Student 45/student 45 (3).java" />
+  <problem_class id="UNUSED_IMPORT" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Unused import</problem_class>
+  <hints />
+  <description>Unused import &lt;code&gt;import java.net.UnknownHostException;&lt;/code&gt; #loc</description>
+  <highlighted_element>import java.net.UnknownHostException;</highlighted_element>
+  <language>JAVA</language>
+  <offset>0</offset>
+  <length>37</length>
+</problem>
+</problems>

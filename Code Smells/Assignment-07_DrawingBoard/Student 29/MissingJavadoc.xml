@@ -1,0 +1,171 @@
+<problems>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 29/student 29 (3).java</file>
+  <line>6</line>
+  <module>codeSmellsWork</module>
+  <package>DrawingBoard</package>
+  <entry_point TYPE="class" FQNAME="DrawingBoard.Triangle" />
+  <problem_class id="MissingJavadoc" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Missing Javadoc</problem_class>
+  <description>Required Javadoc is absent</description>
+  <highlighted_element>Triangle</highlighted_element>
+  <language>JAVA</language>
+  <offset>13</offset>
+  <length>8</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 29/student 29 (3).java</file>
+  <line>13</line>
+  <module>codeSmellsWork</module>
+  <package>DrawingBoard</package>
+  <entry_point TYPE="method" FQNAME="DrawingBoard.Triangle void drawShapes(java.awt.Graphics g)" />
+  <problem_class id="MissingJavadoc" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Missing Javadoc</problem_class>
+  <description>Required Javadoc is absent</description>
+  <highlighted_element>drawShapes</highlighted_element>
+  <language>JAVA</language>
+  <offset>13</offset>
+  <length>10</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 29/student 29 (4).java</file>
+  <line>6</line>
+  <module>codeSmellsWork</module>
+  <package>DrawingBoard</package>
+  <entry_point TYPE="class" FQNAME="DrawingBoard.Circle" />
+  <problem_class id="MissingJavadoc" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Missing Javadoc</problem_class>
+  <description>Required Javadoc is absent</description>
+  <highlighted_element>Circle</highlighted_element>
+  <language>JAVA</language>
+  <offset>13</offset>
+  <length>6</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 29/student 29 (4).java</file>
+  <line>13</line>
+  <module>codeSmellsWork</module>
+  <package>DrawingBoard</package>
+  <entry_point TYPE="method" FQNAME="DrawingBoard.Circle void drawShapes(java.awt.Graphics g)" />
+  <problem_class id="MissingJavadoc" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Missing Javadoc</problem_class>
+  <description>Required Javadoc is absent</description>
+  <highlighted_element>drawShapes</highlighted_element>
+  <language>JAVA</language>
+  <offset>13</offset>
+  <length>10</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 29/student 29 (5).java</file>
+  <line>10</line>
+  <module>codeSmellsWork</module>
+  <package>DrawingBoard</package>
+  <entry_point TYPE="class" FQNAME="DrawingBoard.DrawingBoardRunner" />
+  <problem_class id="MissingJavadoc" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Missing Javadoc</problem_class>
+  <description>Required Javadoc is absent</description>
+  <highlighted_element>DrawingBoardRunner</highlighted_element>
+  <language>JAVA</language>
+  <offset>13</offset>
+  <length>18</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 29/student 29 (5).java</file>
+  <line>31</line>
+  <module>codeSmellsWork</module>
+  <package>DrawingBoard</package>
+  <entry_point TYPE="method" FQNAME="DrawingBoard.DrawingBoardRunner void main(java.lang.String[] args)" />
+  <problem_class id="MissingJavadoc" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Missing Javadoc</problem_class>
+  <description>Required Javadoc is absent</description>
+  <highlighted_element>main</highlighted_element>
+  <language>JAVA</language>
+  <offset>20</offset>
+  <length>4</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 29/student 29 (6).java</file>
+  <line>6</line>
+  <module>codeSmellsWork</module>
+  <package>DrawingBoard</package>
+  <entry_point TYPE="class" FQNAME="DrawingBoard.Rectangle" />
+  <problem_class id="MissingJavadoc" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Missing Javadoc</problem_class>
+  <description>Required Javadoc is absent</description>
+  <highlighted_element>Rectangle</highlighted_element>
+  <language>JAVA</language>
+  <offset>13</offset>
+  <length>9</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 29/student 29 (6).java</file>
+  <line>13</line>
+  <module>codeSmellsWork</module>
+  <package>DrawingBoard</package>
+  <entry_point TYPE="method" FQNAME="DrawingBoard.Rectangle void drawShapes(java.awt.Graphics g)" />
+  <problem_class id="MissingJavadoc" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Missing Javadoc</problem_class>
+  <description>Required Javadoc is absent</description>
+  <highlighted_element>drawShapes</highlighted_element>
+  <language>JAVA</language>
+  <offset>13</offset>
+  <length>10</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 29/student 29 (7).java</file>
+  <line>6</line>
+  <module>codeSmellsWork</module>
+  <package>DrawingBoard</package>
+  <entry_point TYPE="class" FQNAME="DrawingBoard.Shapes" />
+  <problem_class id="MissingJavadoc" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Missing Javadoc</problem_class>
+  <description>Required Javadoc is absent</description>
+  <highlighted_element>Shapes</highlighted_element>
+  <language>JAVA</language>
+  <offset>22</offset>
+  <length>6</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 29/student 29 (7).java</file>
+  <line>18</line>
+  <module>codeSmellsWork</module>
+  <package>DrawingBoard</package>
+  <entry_point TYPE="method" FQNAME="DrawingBoard.Shapes int getX()" />
+  <problem_class id="MissingJavadoc" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Missing Javadoc</problem_class>
+  <description>Required Javadoc is absent</description>
+  <highlighted_element>getX</highlighted_element>
+  <language>JAVA</language>
+  <offset>12</offset>
+  <length>4</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 29/student 29 (7).java</file>
+  <line>22</line>
+  <module>codeSmellsWork</module>
+  <package>DrawingBoard</package>
+  <entry_point TYPE="method" FQNAME="DrawingBoard.Shapes int getY()" />
+  <problem_class id="MissingJavadoc" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Missing Javadoc</problem_class>
+  <description>Required Javadoc is absent</description>
+  <highlighted_element>getY</highlighted_element>
+  <language>JAVA</language>
+  <offset>12</offset>
+  <length>4</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 29/student 29 (7).java</file>
+  <line>26</line>
+  <module>codeSmellsWork</module>
+  <package>DrawingBoard</package>
+  <entry_point TYPE="method" FQNAME="DrawingBoard.Shapes java.awt.Color getColor()" />
+  <problem_class id="MissingJavadoc" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Missing Javadoc</problem_class>
+  <description>Required Javadoc is absent</description>
+  <highlighted_element>getColor</highlighted_element>
+  <language>JAVA</language>
+  <offset>14</offset>
+  <length>8</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 29/student 29 (7).java</file>
+  <line>30</line>
+  <module>codeSmellsWork</module>
+  <package>DrawingBoard</package>
+  <entry_point TYPE="method" FQNAME="DrawingBoard.Shapes void drawShapes(java.awt.Graphics g)" />
+  <problem_class id="MissingJavadoc" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Missing Javadoc</problem_class>
+  <description>Required Javadoc is absent</description>
+  <highlighted_element>drawShapes</highlighted_element>
+  <language>JAVA</language>
+  <offset>22</offset>
+  <length>10</length>
+</problem>
+</problems>

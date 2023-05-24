@@ -1,0 +1,41 @@
+<problems>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 04/student 04 (3).java</file>
+  <line>119</line>
+  <module>codeSmellsWork</module>
+  <package>HW4_GUI</package>
+  <entry_point TYPE="method" FQNAME="HW4_GUI.BoardPanel void drawStones(int size, int squareSize, java.awt.Graphics g)" />
+  <problem_class id="FeatureEnvy" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Feature envy</problem_class>
+  <description>Class 'Board' accessed repeatedly in method &lt;code&gt;drawStones()&lt;/code&gt; #loc</description>
+  <highlighted_element>drawStones</highlighted_element>
+  <language>JAVA</language>
+  <offset>17</offset>
+  <length>10</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 04/student 04 (3).java</file>
+  <line>164</line>
+  <module>codeSmellsWork</module>
+  <package>HW4_GUI</package>
+  <entry_point TYPE="method" FQNAME="HW4_GUI.BoardPanel void placeStone(boolean startGame)" />
+  <problem_class id="FeatureEnvy" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Feature envy</problem_class>
+  <description>Class 'Board' accessed repeatedly in method &lt;code&gt;placeStone()&lt;/code&gt; #loc</description>
+  <highlighted_element>placeStone</highlighted_element>
+  <language>JAVA</language>
+  <offset>16</offset>
+  <length>10</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 04/student 04 (3).java</file>
+  <line>169</line>
+  <module>codeSmellsWork</module>
+  <package>HW4_GUI</package>
+  <entry_point TYPE="method" FQNAME="HW4_GUI.BoardPanel$1 void mouseClicked(java.awt.event.MouseEvent e)" />
+  <problem_class id="FeatureEnvy" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Feature envy</problem_class>
+  <description>Class 'Board' accessed repeatedly in method &lt;code&gt;mouseClicked()&lt;/code&gt; #loc</description>
+  <highlighted_element>mouseClicked</highlighted_element>
+  <language>JAVA</language>
+  <offset>28</offset>
+  <length>12</length>
+</problem>
+</problems>

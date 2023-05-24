@@ -1,0 +1,58 @@
+<problems>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 35/student 35 (3).java</file>
+  <line>11</line>
+  <module>codeSmellsWork</module>
+  <package>multiFunction</package>
+  <entry_point TYPE="field" FQNAME="multiFunction.MultiPlotter f" />
+  <problem_class id="CanBeFinal" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Declaration can have 'final' modifier</problem_class>
+  <hints />
+  <description>Declaration can have final modifier</description>
+  <highlighted_element>f</highlighted_element>
+  <language>JAVA</language>
+  <offset>16</offset>
+  <length>1</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 35/student 35 (4).java</file>
+  <line>16</line>
+  <module>codeSmellsWork</module>
+  <package>multiFunction</package>
+  <entry_point TYPE="field" FQNAME="multiFunction.Plotter color" />
+  <problem_class id="CanBeFinal" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Declaration can have 'final' modifier</problem_class>
+  <hints />
+  <description>Declaration can have final modifier</description>
+  <highlighted_element>color</highlighted_element>
+  <language>JAVA</language>
+  <offset>20</offset>
+  <length>5</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 35/student 35 (6).java</file>
+  <line>6</line>
+  <module>codeSmellsWork</module>
+  <package>multiFunction</package>
+  <entry_point TYPE="field" FQNAME="multiFunction.SineCosinePlotter sn" />
+  <problem_class id="CanBeFinal" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Declaration can have 'final' modifier</problem_class>
+  <hints />
+  <description>Declaration can have final modifier</description>
+  <highlighted_element>sn</highlighted_element>
+  <language>JAVA</language>
+  <offset>10</offset>
+  <length>2</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 35/student 35 (6).java</file>
+  <line>7</line>
+  <module>codeSmellsWork</module>
+  <package>multiFunction</package>
+  <entry_point TYPE="field" FQNAME="multiFunction.SineCosinePlotter csn" />
+  <problem_class id="CanBeFinal" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Declaration can have 'final' modifier</problem_class>
+  <hints />
+  <description>Declaration can have final modifier</description>
+  <highlighted_element>csn</highlighted_element>
+  <language>JAVA</language>
+  <offset>10</offset>
+  <length>3</length>
+</problem>
+</problems>

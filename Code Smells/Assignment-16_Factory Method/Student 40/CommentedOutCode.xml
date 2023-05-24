@@ -1,0 +1,15 @@
+<problems>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 40/student 40 (5).java</file>
+  <line>28</line>
+  <module>codeSmellsWork</module>
+  <package>src.noapplet.example</package>
+  <entry_point TYPE="class" FQNAME="src.noapplet.example.ModularBalloonApp" />
+  <problem_class id="CommentedOutCode" severity="WEAK WARNING" attribute_key="INFO_ATTRIBUTES">Commented out code</problem_class>
+  <description>Commented out code (3 lines)</description>
+  <highlighted_element>//</highlighted_element>
+  <language>JAVA</language>
+  <offset>0</offset>
+  <length>2</length>
+</problem>
+</problems>

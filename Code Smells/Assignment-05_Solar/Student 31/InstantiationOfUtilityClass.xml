@@ -1,0 +1,15 @@
+<problems>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 31/Student 31.java</file>
+  <line>12</line>
+  <module>codeSmellsWork</module>
+  <package>noapplet.example</package>
+  <entry_point TYPE="method" FQNAME="noapplet.example.solar void main(java.lang.String[] args)" />
+  <problem_class id="InstantiationOfUtilityClass" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Instantiation of utility class</problem_class>
+  <description>Instantiation of utility class &lt;code&gt;solar&lt;/code&gt; #loc</description>
+  <highlighted_element>solar</highlighted_element>
+  <language>JAVA</language>
+  <offset>12</offset>
+  <length>5</length>
+</problem>
+</problems>

@@ -1,0 +1,15 @@
+<problems>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 11/student 11 (6).java</file>
+  <line>134</line>
+  <module>codeSmellsWork</module>
+  <package>&lt;default&gt;</package>
+  <entry_point TYPE="method" FQNAME="Board java.lang.Iterable&lt;Board.Place&gt; winningRow()" />
+  <problem_class id="CyclomaticComplexity" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Overly complex method</problem_class>
+  <description>Overly complex method &lt;code&gt;winningRow()&lt;/code&gt; (cyclomatic complexity = 14) #loc</description>
+  <highlighted_element>winningRow</highlighted_element>
+  <language>JAVA</language>
+  <offset>27</offset>
+  <length>10</length>
+</problem>
+</problems>

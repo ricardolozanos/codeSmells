@@ -1,0 +1,54 @@
+<problems>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 04/student 04 (1).java</file>
+  <line>32</line>
+  <module>codeSmellsWork</module>
+  <package>noapplet.assignments.HW2</package>
+  <entry_point TYPE="method" FQNAME="noapplet.assignments.HW2.Board void initializeBoard()" />
+  <problem_class id="MethodWithMultipleLoops" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Method with multiple loops</problem_class>
+  <description>&lt;code&gt;initializeBoard&lt;/code&gt; contains 2 loops #loc</description>
+  <highlighted_element>initializeBoard</highlighted_element>
+  <language>JAVA</language>
+  <offset>16</offset>
+  <length>15</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 04/student 04 (1).java</file>
+  <line>78</line>
+  <module>codeSmellsWork</module>
+  <package>noapplet.assignments.HW2</package>
+  <entry_point TYPE="method" FQNAME="noapplet.assignments.HW2.Board boolean isFull()" />
+  <problem_class id="MethodWithMultipleLoops" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Method with multiple loops</problem_class>
+  <description>&lt;code&gt;isFull&lt;/code&gt; contains 2 loops #loc</description>
+  <highlighted_element>isFull</highlighted_element>
+  <language>JAVA</language>
+  <offset>19</offset>
+  <length>6</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 04/student 04 (1).java</file>
+  <line>96</line>
+  <module>codeSmellsWork</module>
+  <package>noapplet.assignments.HW2</package>
+  <entry_point TYPE="method" FQNAME="noapplet.assignments.HW2.Board boolean hasWinner(int row, int col)" />
+  <problem_class id="MethodWithMultipleLoops" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Method with multiple loops</problem_class>
+  <description>&lt;code&gt;hasWinner&lt;/code&gt; contains 6 loops #loc</description>
+  <highlighted_element>hasWinner</highlighted_element>
+  <language>JAVA</language>
+  <offset>19</offset>
+  <length>9</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 04/student 04 (1).java</file>
+  <line>168</line>
+  <module>codeSmellsWork</module>
+  <package>noapplet.assignments.HW2</package>
+  <entry_point TYPE="method" FQNAME="noapplet.assignments.HW2.Board Coordinate getSuggestion(char playerSymbol)" />
+  <problem_class id="MethodWithMultipleLoops" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Method with multiple loops</problem_class>
+  <description>&lt;code&gt;getSuggestion&lt;/code&gt; contains 5 loops #loc</description>
+  <highlighted_element>getSuggestion</highlighted_element>
+  <language>JAVA</language>
+  <offset>22</offset>
+  <length>13</length>
+</problem>
+</problems>

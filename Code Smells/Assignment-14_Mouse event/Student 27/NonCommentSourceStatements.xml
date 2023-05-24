@@ -1,0 +1,15 @@
+<problems>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 27/student 27 (1).java</file>
+  <line>15</line>
+  <module>codeSmellsWork</module>
+  <package>omokGui</package>
+  <entry_point TYPE="method" FQNAME="omokGui.Counter Counter()" />
+  <problem_class id="NonCommentSourceStatements" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Overly long method</problem_class>
+  <description>&lt;code&gt;Counter&lt;/code&gt; is too long (# Non-comment source statements = 31) #loc</description>
+  <highlighted_element>Counter</highlighted_element>
+  <language>JAVA</language>
+  <offset>11</offset>
+  <length>7</length>
+</problem>
+</problems>

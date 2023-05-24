@@ -1,0 +1,54 @@
+<problems>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 23/student 23 (3).java</file>
+  <line>46</line>
+  <module>codeSmellsWork</module>
+  <package>noapplet.SS</package>
+  <entry_point TYPE="method" FQNAME="noapplet.SS.Planet void draw(java.awt.Graphics g)" />
+  <problem_class id="ConstantValue" severity="WEAK WARNING" attribute_key="INFO_ATTRIBUTES">Constant values</problem_class>
+  <description>Value &lt;code&gt;x&lt;/code&gt; is always 'null'</description>
+  <highlighted_element>x</highlighted_element>
+  <language>JAVA</language>
+  <offset>24</offset>
+  <length>1</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 23/student 23 (3).java</file>
+  <line>46</line>
+  <module>codeSmellsWork</module>
+  <package>noapplet.SS</package>
+  <entry_point TYPE="method" FQNAME="noapplet.SS.Planet void draw(java.awt.Graphics g)" />
+  <problem_class id="ConstantValue" severity="WEAK WARNING" attribute_key="INFO_ATTRIBUTES">Constant values</problem_class>
+  <description>Value &lt;code&gt;y&lt;/code&gt; is always 'null'</description>
+  <highlighted_element>y</highlighted_element>
+  <language>JAVA</language>
+  <offset>41</offset>
+  <length>1</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 23/student 23 (3).java</file>
+  <line>50</line>
+  <module>codeSmellsWork</module>
+  <package>noapplet.SS</package>
+  <entry_point TYPE="method" FQNAME="noapplet.SS.Planet void draw(java.awt.Graphics g)" />
+  <problem_class id="ConstantValue" severity="WEAK WARNING" attribute_key="INFO_ATTRIBUTES">Constant values</problem_class>
+  <description>Value &lt;code&gt;x&lt;/code&gt; is always 'null'</description>
+  <highlighted_element>x</highlighted_element>
+  <language>JAVA</language>
+  <offset>34</offset>
+  <length>1</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 23/student 23 (3).java</file>
+  <line>51</line>
+  <module>codeSmellsWork</module>
+  <package>noapplet.SS</package>
+  <entry_point TYPE="method" FQNAME="noapplet.SS.Planet void draw(java.awt.Graphics g)" />
+  <problem_class id="ConstantValue" severity="WEAK WARNING" attribute_key="INFO_ATTRIBUTES">Constant values</problem_class>
+  <description>Value &lt;code&gt;y&lt;/code&gt; is always 'null'</description>
+  <highlighted_element>y</highlighted_element>
+  <language>JAVA</language>
+  <offset>34</offset>
+  <length>1</length>
+</problem>
+</problems>

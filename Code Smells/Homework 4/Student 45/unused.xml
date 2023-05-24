@@ -1,0 +1,239 @@
+<problems>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 45/student 45 (1).java</file>
+  <line>8</line>
+  <module>codeSmellsWork</module>
+  <package>guiboard.modelgui</package>
+  <entry_point TYPE="method" FQNAME="guiboard.modelgui.Boarder Boarder(java.lang.String[] args)" />
+  <language>JAVA</language>
+  <offset>11</offset>
+  <length>7</length>
+  <highlighted_element>Boarder</highlighted_element>
+  <problem_class id="unused" severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">unused declaration</problem_class>
+  <hints>
+    <hint value="comment" />
+    <hint value="delete" />
+  </hints>
+  <description>Constructor is never used.</description>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 45/student 45 (3).java</file>
+  <line>20</line>
+  <module>codeSmellsWork</module>
+  <package>guiboard.logic</package>
+  <entry_point TYPE="method" FQNAME="guiboard.logic.BoardPanel BoardPanel()" />
+  <language>JAVA</language>
+  <offset>11</offset>
+  <length>10</length>
+  <highlighted_element>BoardPanel</highlighted_element>
+  <problem_class id="unused" severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">unused declaration</problem_class>
+  <hints>
+    <hint value="comment" />
+    <hint value="delete" />
+  </hints>
+  <description>Constructor is never used.</description>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 45/student 45 (3).java</file>
+  <line>141</line>
+  <module>codeSmellsWork</module>
+  <package>guiboard.logic</package>
+  <entry_point TYPE="method" FQNAME="guiboard.logic.StoneSelection java.lang.String getText()" />
+  <language>JAVA</language>
+  <offset>18</offset>
+  <length>7</length>
+  <highlighted_element>getText</highlighted_element>
+  <problem_class id="unused" severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">unused declaration</problem_class>
+  <hints>
+    <hint value="comment" />
+    <hint value="delete" />
+  </hints>
+  <description>Method is never used.</description>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 45/student 45 (4).java</file>
+  <line>15</line>
+  <module>codeSmellsWork</module>
+  <package>guiboard.logic</package>
+  <entry_point TYPE="method" FQNAME="guiboard.logic.BoardStrategyPanel void paintComponent(java.awt.Graphics g)" />
+  <language>JAVA</language>
+  <offset>16</offset>
+  <length>14</length>
+  <highlighted_element>paintComponent</highlighted_element>
+  <problem_class id="unused" severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">unused declaration</problem_class>
+  <hints>
+    <hint value="comment" />
+    <hint value="delete" />
+  </hints>
+  <description>Method is never used.</description>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 45/student 45 (4).java</file>
+  <line>27</line>
+  <module>codeSmellsWork</module>
+  <package>guiboard.logic</package>
+  <entry_point TYPE="method" FQNAME="guiboard.logic.StoneComp StoneComp()" />
+  <language>JAVA</language>
+  <offset>11</offset>
+  <length>9</length>
+  <highlighted_element>StoneComp</highlighted_element>
+  <problem_class id="unused" severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">unused declaration</problem_class>
+  <hints>
+    <hint value="comment" />
+    <hint value="delete" />
+  </hints>
+  <description>All constructor usages belong to the calls chain that has no members reachable from entry points.</description>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 45/student 45 (4).java</file>
+  <line>37</line>
+  <module>codeSmellsWork</module>
+  <package>guiboard.logic</package>
+  <entry_point TYPE="method" FQNAME="guiboard.logic.StoneComp void mouseClicked(java.awt.event.MouseEvent e)" />
+  <language>JAVA</language>
+  <offset>16</offset>
+  <length>12</length>
+  <highlighted_element>mouseClicked</highlighted_element>
+  <problem_class id="unused" severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">unused declaration</problem_class>
+  <hints>
+    <hint value="comment" />
+    <hint value="delete" />
+  </hints>
+  <description>&lt;ul&gt;&lt;li&gt;Method owner class is never instantiated OR&lt;/li&gt;&lt;li&gt;An instantiation is not reachable from entry points.&lt;/li&gt;&lt;/ul&gt;</description>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 45/student 45 (4).java</file>
+  <line>37</line>
+  <module>codeSmellsWork</module>
+  <package>guiboard.logic</package>
+  <entry_point TYPE="method" FQNAME="guiboard.logic.StoneComp void mouseClicked(java.awt.event.MouseEvent e)" />
+  <problem_class id="unused" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Unused declaration</problem_class>
+  <hints>
+    <hint value="e" />
+  </hints>
+  <description>Parameter &lt;code&gt;e&lt;/code&gt; is not used</description>
+  <highlighted_element>e</highlighted_element>
+  <language>JAVA</language>
+  <offset>40</offset>
+  <length>1</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 45/student 45 (5).java</file>
+  <line>6</line>
+  <module>codeSmellsWork</module>
+  <package>guiboard.panels</package>
+  <entry_point TYPE="method" FQNAME="guiboard.panels.Dialog Dialog()" />
+  <language>JAVA</language>
+  <offset>11</offset>
+  <length>6</length>
+  <highlighted_element>Dialog</highlighted_element>
+  <problem_class id="unused" severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">unused declaration</problem_class>
+  <hints>
+    <hint value="comment" />
+    <hint value="delete" />
+  </hints>
+  <description>Constructor is never used.</description>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 45/student 45 (5).java</file>
+  <line>15</line>
+  <module>codeSmellsWork</module>
+  <package>guiboard.panels</package>
+  <entry_point TYPE="method" FQNAME="guiboard.panels.Dialog java.lang.String gameProgress()" />
+  <language>JAVA</language>
+  <offset>18</offset>
+  <length>12</length>
+  <highlighted_element>gameProgress</highlighted_element>
+  <problem_class id="unused" severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">unused declaration</problem_class>
+  <hints>
+    <hint value="comment" />
+    <hint value="delete" />
+  </hints>
+  <description>&lt;ul&gt;&lt;li&gt;Method owner class is never instantiated OR&lt;/li&gt;&lt;li&gt;An instantiation is not reachable from entry points.&lt;/li&gt;&lt;/ul&gt;</description>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 45/student 45 (5).java</file>
+  <line>22</line>
+  <module>codeSmellsWork</module>
+  <package>guiboard.panels</package>
+  <entry_point TYPE="method" FQNAME="guiboard.panels.Dialog java.lang.String winner(java.lang.String s)" />
+  <language>JAVA</language>
+  <offset>18</offset>
+  <length>6</length>
+  <highlighted_element>winner</highlighted_element>
+  <problem_class id="unused" severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">unused declaration</problem_class>
+  <hints>
+    <hint value="comment" />
+    <hint value="delete" />
+  </hints>
+  <description>&lt;ul&gt;&lt;li&gt;Method owner class is never instantiated OR&lt;/li&gt;&lt;li&gt;An instantiation is not reachable from entry points.&lt;/li&gt;&lt;/ul&gt;</description>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 45/student 45 (5).java</file>
+  <line>29</line>
+  <module>codeSmellsWork</module>
+  <package>guiboard.panels</package>
+  <entry_point TYPE="method" FQNAME="guiboard.panels.Dialog java.lang.String noSelection()" />
+  <language>JAVA</language>
+  <offset>18</offset>
+  <length>11</length>
+  <highlighted_element>noSelection</highlighted_element>
+  <problem_class id="unused" severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">unused declaration</problem_class>
+  <hints>
+    <hint value="comment" />
+    <hint value="delete" />
+  </hints>
+  <description>&lt;ul&gt;&lt;li&gt;Method owner class is never instantiated OR&lt;/li&gt;&lt;li&gt;An instantiation is not reachable from entry points.&lt;/li&gt;&lt;/ul&gt;</description>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 45/student 45 (6).java</file>
+  <line>5</line>
+  <module>codeSmellsWork</module>
+  <package>guiboard.modelgui</package>
+  <entry_point TYPE="class" FQNAME="guiboard.modelgui.Drawer" />
+  <language>JAVA</language>
+  <offset>17</offset>
+  <length>6</length>
+  <highlighted_element>Drawer</highlighted_element>
+  <problem_class id="unused" severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">unused declaration</problem_class>
+  <hints>
+    <hint value="comment" />
+    <hint value="delete" />
+  </hints>
+  <description>&amp;nbsp;Interface is not implemented.</description>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 45/student 45 (6).java</file>
+  <line>6</line>
+  <module>codeSmellsWork</module>
+  <package>guiboard.modelgui</package>
+  <entry_point TYPE="method" FQNAME="guiboard.modelgui.Drawer void draw(java.awt.Graphics g)" />
+  <language>JAVA</language>
+  <offset>9</offset>
+  <length>4</length>
+  <highlighted_element>draw</highlighted_element>
+  <problem_class id="unused" severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">unused declaration</problem_class>
+  <hints>
+    <hint value="comment" />
+    <hint value="delete" />
+  </hints>
+  <description>&lt;ul&gt;&lt;li&gt;Method owner class is never instantiated OR&lt;/li&gt;&lt;li&gt;An instantiation is not reachable from entry points.&lt;/li&gt;&lt;/ul&gt;</description>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 45/student 45 (9).java</file>
+  <line>20</line>
+  <module>codeSmellsWork</module>
+  <package>guiboard.modelgui</package>
+  <entry_point TYPE="method" FQNAME="guiboard.modelgui.Stone Stone(java.lang.String[] args)" />
+  <language>JAVA</language>
+  <offset>11</offset>
+  <length>5</length>
+  <highlighted_element>Stone</highlighted_element>
+  <problem_class id="unused" severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">unused declaration</problem_class>
+  <hints>
+    <hint value="comment" />
+    <hint value="delete" />
+  </hints>
+  <description>Constructor is never used.</description>
+</problem>
+</problems>

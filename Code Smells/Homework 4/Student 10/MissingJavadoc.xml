@@ -1,0 +1,301 @@
+<problems>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 10/student 10 (1).java</file>
+  <line>12</line>
+  <module>codeSmellsWork</module>
+  <package>omokGUI</package>
+  <entry_point TYPE="class" FQNAME="omokGUI.BoardPanel" />
+  <problem_class id="MissingJavadoc" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Missing Javadoc</problem_class>
+  <description>Required Javadoc is absent</description>
+  <highlighted_element>BoardPanel</highlighted_element>
+  <language>JAVA</language>
+  <offset>13</offset>
+  <length>10</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 10/student 10 (1).java</file>
+  <line>16</line>
+  <module>codeSmellsWork</module>
+  <package>omokGUI</package>
+  <entry_point TYPE="field" FQNAME="omokGUI.BoardPanel c" />
+  <problem_class id="MissingJavadoc" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Missing Javadoc</problem_class>
+  <description>Required Javadoc is absent</description>
+  <highlighted_element>c</highlighted_element>
+  <language>JAVA</language>
+  <offset>14</offset>
+  <length>1</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 10/student 10 (2).java</file>
+  <line>7</line>
+  <module>codeSmellsWork</module>
+  <package>omokGUI</package>
+  <entry_point TYPE="class" FQNAME="omokGUI.Computer" />
+  <problem_class id="MissingJavadoc" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Missing Javadoc</problem_class>
+  <description>Required Javadoc is absent</description>
+  <highlighted_element>Computer</highlighted_element>
+  <language>JAVA</language>
+  <offset>13</offset>
+  <length>8</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 10/student 10 (2).java</file>
+  <line>13</line>
+  <module>codeSmellsWork</module>
+  <package>omokGUI</package>
+  <entry_point TYPE="method" FQNAME="omokGUI.Computer void start(BoardPanel board, javax.swing.JLabel label, int x, int y)" />
+  <problem_class id="MissingJavadoc" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Missing Javadoc</problem_class>
+  <description>Required Javadoc is absent</description>
+  <highlighted_element>start</highlighted_element>
+  <language>JAVA</language>
+  <offset>13</offset>
+  <length>5</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 10/student 10 (3).java</file>
+  <line>28</line>
+  <module>codeSmellsWork</module>
+  <package>omokGUI</package>
+  <entry_point TYPE="class" FQNAME="omokGUI.Game" />
+  <problem_class id="MissingJavadoc" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Missing Javadoc</problem_class>
+  <description>Required Javadoc is absent</description>
+  <highlighted_element>Game</highlighted_element>
+  <language>JAVA</language>
+  <offset>13</offset>
+  <length>4</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 10/student 10 (3).java</file>
+  <line>29</line>
+  <module>codeSmellsWork</module>
+  <package>omokGUI</package>
+  <entry_point TYPE="method" FQNAME="omokGUI.Game Game()" />
+  <problem_class id="MissingJavadoc" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Missing Javadoc</problem_class>
+  <description>Required Javadoc is absent</description>
+  <highlighted_element>Game</highlighted_element>
+  <language>JAVA</language>
+  <offset>8</offset>
+  <length>4</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 10/student 10 (3).java</file>
+  <line>33</line>
+  <module>codeSmellsWork</module>
+  <package>omokGUI</package>
+  <entry_point TYPE="method" FQNAME="omokGUI.Game void Game2()" />
+  <problem_class id="MissingJavadoc" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Missing Javadoc</problem_class>
+  <description>Required Javadoc is absent</description>
+  <highlighted_element>Game2</highlighted_element>
+  <language>JAVA</language>
+  <offset>13</offset>
+  <length>5</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 10/student 10 (4).java</file>
+  <line>5</line>
+  <module>codeSmellsWork</module>
+  <package>omokGUI</package>
+  <entry_point TYPE="class" FQNAME="omokGUI.Human" />
+  <problem_class id="MissingJavadoc" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Missing Javadoc</problem_class>
+  <description>Required Javadoc is absent</description>
+  <highlighted_element>Human</highlighted_element>
+  <language>JAVA</language>
+  <offset>13</offset>
+  <length>5</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 10/student 10 (4).java</file>
+  <line>8</line>
+  <module>codeSmellsWork</module>
+  <package>omokGUI</package>
+  <entry_point TYPE="method" FQNAME="omokGUI.Human void start(BoardPanel board, javax.swing.JLabel label, int x, int y)" />
+  <problem_class id="MissingJavadoc" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Missing Javadoc</problem_class>
+  <description>Required Javadoc is absent</description>
+  <highlighted_element>start</highlighted_element>
+  <language>JAVA</language>
+  <offset>13</offset>
+  <length>5</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 10/student 10 (5).java</file>
+  <line>3</line>
+  <module>codeSmellsWork</module>
+  <package>omokGUI</package>
+  <entry_point TYPE="class" FQNAME="omokGUI.Main" />
+  <problem_class id="MissingJavadoc" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Missing Javadoc</problem_class>
+  <description>Required Javadoc is absent</description>
+  <highlighted_element>Main</highlighted_element>
+  <language>JAVA</language>
+  <offset>13</offset>
+  <length>4</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 10/student 10 (5).java</file>
+  <line>4</line>
+  <module>codeSmellsWork</module>
+  <package>omokGUI</package>
+  <entry_point TYPE="method" FQNAME="omokGUI.Main void main(java.lang.String[] args)" />
+  <problem_class id="MissingJavadoc" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Missing Javadoc</problem_class>
+  <description>Required Javadoc is absent</description>
+  <highlighted_element>main</highlighted_element>
+  <language>JAVA</language>
+  <offset>20</offset>
+  <length>4</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 10/student 10 (6).java</file>
+  <line>6</line>
+  <module>codeSmellsWork</module>
+  <package>omokGUI</package>
+  <entry_point TYPE="class" FQNAME="omokGUI.Mode" />
+  <problem_class id="MissingJavadoc" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Missing Javadoc</problem_class>
+  <description>Required Javadoc is absent</description>
+  <highlighted_element>Mode</highlighted_element>
+  <language>JAVA</language>
+  <offset>17</offset>
+  <length>4</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 10/student 10 (6).java</file>
+  <line>10</line>
+  <module>codeSmellsWork</module>
+  <package>omokGUI</package>
+  <entry_point TYPE="method" FQNAME="omokGUI.Mode void start(BoardPanel board, javax.swing.JLabel label, int x, int y)" />
+  <problem_class id="MissingJavadoc" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Missing Javadoc</problem_class>
+  <description>Required Javadoc is absent</description>
+  <highlighted_element>start</highlighted_element>
+  <language>JAVA</language>
+  <offset>6</offset>
+  <length>5</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 10/student 10 (7).java</file>
+  <line>4</line>
+  <module>codeSmellsWork</module>
+  <package>omokGUI</package>
+  <entry_point TYPE="class" FQNAME="omokGUI.Player" />
+  <problem_class id="MissingJavadoc" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Missing Javadoc</problem_class>
+  <description>Required Javadoc is absent</description>
+  <highlighted_element>Player</highlighted_element>
+  <language>JAVA</language>
+  <offset>13</offset>
+  <length>6</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 10/student 10 (7).java</file>
+  <line>7</line>
+  <module>codeSmellsWork</module>
+  <package>omokGUI</package>
+  <entry_point TYPE="method" FQNAME="omokGUI.Player Player(java.lang.String piece)" />
+  <problem_class id="MissingJavadoc" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Missing Javadoc</problem_class>
+  <description>Required Javadoc is absent</description>
+  <highlighted_element>Player</highlighted_element>
+  <language>JAVA</language>
+  <offset>8</offset>
+  <length>6</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 10/student 10 (7).java</file>
+  <line>11</line>
+  <module>codeSmellsWork</module>
+  <package>omokGUI</package>
+  <entry_point TYPE="method" FQNAME="omokGUI.Player java.lang.String getPiece()" />
+  <problem_class id="MissingJavadoc" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Missing Javadoc</problem_class>
+  <description>Required Javadoc is absent</description>
+  <highlighted_element>getPiece</highlighted_element>
+  <language>JAVA</language>
+  <offset>15</offset>
+  <length>8</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 10/student 10 (7).java</file>
+  <line>15</line>
+  <module>codeSmellsWork</module>
+  <package>omokGUI</package>
+  <entry_point TYPE="method" FQNAME="omokGUI.Player int getNextPlayerNum()" />
+  <problem_class id="MissingJavadoc" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Missing Javadoc</problem_class>
+  <description>Required Javadoc is absent</description>
+  <highlighted_element>getNextPlayerNum</highlighted_element>
+  <language>JAVA</language>
+  <offset>12</offset>
+  <length>16</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 10/student 10 (8).java</file>
+  <line>18</line>
+  <module>codeSmellsWork</module>
+  <package>omokGUI</package>
+  <entry_point TYPE="field" FQNAME="omokGUI.Board p1Win" />
+  <problem_class id="MissingJavadoc" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Missing Javadoc</problem_class>
+  <description>Required Javadoc is absent</description>
+  <highlighted_element>p1Win</highlighted_element>
+  <language>JAVA</language>
+  <offset>15</offset>
+  <length>5</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 10/student 10 (8).java</file>
+  <line>19</line>
+  <module>codeSmellsWork</module>
+  <package>omokGUI</package>
+  <entry_point TYPE="field" FQNAME="omokGUI.Board p2Win" />
+  <problem_class id="MissingJavadoc" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Missing Javadoc</problem_class>
+  <description>Required Javadoc is absent</description>
+  <highlighted_element>p2Win</highlighted_element>
+  <language>JAVA</language>
+  <offset>15</offset>
+  <length>5</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 10/student 10 (8).java</file>
+  <line>51</line>
+  <module>codeSmellsWork</module>
+  <package>omokGUI</package>
+  <entry_point TYPE="method" FQNAME="omokGUI.Board void addMove(int x, int y, Player p)" />
+  <problem_class id="MissingJavadoc" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Missing Javadoc</problem_class>
+  <description>Required Javadoc is absent</description>
+  <highlighted_element>addMove</highlighted_element>
+  <language>JAVA</language>
+  <offset>13</offset>
+  <length>7</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 10/student 10 (8).java</file>
+  <line>59</line>
+  <module>codeSmellsWork</module>
+  <package>omokGUI</package>
+  <entry_point TYPE="method" FQNAME="omokGUI.Board int convertToIndex(int x)" />
+  <problem_class id="MissingJavadoc" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Missing Javadoc</problem_class>
+  <description>Required Javadoc is absent</description>
+  <highlighted_element>convertToIndex</highlighted_element>
+  <language>JAVA</language>
+  <offset>12</offset>
+  <length>14</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 10/student 10 (8).java</file>
+  <line>82</line>
+  <module>codeSmellsWork</module>
+  <package>omokGUI</package>
+  <entry_point TYPE="method" FQNAME="omokGUI.Board boolean isWin()" />
+  <problem_class id="MissingJavadoc" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Missing Javadoc</problem_class>
+  <description>Required Javadoc is absent</description>
+  <highlighted_element>isWin</highlighted_element>
+  <language>JAVA</language>
+  <offset>16</offset>
+  <length>5</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 10/student 10 (8).java</file>
+  <line>165</line>
+  <module>codeSmellsWork</module>
+  <package>omokGUI</package>
+  <entry_point TYPE="method" FQNAME="omokGUI.Board java.util.List&lt;int[]&gt; getWinningRow()" />
+  <problem_class id="MissingJavadoc" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Missing Javadoc</problem_class>
+  <description>Required Javadoc is absent</description>
+  <highlighted_element>getWinningRow</highlighted_element>
+  <language>JAVA</language>
+  <offset>20</offset>
+  <length>13</length>
+</problem>
+</problems>

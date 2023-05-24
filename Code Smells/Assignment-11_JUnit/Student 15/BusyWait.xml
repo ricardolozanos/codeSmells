@@ -1,0 +1,28 @@
+<problems>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 15/student 15 (7).java</file>
+  <line>163</line>
+  <module>codeSmellsWork</module>
+  <package>&lt;default&gt;</package>
+  <entry_point TYPE="method" FQNAME="ConsoleUI void playGameOnline()" />
+  <problem_class id="BusyWait" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Busy wait</problem_class>
+  <description>Call to &lt;code&gt;Thread.sleep()&lt;/code&gt; in a loop, probably busy-waiting #loc</description>
+  <highlighted_element>sleep</highlighted_element>
+  <language>JAVA</language>
+  <offset>27</offset>
+  <length>5</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 15/student 15 (7).java</file>
+  <line>185</line>
+  <module>codeSmellsWork</module>
+  <package>&lt;default&gt;</package>
+  <entry_point TYPE="method" FQNAME="ConsoleUI void playGameOnline()" />
+  <problem_class id="BusyWait" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Busy wait</problem_class>
+  <description>Call to &lt;code&gt;Thread.sleep()&lt;/code&gt; in a loop, probably busy-waiting #loc</description>
+  <highlighted_element>sleep</highlighted_element>
+  <language>JAVA</language>
+  <offset>27</offset>
+  <length>5</length>
+</problem>
+</problems>

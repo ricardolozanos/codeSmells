@@ -1,0 +1,66 @@
+<problems>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 44/Student 44.java</file>
+  <line>55</line>
+  <module>codeSmellsWork</module>
+  <package>&lt;default&gt;</package>
+  <entry_point TYPE="method" FQNAME="ChatDialogUI ChatDialogUI(java.lang.String host, int port)" />
+  <problem_class id="unused" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Unused declaration</problem_class>
+  <hints>
+    <hint value="host" />
+  </hints>
+  <description>Parameter &lt;code&gt;host&lt;/code&gt; is not used</description>
+  <highlighted_element>host</highlighted_element>
+  <language>JAVA</language>
+  <offset>31</offset>
+  <length>4</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 44/Student 44.java</file>
+  <line>55</line>
+  <module>codeSmellsWork</module>
+  <package>&lt;default&gt;</package>
+  <entry_point TYPE="method" FQNAME="ChatDialogUI ChatDialogUI(java.lang.String host, int port)" />
+  <problem_class id="unused" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Unused declaration</problem_class>
+  <hints>
+    <hint value="port" />
+  </hints>
+  <description>Parameter &lt;code&gt;port&lt;/code&gt; is not used</description>
+  <highlighted_element>port</highlighted_element>
+  <language>JAVA</language>
+  <offset>41</offset>
+  <length>4</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 44/Student 44.java</file>
+  <line>89</line>
+  <module>codeSmellsWork</module>
+  <package>&lt;default&gt;</package>
+  <entry_point TYPE="method" FQNAME="ChatDialogUI void connectClicked(java.awt.event.ActionEvent event)" />
+  <problem_class id="unused" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Unused declaration</problem_class>
+  <hints>
+    <hint value="event" />
+  </hints>
+  <description>Parameter &lt;code&gt;event&lt;/code&gt; is not used</description>
+  <highlighted_element>event</highlighted_element>
+  <language>JAVA</language>
+  <offset>44</offset>
+  <length>5</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 44/Student 44.java</file>
+  <line>129</line>
+  <module>codeSmellsWork</module>
+  <package>&lt;default&gt;</package>
+  <entry_point TYPE="method" FQNAME="ChatDialogUI void sendClicked(java.awt.event.ActionEvent event)" />
+  <problem_class id="unused" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Unused declaration</problem_class>
+  <hints>
+    <hint value="event" />
+  </hints>
+  <description>Parameter &lt;code&gt;event&lt;/code&gt; is not used</description>
+  <highlighted_element>event</highlighted_element>
+  <language>JAVA</language>
+  <offset>41</offset>
+  <length>5</length>
+</problem>
+</problems>

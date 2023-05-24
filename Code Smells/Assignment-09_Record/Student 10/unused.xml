@@ -1,0 +1,19 @@
+<problems>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 10/Student 10.java</file>
+  <line>5</line>
+  <module>codeSmellsWork</module>
+  <package>javaRecord</package>
+  <entry_point TYPE="method" FQNAME="javaRecord.Place Place(int x, int y)" />
+  <language>JAVA</language>
+  <offset>8</offset>
+  <length>5</length>
+  <highlighted_element>Place</highlighted_element>
+  <problem_class id="unused" severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">unused declaration</problem_class>
+  <hints>
+    <hint value="comment" />
+    <hint value="delete" />
+  </hints>
+  <description>Constructor is never used.</description>
+</problem>
+</problems>

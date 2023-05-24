@@ -1,0 +1,15 @@
+<problems>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 29/student 29 (1).java</file>
+  <line>84</line>
+  <module>codeSmellsWork</module>
+  <package>&lt;default&gt;</package>
+  <entry_point TYPE="method" FQNAME="OmokUI int executePlayerTurn(OmokGame g, int pNum)" />
+  <problem_class id="ContinueStatement" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">'continue' statement</problem_class>
+  <description>&lt;code&gt;continue&lt;/code&gt; statement #loc</description>
+  <highlighted_element>continue</highlighted_element>
+  <language>JAVA</language>
+  <offset>34</offset>
+  <length>8</length>
+</problem>
+</problems>

@@ -1,0 +1,15 @@
+<problems>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 27/student 27 (1).java</file>
+  <line>64</line>
+  <module>codeSmellsWork</module>
+  <package>omokGui</package>
+  <entry_point TYPE="class" FQNAME="omokGui.MouseListener" />
+  <problem_class id="ClassNameSameAsAncestorName" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Class name same as ancestor name</problem_class>
+  <description>Class name &lt;code&gt;MouseListener&lt;/code&gt; is the same as one of its superclass' names #loc</description>
+  <highlighted_element>MouseListener</highlighted_element>
+  <language>JAVA</language>
+  <offset>6</offset>
+  <length>13</length>
+</problem>
+</problems>

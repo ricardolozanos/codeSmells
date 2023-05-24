@@ -1,0 +1,15 @@
+<problems>
+<problem>
+  <file>file://$PROJECT_DIR$/src/student 22/Student 22 (1).java</file>
+  <line>47</line>
+  <module>codeSmellsWork</module>
+  <package>noapplet.example</package>
+  <entry_point TYPE="class" FQNAME="noapplet.example.Balloon2$1" />
+  <problem_class id="AnonymousClassComplexity" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Overly complex anonymous class</problem_class>
+  <description>Overly complex anonymous class (cyclomatic complexity = 6) #loc</description>
+  <highlighted_element>ActionListener</highlighted_element>
+  <language>JAVA</language>
+  <offset>35</offset>
+  <length>14</length>
+</problem>
+</problems>

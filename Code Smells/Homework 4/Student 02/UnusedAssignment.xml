@@ -1,0 +1,15 @@
+<problems>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 02/student 02 (4).java</file>
+  <line>37</line>
+  <module>codeSmellsWork</module>
+  <package>OmokConsole.UI</package>
+  <entry_point TYPE="method" FQNAME="OmokConsole.UI.ConsoleUI void setXYFromSystemIn(OmokConsole.Model.Board board)" />
+  <problem_class id="UnusedAssignment" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Unused assignment</problem_class>
+  <description>The value &lt;code&gt;this.x&lt;/code&gt; assigned to &lt;code&gt;this.input&lt;/code&gt; is never used</description>
+  <highlighted_element>this.input</highlighted_element>
+  <language>JAVA</language>
+  <offset>8</offset>
+  <length>10</length>
+</problem>
+</problems>

@@ -1,0 +1,15 @@
+<problems>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 33/student 33 (2).java</file>
+  <line>99</line>
+  <module>codeSmellsWork</module>
+  <package>HomeWork2.OmokGame</package>
+  <entry_point TYPE="method" FQNAME="HomeWork2.OmokGame.Game boolean checkWin(HomeWork2.OmokGame.Game game, HomeWork2.OmokGame.Game.PieceType pieceType)" />
+  <problem_class id="NonCommentSourceStatements" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Overly long method</problem_class>
+  <description>&lt;code&gt;checkWin&lt;/code&gt; is too long (# Non-comment source statements = 59) #loc</description>
+  <highlighted_element>checkWin</highlighted_element>
+  <language>JAVA</language>
+  <offset>27</offset>
+  <length>8</length>
+</problem>
+</problems>

@@ -1,0 +1,30 @@
+<problems>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 04/student 04 (3).java</file>
+  <line>11</line>
+  <module>codeSmellsWork</module>
+  <package>exercises.Generalization.MultiPlotter</package>
+  <entry_point TYPE="field" FQNAME="exercises.Generalization.MultiPlotter.MultiPlotter functions" />
+  <problem_class id="CanBeFinal" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Declaration can have 'final' modifier</problem_class>
+  <hints />
+  <description>Declaration can have final modifier</description>
+  <highlighted_element>functions</highlighted_element>
+  <language>JAVA</language>
+  <offset>32</offset>
+  <length>9</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 04/student 04 (3).java</file>
+  <line>13</line>
+  <module>codeSmellsWork</module>
+  <package>exercises.Generalization.MultiPlotter</package>
+  <entry_point TYPE="field" FQNAME="exercises.Generalization.MultiPlotter.MultiPlotter colors" />
+  <problem_class id="CanBeFinal" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Declaration can have 'final' modifier</problem_class>
+  <hints />
+  <description>Declaration can have final modifier</description>
+  <highlighted_element>colors</highlighted_element>
+  <language>JAVA</language>
+  <offset>18</offset>
+  <length>6</length>
+</problem>
+</problems>

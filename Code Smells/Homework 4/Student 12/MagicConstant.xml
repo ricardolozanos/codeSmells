@@ -1,0 +1,41 @@
+<problems>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 12/student 12 (8).java</file>
+  <line>53</line>
+  <module>codeSmellsWork</module>
+  <package>&lt;default&gt;</package>
+  <entry_point TYPE="method" FQNAME="GUIOmok GUIOmok()" />
+  <problem_class id="MagicConstant" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Magic Constant</problem_class>
+  <description>Should be one of: InputEvent.SHIFT_MASK, InputEvent.CTRL_MASK, InputEvent.META_MASK, InputEvent.ALT_MASK, ... or their combination</description>
+  <highlighted_element>ActionEvent.ALT_MASK</highlighted_element>
+  <language>JAVA</language>
+  <offset>70</offset>
+  <length>20</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 12/student 12 (8).java</file>
+  <line>59</line>
+  <module>codeSmellsWork</module>
+  <package>&lt;default&gt;</package>
+  <entry_point TYPE="method" FQNAME="GUIOmok GUIOmok()" />
+  <problem_class id="MagicConstant" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Magic Constant</problem_class>
+  <description>Should be one of: InputEvent.SHIFT_MASK, InputEvent.CTRL_MASK, InputEvent.META_MASK, InputEvent.ALT_MASK, ... or their combination</description>
+  <highlighted_element>ActionEvent.ALT_MASK</highlighted_element>
+  <language>JAVA</language>
+  <offset>72</offset>
+  <length>20</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 12/student 12 (8).java</file>
+  <line>65</line>
+  <module>codeSmellsWork</module>
+  <package>&lt;default&gt;</package>
+  <entry_point TYPE="method" FQNAME="GUIOmok GUIOmok()" />
+  <problem_class id="MagicConstant" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Magic Constant</problem_class>
+  <description>Should be one of: InputEvent.SHIFT_MASK, InputEvent.CTRL_MASK, InputEvent.META_MASK, InputEvent.ALT_MASK, ... or their combination</description>
+  <highlighted_element>ActionEvent.ALT_MASK</highlighted_element>
+  <language>JAVA</language>
+  <offset>71</offset>
+  <length>20</length>
+</problem>
+</problems>

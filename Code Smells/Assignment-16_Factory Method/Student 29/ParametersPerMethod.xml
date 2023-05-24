@@ -1,0 +1,28 @@
+<problems>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 29/student 29 (2).java</file>
+  <line>25</line>
+  <module>codeSmellsWork</module>
+  <package>Balloon</package>
+  <entry_point TYPE="method" FQNAME="Balloon.EnhancedModularBalloonApp Balloon createBalloon(int x, int y, int t, int d, int rate, java.awt.Color randomColor)" />
+  <problem_class id="ParametersPerMethod" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Method with too many parameters</problem_class>
+  <description>&lt;code&gt;createBalloon()&lt;/code&gt; has too many parameters (num parameters = 6) #loc</description>
+  <highlighted_element>createBalloon</highlighted_element>
+  <language>JAVA</language>
+  <offset>19</offset>
+  <length>13</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 29/student 29 (5).java</file>
+  <line>31</line>
+  <module>codeSmellsWork</module>
+  <package>Balloon</package>
+  <entry_point TYPE="method" FQNAME="Balloon.ModularBalloonApp Balloon createBalloon(int x, int y, int t, int d, int rate, java.awt.Color randomColor)" />
+  <problem_class id="ParametersPerMethod" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Method with too many parameters</problem_class>
+  <description>&lt;code&gt;createBalloon()&lt;/code&gt; has too many parameters (num parameters = 6) #loc</description>
+  <highlighted_element>createBalloon</highlighted_element>
+  <language>JAVA</language>
+  <offset>19</offset>
+  <length>13</length>
+</problem>
+</problems>

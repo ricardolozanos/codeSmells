@@ -1,0 +1,28 @@
+<problems>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 33/student 33 (4).java</file>
+  <line>12</line>
+  <module>codeSmellsWork</module>
+  <package>HomeWork2.OmokGame</package>
+  <entry_point TYPE="field" FQNAME="HomeWork2.OmokGame.ComputerAI aiPiece" />
+  <problem_class id="FieldMayBeFinal" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Field may be 'final'</problem_class>
+  <description>Field &lt;code&gt;aiPiece&lt;/code&gt; may be 'final' #loc</description>
+  <highlighted_element>aiPiece</highlighted_element>
+  <language>JAVA</language>
+  <offset>27</offset>
+  <length>7</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 33/student 33 (4).java</file>
+  <line>16</line>
+  <module>codeSmellsWork</module>
+  <package>HomeWork2.OmokGame</package>
+  <entry_point TYPE="field" FQNAME="HomeWork2.OmokGame.ComputerAI playerPiece" />
+  <problem_class id="FieldMayBeFinal" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Field may be 'final'</problem_class>
+  <description>Field &lt;code&gt;playerPiece&lt;/code&gt; may be 'final' #loc</description>
+  <highlighted_element>playerPiece</highlighted_element>
+  <language>JAVA</language>
+  <offset>27</offset>
+  <length>11</length>
+</problem>
+</problems>

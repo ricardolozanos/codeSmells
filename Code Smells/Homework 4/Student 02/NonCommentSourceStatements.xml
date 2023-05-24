@@ -1,0 +1,28 @@
+<problems>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 02/student 02 (5).java</file>
+  <line>18</line>
+  <module>codeSmellsWork</module>
+  <package>OmokConsole.UI</package>
+  <entry_point TYPE="method" FQNAME="OmokConsole.UI.Controller void run()" />
+  <problem_class id="NonCommentSourceStatements" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Overly long method</problem_class>
+  <description>&lt;code&gt;run&lt;/code&gt; is too long (# Non-comment source statements = 40) #loc</description>
+  <highlighted_element>run</highlighted_element>
+  <language>JAVA</language>
+  <offset>16</offset>
+  <length>3</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 02/student 02 (7).java</file>
+  <line>24</line>
+  <module>codeSmellsWork</module>
+  <package>OmokConsole.UI</package>
+  <entry_point TYPE="method" FQNAME="OmokConsole.UI.GUI GUI()" />
+  <problem_class id="NonCommentSourceStatements" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Overly long method</problem_class>
+  <description>&lt;code&gt;GUI&lt;/code&gt; is too long (# Non-comment source statements = 51) #loc</description>
+  <highlighted_element>GUI</highlighted_element>
+  <language>JAVA</language>
+  <offset>11</offset>
+  <length>3</length>
+</problem>
+</problems>

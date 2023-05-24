@@ -1,0 +1,15 @@
+<problems>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 08/Student 08.java</file>
+  <line>8</line>
+  <module>codeSmellsWork</module>
+  <package>&lt;default&gt;</package>
+  <entry_point TYPE="method" FQNAME="JavaChat JavaChat()" />
+  <problem_class id="NonCommentSourceStatements" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Overly long method</problem_class>
+  <description>&lt;code&gt;JavaChat&lt;/code&gt; is too long (# Non-comment source statements = 38) #loc</description>
+  <highlighted_element>JavaChat</highlighted_element>
+  <language>JAVA</language>
+  <offset>11</offset>
+  <length>8</length>
+</problem>
+</problems>

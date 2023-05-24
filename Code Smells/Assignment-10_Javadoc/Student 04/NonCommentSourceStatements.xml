@@ -1,0 +1,15 @@
+<problems>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 04/student 04 (1).java</file>
+  <line>96</line>
+  <module>codeSmellsWork</module>
+  <package>noapplet.assignments.HW2</package>
+  <entry_point TYPE="method" FQNAME="noapplet.assignments.HW2.Board boolean hasWinner(int row, int col)" />
+  <problem_class id="NonCommentSourceStatements" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Overly long method</problem_class>
+  <description>&lt;code&gt;hasWinner&lt;/code&gt; is too long (# Non-comment source statements = 40) #loc</description>
+  <highlighted_element>hasWinner</highlighted_element>
+  <language>JAVA</language>
+  <offset>19</offset>
+  <length>9</length>
+</problem>
+</problems>

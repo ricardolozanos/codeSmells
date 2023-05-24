@@ -1,0 +1,28 @@
+<problems>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 40/student 40 (3).java</file>
+  <line>24</line>
+  <module>codeSmellsWork</module>
+  <package>src.noapplet.example</package>
+  <entry_point TYPE="method" FQNAME="src.noapplet.example.GrowingBalloon void draw(java.awt.Graphics g)" />
+  <problem_class id="DataFlowIssue" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Nullability and data flow problems</problem_class>
+  <description>Arguments of 'min' are the same. Calling this method with the same arguments is meaningless</description>
+  <highlighted_element>min</highlighted_element>
+  <language>JAVA</language>
+  <offset>30</offset>
+  <length>3</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 40/student 40 (4).java</file>
+  <line>19</line>
+  <module>codeSmellsWork</module>
+  <package>src.noapplet.example</package>
+  <entry_point TYPE="method" FQNAME="src.noapplet.example.GrowingShrinkingBalloon void draw(java.awt.Graphics g)" />
+  <problem_class id="DataFlowIssue" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Nullability and data flow problems</problem_class>
+  <description>Arguments of 'min' are the same. Calling this method with the same arguments is meaningless</description>
+  <highlighted_element>min</highlighted_element>
+  <language>JAVA</language>
+  <offset>30</offset>
+  <length>3</length>
+</problem>
+</problems>

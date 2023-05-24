@@ -1,0 +1,15 @@
+<problems>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 18/Student 18.java</file>
+  <line>132</line>
+  <module>codeSmellsWork</module>
+  <package>&lt;default&gt;</package>
+  <entry_point TYPE="class" FQNAME="ChatDialogUI.threadin" />
+  <problem_class id="InnerClassMayBeStatic" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Inner class may be 'static'</problem_class>
+  <description>Inner class &lt;code&gt;threadin&lt;/code&gt; may be 'static' #loc</description>
+  <highlighted_element>threadin</highlighted_element>
+  <language>JAVA</language>
+  <offset>10</offset>
+  <length>8</length>
+</problem>
+</problems>

@@ -1,0 +1,33 @@
+<problems>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 24/student 24 (1).java</file>
+  <line>53</line>
+  <module>codeSmellsWork</module>
+  <package>noapplet.example</package>
+  <entry_point TYPE="method" FQNAME="noapplet.example.ChatDialog void configureGui()" />
+  <problem_class id="unused" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Unused declaration</problem_class>
+  <hints />
+  <description>Variable &lt;code&gt;bl&lt;/code&gt; is never used</description>
+  <highlighted_element>bl</highlighted_element>
+  <language>JAVA</language>
+  <offset>21</offset>
+  <length>2</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 24/student 24 (1).java</file>
+  <line>91</line>
+  <module>codeSmellsWork</module>
+  <package>noapplet.example</package>
+  <entry_point TYPE="method" FQNAME="noapplet.example.ChatDialog void warn(java.lang.String msg)" />
+  <language>JAVA</language>
+  <offset>17</offset>
+  <length>4</length>
+  <highlighted_element>warn</highlighted_element>
+  <problem_class id="unused" severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">unused declaration</problem_class>
+  <hints>
+    <hint value="comment" />
+    <hint value="delete" />
+  </hints>
+  <description>Method is never used.</description>
+</problem>
+</problems>

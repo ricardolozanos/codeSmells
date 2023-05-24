@@ -1,0 +1,210 @@
+<problems>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 10/student 10 (1).java</file>
+  <line>3</line>
+  <module>codeSmellsWork</module>
+  <package>noapplet.example.plotter</package>
+  <entry_point TYPE="class" FQNAME="noapplet.example.plotter.Cosine" />
+  <problem_class id="MissingJavadoc" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Missing Javadoc</problem_class>
+  <description>Required Javadoc is absent</description>
+  <highlighted_element>Cosine</highlighted_element>
+  <language>JAVA</language>
+  <offset>13</offset>
+  <length>6</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 10/student 10 (2).java</file>
+  <line>3</line>
+  <module>codeSmellsWork</module>
+  <package>noapplet.example.plotter</package>
+  <entry_point TYPE="class" FQNAME="noapplet.example.plotter.Function" />
+  <problem_class id="MissingJavadoc" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Missing Javadoc</problem_class>
+  <description>Required Javadoc is absent</description>
+  <highlighted_element>Function</highlighted_element>
+  <language>JAVA</language>
+  <offset>26</offset>
+  <length>8</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 10/student 10 (2).java</file>
+  <line>5</line>
+  <module>codeSmellsWork</module>
+  <package>noapplet.example.plotter</package>
+  <entry_point TYPE="method" FQNAME="noapplet.example.plotter.Function double apply(double x)" />
+  <problem_class id="MissingJavadoc" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Missing Javadoc</problem_class>
+  <description>Required Javadoc is absent</description>
+  <highlighted_element>apply</highlighted_element>
+  <language>JAVA</language>
+  <offset>24</offset>
+  <length>5</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 10/student 10 (3).java</file>
+  <line>9</line>
+  <module>codeSmellsWork</module>
+  <package>noapplet.example.plotter</package>
+  <entry_point TYPE="class" FQNAME="noapplet.example.plotter.MultiPlotter" />
+  <problem_class id="MissingJavadoc" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Missing Javadoc</problem_class>
+  <description>Required Javadoc is absent</description>
+  <highlighted_element>MultiPlotter</highlighted_element>
+  <language>JAVA</language>
+  <offset>13</offset>
+  <length>12</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 10/student 10 (3).java</file>
+  <line>55</line>
+  <module>codeSmellsWork</module>
+  <package>noapplet.example.plotter</package>
+  <entry_point TYPE="method" FQNAME="noapplet.example.plotter.MultiPlotter double func(double x)" />
+  <problem_class id="MissingJavadoc" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Missing Javadoc</problem_class>
+  <description>Required Javadoc is absent</description>
+  <highlighted_element>func</highlighted_element>
+  <language>JAVA</language>
+  <offset>15</offset>
+  <length>4</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 10/student 10 (4).java</file>
+  <line>11</line>
+  <module>codeSmellsWork</module>
+  <package>noapplet.example.plotter</package>
+  <entry_point TYPE="class" FQNAME="noapplet.example.plotter.Plotter" />
+  <problem_class id="MissingJavadoc" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Missing Javadoc</problem_class>
+  <description>Required Javadoc is absent</description>
+  <highlighted_element>Plotter</highlighted_element>
+  <language>JAVA</language>
+  <offset>22</offset>
+  <length>7</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 10/student 10 (4).java</file>
+  <line>24</line>
+  <module>codeSmellsWork</module>
+  <package>noapplet.example.plotter</package>
+  <entry_point TYPE="method" FQNAME="noapplet.example.plotter.Plotter Plotter(java.lang.String[] args)" />
+  <problem_class id="MissingJavadoc" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Missing Javadoc</problem_class>
+  <description>Required Javadoc is absent</description>
+  <highlighted_element>Plotter</highlighted_element>
+  <language>JAVA</language>
+  <offset>11</offset>
+  <length>7</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 10/student 10 (4).java</file>
+  <line>28</line>
+  <module>codeSmellsWork</module>
+  <package>noapplet.example.plotter</package>
+  <entry_point TYPE="method" FQNAME="noapplet.example.plotter.Plotter Plotter()" />
+  <problem_class id="MissingJavadoc" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Missing Javadoc</problem_class>
+  <description>Required Javadoc is absent</description>
+  <highlighted_element>Plotter</highlighted_element>
+  <language>JAVA</language>
+  <offset>11</offset>
+  <length>7</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 10/student 10 (4).java</file>
+  <line>32</line>
+  <module>codeSmellsWork</module>
+  <package>noapplet.example.plotter</package>
+  <entry_point TYPE="method" FQNAME="noapplet.example.plotter.Plotter double func(double x)" />
+  <problem_class id="MissingJavadoc" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Missing Javadoc</problem_class>
+  <description>Required Javadoc is absent</description>
+  <highlighted_element>func</highlighted_element>
+  <language>JAVA</language>
+  <offset>27</offset>
+  <length>4</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 10/student 10 (4).java</file>
+  <line>34</line>
+  <module>codeSmellsWork</module>
+  <package>noapplet.example.plotter</package>
+  <entry_point TYPE="method" FQNAME="noapplet.example.plotter.Plotter void init()" />
+  <problem_class id="MissingJavadoc" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Missing Javadoc</problem_class>
+  <description>Required Javadoc is absent</description>
+  <highlighted_element>init</highlighted_element>
+  <language>JAVA</language>
+  <offset>16</offset>
+  <length>4</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 10/student 10 (5).java</file>
+  <line>3</line>
+  <module>codeSmellsWork</module>
+  <package>noapplet.example.plotter</package>
+  <entry_point TYPE="class" FQNAME="noapplet.example.plotter.Sine" />
+  <problem_class id="MissingJavadoc" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Missing Javadoc</problem_class>
+  <description>Required Javadoc is absent</description>
+  <highlighted_element>Sine</highlighted_element>
+  <language>JAVA</language>
+  <offset>13</offset>
+  <length>4</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 10/student 10 (6).java</file>
+  <line>5</line>
+  <module>codeSmellsWork</module>
+  <package>noapplet.example.plotter</package>
+  <entry_point TYPE="class" FQNAME="noapplet.example.plotter.SineCosinePlotter" />
+  <problem_class id="MissingJavadoc" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Missing Javadoc</problem_class>
+  <description>Required Javadoc is absent</description>
+  <highlighted_element>SineCosinePlotter</highlighted_element>
+  <language>JAVA</language>
+  <offset>13</offset>
+  <length>17</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 10/student 10 (6).java</file>
+  <line>6</line>
+  <module>codeSmellsWork</module>
+  <package>noapplet.example.plotter</package>
+  <entry_point TYPE="method" FQNAME="noapplet.example.plotter.SineCosinePlotter void initMultiplotter()" />
+  <problem_class id="MissingJavadoc" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Missing Javadoc</problem_class>
+  <description>Required Javadoc is absent</description>
+  <highlighted_element>initMultiplotter</highlighted_element>
+  <language>JAVA</language>
+  <offset>13</offset>
+  <length>16</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 10/student 10 (6).java</file>
+  <line>11</line>
+  <module>codeSmellsWork</module>
+  <package>noapplet.example.plotter</package>
+  <entry_point TYPE="method" FQNAME="noapplet.example.plotter.SineCosinePlotter void main(java.lang.String[] args)" />
+  <problem_class id="MissingJavadoc" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Missing Javadoc</problem_class>
+  <description>Required Javadoc is absent</description>
+  <highlighted_element>main</highlighted_element>
+  <language>JAVA</language>
+  <offset>20</offset>
+  <length>4</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 10/student 10 (7).java</file>
+  <line>3</line>
+  <module>codeSmellsWork</module>
+  <package>noapplet.example.plotter</package>
+  <entry_point TYPE="class" FQNAME="noapplet.example.plotter.Sqrt" />
+  <problem_class id="MissingJavadoc" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Missing Javadoc</problem_class>
+  <description>Required Javadoc is absent</description>
+  <highlighted_element>Sqrt</highlighted_element>
+  <language>JAVA</language>
+  <offset>13</offset>
+  <length>4</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 10/student 10 (7).java</file>
+  <line>5</line>
+  <module>codeSmellsWork</module>
+  <package>noapplet.example.plotter</package>
+  <entry_point TYPE="method" FQNAME="noapplet.example.plotter.Sqrt double apply(double x)" />
+  <problem_class id="MissingJavadoc" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Missing Javadoc</problem_class>
+  <description>Required Javadoc is absent</description>
+  <highlighted_element>apply</highlighted_element>
+  <language>JAVA</language>
+  <offset>15</offset>
+  <length>5</length>
+</problem>
+</problems>

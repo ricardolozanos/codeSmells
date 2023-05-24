@@ -1,0 +1,138 @@
+<problems>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 22/student 22.java</file>
+  <line>13</line>
+  <module>codeSmellsWork</module>
+  <package>HomeWork2.OmokGame</package>
+  <entry_point TYPE="method" FQNAME="HomeWork2.OmokGame.ConsoleUITest void consoleUI()" />
+  <language>JAVA</language>
+  <offset>9</offset>
+  <length>9</length>
+  <highlighted_element>consoleUI</highlighted_element>
+  <problem_class id="unused" severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">unused declaration</problem_class>
+  <hints>
+    <hint value="comment" />
+    <hint value="delete" />
+  </hints>
+  <description>&lt;ul&gt;&lt;li&gt;Method owner class is never instantiated OR&lt;/li&gt;&lt;li&gt;An instantiation is not reachable from entry points.&lt;/li&gt;&lt;/ul&gt;</description>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 22/student 22.java</file>
+  <line>29</line>
+  <module>codeSmellsWork</module>
+  <package>HomeWork2.OmokGame</package>
+  <entry_point TYPE="method" FQNAME="HomeWork2.OmokGame.ConsoleUITest void askMove()" />
+  <language>JAVA</language>
+  <offset>9</offset>
+  <length>7</length>
+  <highlighted_element>askMove</highlighted_element>
+  <problem_class id="unused" severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">unused declaration</problem_class>
+  <hints>
+    <hint value="comment" />
+    <hint value="delete" />
+  </hints>
+  <description>&lt;ul&gt;&lt;li&gt;Method owner class is never instantiated OR&lt;/li&gt;&lt;li&gt;An instantiation is not reachable from entry points.&lt;/li&gt;&lt;/ul&gt;</description>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 22/student 22.java</file>
+  <line>69</line>
+  <module>codeSmellsWork</module>
+  <package>HomeWork2.OmokGame</package>
+  <entry_point TYPE="method" FQNAME="HomeWork2.OmokGame.ConsoleUITest void askModePlayer()" />
+  <language>JAVA</language>
+  <offset>9</offset>
+  <length>13</length>
+  <highlighted_element>askModePlayer</highlighted_element>
+  <problem_class id="unused" severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">unused declaration</problem_class>
+  <hints>
+    <hint value="comment" />
+    <hint value="delete" />
+  </hints>
+  <description>&lt;ul&gt;&lt;li&gt;Method owner class is never instantiated OR&lt;/li&gt;&lt;li&gt;An instantiation is not reachable from entry points.&lt;/li&gt;&lt;/ul&gt;</description>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 22/student 22.java</file>
+  <line>77</line>
+  <module>codeSmellsWork</module>
+  <package>HomeWork2.OmokGame</package>
+  <entry_point TYPE="method" FQNAME="HomeWork2.OmokGame.ConsoleUITest void askModeComputer()" />
+  <language>JAVA</language>
+  <offset>9</offset>
+  <length>15</length>
+  <highlighted_element>askModeComputer</highlighted_element>
+  <problem_class id="unused" severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">unused declaration</problem_class>
+  <hints>
+    <hint value="comment" />
+    <hint value="delete" />
+  </hints>
+  <description>&lt;ul&gt;&lt;li&gt;Method owner class is never instantiated OR&lt;/li&gt;&lt;li&gt;An instantiation is not reachable from entry points.&lt;/li&gt;&lt;/ul&gt;</description>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 22/student 22.java</file>
+  <line>86</line>
+  <module>codeSmellsWork</module>
+  <package>HomeWork2.OmokGame</package>
+  <entry_point TYPE="method" FQNAME="HomeWork2.OmokGame.ConsoleUITest void askSize()" />
+  <language>JAVA</language>
+  <offset>9</offset>
+  <length>7</length>
+  <highlighted_element>askSize</highlighted_element>
+  <problem_class id="unused" severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">unused declaration</problem_class>
+  <hints>
+    <hint value="comment" />
+    <hint value="delete" />
+  </hints>
+  <description>&lt;ul&gt;&lt;li&gt;Method owner class is never instantiated OR&lt;/li&gt;&lt;li&gt;An instantiation is not reachable from entry points.&lt;/li&gt;&lt;/ul&gt;</description>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 22/student 22.java</file>
+  <line>94</line>
+  <module>codeSmellsWork</module>
+  <package>HomeWork2.OmokGame</package>
+  <entry_point TYPE="method" FQNAME="HomeWork2.OmokGame.ConsoleUITest void draw()" />
+  <language>JAVA</language>
+  <offset>9</offset>
+  <length>4</length>
+  <highlighted_element>draw</highlighted_element>
+  <problem_class id="unused" severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">unused declaration</problem_class>
+  <hints>
+    <hint value="comment" />
+    <hint value="delete" />
+  </hints>
+  <description>&lt;ul&gt;&lt;li&gt;Method owner class is never instantiated OR&lt;/li&gt;&lt;li&gt;An instantiation is not reachable from entry points.&lt;/li&gt;&lt;/ul&gt;</description>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 22/student 22.java</file>
+  <line>111</line>
+  <module>codeSmellsWork</module>
+  <package>HomeWork2.OmokGame</package>
+  <entry_point TYPE="method" FQNAME="HomeWork2.OmokGame.ConsoleUITest void padRight()" />
+  <language>JAVA</language>
+  <offset>9</offset>
+  <length>8</length>
+  <highlighted_element>padRight</highlighted_element>
+  <problem_class id="unused" severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">unused declaration</problem_class>
+  <hints>
+    <hint value="comment" />
+    <hint value="delete" />
+  </hints>
+  <description>&lt;ul&gt;&lt;li&gt;Method owner class is never instantiated OR&lt;/li&gt;&lt;li&gt;An instantiation is not reachable from entry points.&lt;/li&gt;&lt;/ul&gt;</description>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 22/student 22.java</file>
+  <line>9</line>
+  <module>codeSmellsWork</module>
+  <package>HomeWork2.OmokGame</package>
+  <entry_point TYPE="class" FQNAME="HomeWork2.OmokGame.ConsoleUITest" />
+  <language>JAVA</language>
+  <offset>6</offset>
+  <length>13</length>
+  <highlighted_element>ConsoleUITest</highlighted_element>
+  <problem_class id="unused" severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">unused declaration</problem_class>
+  <hints>
+    <hint value="comment" />
+    <hint value="delete" />
+  </hints>
+  <description>Class is not instantiated.</description>
+</problem>
+</problems>

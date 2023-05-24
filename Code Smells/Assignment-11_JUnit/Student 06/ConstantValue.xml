@@ -1,0 +1,80 @@
+<problems>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 06/student 06 (9).java</file>
+  <line>24</line>
+  <module>codeSmellsWork</module>
+  <package>&lt;default&gt;</package>
+  <entry_point TYPE="method" FQNAME="CPUPlayer boolean makeMove(int x, int y, Board board)" />
+  <problem_class id="ConstantValue" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Constant values</problem_class>
+  <description>Condition &lt;code&gt;(j-4) &gt;= 0&lt;/code&gt; is always &lt;code&gt;true&lt;/code&gt;</description>
+  <highlighted_element>(j-4) &gt;= 0</highlighted_element>
+  <language>JAVA</language>
+  <offset>80</offset>
+  <length>10</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 06/student 06 (9).java</file>
+  <line>45</line>
+  <module>codeSmellsWork</module>
+  <package>&lt;default&gt;</package>
+  <entry_point TYPE="method" FQNAME="CPUPlayer boolean makeMove(int x, int y, Board board)" />
+  <problem_class id="ConstantValue" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Constant values</problem_class>
+  <description>Condition &lt;code&gt;(jver-4) &gt;= 0&lt;/code&gt; is always &lt;code&gt;true&lt;/code&gt;</description>
+  <highlighted_element>(jver-4) &gt;= 0</highlighted_element>
+  <language>JAVA</language>
+  <offset>86</offset>
+  <length>13</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 06/student 06 (9).java</file>
+  <line>68</line>
+  <module>codeSmellsWork</module>
+  <package>&lt;default&gt;</package>
+  <entry_point TYPE="method" FQNAME="CPUPlayer boolean makeMove(int x, int y, Board board)" />
+  <problem_class id="ConstantValue" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Constant values</problem_class>
+  <description>Condition &lt;code&gt;(j - k - 1) &gt;= 0&lt;/code&gt; is always &lt;code&gt;true&lt;/code&gt;</description>
+  <highlighted_element>(j - k - 1) &gt;= 0</highlighted_element>
+  <language>JAVA</language>
+  <offset>125</offset>
+  <length>16</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 06/student 06 (9).java</file>
+  <line>72</line>
+  <module>codeSmellsWork</module>
+  <package>&lt;default&gt;</package>
+  <entry_point TYPE="method" FQNAME="CPUPlayer boolean makeMove(int x, int y, Board board)" />
+  <problem_class id="ConstantValue" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Constant values</problem_class>
+  <description>Condition &lt;code&gt;(i-1) &gt;=0&lt;/code&gt; is always &lt;code&gt;true&lt;/code&gt;</description>
+  <highlighted_element>(i-1) &gt;=0</highlighted_element>
+  <language>JAVA</language>
+  <offset>89</offset>
+  <length>9</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 06/student 06 (9).java</file>
+  <line>95</line>
+  <module>codeSmellsWork</module>
+  <package>&lt;default&gt;</package>
+  <entry_point TYPE="method" FQNAME="CPUPlayer boolean makeMove(int x, int y, Board board)" />
+  <problem_class id="ConstantValue" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Constant values</problem_class>
+  <description>Condition &lt;code&gt;(i-1) &gt;=0&lt;/code&gt; is always &lt;code&gt;true&lt;/code&gt;</description>
+  <highlighted_element>(i-1) &gt;=0</highlighted_element>
+  <language>JAVA</language>
+  <offset>89</offset>
+  <length>9</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 06/student 06 (9).java</file>
+  <line>95</line>
+  <module>codeSmellsWork</module>
+  <package>&lt;default&gt;</package>
+  <entry_point TYPE="method" FQNAME="CPUPlayer boolean makeMove(int x, int y, Board board)" />
+  <problem_class id="ConstantValue" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Constant values</problem_class>
+  <description>Condition &lt;code&gt;(j-1) &gt;=0&lt;/code&gt; is always &lt;code&gt;true&lt;/code&gt;</description>
+  <highlighted_element>(j-1) &gt;=0</highlighted_element>
+  <language>JAVA</language>
+  <offset>102</offset>
+  <length>9</length>
+</problem>
+</problems>

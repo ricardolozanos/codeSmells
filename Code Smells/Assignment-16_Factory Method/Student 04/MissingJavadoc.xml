@@ -1,0 +1,249 @@
+<problems>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 04/student 04 (1).java</file>
+  <line>6</line>
+  <module>codeSmellsWork</module>
+  <package>exercises.FactoryMethod</package>
+  <entry_point TYPE="class" FQNAME="exercises.FactoryMethod.Balloon" />
+  <problem_class id="MissingJavadoc" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Missing Javadoc</problem_class>
+  <description>Required Javadoc is absent</description>
+  <highlighted_element>Balloon</highlighted_element>
+  <language>JAVA</language>
+  <offset>13</offset>
+  <length>7</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 04/student 04 (1).java</file>
+  <line>9</line>
+  <module>codeSmellsWork</module>
+  <package>exercises.FactoryMethod</package>
+  <entry_point TYPE="method" FQNAME="exercises.FactoryMethod.Balloon Balloon()" />
+  <problem_class id="MissingJavadoc" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Missing Javadoc</problem_class>
+  <description>Required Javadoc is absent</description>
+  <highlighted_element>Balloon</highlighted_element>
+  <language>JAVA</language>
+  <offset>11</offset>
+  <length>7</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 04/student 04 (1).java</file>
+  <line>14</line>
+  <module>codeSmellsWork</module>
+  <package>exercises.FactoryMethod</package>
+  <entry_point TYPE="method" FQNAME="exercises.FactoryMethod.Balloon Balloon(java.lang.String[] params)" />
+  <problem_class id="MissingJavadoc" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Missing Javadoc</problem_class>
+  <description>Required Javadoc is absent</description>
+  <highlighted_element>Balloon</highlighted_element>
+  <language>JAVA</language>
+  <offset>11</offset>
+  <length>7</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 04/student 04 (1).java</file>
+  <line>19</line>
+  <module>codeSmellsWork</module>
+  <package>exercises.FactoryMethod</package>
+  <entry_point TYPE="method" FQNAME="exercises.FactoryMethod.Balloon void init()" />
+  <problem_class id="MissingJavadoc" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Missing Javadoc</problem_class>
+  <description>Required Javadoc is absent</description>
+  <highlighted_element>init</highlighted_element>
+  <language>JAVA</language>
+  <offset>16</offset>
+  <length>4</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 04/student 04 (1).java</file>
+  <line>26</line>
+  <module>codeSmellsWork</module>
+  <package>exercises.FactoryMethod</package>
+  <entry_point TYPE="method" FQNAME="exercises.FactoryMethod.Balloon void start()" />
+  <problem_class id="MissingJavadoc" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Missing Javadoc</problem_class>
+  <description>Required Javadoc is absent</description>
+  <highlighted_element>start</highlighted_element>
+  <language>JAVA</language>
+  <offset>16</offset>
+  <length>5</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 04/student 04 (1).java</file>
+  <line>40</line>
+  <module>codeSmellsWork</module>
+  <package>exercises.FactoryMethod</package>
+  <entry_point TYPE="method" FQNAME="exercises.FactoryMethod.Balloon void paintComponent(java.awt.Graphics g)" />
+  <problem_class id="MissingJavadoc" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Missing Javadoc</problem_class>
+  <description>Required Javadoc is absent</description>
+  <highlighted_element>paintComponent</highlighted_element>
+  <language>JAVA</language>
+  <offset>16</offset>
+  <length>14</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 04/student 04 (1).java</file>
+  <line>45</line>
+  <module>codeSmellsWork</module>
+  <package>exercises.FactoryMethod</package>
+  <entry_point TYPE="method" FQNAME="exercises.FactoryMethod.Balloon void main(java.lang.String[] args)" />
+  <problem_class id="MissingJavadoc" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Missing Javadoc</problem_class>
+  <description>Required Javadoc is absent</description>
+  <highlighted_element>main</highlighted_element>
+  <language>JAVA</language>
+  <offset>23</offset>
+  <length>4</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 04/student 04 (2).java</file>
+  <line>3</line>
+  <module>codeSmellsWork</module>
+  <package>exercises.FactoryMethod</package>
+  <entry_point TYPE="class" FQNAME="exercises.FactoryMethod.Balloon2" />
+  <problem_class id="MissingJavadoc" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Missing Javadoc</problem_class>
+  <description>Required Javadoc is absent</description>
+  <highlighted_element>Balloon2</highlighted_element>
+  <language>JAVA</language>
+  <offset>13</offset>
+  <length>8</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 04/student 04 (2).java</file>
+  <line>4</line>
+  <module>codeSmellsWork</module>
+  <package>exercises.FactoryMethod</package>
+  <entry_point TYPE="method" FQNAME="exercises.FactoryMethod.Balloon2 Balloon2()" />
+  <problem_class id="MissingJavadoc" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Missing Javadoc</problem_class>
+  <description>Required Javadoc is absent</description>
+  <highlighted_element>Balloon2</highlighted_element>
+  <language>JAVA</language>
+  <offset>11</offset>
+  <length>8</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 04/student 04 (2).java</file>
+  <line>7</line>
+  <module>codeSmellsWork</module>
+  <package>exercises.FactoryMethod</package>
+  <entry_point TYPE="method" FQNAME="exercises.FactoryMethod.Balloon2 Balloon2(java.lang.String[] params)" />
+  <problem_class id="MissingJavadoc" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Missing Javadoc</problem_class>
+  <description>Required Javadoc is absent</description>
+  <highlighted_element>Balloon2</highlighted_element>
+  <language>JAVA</language>
+  <offset>11</offset>
+  <length>8</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 04/student 04 (2).java</file>
+  <line>12</line>
+  <module>codeSmellsWork</module>
+  <package>exercises.FactoryMethod</package>
+  <entry_point TYPE="method" FQNAME="exercises.FactoryMethod.Balloon2 void start()" />
+  <problem_class id="MissingJavadoc" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Missing Javadoc</problem_class>
+  <description>Required Javadoc is absent</description>
+  <highlighted_element>start</highlighted_element>
+  <language>JAVA</language>
+  <offset>16</offset>
+  <length>5</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 04/student 04 (2).java</file>
+  <line>32</line>
+  <module>codeSmellsWork</module>
+  <package>exercises.FactoryMethod</package>
+  <entry_point TYPE="method" FQNAME="exercises.FactoryMethod.Balloon2 void main(java.lang.String[] args)" />
+  <problem_class id="MissingJavadoc" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Missing Javadoc</problem_class>
+  <description>Required Javadoc is absent</description>
+  <highlighted_element>main</highlighted_element>
+  <language>JAVA</language>
+  <offset>23</offset>
+  <length>4</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 04/student 04 (3).java</file>
+  <line>3</line>
+  <module>codeSmellsWork</module>
+  <package>exercises.FactoryMethod</package>
+  <entry_point TYPE="class" FQNAME="exercises.FactoryMethod.BalloonFactory" />
+  <problem_class id="MissingJavadoc" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Missing Javadoc</problem_class>
+  <description>Required Javadoc is absent</description>
+  <highlighted_element>BalloonFactory</highlighted_element>
+  <language>JAVA</language>
+  <offset>13</offset>
+  <length>14</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 04/student 04 (3).java</file>
+  <line>4</line>
+  <module>codeSmellsWork</module>
+  <package>exercises.FactoryMethod</package>
+  <entry_point TYPE="method" FQNAME="exercises.FactoryMethod.BalloonFactory Balloon createModularBalloon()" />
+  <problem_class id="MissingJavadoc" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Missing Javadoc</problem_class>
+  <description>Required Javadoc is absent</description>
+  <highlighted_element>createModularBalloon</highlighted_element>
+  <language>JAVA</language>
+  <offset>26</offset>
+  <length>20</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 04/student 04 (3).java</file>
+  <line>8</line>
+  <module>codeSmellsWork</module>
+  <package>exercises.FactoryMethod</package>
+  <entry_point TYPE="method" FQNAME="exercises.FactoryMethod.BalloonFactory Balloon createEnhancedModularBalloon()" />
+  <problem_class id="MissingJavadoc" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Missing Javadoc</problem_class>
+  <description>Required Javadoc is absent</description>
+  <highlighted_element>createEnhancedModularBalloon</highlighted_element>
+  <language>JAVA</language>
+  <offset>26</offset>
+  <length>28</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 04/student 04 (4).java</file>
+  <line>3</line>
+  <module>codeSmellsWork</module>
+  <package>exercises.FactoryMethod</package>
+  <entry_point TYPE="class" FQNAME="exercises.FactoryMethod.EnhancedModularBalloonApp" />
+  <problem_class id="MissingJavadoc" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Missing Javadoc</problem_class>
+  <description>Required Javadoc is absent</description>
+  <highlighted_element>EnhancedModularBalloonApp</highlighted_element>
+  <language>JAVA</language>
+  <offset>13</offset>
+  <length>25</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 04/student 04 (4).java</file>
+  <line>4</line>
+  <module>codeSmellsWork</module>
+  <package>exercises.FactoryMethod</package>
+  <entry_point TYPE="method" FQNAME="exercises.FactoryMethod.EnhancedModularBalloonApp void main(java.lang.String[] args)" />
+  <problem_class id="MissingJavadoc" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Missing Javadoc</problem_class>
+  <description>Required Javadoc is absent</description>
+  <highlighted_element>main</highlighted_element>
+  <language>JAVA</language>
+  <offset>23</offset>
+  <length>4</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 04/student 04 (5).java</file>
+  <line>3</line>
+  <module>codeSmellsWork</module>
+  <package>exercises.FactoryMethod</package>
+  <entry_point TYPE="class" FQNAME="exercises.FactoryMethod.ModularBalloonApp" />
+  <problem_class id="MissingJavadoc" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Missing Javadoc</problem_class>
+  <description>Required Javadoc is absent</description>
+  <highlighted_element>ModularBalloonApp</highlighted_element>
+  <language>JAVA</language>
+  <offset>13</offset>
+  <length>17</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 04/student 04 (5).java</file>
+  <line>4</line>
+  <module>codeSmellsWork</module>
+  <package>exercises.FactoryMethod</package>
+  <entry_point TYPE="method" FQNAME="exercises.FactoryMethod.ModularBalloonApp void main(java.lang.String[] args)" />
+  <problem_class id="MissingJavadoc" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Missing Javadoc</problem_class>
+  <description>Required Javadoc is absent</description>
+  <highlighted_element>main</highlighted_element>
+  <language>JAVA</language>
+  <offset>23</offset>
+  <length>4</length>
+</problem>
+</problems>

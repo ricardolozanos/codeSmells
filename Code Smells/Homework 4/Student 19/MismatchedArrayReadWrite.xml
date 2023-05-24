@@ -1,0 +1,15 @@
+<problems>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 19/student 19 (1).java</file>
+  <line>424</line>
+  <module>codeSmellsWork</module>
+  <package>omok</package>
+  <entry_point TYPE="method" FQNAME="omok.AI int[] enemyThree()" />
+  <problem_class id="MismatchedArrayReadWrite" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Mismatched read and write of array</problem_class>
+  <description>Contents of array &lt;code&gt;start&lt;/code&gt; are written to, but never read #loc</description>
+  <highlighted_element>start</highlighted_element>
+  <language>JAVA</language>
+  <offset>8</offset>
+  <length>5</length>
+</problem>
+</problems>

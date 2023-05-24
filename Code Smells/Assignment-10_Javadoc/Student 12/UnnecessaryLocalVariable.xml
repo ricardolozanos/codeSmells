@@ -1,0 +1,67 @@
+<problems>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 12/Student 12.java</file>
+  <line>96</line>
+  <module>codeSmellsWork</module>
+  <package>&lt;default&gt;</package>
+  <entry_point TYPE="method" FQNAME="BoardJdoc int[][] checkWin()" />
+  <problem_class id="UnnecessaryLocalVariable" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Redundant local variable</problem_class>
+  <description>Local variable &lt;code&gt;win&lt;/code&gt; is redundant #loc</description>
+  <highlighted_element>win</highlighted_element>
+  <language>JAVA</language>
+  <offset>32</offset>
+  <length>3</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 12/Student 12.java</file>
+  <line>103</line>
+  <module>codeSmellsWork</module>
+  <package>&lt;default&gt;</package>
+  <entry_point TYPE="method" FQNAME="BoardJdoc int[][] checkWin()" />
+  <problem_class id="UnnecessaryLocalVariable" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Redundant local variable</problem_class>
+  <description>Local variable &lt;code&gt;win&lt;/code&gt; is redundant #loc</description>
+  <highlighted_element>win</highlighted_element>
+  <language>JAVA</language>
+  <offset>32</offset>
+  <length>3</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 12/Student 12.java</file>
+  <line>114</line>
+  <module>codeSmellsWork</module>
+  <package>&lt;default&gt;</package>
+  <entry_point TYPE="method" FQNAME="BoardJdoc int[][] checkWin()" />
+  <problem_class id="UnnecessaryLocalVariable" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Redundant local variable</problem_class>
+  <description>Local variable &lt;code&gt;win&lt;/code&gt; is redundant #loc</description>
+  <highlighted_element>win</highlighted_element>
+  <language>JAVA</language>
+  <offset>28</offset>
+  <length>3</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 12/Student 12.java</file>
+  <line>123</line>
+  <module>codeSmellsWork</module>
+  <package>&lt;default&gt;</package>
+  <entry_point TYPE="method" FQNAME="BoardJdoc int[][] checkWin()" />
+  <problem_class id="UnnecessaryLocalVariable" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Redundant local variable</problem_class>
+  <description>Local variable &lt;code&gt;win&lt;/code&gt; is redundant #loc</description>
+  <highlighted_element>win</highlighted_element>
+  <language>JAVA</language>
+  <offset>28</offset>
+  <length>3</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 12/Student 12.java</file>
+  <line>129</line>
+  <module>codeSmellsWork</module>
+  <package>&lt;default&gt;</package>
+  <entry_point TYPE="method" FQNAME="BoardJdoc int[][] checkWin()" />
+  <problem_class id="UnnecessaryLocalVariable" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Redundant local variable</problem_class>
+  <description>Local variable &lt;code&gt;boardFull&lt;/code&gt; is redundant #loc</description>
+  <highlighted_element>boardFull</highlighted_element>
+  <language>JAVA</language>
+  <offset>20</offset>
+  <length>9</length>
+</problem>
+</problems>

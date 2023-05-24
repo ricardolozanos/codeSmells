@@ -1,0 +1,28 @@
+<problems>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 22/student 22 (1).java</file>
+  <line>71</line>
+  <module>codeSmellsWork</module>
+  <package>&lt;default&gt;</package>
+  <entry_point TYPE="method" FQNAME="ChatDialog void configureGui()" />
+  <problem_class id="Convert2Lambda" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Anonymous type can be replaced with lambda</problem_class>
+  <description>Anonymous new ActionListener() can be replaced with lambda</description>
+  <highlighted_element>new ActionListener()</highlighted_element>
+  <language>JAVA</language>
+  <offset>40</offset>
+  <length>21</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 22/student 22 (1).java</file>
+  <line>122</line>
+  <module>codeSmellsWork</module>
+  <package>&lt;default&gt;</package>
+  <entry_point TYPE="method" FQNAME="ChatDialog void configureGui()" />
+  <problem_class id="Convert2Lambda" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Anonymous type can be replaced with lambda</problem_class>
+  <description>Anonymous new ActionListener() can be replaced with lambda</description>
+  <highlighted_element>new ActionListener()</highlighted_element>
+  <language>JAVA</language>
+  <offset>37</offset>
+  <length>21</length>
+</problem>
+</problems>

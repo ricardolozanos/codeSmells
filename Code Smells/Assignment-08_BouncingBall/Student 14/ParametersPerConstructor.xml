@@ -1,0 +1,28 @@
+<problems>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 14/student 14 (4).java</file>
+  <line>7</line>
+  <module>codeSmellsWork</module>
+  <package>BouncingBall</package>
+  <entry_point TYPE="method" FQNAME="BouncingBall.roundball roundball(int x, int y, int dx, int dy, int radius, java.awt.Color color, BouncingBall parent)" />
+  <problem_class id="ParametersPerConstructor" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Constructor with too many parameters</problem_class>
+  <description>&lt;code&gt;roundball()&lt;/code&gt; has too many parameters (num parameters = 7) #loc</description>
+  <highlighted_element>roundball</highlighted_element>
+  <language>JAVA</language>
+  <offset>11</offset>
+  <length>9</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 14/student 14 (5).java</file>
+  <line>22</line>
+  <module>codeSmellsWork</module>
+  <package>BouncingBall</package>
+  <entry_point TYPE="method" FQNAME="BouncingBall.ball ball(int x, int y, int dx, int dy, int radius, java.awt.Color color, BouncingBall parent)" />
+  <problem_class id="ParametersPerConstructor" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Constructor with too many parameters</problem_class>
+  <description>&lt;code&gt;ball()&lt;/code&gt; has too many parameters (num parameters = 7) #loc</description>
+  <highlighted_element>ball</highlighted_element>
+  <language>JAVA</language>
+  <offset>11</offset>
+  <length>4</length>
+</problem>
+</problems>

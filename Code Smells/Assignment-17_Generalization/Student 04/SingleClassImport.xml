@@ -1,0 +1,106 @@
+<problems>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 04/student 04 (1).java</file>
+  <line>3</line>
+  <module>codeSmellsWork</module>
+  <package>exercises.Generalization.MultiPlotter</package>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/src/Student 04/student 04 (1).java" />
+  <problem_class id="SingleClassImport" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Single class import</problem_class>
+  <description>Single class import &lt;code&gt;import exercises.Generalization.Plotter.Function;&lt;/code&gt; #loc</description>
+  <highlighted_element>import exercises.Generalization.Plotter.Function;</highlighted_element>
+  <language>JAVA</language>
+  <offset>0</offset>
+  <length>49</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 04/student 04 (2).java</file>
+  <line>3</line>
+  <module>codeSmellsWork</module>
+  <package>exercises.Generalization.Plotter</package>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/src/Student 04/student 04 (2).java" />
+  <problem_class id="SingleClassImport" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Single class import</problem_class>
+  <description>Single class import &lt;code&gt;import java.awt.Color;&lt;/code&gt; #loc</description>
+  <highlighted_element>import java.awt.Color;</highlighted_element>
+  <language>JAVA</language>
+  <offset>0</offset>
+  <length>22</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 04/student 04 (3).java</file>
+  <line>3</line>
+  <module>codeSmellsWork</module>
+  <package>exercises.Generalization.MultiPlotter</package>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/src/Student 04/student 04 (3).java" />
+  <problem_class id="SingleClassImport" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Single class import</problem_class>
+  <description>Single class import &lt;code&gt;import java.util.ArrayList;&lt;/code&gt; #loc</description>
+  <highlighted_element>import java.util.ArrayList;</highlighted_element>
+  <language>JAVA</language>
+  <offset>0</offset>
+  <length>27</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 04/student 04 (3).java</file>
+  <line>5</line>
+  <module>codeSmellsWork</module>
+  <package>exercises.Generalization.MultiPlotter</package>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/src/Student 04/student 04 (3).java" />
+  <problem_class id="SingleClassImport" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Single class import</problem_class>
+  <description>Single class import &lt;code&gt;import exercises.Generalization.Plotter.Plotter;&lt;/code&gt; #loc</description>
+  <highlighted_element>import exercises.Generalization.Plotter.Plotter;</highlighted_element>
+  <language>JAVA</language>
+  <offset>0</offset>
+  <length>48</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 04/student 04 (3).java</file>
+  <line>6</line>
+  <module>codeSmellsWork</module>
+  <package>exercises.Generalization.MultiPlotter</package>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/src/Student 04/student 04 (3).java" />
+  <problem_class id="SingleClassImport" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Single class import</problem_class>
+  <description>Single class import &lt;code&gt;import exercises.Generalization.Plotter.Function;&lt;/code&gt; #loc</description>
+  <highlighted_element>import exercises.Generalization.Plotter.Function;</highlighted_element>
+  <language>JAVA</language>
+  <offset>0</offset>
+  <length>49</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 04/student 04 (3).java</file>
+  <line>8</line>
+  <module>codeSmellsWork</module>
+  <package>exercises.Generalization.MultiPlotter</package>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/src/Student 04/student 04 (3).java" />
+  <problem_class id="SingleClassImport" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Single class import</problem_class>
+  <description>Single class import &lt;code&gt;import java.awt.Graphics;&lt;/code&gt; #loc</description>
+  <highlighted_element>import java.awt.Graphics;</highlighted_element>
+  <language>JAVA</language>
+  <offset>0</offset>
+  <length>25</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 04/student 04 (5).java</file>
+  <line>3</line>
+  <module>codeSmellsWork</module>
+  <package>exercises.Generalization.MultiPlotter</package>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/src/Student 04/student 04 (5).java" />
+  <problem_class id="SingleClassImport" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Single class import</problem_class>
+  <description>Single class import &lt;code&gt;import exercises.Generalization.Plotter.Function;&lt;/code&gt; #loc</description>
+  <highlighted_element>import exercises.Generalization.Plotter.Function;</highlighted_element>
+  <language>JAVA</language>
+  <offset>0</offset>
+  <length>49</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 04/student 04 (6).java</file>
+  <line>3</line>
+  <module>codeSmellsWork</module>
+  <package>exercises.Generalization.MultiPlotter</package>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/src/Student 04/student 04 (6).java" />
+  <problem_class id="SingleClassImport" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Single class import</problem_class>
+  <description>Single class import &lt;code&gt;import exercises.Generalization.Plotter.Function;&lt;/code&gt; #loc</description>
+  <highlighted_element>import exercises.Generalization.Plotter.Function;</highlighted_element>
+  <language>JAVA</language>
+  <offset>0</offset>
+  <length>49</length>
+</problem>
+</problems>

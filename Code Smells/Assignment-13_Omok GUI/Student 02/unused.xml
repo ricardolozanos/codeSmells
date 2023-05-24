@@ -1,0 +1,36 @@
+<problems>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 02/Student 02.java</file>
+  <line>9</line>
+  <module>codeSmellsWork</module>
+  <package>noapplet.OmokGUI</package>
+  <entry_point TYPE="field" FQNAME="noapplet.OmokGUI.OmokGUI human" />
+  <language>JAVA</language>
+  <offset>18</offset>
+  <length>5</length>
+  <highlighted_element>human</highlighted_element>
+  <problem_class id="unused" severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">unused declaration</problem_class>
+  <hints>
+    <hint value="comment" />
+    <hint value="delete" />
+  </hints>
+  <description>Field has no usages.</description>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 02/Student 02.java</file>
+  <line>10</line>
+  <module>codeSmellsWork</module>
+  <package>noapplet.OmokGUI</package>
+  <entry_point TYPE="field" FQNAME="noapplet.OmokGUI.OmokGUI computer" />
+  <language>JAVA</language>
+  <offset>18</offset>
+  <length>8</length>
+  <highlighted_element>computer</highlighted_element>
+  <problem_class id="unused" severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">unused declaration</problem_class>
+  <hints>
+    <hint value="comment" />
+    <hint value="delete" />
+  </hints>
+  <description>Field has no usages.</description>
+</problem>
+</problems>

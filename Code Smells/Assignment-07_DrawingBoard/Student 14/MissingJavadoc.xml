@@ -1,0 +1,41 @@
+<problems>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 14/student 14.java</file>
+  <line>10</line>
+  <module>codeSmellsWork</module>
+  <package>dboard</package>
+  <entry_point TYPE="class" FQNAME="dboard.Drawingboard" />
+  <problem_class id="MissingJavadoc" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Missing Javadoc</problem_class>
+  <description>Required Javadoc is absent</description>
+  <highlighted_element>Drawingboard</highlighted_element>
+  <language>JAVA</language>
+  <offset>13</offset>
+  <length>12</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 14/student 14.java</file>
+  <line>13</line>
+  <module>codeSmellsWork</module>
+  <package>dboard</package>
+  <entry_point TYPE="method" FQNAME="dboard.Drawingboard void initAnimation()" />
+  <problem_class id="MissingJavadoc" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Missing Javadoc</problem_class>
+  <description>Required Javadoc is absent</description>
+  <highlighted_element>initAnimation</highlighted_element>
+  <language>JAVA</language>
+  <offset>16</offset>
+  <length>13</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 14/student 14.java</file>
+  <line>31</line>
+  <module>codeSmellsWork</module>
+  <package>dboard</package>
+  <entry_point TYPE="method" FQNAME="dboard.Drawingboard void main(java.lang.String[] args)" />
+  <problem_class id="MissingJavadoc" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Missing Javadoc</problem_class>
+  <description>Required Javadoc is absent</description>
+  <highlighted_element>main</highlighted_element>
+  <language>JAVA</language>
+  <offset>23</offset>
+  <length>4</length>
+</problem>
+</problems>

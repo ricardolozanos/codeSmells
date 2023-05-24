@@ -1,0 +1,15 @@
+<problems>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 44/Student 44.java</file>
+  <line>139</line>
+  <module>codeSmellsWork</module>
+  <package>&lt;default&gt;</package>
+  <entry_point TYPE="method" FQNAME="ChatDialogUI void sendClicked(java.awt.event.ActionEvent event)" />
+  <problem_class id="DataFlowIssue" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Nullability and data flow problems</problem_class>
+  <description>Method invocation &lt;code&gt;getOutputStream&lt;/code&gt; will produce &lt;code&gt;NullPointerException&lt;/code&gt;</description>
+  <highlighted_element>getOutputStream</highlighted_element>
+  <language>JAVA</language>
+  <offset>72</offset>
+  <length>15</length>
+</problem>
+</problems>

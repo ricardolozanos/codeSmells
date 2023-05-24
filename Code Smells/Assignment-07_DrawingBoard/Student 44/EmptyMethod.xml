@@ -1,0 +1,18 @@
+<problems>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 44/student 44.java</file>
+  <line>15</line>
+  <module>codeSmellsWork</module>
+  <package>noapplet</package>
+  <entry_point TYPE="method" FQNAME="noapplet.DrawingShapes void initAnimation()" />
+  <problem_class id="EmptyMethod" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Empty method</problem_class>
+  <hints>
+    <hint value="false" />
+  </hints>
+  <description>The method is empty</description>
+  <highlighted_element>initAnimation</highlighted_element>
+  <language>JAVA</language>
+  <offset>19</offset>
+  <length>13</length>
+</problem>
+</problems>

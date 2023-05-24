@@ -1,0 +1,119 @@
+<problems>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 13/student 13 (1).java</file>
+  <line>34</line>
+  <module>codeSmellsWork</module>
+  <package>&lt;default&gt;</package>
+  <entry_point TYPE="method" FQNAME="Board boolean placeStone(int x, int y, int playerNum)" />
+  <problem_class id="MultipleReturnPointsPerMethod" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Method with multiple return points</problem_class>
+  <description>&lt;code&gt;placeStone&lt;/code&gt; has 2 return points #loc</description>
+  <highlighted_element>placeStone</highlighted_element>
+  <language>JAVA</language>
+  <offset>19</offset>
+  <length>10</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 13/student 13 (1).java</file>
+  <line>47</line>
+  <module>codeSmellsWork</module>
+  <package>&lt;default&gt;</package>
+  <entry_point TYPE="method" FQNAME="Board boolean checkWin(int playerNum)" />
+  <problem_class id="MultipleReturnPointsPerMethod" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Method with multiple return points</problem_class>
+  <description>&lt;code&gt;checkWin&lt;/code&gt; has 2 return points #loc</description>
+  <highlighted_element>checkWin</highlighted_element>
+  <language>JAVA</language>
+  <offset>19</offset>
+  <length>8</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 13/student 13 (1).java</file>
+  <line>57</line>
+  <module>codeSmellsWork</module>
+  <package>&lt;default&gt;</package>
+  <entry_point TYPE="method" FQNAME="Board boolean checkWinSpot(int x, int y, int stoneNumber, int direction, int playerNum)" />
+  <problem_class id="MultipleReturnPointsPerMethod" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Method with multiple return points</problem_class>
+  <description>&lt;code&gt;checkWinSpot&lt;/code&gt; has 9 return points #loc</description>
+  <highlighted_element>checkWinSpot</highlighted_element>
+  <language>JAVA</language>
+  <offset>20</offset>
+  <length>12</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 13/student 13 (1).java</file>
+  <line>85</line>
+  <module>codeSmellsWork</module>
+  <package>&lt;default&gt;</package>
+  <entry_point TYPE="method" FQNAME="Board void highlightWin(int direction, int x, int y, int stoneNum)" />
+  <problem_class id="MultipleReturnPointsPerMethod" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Method with multiple return points</problem_class>
+  <description>&lt;code&gt;highlightWin&lt;/code&gt; has 2 return points #loc</description>
+  <highlighted_element>highlightWin</highlighted_element>
+  <language>JAVA</language>
+  <offset>17</offset>
+  <length>12</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 13/student 13 (11).java</file>
+  <line>43</line>
+  <module>codeSmellsWork</module>
+  <package>&lt;default&gt;</package>
+  <entry_point TYPE="method" FQNAME="UserInterface int getGameMode()" />
+  <problem_class id="MultipleReturnPointsPerMethod" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Method with multiple return points</problem_class>
+  <description>&lt;code&gt;getGameMode&lt;/code&gt; has 5 return points #loc</description>
+  <highlighted_element>getGameMode</highlighted_element>
+  <language>JAVA</language>
+  <offset>15</offset>
+  <length>11</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 13/student 13 (11).java</file>
+  <line>114</line>
+  <module>codeSmellsWork</module>
+  <package>&lt;default&gt;</package>
+  <entry_point TYPE="method" FQNAME="UserInterface boolean isValidName(java.lang.String name)" />
+  <problem_class id="MultipleReturnPointsPerMethod" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Method with multiple return points</problem_class>
+  <description>&lt;code&gt;isValidName&lt;/code&gt; has 3 return points #loc</description>
+  <highlighted_element>isValidName</highlighted_element>
+  <language>JAVA</language>
+  <offset>20</offset>
+  <length>11</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 13/student 13 (3).java</file>
+  <line>20</line>
+  <module>codeSmellsWork</module>
+  <package>&lt;default&gt;</package>
+  <entry_point TYPE="method" FQNAME="ComputerPlayer int[] getStonePlacement(int[][] board)" />
+  <problem_class id="MultipleReturnPointsPerMethod" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Method with multiple return points</problem_class>
+  <description>&lt;code&gt;getStonePlacement&lt;/code&gt; has 2 return points #loc</description>
+  <highlighted_element>getStonePlacement</highlighted_element>
+  <language>JAVA</language>
+  <offset>17</offset>
+  <length>17</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 13/student 13 (3).java</file>
+  <line>52</line>
+  <module>codeSmellsWork</module>
+  <package>&lt;default&gt;</package>
+  <entry_point TYPE="method" FQNAME="ComputerPlayer java.util.List&lt;int[]&gt; checkforSpots(int x, int y, int[][] board, int stoneNum, int direction, int quality)" />
+  <problem_class id="MultipleReturnPointsPerMethod" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Method with multiple return points</problem_class>
+  <description>&lt;code&gt;checkforSpots&lt;/code&gt; has 4 return points #loc</description>
+  <highlighted_element>checkforSpots</highlighted_element>
+  <language>JAVA</language>
+  <offset>24</offset>
+  <length>13</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 13/student 13 (4).java</file>
+  <line>132</line>
+  <module>codeSmellsWork</module>
+  <package>&lt;default&gt;</package>
+  <entry_point TYPE="method" FQNAME="GameController void placeStone(java.awt.event.MouseEvent e)" />
+  <problem_class id="MultipleReturnPointsPerMethod" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Method with multiple return points</problem_class>
+  <description>&lt;code&gt;placeStone&lt;/code&gt; has 3 return points #loc</description>
+  <highlighted_element>placeStone</highlighted_element>
+  <language>JAVA</language>
+  <offset>16</offset>
+  <length>10</length>
+</problem>
+</problems>

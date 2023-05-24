@@ -1,0 +1,15 @@
+<problems>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 18/student 18 (1).java</file>
+  <line>15</line>
+  <module>codeSmellsWork</module>
+  <package>&lt;default&gt;</package>
+  <entry_point TYPE="class" FQNAME="Board" />
+  <problem_class id="ClassComplexity" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Overly complex class</problem_class>
+  <description>Overly complex class &lt;code&gt;Board&lt;/code&gt; (cyclomatic complexity = 100) #loc</description>
+  <highlighted_element>Board</highlighted_element>
+  <language>JAVA</language>
+  <offset>13</offset>
+  <length>5</length>
+</problem>
+</problems>

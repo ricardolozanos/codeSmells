@@ -1,0 +1,15 @@
+<problems>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 10/Student 10.java</file>
+  <line>1</line>
+  <module>codeSmellsWork</module>
+  <package>javaRecord</package>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/src/Student 10/Student 10.java" />
+  <problem_class id="WrongPackageStatement" severity="ERROR" attribute_key="ERRORS_ATTRIBUTES">Wrong package statement</problem_class>
+  <description>Package name 'javaRecord' does not correspond to the file path 'Student 10'</description>
+  <highlighted_element>javaRecord</highlighted_element>
+  <language>JAVA</language>
+  <offset>8</offset>
+  <length>10</length>
+</problem>
+</problems>

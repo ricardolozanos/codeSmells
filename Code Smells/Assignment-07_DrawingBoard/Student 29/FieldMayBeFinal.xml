@@ -1,0 +1,41 @@
+<problems>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 29/student 29 (7).java</file>
+  <line>8</line>
+  <module>codeSmellsWork</module>
+  <package>DrawingBoard</package>
+  <entry_point TYPE="field" FQNAME="DrawingBoard.Shapes x" />
+  <problem_class id="FieldMayBeFinal" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Field may be 'final'</problem_class>
+  <description>Field &lt;code&gt;x&lt;/code&gt; may be 'final' #loc</description>
+  <highlighted_element>x</highlighted_element>
+  <language>JAVA</language>
+  <offset>13</offset>
+  <length>1</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 29/student 29 (7).java</file>
+  <line>9</line>
+  <module>codeSmellsWork</module>
+  <package>DrawingBoard</package>
+  <entry_point TYPE="field" FQNAME="DrawingBoard.Shapes y" />
+  <problem_class id="FieldMayBeFinal" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Field may be 'final'</problem_class>
+  <description>Field &lt;code&gt;y&lt;/code&gt; may be 'final' #loc</description>
+  <highlighted_element>y</highlighted_element>
+  <language>JAVA</language>
+  <offset>13</offset>
+  <length>1</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 29/student 29 (7).java</file>
+  <line>10</line>
+  <module>codeSmellsWork</module>
+  <package>DrawingBoard</package>
+  <entry_point TYPE="field" FQNAME="DrawingBoard.Shapes color" />
+  <problem_class id="FieldMayBeFinal" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Field may be 'final'</problem_class>
+  <description>Field &lt;code&gt;color&lt;/code&gt; may be 'final' #loc</description>
+  <highlighted_element>color</highlighted_element>
+  <language>JAVA</language>
+  <offset>15</offset>
+  <length>5</length>
+</problem>
+</problems>

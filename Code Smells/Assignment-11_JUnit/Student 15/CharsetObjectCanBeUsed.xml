@@ -1,0 +1,15 @@
+<problems>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 15/student 15 (7).java</file>
+  <line>22</line>
+  <module>codeSmellsWork</module>
+  <package>&lt;default&gt;</package>
+  <entry_point TYPE="method" FQNAME="ConsoleUI ConsoleUI(java.io.InputStream input, java.io.OutputStream output)" />
+  <problem_class id="CharsetObjectCanBeUsed" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Standard 'Charset' object can be used</problem_class>
+  <description>StandardCharsets.UTF_8 can be used instead</description>
+  <highlighted_element>StandardCharsets.UTF_8.name()</highlighted_element>
+  <language>JAVA</language>
+  <offset>68</offset>
+  <length>29</length>
+</problem>
+</problems>

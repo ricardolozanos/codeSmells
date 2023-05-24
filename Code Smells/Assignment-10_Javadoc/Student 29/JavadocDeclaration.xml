@@ -1,0 +1,28 @@
+<problems>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 29/student 29 (1).java</file>
+  <line>16</line>
+  <module>codeSmellsWork</module>
+  <package>&lt;default&gt;</package>
+  <entry_point TYPE="method" FQNAME="OmokUI OmokUI(java.lang.Boolean s)" />
+  <problem_class id="JavadocDeclaration" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Javadoc declaration problems</problem_class>
+  <description>Wrong tag &lt;code&gt;paramBoolean&lt;/code&gt;</description>
+  <highlighted_element>@paramBoolean</highlighted_element>
+  <language>JAVA</language>
+  <offset>6</offset>
+  <length>13</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 29/student 29 (1).java</file>
+  <line>26</line>
+  <module>codeSmellsWork</module>
+  <package>&lt;default&gt;</package>
+  <entry_point TYPE="method" FQNAME="OmokUI void setOmokUIStatus(java.lang.Boolean s)" />
+  <problem_class id="JavadocDeclaration" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Javadoc declaration problems</problem_class>
+  <description>Wrong tag &lt;code&gt;paramBoolean&lt;/code&gt;</description>
+  <highlighted_element>@paramBoolean</highlighted_element>
+  <language>JAVA</language>
+  <offset>6</offset>
+  <length>13</length>
+</problem>
+</problems>

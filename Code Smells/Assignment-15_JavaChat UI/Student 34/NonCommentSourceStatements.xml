@@ -1,0 +1,15 @@
+<problems>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 34/student 34 (1).java</file>
+  <line>28</line>
+  <module>codeSmellsWork</module>
+  <package>excs</package>
+  <entry_point TYPE="method" FQNAME="excs.ChatDialog void configureGui()" />
+  <problem_class id="NonCommentSourceStatements" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Overly long method</problem_class>
+  <description>&lt;code&gt;configureGui&lt;/code&gt; is too long (# Non-comment source statements = 40) #loc</description>
+  <highlighted_element>configureGui</highlighted_element>
+  <language>JAVA</language>
+  <offset>17</offset>
+  <length>12</length>
+</problem>
+</problems>

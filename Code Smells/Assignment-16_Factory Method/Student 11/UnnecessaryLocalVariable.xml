@@ -1,0 +1,28 @@
+<problems>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 11/student 11 (3).java</file>
+  <line>24</line>
+  <module>codeSmellsWork</module>
+  <package>&lt;default&gt;</package>
+  <entry_point TYPE="method" FQNAME="ModularBalloonApp Balloon growingBalloon()" />
+  <problem_class id="UnnecessaryLocalVariable" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Redundant local variable</problem_class>
+  <description>Local variable &lt;code&gt;app&lt;/code&gt; is redundant #loc</description>
+  <highlighted_element>app</highlighted_element>
+  <language>JAVA</language>
+  <offset>26</offset>
+  <length>3</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 11/student 11 (3).java</file>
+  <line>37</line>
+  <module>codeSmellsWork</module>
+  <package>&lt;default&gt;</package>
+  <entry_point TYPE="method" FQNAME="ModularBalloonApp Balloon growingShrinkingBalloon()" />
+  <problem_class id="UnnecessaryLocalVariable" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Redundant local variable</problem_class>
+  <description>Local variable &lt;code&gt;app&lt;/code&gt; is redundant #loc</description>
+  <highlighted_element>app</highlighted_element>
+  <language>JAVA</language>
+  <offset>26</offset>
+  <length>3</length>
+</problem>
+</problems>

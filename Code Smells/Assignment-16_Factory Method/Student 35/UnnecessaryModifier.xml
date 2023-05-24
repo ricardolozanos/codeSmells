@@ -1,0 +1,15 @@
+<problems>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 35/student 35 (1).java</file>
+  <line>6</line>
+  <module>codeSmellsWork</module>
+  <package>balloon</package>
+  <entry_point TYPE="method" FQNAME="balloon.Balloon void run()" />
+  <problem_class id="UnnecessaryModifier" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Unnecessary modifier</problem_class>
+  <description>Modifier &lt;code&gt;public&lt;/code&gt; is redundant for interface members #loc</description>
+  <highlighted_element>public</highlighted_element>
+  <language>JAVA</language>
+  <offset>1</offset>
+  <length>6</length>
+</problem>
+</problems>

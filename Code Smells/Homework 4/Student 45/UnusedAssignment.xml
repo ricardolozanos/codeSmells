@@ -1,0 +1,15 @@
+<problems>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 45/student 45 (3).java</file>
+  <line>57</line>
+  <module>codeSmellsWork</module>
+  <package>guiboard.logic</package>
+  <entry_point TYPE="field" FQNAME="guiboard.logic.StoneSelection list" />
+  <problem_class id="UnusedAssignment" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Unused assignment</problem_class>
+  <description>Variable &lt;code&gt;list&lt;/code&gt; initializer &lt;code&gt;new ArrayList&lt;&gt;()&lt;/code&gt; is redundant</description>
+  <highlighted_element>new ArrayList&lt;&gt;()</highlighted_element>
+  <language>JAVA</language>
+  <offset>34</offset>
+  <length>17</length>
+</problem>
+</problems>

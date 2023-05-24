@@ -1,0 +1,308 @@
+<problems>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 23/student 23 (1).java</file>
+  <line>4</line>
+  <module>codeSmellsWork</module>
+  <package>noapplet.Balls</package>
+  <entry_point TYPE="class" FQNAME="noapplet.Balls.Bounceable" />
+  <language>JAVA</language>
+  <offset>17</offset>
+  <length>10</length>
+  <highlighted_element>Bounceable</highlighted_element>
+  <problem_class id="unused" severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">unused declaration</problem_class>
+  <hints>
+    <hint value="comment" />
+    <hint value="delete" />
+  </hints>
+  <description>&amp;nbsp;Interface is not implemented.</description>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 23/student 23 (1).java</file>
+  <line>5</line>
+  <module>codeSmellsWork</module>
+  <package>noapplet.Balls</package>
+  <entry_point TYPE="method" FQNAME="noapplet.Balls.Bounceable void bounce()" />
+  <language>JAVA</language>
+  <offset>9</offset>
+  <length>6</length>
+  <highlighted_element>bounce</highlighted_element>
+  <problem_class id="unused" severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">unused declaration</problem_class>
+  <hints>
+    <hint value="comment" />
+    <hint value="delete" />
+  </hints>
+  <description>&lt;ul&gt;&lt;li&gt;Method owner class is never instantiated OR&lt;/li&gt;&lt;li&gt;An instantiation is not reachable from entry points.&lt;/li&gt;&lt;/ul&gt;</description>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 23/student 23 (1).java</file>
+  <line>6</line>
+  <module>codeSmellsWork</module>
+  <package>noapplet.Balls</package>
+  <entry_point TYPE="method" FQNAME="noapplet.Balls.Bounceable void draw(java.awt.Graphics g)" />
+  <language>JAVA</language>
+  <offset>9</offset>
+  <length>4</length>
+  <highlighted_element>draw</highlighted_element>
+  <problem_class id="unused" severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">unused declaration</problem_class>
+  <hints>
+    <hint value="comment" />
+    <hint value="delete" />
+  </hints>
+  <description>&lt;ul&gt;&lt;li&gt;Method owner class is never instantiated OR&lt;/li&gt;&lt;li&gt;An instantiation is not reachable from entry points.&lt;/li&gt;&lt;/ul&gt;</description>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 23/student 23 (2).java</file>
+  <line>23</line>
+  <module>codeSmellsWork</module>
+  <package>noapplet.Balls</package>
+  <entry_point TYPE="method" FQNAME="noapplet.Balls.BouncingBall void initAnimation()" />
+  <language>JAVA</language>
+  <offset>16</offset>
+  <length>13</length>
+  <highlighted_element>initAnimation</highlighted_element>
+  <problem_class id="unused" severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">unused declaration</problem_class>
+  <hints>
+    <hint value="comment" />
+    <hint value="delete" />
+  </hints>
+  <description>Method is never used.</description>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 23/student 23 (2).java</file>
+  <line>30</line>
+  <module>codeSmellsWork</module>
+  <package>noapplet.Balls</package>
+  <entry_point TYPE="method" FQNAME="noapplet.Balls.BouncingBall void paintComponent(java.awt.Graphics g)" />
+  <language>JAVA</language>
+  <offset>16</offset>
+  <length>14</length>
+  <highlighted_element>paintComponent</highlighted_element>
+  <problem_class id="unused" severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">unused declaration</problem_class>
+  <hints>
+    <hint value="comment" />
+    <hint value="delete" />
+  </hints>
+  <description>Method is never used.</description>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 23/student 23 (3).java</file>
+  <line>7</line>
+  <module>codeSmellsWork</module>
+  <package>noapplet.Balls</package>
+  <entry_point TYPE="method" FQNAME="noapplet.Balls.CircleBall CircleBall(int x, int y, int dx, int dy, int radius, java.awt.Color c)" />
+  <language>JAVA</language>
+  <offset>11</offset>
+  <length>10</length>
+  <highlighted_element>CircleBall</highlighted_element>
+  <problem_class id="unused" severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">unused declaration</problem_class>
+  <hints>
+    <hint value="comment" />
+    <hint value="delete" />
+  </hints>
+  <description>Constructor is never used.</description>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 23/student 23 (3).java</file>
+  <line>12</line>
+  <module>codeSmellsWork</module>
+  <package>noapplet.Balls</package>
+  <entry_point TYPE="method" FQNAME="noapplet.Balls.CircleBall void draw(java.awt.Graphics g)" />
+  <language>JAVA</language>
+  <offset>16</offset>
+  <length>4</length>
+  <highlighted_element>draw</highlighted_element>
+  <problem_class id="unused" severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">unused declaration</problem_class>
+  <hints>
+    <hint value="comment" />
+    <hint value="delete" />
+  </hints>
+  <description>&lt;ul&gt;&lt;li&gt;Method owner class is never instantiated OR&lt;/li&gt;&lt;li&gt;An instantiation is not reachable from entry points.&lt;/li&gt;&lt;/ul&gt;</description>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 23/student 23 (4).java</file>
+  <line>13</line>
+  <module>codeSmellsWork</module>
+  <package>noapplet.Balls</package>
+  <entry_point TYPE="method" FQNAME="noapplet.Balls.Ball Ball(int x, int y, int dx, int dy, int radius, java.awt.Color c)" />
+  <language>JAVA</language>
+  <offset>14</offset>
+  <length>4</length>
+  <highlighted_element>Ball</highlighted_element>
+  <problem_class id="unused" severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">unused declaration</problem_class>
+  <hints>
+    <hint value="comment" />
+    <hint value="delete" />
+  </hints>
+  <description>Constructor is never used.</description>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 23/student 23 (4).java</file>
+  <line>22</line>
+  <module>codeSmellsWork</module>
+  <package>noapplet.Balls</package>
+  <entry_point TYPE="method" FQNAME="noapplet.Balls.Ball void bounce()" />
+  <language>JAVA</language>
+  <offset>16</offset>
+  <length>6</length>
+  <highlighted_element>bounce</highlighted_element>
+  <problem_class id="unused" severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">unused declaration</problem_class>
+  <hints>
+    <hint value="comment" />
+    <hint value="delete" />
+  </hints>
+  <description>&lt;ul&gt;&lt;li&gt;Method owner class is never instantiated OR&lt;/li&gt;&lt;li&gt;An instantiation is not reachable from entry points.&lt;/li&gt;&lt;/ul&gt;</description>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 23/student 23 (4).java</file>
+  <line>32</line>
+  <module>codeSmellsWork</module>
+  <package>noapplet.Balls</package>
+  <entry_point TYPE="method" FQNAME="noapplet.Balls.Ball void draw(java.awt.Graphics g)" />
+  <language>JAVA</language>
+  <offset>25</offset>
+  <length>4</length>
+  <highlighted_element>draw</highlighted_element>
+  <problem_class id="unused" severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">unused declaration</problem_class>
+  <hints>
+    <hint value="comment" />
+    <hint value="delete" />
+  </hints>
+  <description>&lt;ul&gt;&lt;li&gt;Abstract method is not implemented OR&lt;/li&gt;&lt;li&gt;Implementation class is never instantiated OR&lt;/li&gt;&lt;li&gt;An instantiation is not reachable from entry points.&lt;/li&gt;&lt;/ul&gt;</description>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 23/student 23 (4).java</file>
+  <line>49</line>
+  <module>codeSmellsWork</module>
+  <package>noapplet.Balls</package>
+  <entry_point TYPE="method" FQNAME="noapplet.Balls.Ball java.awt.Color getColor()" />
+  <language>JAVA</language>
+  <offset>17</offset>
+  <length>8</length>
+  <highlighted_element>getColor</highlighted_element>
+  <problem_class id="unused" severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">unused declaration</problem_class>
+  <hints>
+    <hint value="comment" />
+    <hint value="delete" />
+  </hints>
+  <description>&lt;ul&gt;&lt;li&gt;Method owner class is never instantiated OR&lt;/li&gt;&lt;li&gt;An instantiation is not reachable from entry points.&lt;/li&gt;&lt;/ul&gt;</description>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 23/student 23 (4).java</file>
+  <line>53</line>
+  <module>codeSmellsWork</module>
+  <package>noapplet.Balls</package>
+  <entry_point TYPE="method" FQNAME="noapplet.Balls.Ball int getX()" />
+  <language>JAVA</language>
+  <offset>15</offset>
+  <length>4</length>
+  <highlighted_element>getX</highlighted_element>
+  <problem_class id="unused" severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">unused declaration</problem_class>
+  <hints>
+    <hint value="comment" />
+    <hint value="delete" />
+  </hints>
+  <description>&lt;ul&gt;&lt;li&gt;Method owner class is never instantiated OR&lt;/li&gt;&lt;li&gt;An instantiation is not reachable from entry points.&lt;/li&gt;&lt;/ul&gt;</description>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 23/student 23 (4).java</file>
+  <line>57</line>
+  <module>codeSmellsWork</module>
+  <package>noapplet.Balls</package>
+  <entry_point TYPE="method" FQNAME="noapplet.Balls.Ball int getY()" />
+  <language>JAVA</language>
+  <offset>15</offset>
+  <length>4</length>
+  <highlighted_element>getY</highlighted_element>
+  <problem_class id="unused" severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">unused declaration</problem_class>
+  <hints>
+    <hint value="comment" />
+    <hint value="delete" />
+  </hints>
+  <description>&lt;ul&gt;&lt;li&gt;Method owner class is never instantiated OR&lt;/li&gt;&lt;li&gt;An instantiation is not reachable from entry points.&lt;/li&gt;&lt;/ul&gt;</description>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 23/student 23 (4).java</file>
+  <line>61</line>
+  <module>codeSmellsWork</module>
+  <package>noapplet.Balls</package>
+  <entry_point TYPE="method" FQNAME="noapplet.Balls.Ball int getRadius()" />
+  <language>JAVA</language>
+  <offset>15</offset>
+  <length>9</length>
+  <highlighted_element>getRadius</highlighted_element>
+  <problem_class id="unused" severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">unused declaration</problem_class>
+  <hints>
+    <hint value="comment" />
+    <hint value="delete" />
+  </hints>
+  <description>&lt;ul&gt;&lt;li&gt;Method owner class is never instantiated OR&lt;/li&gt;&lt;li&gt;An instantiation is not reachable from entry points.&lt;/li&gt;&lt;/ul&gt;</description>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 23/student 23 (4).java</file>
+  <line>65</line>
+  <module>codeSmellsWork</module>
+  <package>noapplet.Balls</package>
+  <entry_point TYPE="method" FQNAME="noapplet.Balls.Ball int getDx()" />
+  <language>JAVA</language>
+  <offset>15</offset>
+  <length>5</length>
+  <highlighted_element>getDx</highlighted_element>
+  <problem_class id="unused" severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">unused declaration</problem_class>
+  <hints>
+    <hint value="comment" />
+    <hint value="delete" />
+  </hints>
+  <description>&lt;ul&gt;&lt;li&gt;Method owner class is never instantiated OR&lt;/li&gt;&lt;li&gt;An instantiation is not reachable from entry points.&lt;/li&gt;&lt;/ul&gt;</description>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 23/student 23 (4).java</file>
+  <line>69</line>
+  <module>codeSmellsWork</module>
+  <package>noapplet.Balls</package>
+  <entry_point TYPE="method" FQNAME="noapplet.Balls.Ball int getDy()" />
+  <language>JAVA</language>
+  <offset>15</offset>
+  <length>5</length>
+  <highlighted_element>getDy</highlighted_element>
+  <problem_class id="unused" severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">unused declaration</problem_class>
+  <hints>
+    <hint value="comment" />
+    <hint value="delete" />
+  </hints>
+  <description>&lt;ul&gt;&lt;li&gt;Method owner class is never instantiated OR&lt;/li&gt;&lt;li&gt;An instantiation is not reachable from entry points.&lt;/li&gt;&lt;/ul&gt;</description>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 23/student 23 (4).java</file>
+  <line>73</line>
+  <module>codeSmellsWork</module>
+  <package>noapplet.Balls</package>
+  <entry_point TYPE="method" FQNAME="noapplet.Balls.Ball void setDx(int dx)" />
+  <language>JAVA</language>
+  <offset>16</offset>
+  <length>5</length>
+  <highlighted_element>setDx</highlighted_element>
+  <problem_class id="unused" severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">unused declaration</problem_class>
+  <hints>
+    <hint value="comment" />
+    <hint value="delete" />
+  </hints>
+  <description>&lt;ul&gt;&lt;li&gt;Method owner class is never instantiated OR&lt;/li&gt;&lt;li&gt;An instantiation is not reachable from entry points.&lt;/li&gt;&lt;/ul&gt;</description>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 23/student 23 (4).java</file>
+  <line>77</line>
+  <module>codeSmellsWork</module>
+  <package>noapplet.Balls</package>
+  <entry_point TYPE="method" FQNAME="noapplet.Balls.Ball void setDy(int dy)" />
+  <language>JAVA</language>
+  <offset>16</offset>
+  <length>5</length>
+  <highlighted_element>setDy</highlighted_element>
+  <problem_class id="unused" severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">unused declaration</problem_class>
+  <hints>
+    <hint value="comment" />
+    <hint value="delete" />
+  </hints>
+  <description>&lt;ul&gt;&lt;li&gt;Method owner class is never instantiated OR&lt;/li&gt;&lt;li&gt;An instantiation is not reachable from entry points.&lt;/li&gt;&lt;/ul&gt;</description>
+</problem>
+</problems>

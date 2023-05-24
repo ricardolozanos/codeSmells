@@ -1,0 +1,86 @@
+<problems>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 23/student 23 (1).java</file>
+  <line>5</line>
+  <module>codeSmellsWork</module>
+  <package>&lt;default&gt;</package>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/src/Student 23/student 23 (1).java" />
+  <problem_class id="UNUSED_IMPORT" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Unused import</problem_class>
+  <hints />
+  <description>Unused import &lt;code&gt;import java.io.BufferedReader;&lt;/code&gt; #loc</description>
+  <highlighted_element>import java.io.BufferedReader;</highlighted_element>
+  <language>JAVA</language>
+  <offset>0</offset>
+  <length>30</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 23/student 23 (1).java</file>
+  <line>6</line>
+  <module>codeSmellsWork</module>
+  <package>&lt;default&gt;</package>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/src/Student 23/student 23 (1).java" />
+  <problem_class id="UNUSED_IMPORT" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Unused import</problem_class>
+  <hints />
+  <description>Unused import &lt;code&gt;import java.io.IOException;&lt;/code&gt; #loc</description>
+  <highlighted_element>import java.io.IOException;</highlighted_element>
+  <language>JAVA</language>
+  <offset>0</offset>
+  <length>27</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 23/student 23 (1).java</file>
+  <line>7</line>
+  <module>codeSmellsWork</module>
+  <package>&lt;default&gt;</package>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/src/Student 23/student 23 (1).java" />
+  <problem_class id="UNUSED_IMPORT" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Unused import</problem_class>
+  <hints />
+  <description>Unused import &lt;code&gt;import java.io.InputStreamReader;&lt;/code&gt; #loc</description>
+  <highlighted_element>import java.io.InputStreamReader;</highlighted_element>
+  <language>JAVA</language>
+  <offset>0</offset>
+  <length>33</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 23/student 23 (1).java</file>
+  <line>8</line>
+  <module>codeSmellsWork</module>
+  <package>&lt;default&gt;</package>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/src/Student 23/student 23 (1).java" />
+  <problem_class id="UNUSED_IMPORT" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Unused import</problem_class>
+  <hints />
+  <description>Unused import &lt;code&gt;import java.io.OutputStreamWriter;&lt;/code&gt; #loc</description>
+  <highlighted_element>import java.io.OutputStreamWriter;</highlighted_element>
+  <language>JAVA</language>
+  <offset>0</offset>
+  <length>34</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 23/student 23 (1).java</file>
+  <line>9</line>
+  <module>codeSmellsWork</module>
+  <package>&lt;default&gt;</package>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/src/Student 23/student 23 (1).java" />
+  <problem_class id="UNUSED_IMPORT" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Unused import</problem_class>
+  <hints />
+  <description>Unused import &lt;code&gt;import java.io.PrintWriter;&lt;/code&gt; #loc</description>
+  <highlighted_element>import java.io.PrintWriter;</highlighted_element>
+  <language>JAVA</language>
+  <offset>0</offset>
+  <length>27</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 23/student 23 (1).java</file>
+  <line>10</line>
+  <module>codeSmellsWork</module>
+  <package>&lt;default&gt;</package>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/src/Student 23/student 23 (1).java" />
+  <problem_class id="UNUSED_IMPORT" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Unused import</problem_class>
+  <hints />
+  <description>Unused import &lt;code&gt;import java.net.*;&lt;/code&gt; #loc</description>
+  <highlighted_element>import java.net.*;</highlighted_element>
+  <language>JAVA</language>
+  <offset>0</offset>
+  <length>18</length>
+</problem>
+</problems>

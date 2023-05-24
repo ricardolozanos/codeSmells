@@ -1,0 +1,18 @@
+<problems>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 10/student 10 (4).java</file>
+  <line>20</line>
+  <module>codeSmellsWork</module>
+  <package>noapplet.example.BouncingBall</package>
+  <entry_point TYPE="method" FQNAME="noapplet.example.BouncingBall.CircleBall void paintcomponent()" />
+  <problem_class id="EmptyMethod" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Empty method</problem_class>
+  <hints>
+    <hint value="false" />
+  </hints>
+  <description>The method is empty</description>
+  <highlighted_element>paintcomponent</highlighted_element>
+  <language>JAVA</language>
+  <offset>13</offset>
+  <length>14</length>
+</problem>
+</problems>

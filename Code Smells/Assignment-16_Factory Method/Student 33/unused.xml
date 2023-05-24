@@ -1,0 +1,206 @@
+<problems>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 33/student 33 (1).java</file>
+  <line>3</line>
+  <module>codeSmellsWork</module>
+  <package>noapplet.example.Balloon</package>
+  <entry_point TYPE="class" FQNAME="noapplet.example.Balloon.BalloonInterface" />
+  <language>JAVA</language>
+  <offset>17</offset>
+  <length>16</length>
+  <highlighted_element>BalloonInterface</highlighted_element>
+  <problem_class id="unused" severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">unused declaration</problem_class>
+  <hints>
+    <hint value="comment" />
+    <hint value="delete" />
+  </hints>
+  <description>&amp;nbsp;Interface is not implemented.</description>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 33/student 33 (1).java</file>
+  <line>4</line>
+  <module>codeSmellsWork</module>
+  <package>noapplet.example.Balloon</package>
+  <entry_point TYPE="method" FQNAME="noapplet.example.Balloon.BalloonInterface void runnable()" />
+  <language>JAVA</language>
+  <offset>9</offset>
+  <length>8</length>
+  <highlighted_element>runnable</highlighted_element>
+  <problem_class id="unused" severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">unused declaration</problem_class>
+  <hints>
+    <hint value="comment" />
+    <hint value="delete" />
+  </hints>
+  <description>&lt;ul&gt;&lt;li&gt;Method owner class is never instantiated OR&lt;/li&gt;&lt;li&gt;An instantiation is not reachable from entry points.&lt;/li&gt;&lt;/ul&gt;</description>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 33/student 33 (3).java</file>
+  <line>18</line>
+  <module>codeSmellsWork</module>
+  <package>noapplet.example.Balloon</package>
+  <entry_point TYPE="method" FQNAME="noapplet.example.Balloon.GrowingBalloon void init()" />
+  <language>JAVA</language>
+  <offset>16</offset>
+  <length>4</length>
+  <highlighted_element>init</highlighted_element>
+  <problem_class id="unused" severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">unused declaration</problem_class>
+  <hints>
+    <hint value="comment" />
+    <hint value="delete" />
+  </hints>
+  <description>Method is never used.</description>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 33/student 33 (3).java</file>
+  <line>34</line>
+  <module>codeSmellsWork</module>
+  <package>noapplet.example.Balloon</package>
+  <entry_point TYPE="method" FQNAME="noapplet.example.Balloon.GrowingBalloon void paintComponent(java.awt.Graphics g)" />
+  <language>JAVA</language>
+  <offset>16</offset>
+  <length>14</length>
+  <highlighted_element>paintComponent</highlighted_element>
+  <problem_class id="unused" severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">unused declaration</problem_class>
+  <hints>
+    <hint value="comment" />
+    <hint value="delete" />
+  </hints>
+  <description>Method is never used.</description>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 33/student 33 (3).java</file>
+  <line>42</line>
+  <module>codeSmellsWork</module>
+  <package>noapplet.example.Balloon</package>
+  <entry_point TYPE="method" FQNAME="noapplet.example.Balloon.GrowingBalloon void start()" />
+  <language>JAVA</language>
+  <offset>16</offset>
+  <length>5</length>
+  <highlighted_element>start</highlighted_element>
+  <problem_class id="unused" severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">unused declaration</problem_class>
+  <hints>
+    <hint value="comment" />
+    <hint value="delete" />
+  </hints>
+  <description>Method is never used.</description>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 33/student 33 (3).java</file>
+  <line>45</line>
+  <module>codeSmellsWork</module>
+  <package>noapplet.example.Balloon</package>
+  <entry_point TYPE="method" FQNAME="noapplet.example.Balloon.GrowingBalloon void stop()" />
+  <language>JAVA</language>
+  <offset>16</offset>
+  <length>4</length>
+  <highlighted_element>stop</highlighted_element>
+  <problem_class id="unused" severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">unused declaration</problem_class>
+  <hints>
+    <hint value="comment" />
+    <hint value="delete" />
+  </hints>
+  <description>Method is never used.</description>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 33/student 33 (3).java</file>
+  <line>52</line>
+  <module>codeSmellsWork</module>
+  <package>noapplet.example.Balloon</package>
+  <entry_point TYPE="method" FQNAME="noapplet.example.Balloon.GrowingBalloon void runnable()" />
+  <language>JAVA</language>
+  <offset>16</offset>
+  <length>8</length>
+  <highlighted_element>runnable</highlighted_element>
+  <problem_class id="unused" severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">unused declaration</problem_class>
+  <hints>
+    <hint value="comment" />
+    <hint value="delete" />
+  </hints>
+  <description>Method is never used.</description>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 33/student 33 (4).java</file>
+  <line>20</line>
+  <module>codeSmellsWork</module>
+  <package>noapplet.example.Balloon</package>
+  <entry_point TYPE="method" FQNAME="noapplet.example.Balloon.GrowingShrinkingBalloon void init()" />
+  <language>JAVA</language>
+  <offset>16</offset>
+  <length>4</length>
+  <highlighted_element>init</highlighted_element>
+  <problem_class id="unused" severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">unused declaration</problem_class>
+  <hints>
+    <hint value="comment" />
+    <hint value="delete" />
+  </hints>
+  <description>Method is never used.</description>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 33/student 33 (4).java</file>
+  <line>55</line>
+  <module>codeSmellsWork</module>
+  <package>noapplet.example.Balloon</package>
+  <entry_point TYPE="method" FQNAME="noapplet.example.Balloon.GrowingShrinkingBalloon void paintComponent(java.awt.Graphics g)" />
+  <language>JAVA</language>
+  <offset>16</offset>
+  <length>14</length>
+  <highlighted_element>paintComponent</highlighted_element>
+  <problem_class id="unused" severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">unused declaration</problem_class>
+  <hints>
+    <hint value="comment" />
+    <hint value="delete" />
+  </hints>
+  <description>Method is never used.</description>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 33/student 33 (4).java</file>
+  <line>66</line>
+  <module>codeSmellsWork</module>
+  <package>noapplet.example.Balloon</package>
+  <entry_point TYPE="method" FQNAME="noapplet.example.Balloon.GrowingShrinkingBalloon void start()" />
+  <language>JAVA</language>
+  <offset>16</offset>
+  <length>5</length>
+  <highlighted_element>start</highlighted_element>
+  <problem_class id="unused" severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">unused declaration</problem_class>
+  <hints>
+    <hint value="comment" />
+    <hint value="delete" />
+  </hints>
+  <description>Method is never used.</description>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 33/student 33 (4).java</file>
+  <line>71</line>
+  <module>codeSmellsWork</module>
+  <package>noapplet.example.Balloon</package>
+  <entry_point TYPE="method" FQNAME="noapplet.example.Balloon.GrowingShrinkingBalloon void stop()" />
+  <language>JAVA</language>
+  <offset>16</offset>
+  <length>4</length>
+  <highlighted_element>stop</highlighted_element>
+  <problem_class id="unused" severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">unused declaration</problem_class>
+  <hints>
+    <hint value="comment" />
+    <hint value="delete" />
+  </hints>
+  <description>Method is never used.</description>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 33/student 33 (4).java</file>
+  <line>77</line>
+  <module>codeSmellsWork</module>
+  <package>noapplet.example.Balloon</package>
+  <entry_point TYPE="method" FQNAME="noapplet.example.Balloon.GrowingShrinkingBalloon void runnable()" />
+  <language>JAVA</language>
+  <offset>16</offset>
+  <length>8</length>
+  <highlighted_element>runnable</highlighted_element>
+  <problem_class id="unused" severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">unused declaration</problem_class>
+  <hints>
+    <hint value="comment" />
+    <hint value="delete" />
+  </hints>
+  <description>Method is never used.</description>
+</problem>
+</problems>

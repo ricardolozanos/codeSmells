@@ -1,0 +1,41 @@
+<problems>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 02/Student 02.java</file>
+  <line>40</line>
+  <module>codeSmellsWork</module>
+  <package>noapplet.OmokGUI</package>
+  <entry_point TYPE="method" FQNAME="noapplet.OmokGUI.OmokGUI OmokGUI()" />
+  <problem_class id="Convert2Lambda" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Anonymous type can be replaced with lambda</problem_class>
+  <description>Anonymous new ActionListener() can be replaced with lambda</description>
+  <highlighted_element>new ActionListener()</highlighted_element>
+  <language>JAVA</language>
+  <offset>38</offset>
+  <length>21</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 02/Student 02.java</file>
+  <line>46</line>
+  <module>codeSmellsWork</module>
+  <package>noapplet.OmokGUI</package>
+  <entry_point TYPE="method" FQNAME="noapplet.OmokGUI.OmokGUI OmokGUI()" />
+  <problem_class id="Convert2Lambda" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Anonymous type can be replaced with lambda</problem_class>
+  <description>Anonymous new ActionListener() can be replaced with lambda</description>
+  <highlighted_element>new ActionListener()</highlighted_element>
+  <language>JAVA</language>
+  <offset>41</offset>
+  <length>21</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 02/Student 02.java</file>
+  <line>53</line>
+  <module>codeSmellsWork</module>
+  <package>noapplet.OmokGUI</package>
+  <entry_point TYPE="method" FQNAME="noapplet.OmokGUI.OmokGUI OmokGUI()" />
+  <problem_class id="Convert2Lambda" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Anonymous type can be replaced with lambda</problem_class>
+  <description>Anonymous new ActionListener() can be replaced with lambda</description>
+  <highlighted_element>new ActionListener()</highlighted_element>
+  <language>JAVA</language>
+  <offset>31</offset>
+  <length>21</length>
+</problem>
+</problems>

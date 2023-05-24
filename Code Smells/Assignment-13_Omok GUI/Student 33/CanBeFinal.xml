@@ -1,0 +1,44 @@
+<problems>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 33/Student 33.java</file>
+  <line>8</line>
+  <module>codeSmellsWork</module>
+  <package>Misc</package>
+  <entry_point TYPE="field" FQNAME="Misc.OmokGUI b1" />
+  <problem_class id="CanBeFinal" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Declaration can have 'final' modifier</problem_class>
+  <hints />
+  <description>Declaration can have final modifier</description>
+  <highlighted_element>b1</highlighted_element>
+  <language>JAVA</language>
+  <offset>12</offset>
+  <length>2</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 33/Student 33.java</file>
+  <line>9</line>
+  <module>codeSmellsWork</module>
+  <package>Misc</package>
+  <entry_point TYPE="field" FQNAME="Misc.OmokGUI human" />
+  <problem_class id="CanBeFinal" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Declaration can have 'final' modifier</problem_class>
+  <hints />
+  <description>Declaration can have final modifier</description>
+  <highlighted_element>human</highlighted_element>
+  <language>JAVA</language>
+  <offset>17</offset>
+  <length>5</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 33/Student 33.java</file>
+  <line>10</line>
+  <module>codeSmellsWork</module>
+  <package>Misc</package>
+  <entry_point TYPE="field" FQNAME="Misc.OmokGUI comp" />
+  <problem_class id="CanBeFinal" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Declaration can have 'final' modifier</problem_class>
+  <hints />
+  <description>Declaration can have final modifier</description>
+  <highlighted_element>comp</highlighted_element>
+  <language>JAVA</language>
+  <offset>17</offset>
+  <length>4</length>
+</problem>
+</problems>

@@ -1,0 +1,15 @@
+<problems>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 31/Student 31.java</file>
+  <line>30</line>
+  <module>codeSmellsWork</module>
+  <package>noapplet.example</package>
+  <entry_point TYPE="class" FQNAME="noapplet.example.solar.TestPane" />
+  <problem_class id="InnerClassMayBeStatic" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Inner class may be 'static'</problem_class>
+  <description>Inner class &lt;code&gt;TestPane&lt;/code&gt; may be 'static' #loc</description>
+  <highlighted_element>TestPane</highlighted_element>
+  <language>JAVA</language>
+  <offset>17</offset>
+  <length>8</length>
+</problem>
+</problems>

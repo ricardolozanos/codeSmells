@@ -1,0 +1,210 @@
+<problems>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 30/student 30 (1).java</file>
+  <line>5</line>
+  <module>codeSmellsWork</module>
+  <package>noapplet.Files</package>
+  <entry_point TYPE="class" FQNAME="noapplet.Files.DrawingBoard" />
+  <problem_class id="MissingJavadoc" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Missing Javadoc</problem_class>
+  <description>Required Javadoc is absent</description>
+  <highlighted_element>DrawingBoard</highlighted_element>
+  <language>JAVA</language>
+  <offset>13</offset>
+  <length>12</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 30/student 30 (1).java</file>
+  <line>6</line>
+  <module>codeSmellsWork</module>
+  <package>noapplet.Files</package>
+  <entry_point TYPE="method" FQNAME="noapplet.Files.DrawingBoard DrawingBoard()" />
+  <problem_class id="MissingJavadoc" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Missing Javadoc</problem_class>
+  <description>Required Javadoc is absent</description>
+  <highlighted_element>DrawingBoard</highlighted_element>
+  <language>JAVA</language>
+  <offset>11</offset>
+  <length>12</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 30/student 30 (1).java</file>
+  <line>10</line>
+  <module>codeSmellsWork</module>
+  <package>noapplet.Files</package>
+  <entry_point TYPE="method" FQNAME="noapplet.Files.DrawingBoard DrawingBoard(java.lang.String[] params)" />
+  <problem_class id="MissingJavadoc" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Missing Javadoc</problem_class>
+  <description>Required Javadoc is absent</description>
+  <highlighted_element>DrawingBoard</highlighted_element>
+  <language>JAVA</language>
+  <offset>11</offset>
+  <length>12</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 30/student 30 (1).java</file>
+  <line>32</line>
+  <module>codeSmellsWork</module>
+  <package>noapplet.Files</package>
+  <entry_point TYPE="method" FQNAME="noapplet.Files.DrawingBoard void main(java.lang.String[] args)" />
+  <problem_class id="MissingJavadoc" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Missing Javadoc</problem_class>
+  <description>Required Javadoc is absent</description>
+  <highlighted_element>main</highlighted_element>
+  <language>JAVA</language>
+  <offset>23</offset>
+  <length>4</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 30/student 30 (2).java</file>
+  <line>5</line>
+  <module>codeSmellsWork</module>
+  <package>noapplet.Files</package>
+  <entry_point TYPE="class" FQNAME="noapplet.Files.Rectangle" />
+  <problem_class id="MissingJavadoc" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Missing Javadoc</problem_class>
+  <description>Required Javadoc is absent</description>
+  <highlighted_element>Rectangle</highlighted_element>
+  <language>JAVA</language>
+  <offset>13</offset>
+  <length>9</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 30/student 30 (2).java</file>
+  <line>8</line>
+  <module>codeSmellsWork</module>
+  <package>noapplet.Files</package>
+  <entry_point TYPE="method" FQNAME="noapplet.Files.Rectangle Rectangle(int x, int y, java.awt.Color c)" />
+  <problem_class id="MissingJavadoc" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Missing Javadoc</problem_class>
+  <description>Required Javadoc is absent</description>
+  <highlighted_element>Rectangle</highlighted_element>
+  <language>JAVA</language>
+  <offset>11</offset>
+  <length>9</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 30/student 30 (2).java</file>
+  <line>12</line>
+  <module>codeSmellsWork</module>
+  <package>noapplet.Files</package>
+  <entry_point TYPE="method" FQNAME="noapplet.Files.Rectangle void draw(java.awt.Graphics g)" />
+  <problem_class id="MissingJavadoc" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Missing Javadoc</problem_class>
+  <description>Required Javadoc is absent</description>
+  <highlighted_element>draw</highlighted_element>
+  <language>JAVA</language>
+  <offset>16</offset>
+  <length>4</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 30/student 30 (3).java</file>
+  <line>4</line>
+  <module>codeSmellsWork</module>
+  <package>noapplet.Files</package>
+  <entry_point TYPE="class" FQNAME="noapplet.Files.Shapes" />
+  <problem_class id="MissingJavadoc" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Missing Javadoc</problem_class>
+  <description>Required Javadoc is absent</description>
+  <highlighted_element>Shapes</highlighted_element>
+  <language>JAVA</language>
+  <offset>22</offset>
+  <length>6</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 30/student 30 (3).java</file>
+  <line>10</line>
+  <module>codeSmellsWork</module>
+  <package>noapplet.Files</package>
+  <entry_point TYPE="method" FQNAME="noapplet.Files.Shapes Shapes(int x, int y, java.awt.Color C)" />
+  <problem_class id="MissingJavadoc" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Missing Javadoc</problem_class>
+  <description>Required Javadoc is absent</description>
+  <highlighted_element>Shapes</highlighted_element>
+  <language>JAVA</language>
+  <offset>11</offset>
+  <length>6</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 30/student 30 (3).java</file>
+  <line>16</line>
+  <module>codeSmellsWork</module>
+  <package>noapplet.Files</package>
+  <entry_point TYPE="method" FQNAME="noapplet.Files.Shapes void draw(java.awt.Graphics G)" />
+  <problem_class id="MissingJavadoc" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Missing Javadoc</problem_class>
+  <description>Required Javadoc is absent</description>
+  <highlighted_element>draw</highlighted_element>
+  <language>JAVA</language>
+  <offset>25</offset>
+  <length>4</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 30/student 30 (3).java</file>
+  <line>18</line>
+  <module>codeSmellsWork</module>
+  <package>noapplet.Files</package>
+  <entry_point TYPE="method" FQNAME="noapplet.Files.Shapes int getX()" />
+  <problem_class id="MissingJavadoc" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Missing Javadoc</problem_class>
+  <description>Required Javadoc is absent</description>
+  <highlighted_element>getX</highlighted_element>
+  <language>JAVA</language>
+  <offset>15</offset>
+  <length>4</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 30/student 30 (3).java</file>
+  <line>23</line>
+  <module>codeSmellsWork</module>
+  <package>noapplet.Files</package>
+  <entry_point TYPE="method" FQNAME="noapplet.Files.Shapes int getY()" />
+  <problem_class id="MissingJavadoc" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Missing Javadoc</problem_class>
+  <description>Required Javadoc is absent</description>
+  <highlighted_element>getY</highlighted_element>
+  <language>JAVA</language>
+  <offset>15</offset>
+  <length>4</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 30/student 30 (3).java</file>
+  <line>27</line>
+  <module>codeSmellsWork</module>
+  <package>noapplet.Files</package>
+  <entry_point TYPE="method" FQNAME="noapplet.Files.Shapes java.awt.Color getC()" />
+  <problem_class id="MissingJavadoc" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Missing Javadoc</problem_class>
+  <description>Required Javadoc is absent</description>
+  <highlighted_element>getC</highlighted_element>
+  <language>JAVA</language>
+  <offset>17</offset>
+  <length>4</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 30/student 30 (4).java</file>
+  <line>5</line>
+  <module>codeSmellsWork</module>
+  <package>noapplet.Files</package>
+  <entry_point TYPE="class" FQNAME="noapplet.Files.Circle" />
+  <problem_class id="MissingJavadoc" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Missing Javadoc</problem_class>
+  <description>Required Javadoc is absent</description>
+  <highlighted_element>Circle</highlighted_element>
+  <language>JAVA</language>
+  <offset>13</offset>
+  <length>6</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 30/student 30 (4).java</file>
+  <line>8</line>
+  <module>codeSmellsWork</module>
+  <package>noapplet.Files</package>
+  <entry_point TYPE="method" FQNAME="noapplet.Files.Circle Circle(int x, int y, java.awt.Color c)" />
+  <problem_class id="MissingJavadoc" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Missing Javadoc</problem_class>
+  <description>Required Javadoc is absent</description>
+  <highlighted_element>Circle</highlighted_element>
+  <language>JAVA</language>
+  <offset>11</offset>
+  <length>6</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 30/student 30 (4).java</file>
+  <line>12</line>
+  <module>codeSmellsWork</module>
+  <package>noapplet.Files</package>
+  <entry_point TYPE="method" FQNAME="noapplet.Files.Circle void draw(java.awt.Graphics g)" />
+  <problem_class id="MissingJavadoc" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Missing Javadoc</problem_class>
+  <description>Required Javadoc is absent</description>
+  <highlighted_element>draw</highlighted_element>
+  <language>JAVA</language>
+  <offset>16</offset>
+  <length>4</length>
+</problem>
+</problems>

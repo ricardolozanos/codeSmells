@@ -1,0 +1,54 @@
+<problems>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 18/student 18 (2).java</file>
+  <line>41</line>
+  <module>codeSmellsWork</module>
+  <package>&lt;default&gt;</package>
+  <entry_point TYPE="method" FQNAME="BoardPanel BoardPanel(Game g, javax.swing.JTextArea area, Player p1, Player p2)" />
+  <problem_class id="ChainedMethodCall" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Chained method calls</problem_class>
+  <description>Chained method call &lt;code&gt;size()&lt;/code&gt; #loc</description>
+  <highlighted_element>size</highlighted_element>
+  <language>JAVA</language>
+  <offset>27</offset>
+  <length>4</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 18/student 18 (6).java</file>
+  <line>193</line>
+  <module>codeSmellsWork</module>
+  <package>&lt;default&gt;</package>
+  <entry_point TYPE="method" FQNAME="OmokGUI$2 void mouseClicked(java.awt.event.MouseEvent e)" />
+  <problem_class id="ChainedMethodCall" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Chained method calls</problem_class>
+  <description>Chained method call &lt;code&gt;hasValues()&lt;/code&gt; #loc</description>
+  <highlighted_element>hasValues</highlighted_element>
+  <language>JAVA</language>
+  <offset>27</offset>
+  <length>9</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 18/student 18 (6).java</file>
+  <line>196</line>
+  <module>codeSmellsWork</module>
+  <package>&lt;default&gt;</package>
+  <entry_point TYPE="method" FQNAME="OmokGUI$2 void mouseClicked(java.awt.event.MouseEvent e)" />
+  <problem_class id="ChainedMethodCall" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Chained method calls</problem_class>
+  <description>Chained method call &lt;code&gt;clear()&lt;/code&gt; #loc</description>
+  <highlighted_element>clear</highlighted_element>
+  <language>JAVA</language>
+  <offset>26</offset>
+  <length>5</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 18/student 18 (6).java</file>
+  <line>197</line>
+  <module>codeSmellsWork</module>
+  <package>&lt;default&gt;</package>
+  <entry_point TYPE="method" FQNAME="OmokGUI$2 void mouseClicked(java.awt.event.MouseEvent e)" />
+  <problem_class id="ChainedMethodCall" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Chained method calls</problem_class>
+  <description>Chained method call &lt;code&gt;toString()&lt;/code&gt; #loc</description>
+  <highlighted_element>toString</highlighted_element>
+  <language>JAVA</language>
+  <offset>31</offset>
+  <length>8</length>
+</problem>
+</problems>

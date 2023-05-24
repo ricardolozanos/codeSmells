@@ -1,0 +1,54 @@
+<problems>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 18/student 18 (6).java</file>
+  <line>29</line>
+  <module>codeSmellsWork</module>
+  <package>&lt;default&gt;</package>
+  <entry_point TYPE="field" FQNAME="OmokGUI comboBox" />
+  <problem_class id="RawUseOfParameterizedType" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Raw use of parameterized class</problem_class>
+  <description>Raw use of parameterized class &lt;code&gt;JComboBox&lt;/code&gt; #loc</description>
+  <highlighted_element>JComboBox</highlighted_element>
+  <language>JAVA</language>
+  <offset>1</offset>
+  <length>9</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 18/student 18 (6).java</file>
+  <line>132</line>
+  <module>codeSmellsWork</module>
+  <package>&lt;default&gt;</package>
+  <entry_point TYPE="method" FQNAME="OmokGUI void showBoard(Game g)" />
+  <problem_class id="RawUseOfParameterizedType" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Raw use of parameterized class</problem_class>
+  <description>Raw use of parameterized class &lt;code&gt;JComboBox&lt;/code&gt; #loc</description>
+  <highlighted_element>JComboBox</highlighted_element>
+  <language>JAVA</language>
+  <offset>5</offset>
+  <length>9</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 18/student 18 (6).java</file>
+  <line>132</line>
+  <module>codeSmellsWork</module>
+  <package>&lt;default&gt;</package>
+  <entry_point TYPE="method" FQNAME="OmokGUI void showBoard(Game g)" />
+  <problem_class id="RawUseOfParameterizedType" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Raw use of parameterized class</problem_class>
+  <description>Raw use of parameterized class &lt;code&gt;JComboBox&lt;/code&gt; #loc</description>
+  <highlighted_element>JComboBox</highlighted_element>
+  <language>JAVA</language>
+  <offset>30</offset>
+  <length>9</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 18/student 18 (6).java</file>
+  <line>187</line>
+  <module>codeSmellsWork</module>
+  <package>&lt;default&gt;</package>
+  <entry_point TYPE="method" FQNAME="OmokGUI javax.swing.JButton playOnBoard(javax.swing.JComboBox jcb, OmokGUI gui, BoardPanel bp, javax.swing.JTextArea console)" />
+  <problem_class id="RawUseOfParameterizedType" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Raw use of parameterized class</problem_class>
+  <description>Raw use of parameterized class &lt;code&gt;JComboBox&lt;/code&gt; #loc</description>
+  <highlighted_element>JComboBox</highlighted_element>
+  <language>JAVA</language>
+  <offset>31</offset>
+  <length>9</length>
+</problem>
+</problems>

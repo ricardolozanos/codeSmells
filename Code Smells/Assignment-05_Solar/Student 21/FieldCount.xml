@@ -1,0 +1,15 @@
+<problems>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 21/student 21 (1).java</file>
+  <line>13</line>
+  <module>codeSmellsWork</module>
+  <package>noapplet.example</package>
+  <entry_point TYPE="class" FQNAME="noapplet.example.SolarSystem" />
+  <problem_class id="FieldCount" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Class with too many fields</problem_class>
+  <description>&lt;code&gt;SolarSystem&lt;/code&gt; has too many fields (field count = 12) #loc</description>
+  <highlighted_element>SolarSystem</highlighted_element>
+  <language>JAVA</language>
+  <offset>13</offset>
+  <length>11</length>
+</problem>
+</problems>

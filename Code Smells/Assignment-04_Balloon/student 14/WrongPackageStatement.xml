@@ -1,0 +1,28 @@
+<problems>
+<problem>
+  <file>file://$PROJECT_DIR$/src/student 14/Student 14 (1).java</file>
+  <line>1</line>
+  <module>codeSmellsWork</module>
+  <package>noapplet.BallonAnim</package>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/src/student 14/Student 14 (1).java" />
+  <problem_class id="WrongPackageStatement" severity="ERROR" attribute_key="ERRORS_ATTRIBUTES">Wrong package statement</problem_class>
+  <description>Package name 'noapplet.BallonAnim' does not correspond to the file path 'student 14'</description>
+  <highlighted_element>noapplet.BallonAnim</highlighted_element>
+  <language>JAVA</language>
+  <offset>8</offset>
+  <length>19</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/student 14/Student 14 (2).java</file>
+  <line>1</line>
+  <module>codeSmellsWork</module>
+  <package>noapplet.BallonAnim</package>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/src/student 14/Student 14 (2).java" />
+  <problem_class id="WrongPackageStatement" severity="ERROR" attribute_key="ERRORS_ATTRIBUTES">Wrong package statement</problem_class>
+  <description>Package name 'noapplet.BallonAnim' does not correspond to the file path 'student 14'</description>
+  <highlighted_element>noapplet.BallonAnim</highlighted_element>
+  <language>JAVA</language>
+  <offset>8</offset>
+  <length>19</length>
+</problem>
+</problems>

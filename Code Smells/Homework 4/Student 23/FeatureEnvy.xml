@@ -1,0 +1,106 @@
+<problems>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 23/student 23 (2).java</file>
+  <line>14</line>
+  <module>codeSmellsWork</module>
+  <package>&lt;default&gt;</package>
+  <entry_point TYPE="method" FQNAME="Board_Panel Board_Panel(Board board, javax.swing.JLabel msg_bar)" />
+  <problem_class id="FeatureEnvy" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Feature envy</problem_class>
+  <description>Class 'Board' accessed repeatedly in method &lt;code&gt;Board_Panel()&lt;/code&gt; #loc</description>
+  <highlighted_element>Board_Panel</highlighted_element>
+  <language>JAVA</language>
+  <offset>11</offset>
+  <length>11</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 23/student 23 (2).java</file>
+  <line>14</line>
+  <module>codeSmellsWork</module>
+  <package>&lt;default&gt;</package>
+  <entry_point TYPE="method" FQNAME="Board_Panel Board_Panel(Board board, javax.swing.JLabel msg_bar)" />
+  <problem_class id="FeatureEnvy" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Feature envy</problem_class>
+  <description>Class 'Player' accessed repeatedly in method &lt;code&gt;Board_Panel()&lt;/code&gt; #loc</description>
+  <highlighted_element>Board_Panel</highlighted_element>
+  <language>JAVA</language>
+  <offset>11</offset>
+  <length>11</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 23/student 23 (2).java</file>
+  <line>20</line>
+  <module>codeSmellsWork</module>
+  <package>&lt;default&gt;</package>
+  <entry_point TYPE="method" FQNAME="Board_Panel$1 void mouseClicked(java.awt.event.MouseEvent e)" />
+  <problem_class id="FeatureEnvy" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Feature envy</problem_class>
+  <description>Class 'Board' accessed repeatedly in method &lt;code&gt;mouseClicked()&lt;/code&gt; #loc</description>
+  <highlighted_element>mouseClicked</highlighted_element>
+  <language>JAVA</language>
+  <offset>24</offset>
+  <length>12</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 23/student 23 (2).java</file>
+  <line>20</line>
+  <module>codeSmellsWork</module>
+  <package>&lt;default&gt;</package>
+  <entry_point TYPE="method" FQNAME="Board_Panel$1 void mouseClicked(java.awt.event.MouseEvent e)" />
+  <problem_class id="FeatureEnvy" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Feature envy</problem_class>
+  <description>Class 'Player' accessed repeatedly in method &lt;code&gt;mouseClicked()&lt;/code&gt; #loc</description>
+  <highlighted_element>mouseClicked</highlighted_element>
+  <language>JAVA</language>
+  <offset>24</offset>
+  <length>12</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 23/student 23 (2).java</file>
+  <line>67</line>
+  <module>codeSmellsWork</module>
+  <package>&lt;default&gt;</package>
+  <entry_point TYPE="method" FQNAME="Board_Panel void drawBoard(java.awt.Graphics g)" />
+  <problem_class id="FeatureEnvy" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Feature envy</problem_class>
+  <description>Class 'Board' accessed repeatedly in method &lt;code&gt;drawBoard()&lt;/code&gt; #loc</description>
+  <highlighted_element>drawBoard</highlighted_element>
+  <language>JAVA</language>
+  <offset>17</offset>
+  <length>9</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 23/student 23 (5).java</file>
+  <line>11</line>
+  <module>codeSmellsWork</module>
+  <package>&lt;default&gt;</package>
+  <entry_point TYPE="method" FQNAME="Omok_GUI Omok_GUI()" />
+  <problem_class id="FeatureEnvy" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Feature envy</problem_class>
+  <description>Class 'Board_Panel' accessed repeatedly in method &lt;code&gt;Omok_GUI()&lt;/code&gt; #loc</description>
+  <highlighted_element>Omok_GUI</highlighted_element>
+  <language>JAVA</language>
+  <offset>11</offset>
+  <length>8</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 23/student 23 (5).java</file>
+  <line>49</line>
+  <module>codeSmellsWork</module>
+  <package>&lt;default&gt;</package>
+  <entry_point TYPE="method" FQNAME="Omok_GUI$1 void actionPerformed(java.awt.event.ActionEvent e)" />
+  <problem_class id="FeatureEnvy" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Feature envy</problem_class>
+  <description>Class 'Board_Panel' accessed repeatedly in method &lt;code&gt;actionPerformed()&lt;/code&gt; #loc</description>
+  <highlighted_element>actionPerformed</highlighted_element>
+  <language>JAVA</language>
+  <offset>24</offset>
+  <length>15</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 23/student 23 (5).java</file>
+  <line>82</line>
+  <module>codeSmellsWork</module>
+  <package>&lt;default&gt;</package>
+  <entry_point TYPE="method" FQNAME="Omok_GUI$2 void actionPerformed(java.awt.event.ActionEvent e)" />
+  <problem_class id="FeatureEnvy" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Feature envy</problem_class>
+  <description>Class 'Board_Panel' accessed repeatedly in method &lt;code&gt;actionPerformed()&lt;/code&gt; #loc</description>
+  <highlighted_element>actionPerformed</highlighted_element>
+  <language>JAVA</language>
+  <offset>24</offset>
+  <length>15</length>
+</problem>
+</problems>

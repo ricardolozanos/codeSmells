@@ -1,0 +1,15 @@
+<problems>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 10/student 10 (8).java</file>
+  <line>55</line>
+  <module>codeSmellsWork</module>
+  <package>omokGUI</package>
+  <entry_point TYPE="method" FQNAME="omokGUI.Board void addMove(int x, int y, Player p)" />
+  <problem_class id="SuspiciousNameCombination" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Suspicious variable/parameter name combination</problem_class>
+  <description>'y' should probably not be passed as parameter 'x'</description>
+  <highlighted_element>y</highlighted_element>
+  <language>JAVA</language>
+  <offset>25</offset>
+  <length>1</length>
+</problem>
+</problems>

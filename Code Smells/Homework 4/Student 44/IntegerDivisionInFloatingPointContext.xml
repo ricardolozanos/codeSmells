@@ -1,0 +1,80 @@
+<problems>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 44/student 44 (2).java</file>
+  <line>34</line>
+  <module>codeSmellsWork</module>
+  <package>&lt;default&gt;</package>
+  <entry_point TYPE="method" FQNAME="BoardPanel void paintComponent(java.awt.Graphics g)" />
+  <problem_class id="IntegerDivisionInFloatingPointContext" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Integer division in floating-point context</problem_class>
+  <description>&lt;code&gt;d.width / 15&lt;/code&gt;: integer division in floating-point context #loc</description>
+  <highlighted_element>d.width / 15</highlighted_element>
+  <language>JAVA</language>
+  <offset>32</offset>
+  <length>12</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 44/student 44 (2).java</file>
+  <line>35</line>
+  <module>codeSmellsWork</module>
+  <package>&lt;default&gt;</package>
+  <entry_point TYPE="method" FQNAME="BoardPanel void paintComponent(java.awt.Graphics g)" />
+  <problem_class id="IntegerDivisionInFloatingPointContext" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Integer division in floating-point context</problem_class>
+  <description>&lt;code&gt;d.height / 15&lt;/code&gt;: integer division in floating-point context #loc</description>
+  <highlighted_element>d.height / 15</highlighted_element>
+  <language>JAVA</language>
+  <offset>33</offset>
+  <length>13</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 44/student 44 (2).java</file>
+  <line>56</line>
+  <module>codeSmellsWork</module>
+  <package>&lt;default&gt;</package>
+  <entry_point TYPE="method" FQNAME="BoardPanel void mouseClicked(java.awt.event.MouseEvent e)" />
+  <problem_class id="IntegerDivisionInFloatingPointContext" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Integer division in floating-point context</problem_class>
+  <description>&lt;code&gt;mouseX / (d.width/15)&lt;/code&gt;: integer division in floating-point context #loc</description>
+  <highlighted_element>mouseX / (d.width/15)</highlighted_element>
+  <language>JAVA</language>
+  <offset>33</offset>
+  <length>21</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 44/student 44 (2).java</file>
+  <line>56</line>
+  <module>codeSmellsWork</module>
+  <package>&lt;default&gt;</package>
+  <entry_point TYPE="method" FQNAME="BoardPanel void mouseClicked(java.awt.event.MouseEvent e)" />
+  <problem_class id="IntegerDivisionInFloatingPointContext" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Integer division in floating-point context</problem_class>
+  <description>&lt;code&gt;d.width/15&lt;/code&gt;: integer division in floating-point context #loc</description>
+  <highlighted_element>d.width/15</highlighted_element>
+  <language>JAVA</language>
+  <offset>43</offset>
+  <length>10</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 44/student 44 (2).java</file>
+  <line>57</line>
+  <module>codeSmellsWork</module>
+  <package>&lt;default&gt;</package>
+  <entry_point TYPE="method" FQNAME="BoardPanel void mouseClicked(java.awt.event.MouseEvent e)" />
+  <problem_class id="IntegerDivisionInFloatingPointContext" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Integer division in floating-point context</problem_class>
+  <description>&lt;code&gt;mouseY / (d.height/15)&lt;/code&gt;: integer division in floating-point context #loc</description>
+  <highlighted_element>mouseY / (d.height/15)</highlighted_element>
+  <language>JAVA</language>
+  <offset>33</offset>
+  <length>22</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 44/student 44 (2).java</file>
+  <line>57</line>
+  <module>codeSmellsWork</module>
+  <package>&lt;default&gt;</package>
+  <entry_point TYPE="method" FQNAME="BoardPanel void mouseClicked(java.awt.event.MouseEvent e)" />
+  <problem_class id="IntegerDivisionInFloatingPointContext" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Integer division in floating-point context</problem_class>
+  <description>&lt;code&gt;d.height/15&lt;/code&gt;: integer division in floating-point context #loc</description>
+  <highlighted_element>d.height/15</highlighted_element>
+  <language>JAVA</language>
+  <offset>43</offset>
+  <length>11</length>
+</problem>
+</problems>

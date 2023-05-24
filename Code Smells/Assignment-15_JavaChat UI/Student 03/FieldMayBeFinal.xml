@@ -1,0 +1,67 @@
+<problems>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 03/student 03 (1).java</file>
+  <line>8</line>
+  <module>codeSmellsWork</module>
+  <package>&lt;default&gt;</package>
+  <entry_point TYPE="field" FQNAME="ChatJava inputField" />
+  <problem_class id="FieldMayBeFinal" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Field may be 'final'</problem_class>
+  <description>Field &lt;code&gt;inputField&lt;/code&gt; may be 'final' #loc</description>
+  <highlighted_element>inputField</highlighted_element>
+  <language>JAVA</language>
+  <offset>23</offset>
+  <length>10</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 03/student 03 (1).java</file>
+  <line>9</line>
+  <module>codeSmellsWork</module>
+  <package>&lt;default&gt;</package>
+  <entry_point TYPE="field" FQNAME="ChatJava chatArea" />
+  <problem_class id="FieldMayBeFinal" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Field may be 'final'</problem_class>
+  <description>Field &lt;code&gt;chatArea&lt;/code&gt; may be 'final' #loc</description>
+  <highlighted_element>chatArea</highlighted_element>
+  <language>JAVA</language>
+  <offset>22</offset>
+  <length>8</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 03/student 03 (1).java</file>
+  <line>10</line>
+  <module>codeSmellsWork</module>
+  <package>&lt;default&gt;</package>
+  <entry_point TYPE="field" FQNAME="ChatJava Conectar" />
+  <problem_class id="FieldMayBeFinal" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Field may be 'final'</problem_class>
+  <description>Field &lt;code&gt;Conectar&lt;/code&gt; may be 'final' #loc</description>
+  <highlighted_element>Conectar</highlighted_element>
+  <language>JAVA</language>
+  <offset>20</offset>
+  <length>8</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 03/student 03 (1).java</file>
+  <line>11</line>
+  <module>codeSmellsWork</module>
+  <package>&lt;default&gt;</package>
+  <entry_point TYPE="field" FQNAME="ChatJava Enviar" />
+  <problem_class id="FieldMayBeFinal" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Field may be 'final'</problem_class>
+  <description>Field &lt;code&gt;Enviar&lt;/code&gt; may be 'final' #loc</description>
+  <highlighted_element>Enviar</highlighted_element>
+  <language>JAVA</language>
+  <offset>20</offset>
+  <length>6</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 03/student 03 (1).java</file>
+  <line>12</line>
+  <module>codeSmellsWork</module>
+  <package>&lt;default&gt;</package>
+  <entry_point TYPE="field" FQNAME="ChatJava lblNewLabel" />
+  <problem_class id="FieldMayBeFinal" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Field may be 'final'</problem_class>
+  <description>Field &lt;code&gt;lblNewLabel&lt;/code&gt; may be 'final' #loc</description>
+  <highlighted_element>lblNewLabel</highlighted_element>
+  <language>JAVA</language>
+  <offset>19</offset>
+  <length>11</length>
+</problem>
+</problems>

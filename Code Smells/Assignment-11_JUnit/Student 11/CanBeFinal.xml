@@ -1,0 +1,16 @@
+<problems>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 11/student 11.java</file>
+  <line>9</line>
+  <module>codeSmellsWork</module>
+  <package>omok</package>
+  <entry_point TYPE="field" FQNAME="omok.ConsoleUITest activePlayer" />
+  <problem_class id="CanBeFinal" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Declaration can have 'final' modifier</problem_class>
+  <hints />
+  <description>Declaration can have final modifier</description>
+  <highlighted_element>activePlayer</highlighted_element>
+  <language>JAVA</language>
+  <offset>10</offset>
+  <length>12</length>
+</problem>
+</problems>

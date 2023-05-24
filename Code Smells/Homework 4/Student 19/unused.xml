@@ -1,0 +1,546 @@
+<problems>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 19/student 19 (1).java</file>
+  <line>10</line>
+  <module>codeSmellsWork</module>
+  <package>omok</package>
+  <entry_point TYPE="method" FQNAME="omok.AI AI(java.lang.String name, java.awt.Color color)" />
+  <language>JAVA</language>
+  <offset>8</offset>
+  <length>2</length>
+  <highlighted_element>AI</highlighted_element>
+  <problem_class id="unused" severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">unused declaration</problem_class>
+  <hints>
+    <hint value="comment" />
+    <hint value="delete" />
+  </hints>
+  <description>Constructor is never used.</description>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 19/student 19 (1).java</file>
+  <line>15</line>
+  <module>codeSmellsWork</module>
+  <package>omok</package>
+  <entry_point TYPE="method" FQNAME="omok.AI int[] play(Game game)" />
+  <language>JAVA</language>
+  <offset>14</offset>
+  <length>4</length>
+  <highlighted_element>play</highlighted_element>
+  <problem_class id="unused" severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">unused declaration</problem_class>
+  <hints>
+    <hint value="comment" />
+    <hint value="delete" />
+  </hints>
+  <description>&lt;ul&gt;&lt;li&gt;Method owner class is never instantiated OR&lt;/li&gt;&lt;li&gt;An instantiation is not reachable from entry points.&lt;/li&gt;&lt;/ul&gt;</description>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 19/student 19 (10).java</file>
+  <line>9</line>
+  <module>codeSmellsWork</module>
+  <package>omok</package>
+  <entry_point TYPE="method" FQNAME="omok.Player Player(java.lang.String name, java.awt.Color color)" />
+  <language>JAVA</language>
+  <offset>8</offset>
+  <length>6</length>
+  <highlighted_element>Player</highlighted_element>
+  <problem_class id="unused" severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">unused declaration</problem_class>
+  <hints>
+    <hint value="comment" />
+    <hint value="delete" />
+  </hints>
+  <description>Constructor is never used.</description>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 19/student 19 (10).java</file>
+  <line>14</line>
+  <module>codeSmellsWork</module>
+  <package>omok</package>
+  <entry_point TYPE="method" FQNAME="omok.Player java.lang.String name()" />
+  <language>JAVA</language>
+  <offset>15</offset>
+  <length>4</length>
+  <highlighted_element>name</highlighted_element>
+  <problem_class id="unused" severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">unused declaration</problem_class>
+  <hints>
+    <hint value="comment" />
+    <hint value="delete" />
+  </hints>
+  <description>&lt;ul&gt;&lt;li&gt;Method owner class is never instantiated OR&lt;/li&gt;&lt;li&gt;An instantiation is not reachable from entry points.&lt;/li&gt;&lt;/ul&gt;</description>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 19/student 19 (10).java</file>
+  <line>18</line>
+  <module>codeSmellsWork</module>
+  <package>omok</package>
+  <entry_point TYPE="method" FQNAME="omok.Player java.awt.Color color()" />
+  <language>JAVA</language>
+  <offset>14</offset>
+  <length>5</length>
+  <highlighted_element>color</highlighted_element>
+  <problem_class id="unused" severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">unused declaration</problem_class>
+  <hints>
+    <hint value="comment" />
+    <hint value="delete" />
+  </hints>
+  <description>&lt;ul&gt;&lt;li&gt;Method owner class is never instantiated OR&lt;/li&gt;&lt;li&gt;An instantiation is not reachable from entry points.&lt;/li&gt;&lt;/ul&gt;</description>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 19/student 19 (2).java</file>
+  <line>21</line>
+  <module>codeSmellsWork</module>
+  <package>omok</package>
+  <entry_point TYPE="method" FQNAME="omok.BoardPanel BoardPanel()" />
+  <language>JAVA</language>
+  <offset>9</offset>
+  <length>10</length>
+  <highlighted_element>BoardPanel</highlighted_element>
+  <problem_class id="unused" severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">unused declaration</problem_class>
+  <hints>
+    <hint value="comment" />
+    <hint value="delete" />
+  </hints>
+  <description>Constructor is never used.</description>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 19/student 19 (2).java</file>
+  <line>40</line>
+  <module>codeSmellsWork</module>
+  <package>omok</package>
+  <entry_point TYPE="method" FQNAME="omok.BoardPanel void paintStones()" />
+  <language>JAVA</language>
+  <offset>14</offset>
+  <length>11</length>
+  <highlighted_element>paintStones</highlighted_element>
+  <problem_class id="unused" severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">unused declaration</problem_class>
+  <hints>
+    <hint value="comment" />
+    <hint value="delete" />
+  </hints>
+  <description>&lt;ul&gt;&lt;li&gt;Method owner class is never instantiated OR&lt;/li&gt;&lt;li&gt;An instantiation is not reachable from entry points.&lt;/li&gt;&lt;/ul&gt;</description>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 19/student 19 (2).java</file>
+  <line>51</line>
+  <module>codeSmellsWork</module>
+  <package>omok</package>
+  <entry_point TYPE="method" FQNAME="omok.BoardPanel void setBoard(Player[][] board)" />
+  <language>JAVA</language>
+  <offset>14</offset>
+  <length>8</length>
+  <highlighted_element>setBoard</highlighted_element>
+  <problem_class id="unused" severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">unused declaration</problem_class>
+  <hints>
+    <hint value="comment" />
+    <hint value="delete" />
+  </hints>
+  <description>&lt;ul&gt;&lt;li&gt;Method owner class is never instantiated OR&lt;/li&gt;&lt;li&gt;An instantiation is not reachable from entry points.&lt;/li&gt;&lt;/ul&gt;</description>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 19/student 19 (2).java</file>
+  <line>55</line>
+  <module>codeSmellsWork</module>
+  <package>omok</package>
+  <entry_point TYPE="method" FQNAME="omok.BoardPanel int[] getPiece()" />
+  <language>JAVA</language>
+  <offset>15</offset>
+  <length>8</length>
+  <highlighted_element>getPiece</highlighted_element>
+  <problem_class id="unused" severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">unused declaration</problem_class>
+  <hints>
+    <hint value="comment" />
+    <hint value="delete" />
+  </hints>
+  <description>&lt;ul&gt;&lt;li&gt;Method owner class is never instantiated OR&lt;/li&gt;&lt;li&gt;An instantiation is not reachable from entry points.&lt;/li&gt;&lt;/ul&gt;</description>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 19/student 19 (2).java</file>
+  <line>61</line>
+  <module>codeSmellsWork</module>
+  <package>omok</package>
+  <entry_point TYPE="method" FQNAME="omok.BoardPanel void resetCoords()" />
+  <language>JAVA</language>
+  <offset>14</offset>
+  <length>11</length>
+  <highlighted_element>resetCoords</highlighted_element>
+  <problem_class id="unused" severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">unused declaration</problem_class>
+  <hints>
+    <hint value="comment" />
+    <hint value="delete" />
+  </hints>
+  <description>&lt;ul&gt;&lt;li&gt;Method owner class is never instantiated OR&lt;/li&gt;&lt;li&gt;An instantiation is not reachable from entry points.&lt;/li&gt;&lt;/ul&gt;</description>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 19/student 19 (2).java</file>
+  <line>85</line>
+  <module>codeSmellsWork</module>
+  <package>omok</package>
+  <entry_point TYPE="method" FQNAME="omok.BoardPanel void reset()" />
+  <language>JAVA</language>
+  <offset>14</offset>
+  <length>5</length>
+  <highlighted_element>reset</highlighted_element>
+  <problem_class id="unused" severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">unused declaration</problem_class>
+  <hints>
+    <hint value="comment" />
+    <hint value="delete" />
+  </hints>
+  <description>&lt;ul&gt;&lt;li&gt;Method owner class is never instantiated OR&lt;/li&gt;&lt;li&gt;An instantiation is not reachable from entry points.&lt;/li&gt;&lt;/ul&gt;</description>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 19/student 19 (3).java</file>
+  <line>16</line>
+  <module>codeSmellsWork</module>
+  <package>omok</package>
+  <entry_point TYPE="method" FQNAME="omok.Controller Controller()" />
+  <language>JAVA</language>
+  <offset>8</offset>
+  <length>10</length>
+  <highlighted_element>Controller</highlighted_element>
+  <problem_class id="unused" severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">unused declaration</problem_class>
+  <hints>
+    <hint value="comment" />
+    <hint value="delete" />
+  </hints>
+  <description>Constructor is never used.</description>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 19/student 19 (3).java</file>
+  <line>24</line>
+  <module>codeSmellsWork</module>
+  <package>omok</package>
+  <entry_point TYPE="method" FQNAME="omok.Controller void Start()" />
+  <language>JAVA</language>
+  <offset>13</offset>
+  <length>5</length>
+  <highlighted_element>Start</highlighted_element>
+  <problem_class id="unused" severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">unused declaration</problem_class>
+  <hints>
+    <hint value="comment" />
+    <hint value="delete" />
+  </hints>
+  <description>&lt;ul&gt;&lt;li&gt;Method owner class is never instantiated OR&lt;/li&gt;&lt;li&gt;An instantiation is not reachable from entry points.&lt;/li&gt;&lt;/ul&gt;</description>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 19/student 19 (4).java</file>
+  <line>14</line>
+  <module>codeSmellsWork</module>
+  <package>omok</package>
+  <entry_point TYPE="method" FQNAME="omok.Game Game()" />
+  <language>JAVA</language>
+  <offset>8</offset>
+  <length>4</length>
+  <highlighted_element>Game</highlighted_element>
+  <problem_class id="unused" severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">unused declaration</problem_class>
+  <hints>
+    <hint value="comment" />
+    <hint value="delete" />
+  </hints>
+  <description>Constructor is never used.</description>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 19/student 19 (4).java</file>
+  <line>21</line>
+  <module>codeSmellsWork</module>
+  <package>omok</package>
+  <entry_point TYPE="method" FQNAME="omok.Game boolean play(int[] coord, Player activePlayer)" />
+  <language>JAVA</language>
+  <offset>16</offset>
+  <length>4</length>
+  <highlighted_element>play</highlighted_element>
+  <problem_class id="unused" severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">unused declaration</problem_class>
+  <hints>
+    <hint value="comment" />
+    <hint value="delete" />
+  </hints>
+  <description>&lt;ul&gt;&lt;li&gt;Method owner class is never instantiated OR&lt;/li&gt;&lt;li&gt;An instantiation is not reachable from entry points.&lt;/li&gt;&lt;/ul&gt;</description>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 19/student 19 (4).java</file>
+  <line>41</line>
+  <module>codeSmellsWork</module>
+  <package>omok</package>
+  <entry_point TYPE="method" FQNAME="omok.Game void humanPlayer()" />
+  <language>JAVA</language>
+  <offset>13</offset>
+  <length>11</length>
+  <highlighted_element>humanPlayer</highlighted_element>
+  <problem_class id="unused" severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">unused declaration</problem_class>
+  <hints>
+    <hint value="comment" />
+    <hint value="delete" />
+  </hints>
+  <description>&lt;ul&gt;&lt;li&gt;Method owner class is never instantiated OR&lt;/li&gt;&lt;li&gt;An instantiation is not reachable from entry points.&lt;/li&gt;&lt;/ul&gt;</description>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 19/student 19 (4).java</file>
+  <line>46</line>
+  <module>codeSmellsWork</module>
+  <package>omok</package>
+  <entry_point TYPE="method" FQNAME="omok.Game void computerPlayer()" />
+  <language>JAVA</language>
+  <offset>13</offset>
+  <length>14</length>
+  <highlighted_element>computerPlayer</highlighted_element>
+  <problem_class id="unused" severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">unused declaration</problem_class>
+  <hints>
+    <hint value="comment" />
+    <hint value="delete" />
+  </hints>
+  <description>&lt;ul&gt;&lt;li&gt;Method owner class is never instantiated OR&lt;/li&gt;&lt;li&gt;An instantiation is not reachable from entry points.&lt;/li&gt;&lt;/ul&gt;</description>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 19/student 19 (4).java</file>
+  <line>52</line>
+  <module>codeSmellsWork</module>
+  <package>omok</package>
+  <entry_point TYPE="method" FQNAME="omok.Game Game_Board board()" />
+  <language>JAVA</language>
+  <offset>19</offset>
+  <length>5</length>
+  <highlighted_element>board</highlighted_element>
+  <problem_class id="unused" severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">unused declaration</problem_class>
+  <hints>
+    <hint value="comment" />
+    <hint value="delete" />
+  </hints>
+  <description>&lt;ul&gt;&lt;li&gt;Method owner class is never instantiated OR&lt;/li&gt;&lt;li&gt;An instantiation is not reachable from entry points.&lt;/li&gt;&lt;/ul&gt;</description>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 19/student 19 (4).java</file>
+  <line>56</line>
+  <module>codeSmellsWork</module>
+  <package>omok</package>
+  <entry_point TYPE="method" FQNAME="omok.Game Player activePlayer()" />
+  <language>JAVA</language>
+  <offset>15</offset>
+  <length>12</length>
+  <highlighted_element>activePlayer</highlighted_element>
+  <problem_class id="unused" severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">unused declaration</problem_class>
+  <hints>
+    <hint value="comment" />
+    <hint value="delete" />
+  </hints>
+  <description>&lt;ul&gt;&lt;li&gt;Method owner class is never instantiated OR&lt;/li&gt;&lt;li&gt;An instantiation is not reachable from entry points.&lt;/li&gt;&lt;/ul&gt;</description>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 19/student 19 (4).java</file>
+  <line>60</line>
+  <module>codeSmellsWork</module>
+  <package>omok</package>
+  <entry_point TYPE="method" FQNAME="omok.Game AI computer()" />
+  <language>JAVA</language>
+  <offset>11</offset>
+  <length>8</length>
+  <highlighted_element>computer</highlighted_element>
+  <problem_class id="unused" severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">unused declaration</problem_class>
+  <hints>
+    <hint value="comment" />
+    <hint value="delete" />
+  </hints>
+  <description>&lt;ul&gt;&lt;li&gt;Method owner class is never instantiated OR&lt;/li&gt;&lt;li&gt;An instantiation is not reachable from entry points.&lt;/li&gt;&lt;/ul&gt;</description>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 19/student 19 (5).java</file>
+  <line>7</line>
+  <module>codeSmellsWork</module>
+  <package>omok</package>
+  <entry_point TYPE="method" FQNAME="omok.Game_Board Game_Board(int size)" />
+  <language>JAVA</language>
+  <offset>8</offset>
+  <length>10</length>
+  <highlighted_element>Game_Board</highlighted_element>
+  <problem_class id="unused" severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">unused declaration</problem_class>
+  <hints>
+    <hint value="comment" />
+    <hint value="delete" />
+  </hints>
+  <description>Constructor is never used.</description>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 19/student 19 (5).java</file>
+  <line>12</line>
+  <module>codeSmellsWork</module>
+  <package>omok</package>
+  <entry_point TYPE="method" FQNAME="omok.Game_Board void placeStone(Player activePlayer, int[] coord)" />
+  <language>JAVA</language>
+  <offset>13</offset>
+  <length>10</length>
+  <highlighted_element>placeStone</highlighted_element>
+  <problem_class id="unused" severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">unused declaration</problem_class>
+  <hints>
+    <hint value="comment" />
+    <hint value="delete" />
+  </hints>
+  <description>&lt;ul&gt;&lt;li&gt;Method owner class is never instantiated OR&lt;/li&gt;&lt;li&gt;An instantiation is not reachable from entry points.&lt;/li&gt;&lt;/ul&gt;</description>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 19/student 19 (5).java</file>
+  <line>16</line>
+  <module>codeSmellsWork</module>
+  <package>omok</package>
+  <entry_point TYPE="method" FQNAME="omok.Game_Board Player[][] boardDisplay()" />
+  <language>JAVA</language>
+  <offset>19</offset>
+  <length>12</length>
+  <highlighted_element>boardDisplay</highlighted_element>
+  <problem_class id="unused" severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">unused declaration</problem_class>
+  <hints>
+    <hint value="comment" />
+    <hint value="delete" />
+  </hints>
+  <description>&lt;ul&gt;&lt;li&gt;Method owner class is never instantiated OR&lt;/li&gt;&lt;li&gt;An instantiation is not reachable from entry points.&lt;/li&gt;&lt;/ul&gt;</description>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 19/student 19 (5).java</file>
+  <line>20</line>
+  <module>codeSmellsWork</module>
+  <package>omok</package>
+  <entry_point TYPE="method" FQNAME="omok.Game_Board int size()" />
+  <language>JAVA</language>
+  <offset>12</offset>
+  <length>4</length>
+  <highlighted_element>size</highlighted_element>
+  <problem_class id="unused" severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">unused declaration</problem_class>
+  <hints>
+    <hint value="comment" />
+    <hint value="delete" />
+  </hints>
+  <description>&lt;ul&gt;&lt;li&gt;Method owner class is never instantiated OR&lt;/li&gt;&lt;li&gt;An instantiation is not reachable from entry points.&lt;/li&gt;&lt;/ul&gt;</description>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 19/student 19 (5).java</file>
+  <line>24</line>
+  <module>codeSmellsWork</module>
+  <package>omok</package>
+  <entry_point TYPE="method" FQNAME="omok.Game_Board boolean checkWin(Player activePlayer, int[] coord)" />
+  <language>JAVA</language>
+  <offset>16</offset>
+  <length>8</length>
+  <highlighted_element>checkWin</highlighted_element>
+  <problem_class id="unused" severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">unused declaration</problem_class>
+  <hints>
+    <hint value="comment" />
+    <hint value="delete" />
+  </hints>
+  <description>&lt;ul&gt;&lt;li&gt;Method owner class is never instantiated OR&lt;/li&gt;&lt;li&gt;An instantiation is not reachable from entry points.&lt;/li&gt;&lt;/ul&gt;</description>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 19/student 19 (5).java</file>
+  <line>92</line>
+  <module>codeSmellsWork</module>
+  <package>omok</package>
+  <entry_point TYPE="method" FQNAME="omok.Game_Board Player player(int y, int x)" />
+  <language>JAVA</language>
+  <offset>15</offset>
+  <length>6</length>
+  <highlighted_element>player</highlighted_element>
+  <problem_class id="unused" severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">unused declaration</problem_class>
+  <hints>
+    <hint value="comment" />
+    <hint value="delete" />
+  </hints>
+  <description>&lt;ul&gt;&lt;li&gt;Method owner class is never instantiated OR&lt;/li&gt;&lt;li&gt;An instantiation is not reachable from entry points.&lt;/li&gt;&lt;/ul&gt;</description>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 19/student 19 (6).java</file>
+  <line>22</line>
+  <module>codeSmellsWork</module>
+  <package>omok</package>
+  <entry_point TYPE="method" FQNAME="omok.GUI GUI()" />
+  <language>JAVA</language>
+  <offset>9</offset>
+  <length>3</length>
+  <highlighted_element>GUI</highlighted_element>
+  <problem_class id="unused" severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">unused declaration</problem_class>
+  <hints>
+    <hint value="comment" />
+    <hint value="delete" />
+  </hints>
+  <description>Constructor is never used.</description>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 19/student 19 (6).java</file>
+  <line>59</line>
+  <module>codeSmellsWork</module>
+  <package>omok</package>
+  <entry_point TYPE="method" FQNAME="omok.GUI int newGame()" />
+  <language>JAVA</language>
+  <offset>13</offset>
+  <length>7</length>
+  <highlighted_element>newGame</highlighted_element>
+  <problem_class id="unused" severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">unused declaration</problem_class>
+  <hints>
+    <hint value="comment" />
+    <hint value="delete" />
+  </hints>
+  <description>&lt;ul&gt;&lt;li&gt;Method owner class is never instantiated OR&lt;/li&gt;&lt;li&gt;An instantiation is not reachable from entry points.&lt;/li&gt;&lt;/ul&gt;</description>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 19/student 19 (6).java</file>
+  <line>63</line>
+  <module>codeSmellsWork</module>
+  <package>omok</package>
+  <entry_point TYPE="method" FQNAME="omok.GUI void gameOver(java.lang.String message)" />
+  <language>JAVA</language>
+  <offset>14</offset>
+  <length>8</length>
+  <highlighted_element>gameOver</highlighted_element>
+  <problem_class id="unused" severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">unused declaration</problem_class>
+  <hints>
+    <hint value="comment" />
+    <hint value="delete" />
+  </hints>
+  <description>&lt;ul&gt;&lt;li&gt;Method owner class is never instantiated OR&lt;/li&gt;&lt;li&gt;An instantiation is not reachable from entry points.&lt;/li&gt;&lt;/ul&gt;</description>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 19/student 19 (6).java</file>
+  <line>67</line>
+  <module>codeSmellsWork</module>
+  <package>omok</package>
+  <entry_point TYPE="method" FQNAME="omok.GUI int mode()" />
+  <language>JAVA</language>
+  <offset>13</offset>
+  <length>4</length>
+  <highlighted_element>mode</highlighted_element>
+  <problem_class id="unused" severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">unused declaration</problem_class>
+  <hints>
+    <hint value="comment" />
+    <hint value="delete" />
+  </hints>
+  <description>&lt;ul&gt;&lt;li&gt;Method owner class is never instantiated OR&lt;/li&gt;&lt;li&gt;An instantiation is not reachable from entry points.&lt;/li&gt;&lt;/ul&gt;</description>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 19/student 19 (6).java</file>
+  <line>72</line>
+  <module>codeSmellsWork</module>
+  <package>omok</package>
+  <entry_point TYPE="method" FQNAME="omok.GUI BoardPanel board()" />
+  <language>JAVA</language>
+  <offset>20</offset>
+  <length>5</length>
+  <highlighted_element>board</highlighted_element>
+  <problem_class id="unused" severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">unused declaration</problem_class>
+  <hints>
+    <hint value="comment" />
+    <hint value="delete" />
+  </hints>
+  <description>&lt;ul&gt;&lt;li&gt;Method owner class is never instantiated OR&lt;/li&gt;&lt;li&gt;An instantiation is not reachable from entry points.&lt;/li&gt;&lt;/ul&gt;</description>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 19/student 19 (9).java</file>
+  <line>6</line>
+  <module>codeSmellsWork</module>
+  <package>omok</package>
+  <entry_point TYPE="class" FQNAME="omok.playButton" />
+  <language>JAVA</language>
+  <offset>6</offset>
+  <length>10</length>
+  <highlighted_element>playButton</highlighted_element>
+  <problem_class id="unused" severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">unused declaration</problem_class>
+  <hints>
+    <hint value="comment" />
+    <hint value="delete" />
+  </hints>
+  <description>Class is not instantiated.</description>
+</problem>
+</problems>

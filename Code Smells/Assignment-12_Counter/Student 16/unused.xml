@@ -1,0 +1,19 @@
+<problems>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 16/student 16.java</file>
+  <line>45</line>
+  <module>codeSmellsWork</module>
+  <package>noapplet</package>
+  <entry_point TYPE="field" FQNAME="noapplet.CounterModel value" />
+  <language>JAVA</language>
+  <offset>13</offset>
+  <length>5</length>
+  <highlighted_element>value</highlighted_element>
+  <problem_class id="unused" severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">unused declaration</problem_class>
+  <hints>
+    <hint value="comment" />
+    <hint value="delete" />
+  </hints>
+  <description>Field is never assigned.</description>
+</problem>
+</problems>

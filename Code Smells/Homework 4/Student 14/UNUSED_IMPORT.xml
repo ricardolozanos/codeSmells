@@ -1,0 +1,72 @@
+<problems>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 14/student 14 (10).java</file>
+  <line>4</line>
+  <module>codeSmellsWork</module>
+  <package>game.GUI</package>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/src/Student 14/student 14 (10).java" />
+  <problem_class id="UNUSED_IMPORT" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Unused import</problem_class>
+  <hints />
+  <description>Unused import &lt;code&gt;import game.board;&lt;/code&gt; #loc</description>
+  <highlighted_element>import game.board;</highlighted_element>
+  <language>JAVA</language>
+  <offset>0</offset>
+  <length>18</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 14/student 14 (11).java</file>
+  <line>3</line>
+  <module>codeSmellsWork</module>
+  <package>game</package>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/src/Student 14/student 14 (11).java" />
+  <problem_class id="UNUSED_IMPORT" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Unused import</problem_class>
+  <hints />
+  <description>Unused import &lt;code&gt;import java.lang.reflect.Array;&lt;/code&gt; #loc</description>
+  <highlighted_element>import java.lang.reflect.Array;</highlighted_element>
+  <language>JAVA</language>
+  <offset>0</offset>
+  <length>31</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 14/student 14 (3).java</file>
+  <line>8</line>
+  <module>codeSmellsWork</module>
+  <package>game.GUI</package>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/src/Student 14/student 14 (3).java" />
+  <problem_class id="UNUSED_IMPORT" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Unused import</problem_class>
+  <hints />
+  <description>Unused import &lt;code&gt;import javax.swing.border.Border;&lt;/code&gt; #loc</description>
+  <highlighted_element>import javax.swing.border.Border;</highlighted_element>
+  <language>JAVA</language>
+  <offset>0</offset>
+  <length>33</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 14/student 14 (4).java</file>
+  <line>3</line>
+  <module>codeSmellsWork</module>
+  <package>game</package>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/src/Student 14/student 14 (4).java" />
+  <problem_class id="UNUSED_IMPORT" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Unused import</problem_class>
+  <hints />
+  <description>Unused import &lt;code&gt;import java.io.InputStream;&lt;/code&gt; #loc</description>
+  <highlighted_element>import java.io.InputStream;</highlighted_element>
+  <language>JAVA</language>
+  <offset>0</offset>
+  <length>27</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 14/student 14 (9).java</file>
+  <line>3</line>
+  <module>codeSmellsWork</module>
+  <package>game</package>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/src/Student 14/student 14 (9).java" />
+  <problem_class id="UNUSED_IMPORT" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Unused import</problem_class>
+  <hints />
+  <description>Unused import &lt;code&gt;import java.lang.reflect.Array;&lt;/code&gt; #loc</description>
+  <highlighted_element>import java.lang.reflect.Array;</highlighted_element>
+  <language>JAVA</language>
+  <offset>0</offset>
+  <length>31</length>
+</problem>
+</problems>

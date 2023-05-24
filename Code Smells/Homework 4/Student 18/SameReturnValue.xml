@@ -1,0 +1,28 @@
+<problems>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 18/student 18 (1).java</file>
+  <line>297</line>
+  <module>codeSmellsWork</module>
+  <package>&lt;default&gt;</package>
+  <entry_point TYPE="method" FQNAME="Board Place Place(int x, int y)" />
+  <problem_class id="SameReturnValue" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Method always returns the same value</problem_class>
+  <description>Method &lt;code&gt;Place()&lt;/code&gt; always returns &lt;code&gt;null&lt;/code&gt;</description>
+  <highlighted_element>Place</highlighted_element>
+  <language>JAVA</language>
+  <offset>15</offset>
+  <length>5</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 18/student 18 (4).java</file>
+  <line>21</line>
+  <module>codeSmellsWork</module>
+  <package>&lt;default&gt;</package>
+  <entry_point TYPE="method" FQNAME="Game Computer getComputer()" />
+  <problem_class id="SameReturnValue" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Method always returns the same value</problem_class>
+  <description>Method &lt;code&gt;getComputer()&lt;/code&gt; always returns &lt;code&gt;null&lt;/code&gt;</description>
+  <highlighted_element>getComputer</highlighted_element>
+  <language>JAVA</language>
+  <offset>17</offset>
+  <length>11</length>
+</problem>
+</problems>

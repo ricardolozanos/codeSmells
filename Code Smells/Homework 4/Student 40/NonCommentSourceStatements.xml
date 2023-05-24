@@ -1,0 +1,28 @@
+<problems>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 40/student 40 (2).java</file>
+  <line>40</line>
+  <module>codeSmellsWork</module>
+  <package>src.noapplet.example</package>
+  <entry_point TYPE="method" FQNAME="src.noapplet.example.MainPanel void configureUI()" />
+  <problem_class id="NonCommentSourceStatements" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Overly long method</problem_class>
+  <description>&lt;code&gt;configureUI&lt;/code&gt; is too long (# Non-comment source statements = 76) #loc</description>
+  <highlighted_element>configureUI</highlighted_element>
+  <language>JAVA</language>
+  <offset>17</offset>
+  <length>11</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 40/student 40 (2).java</file>
+  <line>150</line>
+  <module>codeSmellsWork</module>
+  <package>src.noapplet.example</package>
+  <entry_point TYPE="method" FQNAME="src.noapplet.example.MainPanel void placeClicked(int x, int y)" />
+  <problem_class id="NonCommentSourceStatements" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Overly long method</problem_class>
+  <description>&lt;code&gt;placeClicked&lt;/code&gt; is too long (# Non-comment source statements = 39) #loc</description>
+  <highlighted_element>placeClicked</highlighted_element>
+  <language>JAVA</language>
+  <offset>16</offset>
+  <length>12</length>
+</problem>
+</problems>

@@ -1,0 +1,15 @@
+<problems>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 40/Student 40.java</file>
+  <line>43</line>
+  <module>codeSmellsWork</module>
+  <package>src.noapplet.example</package>
+  <entry_point TYPE="method" FQNAME="src.noapplet.example.Omok void main(java.lang.String[] args)" />
+  <problem_class id="InstantiationOfUtilityClass" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Instantiation of utility class</problem_class>
+  <description>Instantiation of utility class &lt;code&gt;Omok&lt;/code&gt; #loc</description>
+  <highlighted_element>Omok</highlighted_element>
+  <language>JAVA</language>
+  <offset>57</offset>
+  <length>4</length>
+</problem>
+</problems>

@@ -1,0 +1,15 @@
+<problems>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 16/Student 16.java</file>
+  <line>8</line>
+  <module>codeSmellsWork</module>
+  <package>noapplet</package>
+  <entry_point TYPE="method" FQNAME="noapplet.RecordE.Place boolean equals()" />
+  <problem_class id="TrivialIf" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Redundant 'if' statement</problem_class>
+  <description>&lt;code&gt;if&lt;/code&gt; statement can be simplified #loc</description>
+  <highlighted_element>if</highlighted_element>
+  <language>JAVA</language>
+  <offset>3</offset>
+  <length>2</length>
+</problem>
+</problems>

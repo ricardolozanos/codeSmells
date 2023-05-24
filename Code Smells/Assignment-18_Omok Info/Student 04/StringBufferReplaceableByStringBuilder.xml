@@ -1,0 +1,15 @@
+<problems>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 04/Student 04.java</file>
+  <line>26</line>
+  <module>codeSmellsWork</module>
+  <package>exercises.OmokInfo</package>
+  <entry_point TYPE="method" FQNAME="exercises.OmokInfo.WebServiceAccess void main(java.lang.String[] args)" />
+  <problem_class id="StringBufferReplaceableByStringBuilder" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">'StringBuffer' may be 'StringBuilder'</problem_class>
+  <description>&lt;code&gt;StringBuffer response&lt;/code&gt; may be declared as 'StringBuilder' #loc</description>
+  <highlighted_element>response</highlighted_element>
+  <language>JAVA</language>
+  <offset>21</offset>
+  <length>8</length>
+</problem>
+</problems>

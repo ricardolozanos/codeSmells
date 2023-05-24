@@ -1,0 +1,15 @@
+<problems>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 19/student 19 (5).java</file>
+  <line>93</line>
+  <module>codeSmellsWork</module>
+  <package>omok</package>
+  <entry_point TYPE="method" FQNAME="omok.Game_Board Player player(int y, int x)" />
+  <problem_class id="UnnecessaryLocalVariable" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Redundant local variable</problem_class>
+  <description>Local variable &lt;code&gt;player&lt;/code&gt; is redundant #loc</description>
+  <highlighted_element>player</highlighted_element>
+  <language>JAVA</language>
+  <offset>9</offset>
+  <length>6</length>
+</problem>
+</problems>

@@ -1,0 +1,54 @@
+<problems>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 11/student 11 (2).java</file>
+  <line>98</line>
+  <module>codeSmellsWork</module>
+  <package>&lt;default&gt;</package>
+  <entry_point TYPE="method" FQNAME="GUIPlay javax.swing.JButton createCustomButton(java.lang.String buttonText, java.lang.String tooltip, java.lang.String filepath)" />
+  <problem_class id="ChainedMethodCall" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Chained method calls</problem_class>
+  <description>Chained method call &lt;code&gt;getImage()&lt;/code&gt; #loc</description>
+  <highlighted_element>getImage</highlighted_element>
+  <language>JAVA</language>
+  <offset>46</offset>
+  <length>8</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 11/student 11 (2).java</file>
+  <line>182</line>
+  <module>codeSmellsWork</module>
+  <package>&lt;default&gt;</package>
+  <entry_point TYPE="method" FQNAME="GUIPlay void setCenterPanel()" />
+  <problem_class id="ChainedMethodCall" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Chained method calls</problem_class>
+  <description>Chained method call &lt;code&gt;size()&lt;/code&gt; #loc</description>
+  <highlighted_element>size</highlighted_element>
+  <language>JAVA</language>
+  <offset>65</offset>
+  <length>4</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 11/student 11 (2).java</file>
+  <line>182</line>
+  <module>codeSmellsWork</module>
+  <package>&lt;default&gt;</package>
+  <entry_point TYPE="method" FQNAME="GUIPlay void setCenterPanel()" />
+  <problem_class id="ChainedMethodCall" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Chained method calls</problem_class>
+  <description>Chained method call &lt;code&gt;size()&lt;/code&gt; #loc</description>
+  <highlighted_element>size</highlighted_element>
+  <language>JAVA</language>
+  <offset>99</offset>
+  <length>4</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 11/student 11 (7).java</file>
+  <line>119</line>
+  <module>codeSmellsWork</module>
+  <package>&lt;default&gt;</package>
+  <entry_point TYPE="method" FQNAME="BoardPanel void drawCircle(java.awt.Graphics g, int i, int j)" />
+  <problem_class id="ChainedMethodCall" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Chained method calls</problem_class>
+  <description>Chained method call &lt;code&gt;getId()&lt;/code&gt; #loc</description>
+  <highlighted_element>getId</highlighted_element>
+  <language>JAVA</language>
+  <offset>43</offset>
+  <length>5</length>
+</problem>
+</problems>

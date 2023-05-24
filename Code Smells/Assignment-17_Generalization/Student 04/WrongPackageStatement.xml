@@ -1,0 +1,80 @@
+<problems>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 04/student 04 (1).java</file>
+  <line>1</line>
+  <module>codeSmellsWork</module>
+  <package>exercises.Generalization.MultiPlotter</package>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/src/Student 04/student 04 (1).java" />
+  <problem_class id="WrongPackageStatement" severity="ERROR" attribute_key="ERRORS_ATTRIBUTES">Wrong package statement</problem_class>
+  <description>Package name 'exercises.Generalization.MultiPlotter' does not correspond to the file path 'Student 04'</description>
+  <highlighted_element>exercises.Generalization.MultiPlotter</highlighted_element>
+  <language>JAVA</language>
+  <offset>8</offset>
+  <length>37</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 04/student 04 (2).java</file>
+  <line>1</line>
+  <module>codeSmellsWork</module>
+  <package>exercises.Generalization.Plotter</package>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/src/Student 04/student 04 (2).java" />
+  <problem_class id="WrongPackageStatement" severity="ERROR" attribute_key="ERRORS_ATTRIBUTES">Wrong package statement</problem_class>
+  <description>Package name 'exercises.Generalization.Plotter' does not correspond to the file path 'Student 04'</description>
+  <highlighted_element>exercises.Generalization.Plotter</highlighted_element>
+  <language>JAVA</language>
+  <offset>8</offset>
+  <length>32</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 04/student 04 (3).java</file>
+  <line>1</line>
+  <module>codeSmellsWork</module>
+  <package>exercises.Generalization.MultiPlotter</package>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/src/Student 04/student 04 (3).java" />
+  <problem_class id="WrongPackageStatement" severity="ERROR" attribute_key="ERRORS_ATTRIBUTES">Wrong package statement</problem_class>
+  <description>Package name 'exercises.Generalization.MultiPlotter' does not correspond to the file path 'Student 04'</description>
+  <highlighted_element>exercises.Generalization.MultiPlotter</highlighted_element>
+  <language>JAVA</language>
+  <offset>8</offset>
+  <length>37</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 04/student 04 (4).java</file>
+  <line>1</line>
+  <module>codeSmellsWork</module>
+  <package>exercises.Generalization.MultiPlotter</package>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/src/Student 04/student 04 (4).java" />
+  <problem_class id="WrongPackageStatement" severity="ERROR" attribute_key="ERRORS_ATTRIBUTES">Wrong package statement</problem_class>
+  <description>Package name 'exercises.Generalization.MultiPlotter' does not correspond to the file path 'Student 04'</description>
+  <highlighted_element>exercises.Generalization.MultiPlotter</highlighted_element>
+  <language>JAVA</language>
+  <offset>8</offset>
+  <length>37</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 04/student 04 (5).java</file>
+  <line>1</line>
+  <module>codeSmellsWork</module>
+  <package>exercises.Generalization.MultiPlotter</package>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/src/Student 04/student 04 (5).java" />
+  <problem_class id="WrongPackageStatement" severity="ERROR" attribute_key="ERRORS_ATTRIBUTES">Wrong package statement</problem_class>
+  <description>Package name 'exercises.Generalization.MultiPlotter' does not correspond to the file path 'Student 04'</description>
+  <highlighted_element>exercises.Generalization.MultiPlotter</highlighted_element>
+  <language>JAVA</language>
+  <offset>8</offset>
+  <length>37</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 04/student 04 (6).java</file>
+  <line>1</line>
+  <module>codeSmellsWork</module>
+  <package>exercises.Generalization.MultiPlotter</package>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/src/Student 04/student 04 (6).java" />
+  <problem_class id="WrongPackageStatement" severity="ERROR" attribute_key="ERRORS_ATTRIBUTES">Wrong package statement</problem_class>
+  <description>Package name 'exercises.Generalization.MultiPlotter' does not correspond to the file path 'Student 04'</description>
+  <highlighted_element>exercises.Generalization.MultiPlotter</highlighted_element>
+  <language>JAVA</language>
+  <offset>8</offset>
+  <length>37</length>
+</problem>
+</problems>

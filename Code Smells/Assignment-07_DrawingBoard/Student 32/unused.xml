@@ -1,0 +1,240 @@
+<problems>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 32/student 32.java</file>
+  <line>11</line>
+  <module>codeSmellsWork</module>
+  <package>noapplet.drawingBoard</package>
+  <entry_point TYPE="field" FQNAME="noapplet.drawingBoard.DrawingBoard timer" />
+  <language>JAVA</language>
+  <offset>18</offset>
+  <length>5</length>
+  <highlighted_element>timer</highlighted_element>
+  <problem_class id="unused" severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">unused declaration</problem_class>
+  <hints>
+    <hint value="comment" />
+    <hint value="delete" />
+  </hints>
+  <description>Field is assigned but never accessed.</description>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 32/student 32.java</file>
+  <line>14</line>
+  <module>codeSmellsWork</module>
+  <package>noapplet.drawingBoard</package>
+  <entry_point TYPE="method" FQNAME="noapplet.drawingBoard.DrawingBoard DrawingBoard()" />
+  <language>JAVA</language>
+  <offset>14</offset>
+  <length>12</length>
+  <highlighted_element>DrawingBoard</highlighted_element>
+  <problem_class id="unused" severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">unused declaration</problem_class>
+  <hints>
+    <hint value="comment" />
+    <hint value="delete" />
+  </hints>
+  <description>Constructor is never used.</description>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 32/student 32.java</file>
+  <line>23</line>
+  <module>codeSmellsWork</module>
+  <package>noapplet.drawingBoard</package>
+  <entry_point TYPE="method" FQNAME="noapplet.drawingBoard.DrawingBoard void init()" />
+  <language>JAVA</language>
+  <offset>22</offset>
+  <length>4</length>
+  <highlighted_element>init</highlighted_element>
+  <problem_class id="unused" severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">unused declaration</problem_class>
+  <hints>
+    <hint value="comment" />
+    <hint value="delete" />
+  </hints>
+  <description>Method is never used.</description>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 32/student 32.java</file>
+  <line>33</line>
+  <module>codeSmellsWork</module>
+  <package>noapplet.drawingBoard</package>
+  <entry_point TYPE="method" FQNAME="noapplet.drawingBoard.DrawingBoard void paintComponent(java.awt.Graphics g)" />
+  <language>JAVA</language>
+  <offset>19</offset>
+  <length>14</length>
+  <highlighted_element>paintComponent</highlighted_element>
+  <problem_class id="unused" severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">unused declaration</problem_class>
+  <hints>
+    <hint value="comment" />
+    <hint value="delete" />
+  </hints>
+  <description>Method is never used.</description>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 32/student 32.java</file>
+  <line>59</line>
+  <module>codeSmellsWork</module>
+  <package>noapplet.drawingBoard</package>
+  <entry_point TYPE="method" FQNAME="noapplet.drawingBoard.Shape Shape()" />
+  <language>JAVA</language>
+  <offset>14</offset>
+  <length>5</length>
+  <highlighted_element>Shape</highlighted_element>
+  <problem_class id="unused" severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">unused declaration</problem_class>
+  <hints>
+    <hint value="comment" />
+    <hint value="delete" />
+  </hints>
+  <description>All constructor usages belong to the calls chain that has no members reachable from entry points.</description>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 32/student 32.java</file>
+  <line>61</line>
+  <module>codeSmellsWork</module>
+  <package>noapplet.drawingBoard</package>
+  <entry_point TYPE="method" FQNAME="noapplet.drawingBoard.Shape Shape(int x, int y, java.awt.Color color)" />
+  <language>JAVA</language>
+  <offset>14</offset>
+  <length>5</length>
+  <highlighted_element>Shape</highlighted_element>
+  <problem_class id="unused" severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">unused declaration</problem_class>
+  <hints>
+    <hint value="comment" />
+    <hint value="delete" />
+  </hints>
+  <description>Constructor is never used.</description>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 32/student 32.java</file>
+  <line>66</line>
+  <module>codeSmellsWork</module>
+  <package>noapplet.drawingBoard</package>
+  <entry_point TYPE="method" FQNAME="noapplet.drawingBoard.Shape void draw(java.awt.Graphics g)" />
+  <language>JAVA</language>
+  <offset>25</offset>
+  <length>4</length>
+  <highlighted_element>draw</highlighted_element>
+  <problem_class id="unused" severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">unused declaration</problem_class>
+  <hints>
+    <hint value="comment" />
+    <hint value="delete" />
+  </hints>
+  <description>&lt;ul&gt;&lt;li&gt;Abstract method is not implemented OR&lt;/li&gt;&lt;li&gt;Implementation class is never instantiated OR&lt;/li&gt;&lt;li&gt;An instantiation is not reachable from entry points.&lt;/li&gt;&lt;/ul&gt;</description>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 32/student 32.java</file>
+  <line>67</line>
+  <module>codeSmellsWork</module>
+  <package>noapplet.drawingBoard</package>
+  <entry_point TYPE="method" FQNAME="noapplet.drawingBoard.Shape int getX()" />
+  <language>JAVA</language>
+  <offset>15</offset>
+  <length>4</length>
+  <highlighted_element>getX</highlighted_element>
+  <problem_class id="unused" severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">unused declaration</problem_class>
+  <hints>
+    <hint value="comment" />
+    <hint value="delete" />
+  </hints>
+  <description>&lt;ul&gt;&lt;li&gt;Method owner class is never instantiated OR&lt;/li&gt;&lt;li&gt;An instantiation is not reachable from entry points.&lt;/li&gt;&lt;/ul&gt;</description>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 32/student 32.java</file>
+  <line>68</line>
+  <module>codeSmellsWork</module>
+  <package>noapplet.drawingBoard</package>
+  <entry_point TYPE="method" FQNAME="noapplet.drawingBoard.Shape int getY()" />
+  <language>JAVA</language>
+  <offset>15</offset>
+  <length>4</length>
+  <highlighted_element>getY</highlighted_element>
+  <problem_class id="unused" severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">unused declaration</problem_class>
+  <hints>
+    <hint value="comment" />
+    <hint value="delete" />
+  </hints>
+  <description>&lt;ul&gt;&lt;li&gt;Method owner class is never instantiated OR&lt;/li&gt;&lt;li&gt;An instantiation is not reachable from entry points.&lt;/li&gt;&lt;/ul&gt;</description>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 32/student 32.java</file>
+  <line>69</line>
+  <module>codeSmellsWork</module>
+  <package>noapplet.drawingBoard</package>
+  <entry_point TYPE="method" FQNAME="noapplet.drawingBoard.Shape java.awt.Color getColor()" />
+  <language>JAVA</language>
+  <offset>17</offset>
+  <length>8</length>
+  <highlighted_element>getColor</highlighted_element>
+  <problem_class id="unused" severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">unused declaration</problem_class>
+  <hints>
+    <hint value="comment" />
+    <hint value="delete" />
+  </hints>
+  <description>&lt;ul&gt;&lt;li&gt;Method owner class is never instantiated OR&lt;/li&gt;&lt;li&gt;An instantiation is not reachable from entry points.&lt;/li&gt;&lt;/ul&gt;</description>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 32/student 32.java</file>
+  <line>74</line>
+  <module>codeSmellsWork</module>
+  <package>noapplet.drawingBoard</package>
+  <entry_point TYPE="field" FQNAME="noapplet.drawingBoard.Triangle size" />
+  <language>JAVA</language>
+  <offset>16</offset>
+  <length>4</length>
+  <highlighted_element>size</highlighted_element>
+  <problem_class id="unused" severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">unused declaration</problem_class>
+  <hints>
+    <hint value="comment" />
+    <hint value="delete" />
+  </hints>
+  <description>Field is assigned but never accessed.</description>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 32/student 32.java</file>
+  <line>76</line>
+  <module>codeSmellsWork</module>
+  <package>noapplet.drawingBoard</package>
+  <entry_point TYPE="method" FQNAME="noapplet.drawingBoard.Triangle Triangle(int size)" />
+  <language>JAVA</language>
+  <offset>11</offset>
+  <length>8</length>
+  <highlighted_element>Triangle</highlighted_element>
+  <problem_class id="unused" severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">unused declaration</problem_class>
+  <hints>
+    <hint value="comment" />
+    <hint value="delete" />
+  </hints>
+  <description>All constructor usages belong to the calls chain that has no members reachable from entry points.</description>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 32/student 32.java</file>
+  <line>88</line>
+  <module>codeSmellsWork</module>
+  <package>noapplet.drawingBoard</package>
+  <entry_point TYPE="method" FQNAME="noapplet.drawingBoard.circle circle(int x, int y, int size)" />
+  <language>JAVA</language>
+  <offset>11</offset>
+  <length>6</length>
+  <highlighted_element>circle</highlighted_element>
+  <problem_class id="unused" severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">unused declaration</problem_class>
+  <hints>
+    <hint value="comment" />
+    <hint value="delete" />
+  </hints>
+  <description>All constructor usages belong to the calls chain that has no members reachable from entry points.</description>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 32/student 32.java</file>
+  <line>101</line>
+  <module>codeSmellsWork</module>
+  <package>noapplet.drawingBoard</package>
+  <entry_point TYPE="method" FQNAME="noapplet.drawingBoard.square square(int x, int y, int size)" />
+  <language>JAVA</language>
+  <offset>11</offset>
+  <length>6</length>
+  <highlighted_element>square</highlighted_element>
+  <problem_class id="unused" severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">unused declaration</problem_class>
+  <hints>
+    <hint value="comment" />
+    <hint value="delete" />
+  </hints>
+  <description>All constructor usages belong to the calls chain that has no members reachable from entry points.</description>
+</problem>
+</problems>

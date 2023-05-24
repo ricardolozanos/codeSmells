@@ -1,0 +1,41 @@
+<problems>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 42/Student 42.java</file>
+  <line>2</line>
+  <module>codeSmellsWork</module>
+  <package>noapplet.JavaChat</package>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/src/Student 42/Student 42.java" />
+  <problem_class id="SingleClassImport" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Single class import</problem_class>
+  <description>Single class import &lt;code&gt;import java.awt.FlowLayout;&lt;/code&gt; #loc</description>
+  <highlighted_element>import java.awt.FlowLayout;</highlighted_element>
+  <language>JAVA</language>
+  <offset>0</offset>
+  <length>27</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 42/Student 42.java</file>
+  <line>3</line>
+  <module>codeSmellsWork</module>
+  <package>noapplet.JavaChat</package>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/src/Student 42/Student 42.java" />
+  <problem_class id="SingleClassImport" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Single class import</problem_class>
+  <description>Single class import &lt;code&gt;import java.awt.BorderLayout;&lt;/code&gt; #loc</description>
+  <highlighted_element>import java.awt.BorderLayout;</highlighted_element>
+  <language>JAVA</language>
+  <offset>0</offset>
+  <length>29</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 42/Student 42.java</file>
+  <line>4</line>
+  <module>codeSmellsWork</module>
+  <package>noapplet.JavaChat</package>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/src/Student 42/Student 42.java" />
+  <problem_class id="SingleClassImport" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Single class import</problem_class>
+  <description>Single class import &lt;code&gt;import java.awt.Dimension;&lt;/code&gt; #loc</description>
+  <highlighted_element>import java.awt.Dimension;</highlighted_element>
+  <language>JAVA</language>
+  <offset>0</offset>
+  <length>26</length>
+</problem>
+</problems>

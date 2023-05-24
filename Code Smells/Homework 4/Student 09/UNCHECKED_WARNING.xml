@@ -1,0 +1,15 @@
+<problems>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 09/student 09 (6).java</file>
+  <line>128</line>
+  <module>codeSmellsWork</module>
+  <package>OmokBoard</package>
+  <entry_point TYPE="field" FQNAME="OmokBoard.BoardPanel listeners" />
+  <problem_class id="UNCHECKED_WARNING" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Unchecked warning</problem_class>
+  <description>Unchecked assignment: 'java.util.ArrayList' to 'java.util.List&lt;OmokBoard.BoardPanel.BoardChangeListener&gt;'</description>
+  <highlighted_element>ArrayList</highlighted_element>
+  <language>JAVA</language>
+  <offset>57</offset>
+  <length>9</length>
+</problem>
+</problems>

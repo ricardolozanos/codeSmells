@@ -1,0 +1,15 @@
+<problems>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 17/student 17.java</file>
+  <line>95</line>
+  <module>codeSmellsWork</module>
+  <package>&lt;default&gt;</package>
+  <entry_point TYPE="method" FQNAME="DrawingBoard.Rectangle void draw(java.awt.Graphics g)" />
+  <problem_class id="SuspiciousNameCombination" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Suspicious variable/parameter name combination</problem_class>
+  <description>'width' should probably not be passed as parameter 'height'</description>
+  <highlighted_element>width</highlighted_element>
+  <language>JAVA</language>
+  <offset>37</offset>
+  <length>5</length>
+</problem>
+</problems>

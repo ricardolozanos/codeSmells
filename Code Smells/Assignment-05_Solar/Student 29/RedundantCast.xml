@@ -1,0 +1,54 @@
+<problems>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 29/student 29 (1).java</file>
+  <line>35</line>
+  <module>codeSmellsWork</module>
+  <package>SolarSystem</package>
+  <entry_point TYPE="method" FQNAME="SolarSystem.Moon void drawMoon(java.awt.Graphics g)" />
+  <problem_class id="RedundantCast" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Redundant type cast</problem_class>
+  <description>Casting &lt;code&gt;x&lt;/code&gt; to &lt;code&gt;int&lt;/code&gt; is redundant</description>
+  <highlighted_element>int</highlighted_element>
+  <language>JAVA</language>
+  <offset>14</offset>
+  <length>3</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 29/student 29 (1).java</file>
+  <line>35</line>
+  <module>codeSmellsWork</module>
+  <package>SolarSystem</package>
+  <entry_point TYPE="method" FQNAME="SolarSystem.Moon void drawMoon(java.awt.Graphics g)" />
+  <problem_class id="RedundantCast" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Redundant type cast</problem_class>
+  <description>Casting &lt;code&gt;y&lt;/code&gt; to &lt;code&gt;int&lt;/code&gt; is redundant</description>
+  <highlighted_element>int</highlighted_element>
+  <language>JAVA</language>
+  <offset>34</offset>
+  <length>3</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 29/student 29 (2).java</file>
+  <line>47</line>
+  <module>codeSmellsWork</module>
+  <package>SolarSystem</package>
+  <entry_point TYPE="method" FQNAME="SolarSystem.Planet void drawPlanet(java.awt.Graphics g)" />
+  <problem_class id="RedundantCast" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Redundant type cast</problem_class>
+  <description>Casting &lt;code&gt;x&lt;/code&gt; to &lt;code&gt;int&lt;/code&gt; is redundant</description>
+  <highlighted_element>int</highlighted_element>
+  <language>JAVA</language>
+  <offset>14</offset>
+  <length>3</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 29/student 29 (2).java</file>
+  <line>47</line>
+  <module>codeSmellsWork</module>
+  <package>SolarSystem</package>
+  <entry_point TYPE="method" FQNAME="SolarSystem.Planet void drawPlanet(java.awt.Graphics g)" />
+  <problem_class id="RedundantCast" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Redundant type cast</problem_class>
+  <description>Casting &lt;code&gt;y&lt;/code&gt; to &lt;code&gt;int&lt;/code&gt; is redundant</description>
+  <highlighted_element>int</highlighted_element>
+  <language>JAVA</language>
+  <offset>34</offset>
+  <length>3</length>
+</problem>
+</problems>

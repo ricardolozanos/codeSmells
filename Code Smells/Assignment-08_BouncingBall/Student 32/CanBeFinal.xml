@@ -1,0 +1,30 @@
+<problems>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 32/student 32 (1).java</file>
+  <line>68</line>
+  <module>codeSmellsWork</module>
+  <package>noapplet.BouncingBalls</package>
+  <entry_point TYPE="field" FQNAME="noapplet.BouncingBalls.BouncingBalls rand" />
+  <problem_class id="CanBeFinal" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Declaration can have 'final' modifier</problem_class>
+  <hints />
+  <description>Declaration can have final modifier</description>
+  <highlighted_element>rand</highlighted_element>
+  <language>JAVA</language>
+  <offset>11</offset>
+  <length>4</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 32/student 32 (1).java</file>
+  <line>69</line>
+  <module>codeSmellsWork</module>
+  <package>noapplet.BouncingBalls</package>
+  <entry_point TYPE="field" FQNAME="noapplet.BouncingBalls.BouncingBalls radius" />
+  <problem_class id="CanBeFinal" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Declaration can have 'final' modifier</problem_class>
+  <hints />
+  <description>Declaration can have final modifier</description>
+  <highlighted_element>radius</highlighted_element>
+  <language>JAVA</language>
+  <offset>16</offset>
+  <length>6</length>
+</problem>
+</problems>

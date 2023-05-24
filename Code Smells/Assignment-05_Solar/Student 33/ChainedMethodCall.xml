@@ -1,0 +1,28 @@
+<problems>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 33/Student 33.java</file>
+  <line>19</line>
+  <module>codeSmellsWork</module>
+  <package>noapplet.example.solar</package>
+  <entry_point TYPE="method" FQNAME="noapplet.example.solar.Main void paintComponent(java.awt.Graphics g)" />
+  <problem_class id="ChainedMethodCall" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Chained method calls</problem_class>
+  <description>Chained method call &lt;code&gt;getTime()&lt;/code&gt; #loc</description>
+  <highlighted_element>getTime</highlighted_element>
+  <language>JAVA</language>
+  <offset>32</offset>
+  <length>7</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 33/Student 33.java</file>
+  <line>23</line>
+  <module>codeSmellsWork</module>
+  <package>noapplet.example.solar</package>
+  <entry_point TYPE="method" FQNAME="noapplet.example.solar.Main void main(java.lang.String[] args)" />
+  <problem_class id="ChainedMethodCall" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Chained method calls</problem_class>
+  <description>Chained method call &lt;code&gt;run()&lt;/code&gt; #loc</description>
+  <highlighted_element>run</highlighted_element>
+  <language>JAVA</language>
+  <offset>19</offset>
+  <length>3</length>
+</problem>
+</problems>

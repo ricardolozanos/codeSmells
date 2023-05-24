@@ -1,0 +1,16 @@
+<problems>
+<problem>
+  <file>file://$PROJECT_DIR$/src/student 13/Student 13 (2).java</file>
+  <line>13</line>
+  <module>codeSmellsWork</module>
+  <package>noapplet.balloon</package>
+  <entry_point TYPE="field" FQNAME="noapplet.balloon.Balloon diff" />
+  <problem_class id="CanBeFinal" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Declaration can have 'final' modifier</problem_class>
+  <hints />
+  <description>Declaration can have final modifier</description>
+  <highlighted_element>diff</highlighted_element>
+  <language>JAVA</language>
+  <offset>15</offset>
+  <length>4</length>
+</problem>
+</problems>

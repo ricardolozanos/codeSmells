@@ -1,0 +1,15 @@
+<problems>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 17/student 17.java</file>
+  <line>41</line>
+  <module>codeSmellsWork</module>
+  <package>&lt;default&gt;</package>
+  <entry_point TYPE="class" FQNAME="DrawingBoard.Shape" />
+  <problem_class id="InnerClassMayBeStatic" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Inner class may be 'static'</problem_class>
+  <description>Inner class &lt;code&gt;Shape&lt;/code&gt; may be 'static' #loc</description>
+  <highlighted_element>Shape</highlighted_element>
+  <language>JAVA</language>
+  <offset>27</offset>
+  <length>5</length>
+</problem>
+</problems>

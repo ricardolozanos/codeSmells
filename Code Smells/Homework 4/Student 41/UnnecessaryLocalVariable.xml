@@ -1,0 +1,41 @@
+<problems>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 41/student 41 (5).java</file>
+  <line>209</line>
+  <module>codeSmellsWork</module>
+  <package>noapplet</package>
+  <entry_point TYPE="method" FQNAME="noapplet.Game int[] computerTurn()" />
+  <problem_class id="UnnecessaryLocalVariable" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Redundant local variable</problem_class>
+  <description>Local variable &lt;code&gt;a&lt;/code&gt; is redundant #loc</description>
+  <highlighted_element>a</highlighted_element>
+  <language>JAVA</language>
+  <offset>30</offset>
+  <length>1</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 41/student 41 (5).java</file>
+  <line>219</line>
+  <module>codeSmellsWork</module>
+  <package>noapplet</package>
+  <entry_point TYPE="method" FQNAME="noapplet.Game int[] computerTurn()" />
+  <problem_class id="UnnecessaryLocalVariable" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Redundant local variable</problem_class>
+  <description>Local variable &lt;code&gt;a&lt;/code&gt; is redundant #loc</description>
+  <highlighted_element>a</highlighted_element>
+  <language>JAVA</language>
+  <offset>30</offset>
+  <length>1</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 41/student 41 (5).java</file>
+  <line>236</line>
+  <module>codeSmellsWork</module>
+  <package>noapplet</package>
+  <entry_point TYPE="method" FQNAME="noapplet.Game int[] computerTurn()" />
+  <problem_class id="UnnecessaryLocalVariable" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Redundant local variable</problem_class>
+  <description>Local variable &lt;code&gt;a&lt;/code&gt; is redundant #loc</description>
+  <highlighted_element>a</highlighted_element>
+  <language>JAVA</language>
+  <offset>14</offset>
+  <length>1</length>
+</problem>
+</problems>

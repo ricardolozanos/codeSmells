@@ -1,0 +1,80 @@
+<problems>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 27/student 27 (7).java</file>
+  <line>24</line>
+  <module>codeSmellsWork</module>
+  <package>Solar</package>
+  <entry_point TYPE="method" FQNAME="Solar.Planet Planet(int distance, int radius, double angle, java.awt.Color color, double speed, Sun sun, int moonCount)" />
+  <problem_class id="AccessStaticViaInstance" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Access static member via instance reference</problem_class>
+  <description>Static member 'java.awt.Color.YELLOW' accessed via instance reference</description>
+  <highlighted_element>color.YELLOW</highlighted_element>
+  <language>JAVA</language>
+  <offset>38</offset>
+  <length>12</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 27/student 27 (7).java</file>
+  <line>27</line>
+  <module>codeSmellsWork</module>
+  <package>Solar</package>
+  <entry_point TYPE="method" FQNAME="Solar.Planet Planet(int distance, int radius, double angle, java.awt.Color color, double speed, Sun sun, int moonCount)" />
+  <problem_class id="AccessStaticViaInstance" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Access static member via instance reference</problem_class>
+  <description>Static member 'java.awt.Color.YELLOW' accessed via instance reference</description>
+  <highlighted_element>color.YELLOW</highlighted_element>
+  <language>JAVA</language>
+  <offset>38</offset>
+  <length>12</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 27/student 27 (7).java</file>
+  <line>28</line>
+  <module>codeSmellsWork</module>
+  <package>Solar</package>
+  <entry_point TYPE="method" FQNAME="Solar.Planet Planet(int distance, int radius, double angle, java.awt.Color color, double speed, Sun sun, int moonCount)" />
+  <problem_class id="AccessStaticViaInstance" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Access static member via instance reference</problem_class>
+  <description>Static member 'java.awt.Color.BLUE' accessed via instance reference</description>
+  <highlighted_element>color.BLUE</highlighted_element>
+  <language>JAVA</language>
+  <offset>39</offset>
+  <length>10</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 27/student 27 (7).java</file>
+  <line>31</line>
+  <module>codeSmellsWork</module>
+  <package>Solar</package>
+  <entry_point TYPE="method" FQNAME="Solar.Planet Planet(int distance, int radius, double angle, java.awt.Color color, double speed, Sun sun, int moonCount)" />
+  <problem_class id="AccessStaticViaInstance" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Access static member via instance reference</problem_class>
+  <description>Static member 'java.awt.Color.YELLOW' accessed via instance reference</description>
+  <highlighted_element>color.YELLOW</highlighted_element>
+  <language>JAVA</language>
+  <offset>38</offset>
+  <length>12</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 27/student 27 (7).java</file>
+  <line>32</line>
+  <module>codeSmellsWork</module>
+  <package>Solar</package>
+  <entry_point TYPE="method" FQNAME="Solar.Planet Planet(int distance, int radius, double angle, java.awt.Color color, double speed, Sun sun, int moonCount)" />
+  <problem_class id="AccessStaticViaInstance" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Access static member via instance reference</problem_class>
+  <description>Static member 'java.awt.Color.BLUE' accessed via instance reference</description>
+  <highlighted_element>color.BLUE</highlighted_element>
+  <language>JAVA</language>
+  <offset>38</offset>
+  <length>10</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 27/student 27 (7).java</file>
+  <line>33</line>
+  <module>codeSmellsWork</module>
+  <package>Solar</package>
+  <entry_point TYPE="method" FQNAME="Solar.Planet Planet(int distance, int radius, double angle, java.awt.Color color, double speed, Sun sun, int moonCount)" />
+  <problem_class id="AccessStaticViaInstance" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Access static member via instance reference</problem_class>
+  <description>Static member 'java.awt.Color.ORANGE' accessed via instance reference</description>
+  <highlighted_element>color.ORANGE</highlighted_element>
+  <language>JAVA</language>
+  <offset>39</offset>
+  <length>12</length>
+</problem>
+</problems>

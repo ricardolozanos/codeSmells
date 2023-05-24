@@ -1,0 +1,15 @@
+<problems>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 15/student 15 (9).java</file>
+  <line>113</line>
+  <module>codeSmellsWork</module>
+  <package>&lt;default&gt;</package>
+  <entry_point TYPE="method" FQNAME="GameBoard java.lang.String encodeBoard()" />
+  <problem_class id="StringConcatenationInLoops" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">String concatenation in loop</problem_class>
+  <description>String concatenation &lt;code&gt;+=&lt;/code&gt; in loop #loc</description>
+  <highlighted_element>+=</highlighted_element>
+  <language>JAVA</language>
+  <offset>20</offset>
+  <length>2</length>
+</problem>
+</problems>

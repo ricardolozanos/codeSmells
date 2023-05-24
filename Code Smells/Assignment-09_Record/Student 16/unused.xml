@@ -1,0 +1,19 @@
+<problems>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 16/Student 16.java</file>
+  <line>7</line>
+  <module>codeSmellsWork</module>
+  <package>noapplet</package>
+  <entry_point TYPE="method" FQNAME="noapplet.RecordE.Place boolean equals()" />
+  <language>JAVA</language>
+  <offset>17</offset>
+  <length>6</length>
+  <highlighted_element>equals</highlighted_element>
+  <problem_class id="unused" severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">unused declaration</problem_class>
+  <hints>
+    <hint value="comment" />
+    <hint value="delete" />
+  </hints>
+  <description>Method is never used.</description>
+</problem>
+</problems>

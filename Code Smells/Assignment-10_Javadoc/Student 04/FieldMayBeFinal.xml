@@ -1,0 +1,28 @@
+<problems>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 04/student 04 (1).java</file>
+  <line>16</line>
+  <module>codeSmellsWork</module>
+  <package>noapplet.assignments.HW2</package>
+  <entry_point TYPE="field" FQNAME="noapplet.assignments.HW2.Board board" />
+  <problem_class id="FieldMayBeFinal" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Field may be 'final'</problem_class>
+  <description>Field &lt;code&gt;board&lt;/code&gt; may be 'final' #loc</description>
+  <highlighted_element>board</highlighted_element>
+  <language>JAVA</language>
+  <offset>21</offset>
+  <length>5</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 04/student 04 (1).java</file>
+  <line>18</line>
+  <module>codeSmellsWork</module>
+  <package>noapplet.assignments.HW2</package>
+  <entry_point TYPE="field" FQNAME="noapplet.assignments.HW2.Board size" />
+  <problem_class id="FieldMayBeFinal" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Field may be 'final'</problem_class>
+  <description>Field &lt;code&gt;size&lt;/code&gt; may be 'final' #loc</description>
+  <highlighted_element>size</highlighted_element>
+  <language>JAVA</language>
+  <offset>16</offset>
+  <length>4</length>
+</problem>
+</problems>

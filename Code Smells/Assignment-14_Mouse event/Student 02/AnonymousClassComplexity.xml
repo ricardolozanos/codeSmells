@@ -1,0 +1,41 @@
+<problems>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 02/student 02 (1).java</file>
+  <line>28</line>
+  <module>codeSmellsWork</module>
+  <package>noapplet.Counter</package>
+  <entry_point TYPE="class" FQNAME="noapplet.Counter.Counter$1" />
+  <problem_class id="AnonymousClassComplexity" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Overly complex anonymous class</problem_class>
+  <description>Overly complex anonymous class (cyclomatic complexity = 5) #loc</description>
+  <highlighted_element>MouseListener</highlighted_element>
+  <language>JAVA</language>
+  <offset>39</offset>
+  <length>13</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 02/student 02 (1).java</file>
+  <line>67</line>
+  <module>codeSmellsWork</module>
+  <package>noapplet.Counter</package>
+  <entry_point TYPE="class" FQNAME="noapplet.Counter.Counter$3" />
+  <problem_class id="AnonymousClassComplexity" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Overly complex anonymous class</problem_class>
+  <description>Overly complex anonymous class (cyclomatic complexity = 5) #loc</description>
+  <highlighted_element>MouseListener</highlighted_element>
+  <language>JAVA</language>
+  <offset>35</offset>
+  <length>13</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 02/student 02 (1).java</file>
+  <line>105</line>
+  <module>codeSmellsWork</module>
+  <package>noapplet.Counter</package>
+  <entry_point TYPE="class" FQNAME="noapplet.Counter.Counter$5" />
+  <problem_class id="AnonymousClassComplexity" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Overly complex anonymous class</problem_class>
+  <description>Overly complex anonymous class (cyclomatic complexity = 5) #loc</description>
+  <highlighted_element>MouseListener</highlighted_element>
+  <language>JAVA</language>
+  <offset>39</offset>
+  <length>13</length>
+</problem>
+</problems>

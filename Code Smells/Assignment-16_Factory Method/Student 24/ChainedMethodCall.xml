@@ -1,0 +1,28 @@
+<problems>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 27/student 27 (1).java</file>
+  <line>28</line>
+  <module>codeSmellsWork</module>
+  <package>bouncing_Ball</package>
+  <entry_point TYPE="method" FQNAME="bouncing_Ball.EnhancedModularBalloonApp void main(java.lang.String[] args)" />
+  <problem_class id="ChainedMethodCall" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Chained method calls</problem_class>
+  <description>Chained method call &lt;code&gt;run()&lt;/code&gt; #loc</description>
+  <highlighted_element>run</highlighted_element>
+  <language>JAVA</language>
+  <offset>40</offset>
+  <length>3</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 27/student 27 (4).java</file>
+  <line>28</line>
+  <module>codeSmellsWork</module>
+  <package>bouncing_Ball</package>
+  <entry_point TYPE="method" FQNAME="bouncing_Ball.ModularBalloonApp void main(java.lang.String[] args)" />
+  <problem_class id="ChainedMethodCall" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Chained method calls</problem_class>
+  <description>Chained method call &lt;code&gt;run()&lt;/code&gt; #loc</description>
+  <highlighted_element>run</highlighted_element>
+  <language>JAVA</language>
+  <offset>32</offset>
+  <length>3</length>
+</problem>
+</problems>

@@ -1,0 +1,15 @@
+<problems>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 04/student 04 (2).java</file>
+  <line>9</line>
+  <module>codeSmellsWork</module>
+  <package>noapplet.assignments.HW2</package>
+  <entry_point TYPE="field" FQNAME="noapplet.assignments.HW2.ConsoleUI scanner" />
+  <problem_class id="FieldMayBeFinal" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Field may be 'final'</problem_class>
+  <description>Field &lt;code&gt;scanner&lt;/code&gt; may be 'final' #loc</description>
+  <highlighted_element>scanner</highlighted_element>
+  <language>JAVA</language>
+  <offset>20</offset>
+  <length>7</length>
+</problem>
+</problems>

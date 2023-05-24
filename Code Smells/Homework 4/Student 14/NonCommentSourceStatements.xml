@@ -1,0 +1,28 @@
+<problems>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 14/student 14 (10).java</file>
+  <line>30</line>
+  <module>codeSmellsWork</module>
+  <package>game.GUI</package>
+  <entry_point TYPE="method" FQNAME="game.GUI.Omokui Omokui()" />
+  <problem_class id="NonCommentSourceStatements" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Overly long method</problem_class>
+  <description>&lt;code&gt;Omokui&lt;/code&gt; is too long (# Non-comment source statements = 65) #loc</description>
+  <highlighted_element>Omokui</highlighted_element>
+  <language>JAVA</language>
+  <offset>11</offset>
+  <length>6</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 14/student 14 (2).java</file>
+  <line>27</line>
+  <module>codeSmellsWork</module>
+  <package>game</package>
+  <entry_point TYPE="method" FQNAME="game.board boolean windetect(int[] lastPlaced)" />
+  <problem_class id="NonCommentSourceStatements" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Overly long method</problem_class>
+  <description>&lt;code&gt;windetect&lt;/code&gt; is too long (# Non-comment source statements = 186) #loc</description>
+  <highlighted_element>windetect</highlighted_element>
+  <language>JAVA</language>
+  <offset>19</offset>
+  <length>9</length>
+</problem>
+</problems>

@@ -1,0 +1,138 @@
+<problems>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 34/Student 34.java</file>
+  <line>17</line>
+  <module>codeSmellsWork</module>
+  <package>noapplet.solarsystem</package>
+  <entry_point TYPE="field" FQNAME="noapplet.solarsystem.ssMain planet" />
+  <language>JAVA</language>
+  <offset>19</offset>
+  <length>6</length>
+  <highlighted_element>planet</highlighted_element>
+  <problem_class id="unused" severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">unused declaration</problem_class>
+  <hints>
+    <hint value="comment" />
+    <hint value="delete" />
+  </hints>
+  <description>Field has no usages.</description>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 34/Student 34.java</file>
+  <line>20</line>
+  <module>codeSmellsWork</module>
+  <package>noapplet.solarsystem</package>
+  <entry_point TYPE="method" FQNAME="noapplet.solarsystem.ssMain void paintComponent(java.awt.Graphics g)" />
+  <language>JAVA</language>
+  <offset>19</offset>
+  <length>14</length>
+  <highlighted_element>paintComponent</highlighted_element>
+  <problem_class id="unused" severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">unused declaration</problem_class>
+  <hints>
+    <hint value="comment" />
+    <hint value="delete" />
+  </hints>
+  <description>Method is never used.</description>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 34/Student 34.java</file>
+  <line>42</line>
+  <module>codeSmellsWork</module>
+  <package>noapplet.solarsystem</package>
+  <entry_point TYPE="method" FQNAME="noapplet.solarsystem.ssMain void initAnimation()" />
+  <language>JAVA</language>
+  <offset>19</offset>
+  <length>13</length>
+  <highlighted_element>initAnimation</highlighted_element>
+  <problem_class id="unused" severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">unused declaration</problem_class>
+  <hints>
+    <hint value="comment" />
+    <hint value="delete" />
+  </hints>
+  <description>Method is never used.</description>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 34/Student 34.java</file>
+  <line>60</line>
+  <module>codeSmellsWork</module>
+  <package>noapplet.solarsystem</package>
+  <entry_point TYPE="method" FQNAME="noapplet.solarsystem.Sun Sun(int x, int y, int radius, java.awt.Color color)" />
+  <language>JAVA</language>
+  <offset>11</offset>
+  <length>3</length>
+  <highlighted_element>Sun</highlighted_element>
+  <problem_class id="unused" severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">unused declaration</problem_class>
+  <hints>
+    <hint value="comment" />
+    <hint value="delete" />
+  </hints>
+  <description>All constructor usages belong to the calls chain that has no members reachable from entry points.</description>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 34/Student 34.java</file>
+  <line>89</line>
+  <module>codeSmellsWork</module>
+  <package>noapplet.solarsystem</package>
+  <entry_point TYPE="method" FQNAME="noapplet.solarsystem.Sun int getY()" />
+  <language>JAVA</language>
+  <offset>15</offset>
+  <length>4</length>
+  <highlighted_element>getY</highlighted_element>
+  <problem_class id="unused" severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">unused declaration</problem_class>
+  <hints>
+    <hint value="comment" />
+    <hint value="delete" />
+  </hints>
+  <description>&lt;ul&gt;&lt;li&gt;Method owner class is never instantiated OR&lt;/li&gt;&lt;li&gt;An instantiation is not reachable from entry points.&lt;/li&gt;&lt;/ul&gt;</description>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 34/Student 34.java</file>
+  <line>101</line>
+  <module>codeSmellsWork</module>
+  <package>noapplet.solarsystem</package>
+  <entry_point TYPE="method" FQNAME="noapplet.solarsystem.Planet Planet(int distance, int radius, int angle, java.awt.Color color, noapplet.solarsystem.Sun sun)" />
+  <language>JAVA</language>
+  <offset>11</offset>
+  <length>6</length>
+  <highlighted_element>Planet</highlighted_element>
+  <problem_class id="unused" severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">unused declaration</problem_class>
+  <hints>
+    <hint value="comment" />
+    <hint value="delete" />
+  </hints>
+  <description>All constructor usages belong to the calls chain that has no members reachable from entry points.</description>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 34/Student 34.java</file>
+  <line>122</line>
+  <module>codeSmellsWork</module>
+  <package>noapplet.solarsystem</package>
+  <entry_point TYPE="method" FQNAME="noapplet.solarsystem.Planet int getX()" />
+  <language>JAVA</language>
+  <offset>15</offset>
+  <length>4</length>
+  <highlighted_element>getX</highlighted_element>
+  <problem_class id="unused" severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">unused declaration</problem_class>
+  <hints>
+    <hint value="comment" />
+    <hint value="delete" />
+  </hints>
+  <description>&lt;ul&gt;&lt;li&gt;Method owner class is never instantiated OR&lt;/li&gt;&lt;li&gt;An instantiation is not reachable from entry points.&lt;/li&gt;&lt;/ul&gt;</description>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 34/Student 34.java</file>
+  <line>128</line>
+  <module>codeSmellsWork</module>
+  <package>noapplet.solarsystem</package>
+  <entry_point TYPE="method" FQNAME="noapplet.solarsystem.Planet int getY()" />
+  <language>JAVA</language>
+  <offset>15</offset>
+  <length>4</length>
+  <highlighted_element>getY</highlighted_element>
+  <problem_class id="unused" severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">unused declaration</problem_class>
+  <hints>
+    <hint value="comment" />
+    <hint value="delete" />
+  </hints>
+  <description>&lt;ul&gt;&lt;li&gt;Method owner class is never instantiated OR&lt;/li&gt;&lt;li&gt;An instantiation is not reachable from entry points.&lt;/li&gt;&lt;/ul&gt;</description>
+</problem>
+</problems>

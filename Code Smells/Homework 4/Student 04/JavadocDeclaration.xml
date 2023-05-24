@@ -1,0 +1,262 @@
+<problems>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 04/student 04 (1).java</file>
+  <line>91</line>
+  <module>codeSmellsWork</module>
+  <package>HW4_GUI.console</package>
+  <entry_point TYPE="method" FQNAME="HW4_GUI.console.Board boolean hasWinner(int row, int col)" />
+  <problem_class id="JavadocDeclaration" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Javadoc declaration problems</problem_class>
+  <description>&lt;code&gt;@param row&lt;/code&gt; tag description is missing</description>
+  <highlighted_element>row</highlighted_element>
+  <language>JAVA</language>
+  <offset>14</offset>
+  <length>3</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 04/student 04 (1).java</file>
+  <line>92</line>
+  <module>codeSmellsWork</module>
+  <package>HW4_GUI.console</package>
+  <entry_point TYPE="method" FQNAME="HW4_GUI.console.Board boolean hasWinner(int row, int col)" />
+  <problem_class id="JavadocDeclaration" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Javadoc declaration problems</problem_class>
+  <description>&lt;code&gt;@param col&lt;/code&gt; tag description is missing</description>
+  <highlighted_element>col</highlighted_element>
+  <language>JAVA</language>
+  <offset>14</offset>
+  <length>3</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 04/student 04 (1).java</file>
+  <line>164</line>
+  <module>codeSmellsWork</module>
+  <package>HW4_GUI.console</package>
+  <entry_point TYPE="method" FQNAME="HW4_GUI.console.Board Coordinate getSuggestion(char playerSymbol)" />
+  <problem_class id="JavadocDeclaration" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Javadoc declaration problems</problem_class>
+  <description>&lt;code&gt;@param playerSymbol&lt;/code&gt; tag description is missing</description>
+  <highlighted_element>playerSymbol</highlighted_element>
+  <language>JAVA</language>
+  <offset>14</offset>
+  <length>12</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 04/student 04 (1).java</file>
+  <line>213</line>
+  <module>codeSmellsWork</module>
+  <package>HW4_GUI.console</package>
+  <entry_point TYPE="method" FQNAME="HW4_GUI.console.Board boolean isCellEmpty(int row, int col)" />
+  <problem_class id="JavadocDeclaration" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Javadoc declaration problems</problem_class>
+  <description>&lt;code&gt;@param row&lt;/code&gt; tag description is missing</description>
+  <highlighted_element>row</highlighted_element>
+  <language>JAVA</language>
+  <offset>14</offset>
+  <length>3</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 04/student 04 (1).java</file>
+  <line>214</line>
+  <module>codeSmellsWork</module>
+  <package>HW4_GUI.console</package>
+  <entry_point TYPE="method" FQNAME="HW4_GUI.console.Board boolean isCellEmpty(int row, int col)" />
+  <problem_class id="JavadocDeclaration" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Javadoc declaration problems</problem_class>
+  <description>&lt;code&gt;@param col&lt;/code&gt; tag description is missing</description>
+  <highlighted_element>col</highlighted_element>
+  <language>JAVA</language>
+  <offset>14</offset>
+  <length>3</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 04/student 04 (2).java</file>
+  <line>91</line>
+  <module>codeSmellsWork</module>
+  <package>HW4_GUI</package>
+  <entry_point TYPE="method" FQNAME="HW4_GUI.BoardController void setCurrentPlayer(HW4_GUI.console.Player currentPlayer)" />
+  <problem_class id="JavadocDeclaration" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Javadoc declaration problems</problem_class>
+  <description>&lt;code&gt;@param currentPlayer&lt;/code&gt; tag description is missing</description>
+  <highlighted_element>currentPlayer</highlighted_element>
+  <language>JAVA</language>
+  <offset>14</offset>
+  <length>13</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 04/student 04 (2).java</file>
+  <line>108</line>
+  <module>codeSmellsWork</module>
+  <package>HW4_GUI</package>
+  <entry_point TYPE="method" FQNAME="HW4_GUI.BoardController void setPlayer1(HW4_GUI.console.Player player1)" />
+  <problem_class id="JavadocDeclaration" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Javadoc declaration problems</problem_class>
+  <description>&lt;code&gt;@param player1&lt;/code&gt; tag description is missing</description>
+  <highlighted_element>player1</highlighted_element>
+  <language>JAVA</language>
+  <offset>14</offset>
+  <length>7</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 04/student 04 (2).java</file>
+  <line>124</line>
+  <module>codeSmellsWork</module>
+  <package>HW4_GUI</package>
+  <entry_point TYPE="method" FQNAME="HW4_GUI.BoardController void setOpponent(HW4_GUI.console.Player opponent)" />
+  <problem_class id="JavadocDeclaration" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Javadoc declaration problems</problem_class>
+  <description>&lt;code&gt;@param opponent&lt;/code&gt; tag description is missing</description>
+  <highlighted_element>opponent</highlighted_element>
+  <language>JAVA</language>
+  <offset>14</offset>
+  <length>8</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 04/student 04 (3).java</file>
+  <line>57</line>
+  <module>codeSmellsWork</module>
+  <package>HW4_GUI</package>
+  <entry_point TYPE="method" FQNAME="HW4_GUI.BoardPanel void setLabel(java.lang.String text)" />
+  <problem_class id="JavadocDeclaration" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Javadoc declaration problems</problem_class>
+  <description>&lt;code&gt;@param label&lt;/code&gt; tag description is missing</description>
+  <highlighted_element>label</highlighted_element>
+  <language>JAVA</language>
+  <offset>14</offset>
+  <length>5</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 04/student 04 (3).java</file>
+  <line>98</line>
+  <module>codeSmellsWork</module>
+  <package>HW4_GUI</package>
+  <entry_point TYPE="method" FQNAME="HW4_GUI.BoardPanel void drawBoard(int size, int squareSize, java.awt.Graphics g)" />
+  <problem_class id="JavadocDeclaration" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Javadoc declaration problems</problem_class>
+  <description>&lt;code&gt;@param size&lt;/code&gt; tag description is missing</description>
+  <highlighted_element>size</highlighted_element>
+  <language>JAVA</language>
+  <offset>14</offset>
+  <length>4</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 04/student 04 (3).java</file>
+  <line>99</line>
+  <module>codeSmellsWork</module>
+  <package>HW4_GUI</package>
+  <entry_point TYPE="method" FQNAME="HW4_GUI.BoardPanel void drawBoard(int size, int squareSize, java.awt.Graphics g)" />
+  <problem_class id="JavadocDeclaration" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Javadoc declaration problems</problem_class>
+  <description>&lt;code&gt;@param squareSize&lt;/code&gt; tag description is missing</description>
+  <highlighted_element>squareSize</highlighted_element>
+  <language>JAVA</language>
+  <offset>14</offset>
+  <length>10</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 04/student 04 (3).java</file>
+  <line>100</line>
+  <module>codeSmellsWork</module>
+  <package>HW4_GUI</package>
+  <entry_point TYPE="method" FQNAME="HW4_GUI.BoardPanel void drawBoard(int size, int squareSize, java.awt.Graphics g)" />
+  <problem_class id="JavadocDeclaration" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Javadoc declaration problems</problem_class>
+  <description>&lt;code&gt;@param g&lt;/code&gt; tag description is missing</description>
+  <highlighted_element>g</highlighted_element>
+  <language>JAVA</language>
+  <offset>14</offset>
+  <length>1</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 04/student 04 (3).java</file>
+  <line>115</line>
+  <module>codeSmellsWork</module>
+  <package>HW4_GUI</package>
+  <entry_point TYPE="method" FQNAME="HW4_GUI.BoardPanel void drawStones(int size, int squareSize, java.awt.Graphics g)" />
+  <problem_class id="JavadocDeclaration" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Javadoc declaration problems</problem_class>
+  <description>&lt;code&gt;@param size&lt;/code&gt; tag description is missing</description>
+  <highlighted_element>size</highlighted_element>
+  <language>JAVA</language>
+  <offset>14</offset>
+  <length>4</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 04/student 04 (3).java</file>
+  <line>116</line>
+  <module>codeSmellsWork</module>
+  <package>HW4_GUI</package>
+  <entry_point TYPE="method" FQNAME="HW4_GUI.BoardPanel void drawStones(int size, int squareSize, java.awt.Graphics g)" />
+  <problem_class id="JavadocDeclaration" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Javadoc declaration problems</problem_class>
+  <description>&lt;code&gt;@param squareSize&lt;/code&gt; tag description is missing</description>
+  <highlighted_element>squareSize</highlighted_element>
+  <language>JAVA</language>
+  <offset>14</offset>
+  <length>10</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 04/student 04 (3).java</file>
+  <line>117</line>
+  <module>codeSmellsWork</module>
+  <package>HW4_GUI</package>
+  <entry_point TYPE="method" FQNAME="HW4_GUI.BoardPanel void drawStones(int size, int squareSize, java.awt.Graphics g)" />
+  <problem_class id="JavadocDeclaration" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Javadoc declaration problems</problem_class>
+  <description>&lt;code&gt;@param g&lt;/code&gt; tag description is missing</description>
+  <highlighted_element>g</highlighted_element>
+  <language>JAVA</language>
+  <offset>14</offset>
+  <length>1</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 04/student 04 (3).java</file>
+  <line>147</line>
+  <module>codeSmellsWork</module>
+  <package>HW4_GUI</package>
+  <entry_point TYPE="method" FQNAME="HW4_GUI.BoardPanel void drawHoverEffect(int size, int squareSize, java.awt.Graphics g)" />
+  <problem_class id="JavadocDeclaration" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Javadoc declaration problems</problem_class>
+  <description>&lt;code&gt;@param size&lt;/code&gt; tag description is missing</description>
+  <highlighted_element>size</highlighted_element>
+  <language>JAVA</language>
+  <offset>14</offset>
+  <length>4</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 04/student 04 (3).java</file>
+  <line>148</line>
+  <module>codeSmellsWork</module>
+  <package>HW4_GUI</package>
+  <entry_point TYPE="method" FQNAME="HW4_GUI.BoardPanel void drawHoverEffect(int size, int squareSize, java.awt.Graphics g)" />
+  <problem_class id="JavadocDeclaration" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Javadoc declaration problems</problem_class>
+  <description>&lt;code&gt;@param squareSize&lt;/code&gt; tag description is missing</description>
+  <highlighted_element>squareSize</highlighted_element>
+  <language>JAVA</language>
+  <offset>14</offset>
+  <length>10</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 04/student 04 (3).java</file>
+  <line>149</line>
+  <module>codeSmellsWork</module>
+  <package>HW4_GUI</package>
+  <entry_point TYPE="method" FQNAME="HW4_GUI.BoardPanel void drawHoverEffect(int size, int squareSize, java.awt.Graphics g)" />
+  <problem_class id="JavadocDeclaration" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Javadoc declaration problems</problem_class>
+  <description>&lt;code&gt;@param g&lt;/code&gt; tag description is missing</description>
+  <highlighted_element>g</highlighted_element>
+  <language>JAVA</language>
+  <offset>14</offset>
+  <length>1</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 04/student 04 (3).java</file>
+  <line>162</line>
+  <module>codeSmellsWork</module>
+  <package>HW4_GUI</package>
+  <entry_point TYPE="method" FQNAME="HW4_GUI.BoardPanel void placeStone(boolean startGame)" />
+  <problem_class id="JavadocDeclaration" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Javadoc declaration problems</problem_class>
+  <description>&lt;code&gt;@param startGame&lt;/code&gt; tag description is missing</description>
+  <highlighted_element>startGame</highlighted_element>
+  <language>JAVA</language>
+  <offset>14</offset>
+  <length>9</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 04/student 04 (3).java</file>
+  <line>192</line>
+  <module>codeSmellsWork</module>
+  <package>HW4_GUI</package>
+  <entry_point TYPE="method" FQNAME="HW4_GUI.BoardPanel void hoveringEffect(boolean startGame)" />
+  <problem_class id="JavadocDeclaration" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Javadoc declaration problems</problem_class>
+  <description>&lt;code&gt;@param startGame&lt;/code&gt; tag description is missing</description>
+  <highlighted_element>startGame</highlighted_element>
+  <language>JAVA</language>
+  <offset>14</offset>
+  <length>9</length>
+</problem>
+</problems>

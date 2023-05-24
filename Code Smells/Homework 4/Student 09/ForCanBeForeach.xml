@@ -1,0 +1,28 @@
+<problems>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 09/student 09 (1).java</file>
+  <line>32</line>
+  <module>codeSmellsWork</module>
+  <package>OmokBoard</package>
+  <entry_point TYPE="method" FQNAME="OmokBoard.Board boolean isFull()" />
+  <problem_class id="ForCanBeForeach" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">'for' loop can be replaced with enhanced for loop</problem_class>
+  <description>&lt;code&gt;for&lt;/code&gt; loop can be replaced with enhanced 'for' #loc</description>
+  <highlighted_element>for</highlighted_element>
+  <language>JAVA</language>
+  <offset>8</offset>
+  <length>3</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 09/student 09 (1).java</file>
+  <line>51</line>
+  <module>codeSmellsWork</module>
+  <package>OmokBoard</package>
+  <entry_point TYPE="method" FQNAME="OmokBoard.Board boolean hasWon(player p)" />
+  <problem_class id="ForCanBeForeach" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">'for' loop can be replaced with enhanced for loop</problem_class>
+  <description>&lt;code&gt;for&lt;/code&gt; loop can be replaced with enhanced 'for' #loc</description>
+  <highlighted_element>for</highlighted_element>
+  <language>JAVA</language>
+  <offset>8</offset>
+  <length>3</length>
+</problem>
+</problems>

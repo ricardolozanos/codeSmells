@@ -1,0 +1,67 @@
+<problems>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 45/student 45 (1).java</file>
+  <line>133</line>
+  <module>codeSmellsWork</module>
+  <package>javaChat</package>
+  <entry_point TYPE="method" FQNAME="javaChat.ChatDialogUI void sendClicked(java.awt.event.ActionEvent event)" />
+  <problem_class id="ChainedMethodCall" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Chained method calls</problem_class>
+  <description>Chained method call &lt;code&gt;start()&lt;/code&gt; #loc</description>
+  <highlighted_element>start</highlighted_element>
+  <language>JAVA</language>
+  <offset>5</offset>
+  <length>5</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 45/student 45 (2).java</file>
+  <line>46</line>
+  <module>codeSmellsWork</module>
+  <package>javaChat</package>
+  <entry_point TYPE="method" FQNAME="javaChat.ChatServer void start()" />
+  <problem_class id="ChainedMethodCall" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Chained method calls</problem_class>
+  <description>Chained method call &lt;code&gt;start()&lt;/code&gt; #loc</description>
+  <highlighted_element>start</highlighted_element>
+  <language>JAVA</language>
+  <offset>41</offset>
+  <length>5</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 45/student 45 (2).java</file>
+  <line>81</line>
+  <module>codeSmellsWork</module>
+  <package>javaChat</package>
+  <entry_point TYPE="method" FQNAME="javaChat.ChatServer void main(java.lang.String[] args)" />
+  <problem_class id="ChainedMethodCall" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Chained method calls</problem_class>
+  <description>Chained method call &lt;code&gt;start()&lt;/code&gt; #loc</description>
+  <highlighted_element>start</highlighted_element>
+  <language>JAVA</language>
+  <offset>22</offset>
+  <length>5</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 45/student 45 (3).java</file>
+  <line>52</line>
+  <module>codeSmellsWork</module>
+  <package>javachat</package>
+  <entry_point TYPE="method" FQNAME="javachat.ChatDialog void configureGui()" />
+  <problem_class id="ChainedMethodCall" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Chained method calls</problem_class>
+  <description>Chained method call &lt;code&gt;equals()&lt;/code&gt; #loc</description>
+  <highlighted_element>equals</highlighted_element>
+  <language>JAVA</language>
+  <offset>35</offset>
+  <length>6</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 45/student 45 (3).java</file>
+  <line>104</line>
+  <module>codeSmellsWork</module>
+  <package>javachat</package>
+  <entry_point TYPE="method" FQNAME="javachat.ChatDialog void sendClicked(java.awt.event.ActionEvent event)" />
+  <problem_class id="ChainedMethodCall" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Chained method calls</problem_class>
+  <description>Chained method call &lt;code&gt;equals()&lt;/code&gt; #loc</description>
+  <highlighted_element>equals</highlighted_element>
+  <language>JAVA</language>
+  <offset>35</offset>
+  <length>6</length>
+</problem>
+</problems>

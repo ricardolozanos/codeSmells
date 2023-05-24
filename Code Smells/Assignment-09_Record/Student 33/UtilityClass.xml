@@ -1,0 +1,15 @@
+<problems>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 33/student 33 (1).java</file>
+  <line>4</line>
+  <module>codeSmellsWork</module>
+  <package>Misc</package>
+  <entry_point TYPE="class" FQNAME="Misc.PlaceRun" />
+  <problem_class id="UtilityClass" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Utility class</problem_class>
+  <description>Class &lt;code&gt;PlaceRun&lt;/code&gt; has only 'static' members, indicating procedural construction #loc</description>
+  <highlighted_element>PlaceRun</highlighted_element>
+  <language>JAVA</language>
+  <offset>6</offset>
+  <length>8</length>
+</problem>
+</problems>

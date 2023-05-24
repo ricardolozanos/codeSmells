@@ -1,0 +1,152 @@
+<problems>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 33/student 33 (1).java</file>
+  <line>26</line>
+  <module>codeSmellsWork</module>
+  <package>HomeWork2.OmokGame</package>
+  <entry_point TYPE="method" FQNAME="HomeWork2.OmokGame.ConsoleUI void AskMove(Game game, int turn)" />
+  <language>JAVA</language>
+  <offset>23</offset>
+  <length>7</length>
+  <highlighted_element>AskMove</highlighted_element>
+  <problem_class id="unused" severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">unused declaration</problem_class>
+  <hints>
+    <hint value="comment" />
+    <hint value="delete" />
+  </hints>
+  <description>Method is never used.</description>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 33/student 33 (1).java</file>
+  <line>65</line>
+  <module>codeSmellsWork</module>
+  <package>HomeWork2.OmokGame</package>
+  <entry_point TYPE="method" FQNAME="HomeWork2.OmokGame.ConsoleUI Game.ModeType AskMode()" />
+  <language>JAVA</language>
+  <offset>32</offset>
+  <length>7</length>
+  <highlighted_element>AskMode</highlighted_element>
+  <problem_class id="unused" severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">unused declaration</problem_class>
+  <hints>
+    <hint value="comment" />
+    <hint value="delete" />
+  </hints>
+  <description>Method is never used.</description>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 33/student 33 (1).java</file>
+  <line>85</line>
+  <module>codeSmellsWork</module>
+  <package>HomeWork2.OmokGame</package>
+  <entry_point TYPE="method" FQNAME="HomeWork2.OmokGame.ConsoleUI int AskSize()" />
+  <language>JAVA</language>
+  <offset>22</offset>
+  <length>7</length>
+  <highlighted_element>AskSize</highlighted_element>
+  <problem_class id="unused" severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">unused declaration</problem_class>
+  <hints>
+    <hint value="comment" />
+    <hint value="delete" />
+  </hints>
+  <description>Method is never used.</description>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 33/student 33 (1).java</file>
+  <line>109</line>
+  <module>codeSmellsWork</module>
+  <package>HomeWork2.OmokGame</package>
+  <entry_point TYPE="method" FQNAME="HomeWork2.OmokGame.ConsoleUI void Draw(Game.PieceType[][] board)" />
+  <language>JAVA</language>
+  <offset>23</offset>
+  <length>4</length>
+  <highlighted_element>Draw</highlighted_element>
+  <problem_class id="unused" severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">unused declaration</problem_class>
+  <hints>
+    <hint value="comment" />
+    <hint value="delete" />
+  </hints>
+  <description>Method is never used.</description>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 33/student 33 (2).java</file>
+  <line>28</line>
+  <module>codeSmellsWork</module>
+  <package>HomeWork2.OmokGame</package>
+  <entry_point TYPE="method" FQNAME="HomeWork2.OmokGame.Game Game()" />
+  <language>JAVA</language>
+  <offset>11</offset>
+  <length>4</length>
+  <highlighted_element>Game</highlighted_element>
+  <problem_class id="unused" severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">unused declaration</problem_class>
+  <hints>
+    <hint value="comment" />
+    <hint value="delete" />
+  </hints>
+  <description>Constructor is never used.</description>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 33/student 33 (2).java</file>
+  <line>207</line>
+  <module>codeSmellsWork</module>
+  <package>HomeWork2.OmokGame</package>
+  <entry_point TYPE="field" FQNAME="HomeWork2.OmokGame.Game.PieceType None" />
+  <language>JAVA</language>
+  <offset>28</offset>
+  <length>4</length>
+  <highlighted_element>None</highlighted_element>
+  <problem_class id="unused" severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">unused declaration</problem_class>
+  <hints>
+    <hint value="comment" />
+    <hint value="delete" />
+  </hints>
+  <description>Field has no usages.</description>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 33/student 33 (3).java</file>
+  <line>16</line>
+  <module>codeSmellsWork</module>
+  <package>HomeWork2.OmokGame</package>
+  <entry_point TYPE="method" FQNAME="HomeWork2.OmokGame.Main void main(java.lang.String[] args)" />
+  <problem_class id="unused" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Unused declaration</problem_class>
+  <hints />
+  <description>Variable &lt;code&gt;game&lt;/code&gt; is never used</description>
+  <highlighted_element>game</highlighted_element>
+  <language>JAVA</language>
+  <offset>13</offset>
+  <length>4</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 33/student 33 (4).java</file>
+  <line>25</line>
+  <module>codeSmellsWork</module>
+  <package>HomeWork2.OmokGame</package>
+  <entry_point TYPE="method" FQNAME="HomeWork2.OmokGame.ComputerAI ComputerAI(Game.PieceType playerPiece, Game.PieceType aiPiece)" />
+  <language>JAVA</language>
+  <offset>11</offset>
+  <length>10</length>
+  <highlighted_element>ComputerAI</highlighted_element>
+  <problem_class id="unused" severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">unused declaration</problem_class>
+  <hints>
+    <hint value="comment" />
+    <hint value="delete" />
+  </hints>
+  <description>Constructor is never used.</description>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 33/student 33 (4).java</file>
+  <line>34</line>
+  <module>codeSmellsWork</module>
+  <package>HomeWork2.OmokGame</package>
+  <entry_point TYPE="method" FQNAME="HomeWork2.OmokGame.ComputerAI void makeMove(Game game)" />
+  <language>JAVA</language>
+  <offset>16</offset>
+  <length>8</length>
+  <highlighted_element>makeMove</highlighted_element>
+  <problem_class id="unused" severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">unused declaration</problem_class>
+  <hints>
+    <hint value="comment" />
+    <hint value="delete" />
+  </hints>
+  <description>&lt;ul&gt;&lt;li&gt;Method owner class is never instantiated OR&lt;/li&gt;&lt;li&gt;An instantiation is not reachable from entry points.&lt;/li&gt;&lt;/ul&gt;</description>
+</problem>
+</problems>

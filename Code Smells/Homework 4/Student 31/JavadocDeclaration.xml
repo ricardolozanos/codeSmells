@@ -1,0 +1,28 @@
+<problems>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 31/student 31 (2).java</file>
+  <line>65</line>
+  <module>codeSmellsWork</module>
+  <package>noapplet.example</package>
+  <entry_point TYPE="method" FQNAME="noapplet.example.DrawBoard void board(java.awt.Graphics g)" />
+  <problem_class id="JavadocDeclaration" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Javadoc declaration problems</problem_class>
+  <description>&lt;code&gt;@param g&lt;/code&gt; tag description is missing</description>
+  <highlighted_element>g</highlighted_element>
+  <language>JAVA</language>
+  <offset>14</offset>
+  <length>1</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 31/student 31 (2).java</file>
+  <line>76</line>
+  <module>codeSmellsWork</module>
+  <package>noapplet.example</package>
+  <entry_point TYPE="method" FQNAME="noapplet.example.DrawBoard void drawStone(java.awt.Graphics g)" />
+  <problem_class id="JavadocDeclaration" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Javadoc declaration problems</problem_class>
+  <description>&lt;code&gt;@param g&lt;/code&gt; tag description is missing</description>
+  <highlighted_element>g</highlighted_element>
+  <language>JAVA</language>
+  <offset>14</offset>
+  <length>1</length>
+</problem>
+</problems>

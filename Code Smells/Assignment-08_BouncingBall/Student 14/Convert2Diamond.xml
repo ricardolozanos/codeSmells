@@ -1,0 +1,15 @@
+<problems>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 14/student 14 (2).java</file>
+  <line>16</line>
+  <module>codeSmellsWork</module>
+  <package>BouncingBall</package>
+  <entry_point TYPE="field" FQNAME="BouncingBall.BouncingBall colors" />
+  <problem_class id="Convert2Diamond" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Explicit type can be replaced with '&lt;&gt;'</problem_class>
+  <description>Explicit type argument Color can be replaced with &lt;&gt;</description>
+  <highlighted_element>Color</highlighted_element>
+  <language>JAVA</language>
+  <offset>39</offset>
+  <length>5</length>
+</problem>
+</problems>

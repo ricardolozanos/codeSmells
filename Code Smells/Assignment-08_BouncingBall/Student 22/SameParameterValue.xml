@@ -1,0 +1,34 @@
+<problems>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 22/student 22 (2).java</file>
+  <line>26</line>
+  <module>codeSmellsWork</module>
+  <package>noapplet.BounceBall</package>
+  <entry_point TYPE="method" FQNAME="noapplet.BounceBall.BouncingBall void addName(java.awt.Graphics g, java.lang.String name)" />
+  <problem_class id="SameParameterValue" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Method parameter is always the same value</problem_class>
+  <hints>
+    <hint value="name &quot;Alvaro Mendoza&quot;" />
+  </hints>
+  <description>Actual value of parameter &lt;code&gt;name&lt;/code&gt; is always 'Alvaro Mendoza'</description>
+  <highlighted_element>name</highlighted_element>
+  <language>JAVA</language>
+  <offset>46</offset>
+  <length>4</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 22/student 22 (2).java</file>
+  <line>81</line>
+  <module>codeSmellsWork</module>
+  <package>noapplet.BounceBall</package>
+  <entry_point TYPE="method" FQNAME="noapplet.BounceBall.CircleBall CircleBall(java.awt.Color color, noapplet.BounceBall.BouncingBall bouncingBall)" />
+  <problem_class id="SameParameterValue" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Method parameter is always the same value</problem_class>
+  <hints>
+    <hint value="color java.awt.Color.GREEN" />
+  </hints>
+  <description>Actual value of parameter &lt;code&gt;color&lt;/code&gt; is always 'Color.GREEN'</description>
+  <highlighted_element>color</highlighted_element>
+  <language>JAVA</language>
+  <offset>31</offset>
+  <length>5</length>
+</problem>
+</problems>

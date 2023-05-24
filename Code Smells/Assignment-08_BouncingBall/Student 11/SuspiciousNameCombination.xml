@@ -1,0 +1,28 @@
+<problems>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 11/student 11 (5).java</file>
+  <line>14</line>
+  <module>codeSmellsWork</module>
+  <package>&lt;default&gt;</package>
+  <entry_point TYPE="method" FQNAME="BouncingBall BouncingBall(int ballCount, int ballRadius)" />
+  <problem_class id="SuspiciousNameCombination" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Suspicious variable/parameter name combination</problem_class>
+  <description>'HEIGHT' should probably not be passed as parameter 'width'</description>
+  <highlighted_element>HEIGHT</highlighted_element>
+  <language>JAVA</language>
+  <offset>44</offset>
+  <length>6</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 11/student 11 (5).java</file>
+  <line>14</line>
+  <module>codeSmellsWork</module>
+  <package>&lt;default&gt;</package>
+  <entry_point TYPE="method" FQNAME="BouncingBall BouncingBall(int ballCount, int ballRadius)" />
+  <problem_class id="SuspiciousNameCombination" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Suspicious variable/parameter name combination</problem_class>
+  <description>'WIDTH' should probably not be passed as parameter 'height'</description>
+  <highlighted_element>WIDTH</highlighted_element>
+  <language>JAVA</language>
+  <offset>51</offset>
+  <length>5</length>
+</problem>
+</problems>

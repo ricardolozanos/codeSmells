@@ -1,0 +1,121 @@
+<problems>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 04/student 04 (1).java</file>
+  <line>14</line>
+  <module>codeSmellsWork</module>
+  <package>exercises.FactoryMethod</package>
+  <entry_point TYPE="method" FQNAME="exercises.FactoryMethod.Balloon Balloon(java.lang.String[] params)" />
+  <language>JAVA</language>
+  <offset>11</offset>
+  <length>7</length>
+  <highlighted_element>Balloon</highlighted_element>
+  <problem_class id="unused" severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">unused declaration</problem_class>
+  <hints>
+    <hint value="comment" />
+    <hint value="delete" />
+  </hints>
+  <description>Constructor is never used.</description>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 04/student 04 (1).java</file>
+  <line>26</line>
+  <module>codeSmellsWork</module>
+  <package>exercises.FactoryMethod</package>
+  <entry_point TYPE="method" FQNAME="exercises.FactoryMethod.Balloon void start()" />
+  <language>JAVA</language>
+  <offset>16</offset>
+  <length>5</length>
+  <highlighted_element>start</highlighted_element>
+  <problem_class id="unused" severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">unused declaration</problem_class>
+  <hints>
+    <hint value="comment" />
+    <hint value="delete" />
+  </hints>
+  <description>Method is never used.</description>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 04/student 04 (1).java</file>
+  <line>40</line>
+  <module>codeSmellsWork</module>
+  <package>exercises.FactoryMethod</package>
+  <entry_point TYPE="method" FQNAME="exercises.FactoryMethod.Balloon void paintComponent(java.awt.Graphics g)" />
+  <language>JAVA</language>
+  <offset>16</offset>
+  <length>14</length>
+  <highlighted_element>paintComponent</highlighted_element>
+  <problem_class id="unused" severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">unused declaration</problem_class>
+  <hints>
+    <hint value="comment" />
+    <hint value="delete" />
+  </hints>
+  <description>Method is never used.</description>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 04/student 04 (2).java</file>
+  <line>4</line>
+  <module>codeSmellsWork</module>
+  <package>exercises.FactoryMethod</package>
+  <entry_point TYPE="method" FQNAME="exercises.FactoryMethod.Balloon2 Balloon2()" />
+  <language>JAVA</language>
+  <offset>11</offset>
+  <length>8</length>
+  <highlighted_element>Balloon2</highlighted_element>
+  <problem_class id="unused" severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">unused declaration</problem_class>
+  <hints>
+    <hint value="comment" />
+    <hint value="delete" />
+  </hints>
+  <description>Constructor is never used.</description>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 04/student 04 (2).java</file>
+  <line>12</line>
+  <module>codeSmellsWork</module>
+  <package>exercises.FactoryMethod</package>
+  <entry_point TYPE="method" FQNAME="exercises.FactoryMethod.Balloon2 void start()" />
+  <language>JAVA</language>
+  <offset>16</offset>
+  <length>5</length>
+  <highlighted_element>start</highlighted_element>
+  <problem_class id="unused" severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">unused declaration</problem_class>
+  <hints>
+    <hint value="comment" />
+    <hint value="delete" />
+  </hints>
+  <description>Method is never used.</description>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 04/student 04 (3).java</file>
+  <line>4</line>
+  <module>codeSmellsWork</module>
+  <package>exercises.FactoryMethod</package>
+  <entry_point TYPE="method" FQNAME="exercises.FactoryMethod.BalloonFactory Balloon createModularBalloon()" />
+  <language>JAVA</language>
+  <offset>26</offset>
+  <length>20</length>
+  <highlighted_element>createModularBalloon</highlighted_element>
+  <problem_class id="unused" severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">unused declaration</problem_class>
+  <hints>
+    <hint value="comment" />
+    <hint value="delete" />
+  </hints>
+  <description>Method is never used.</description>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 04/student 04 (3).java</file>
+  <line>8</line>
+  <module>codeSmellsWork</module>
+  <package>exercises.FactoryMethod</package>
+  <entry_point TYPE="method" FQNAME="exercises.FactoryMethod.BalloonFactory Balloon createEnhancedModularBalloon()" />
+  <language>JAVA</language>
+  <offset>26</offset>
+  <length>28</length>
+  <highlighted_element>createEnhancedModularBalloon</highlighted_element>
+  <problem_class id="unused" severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">unused declaration</problem_class>
+  <hints>
+    <hint value="comment" />
+    <hint value="delete" />
+  </hints>
+  <description>Method is never used.</description>
+</problem>
+</problems>

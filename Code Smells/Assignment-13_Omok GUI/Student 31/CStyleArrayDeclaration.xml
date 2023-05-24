@@ -1,0 +1,15 @@
+<problems>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 31/student 31 (1).java</file>
+  <line>82</line>
+  <module>codeSmellsWork</module>
+  <package>noapplet.example</package>
+  <entry_point TYPE="method" FQNAME="noapplet.example.RadioButton void main(java.lang.String[] args)" />
+  <problem_class id="CStyleArrayDeclaration" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">C-style array declaration</problem_class>
+  <description>C-style array declaration of parameter &lt;code&gt;args&lt;/code&gt; #loc</description>
+  <highlighted_element>args</highlighted_element>
+  <language>JAVA</language>
+  <offset>35</offset>
+  <length>4</length>
+</problem>
+</problems>

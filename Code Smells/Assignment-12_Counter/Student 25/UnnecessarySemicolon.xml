@@ -1,0 +1,15 @@
+<problems>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 25/student 25.java</file>
+  <line>16</line>
+  <module>codeSmellsWork</module>
+  <package>&lt;default&gt;</package>
+  <entry_point TYPE="method" FQNAME="counter counter()" />
+  <problem_class id="UnnecessarySemicolon" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Unnecessary semicolon</problem_class>
+  <description>Unnecessary semicolon &lt;code&gt;;&lt;/code&gt; #loc</description>
+  <highlighted_element>;</highlighted_element>
+  <language>JAVA</language>
+  <offset>10</offset>
+  <length>1</length>
+</problem>
+</problems>

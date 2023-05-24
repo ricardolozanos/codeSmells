@@ -1,0 +1,15 @@
+<problems>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 35/student 35 (6).java</file>
+  <line>45</line>
+  <module>codeSmellsWork</module>
+  <package>drawingBoard</package>
+  <entry_point TYPE="method" FQNAME="drawingBoard.DrawingBoard void paintComponent(java.awt.Graphics g)" />
+  <problem_class id="MagicConstant" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Magic Constant</problem_class>
+  <description>Should be one of: Font.PLAIN, Font.BOLD, Font.ITALIC or their combination</description>
+  <highlighted_element>2</highlighted_element>
+  <language>JAVA</language>
+  <offset>31</offset>
+  <length>1</length>
+</problem>
+</problems>

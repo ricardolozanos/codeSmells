@@ -1,0 +1,172 @@
+<problems>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 23/student 23.java</file>
+  <line>25</line>
+  <module>codeSmellsWork</module>
+  <package>noapplet.OmokTerminal</package>
+  <entry_point TYPE="method" FQNAME="noapplet.OmokTerminal.Console_UI_Test void set_up()" />
+  <language>JAVA</language>
+  <offset>9</offset>
+  <length>6</length>
+  <highlighted_element>set_up</highlighted_element>
+  <problem_class id="unused" severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">unused declaration</problem_class>
+  <hints>
+    <hint value="comment" />
+    <hint value="delete" />
+  </hints>
+  <description>&lt;ul&gt;&lt;li&gt;Method owner class is never instantiated OR&lt;/li&gt;&lt;li&gt;An instantiation is not reachable from entry points.&lt;/li&gt;&lt;/ul&gt;</description>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 23/student 23.java</file>
+  <line>38</line>
+  <module>codeSmellsWork</module>
+  <package>noapplet.OmokTerminal</package>
+  <entry_point TYPE="method" FQNAME="noapplet.OmokTerminal.Console_UI_Test void tear_down()" />
+  <language>JAVA</language>
+  <offset>9</offset>
+  <length>9</length>
+  <highlighted_element>tear_down</highlighted_element>
+  <problem_class id="unused" severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">unused declaration</problem_class>
+  <hints>
+    <hint value="comment" />
+    <hint value="delete" />
+  </hints>
+  <description>&lt;ul&gt;&lt;li&gt;Method owner class is never instantiated OR&lt;/li&gt;&lt;li&gt;An instantiation is not reachable from entry points.&lt;/li&gt;&lt;/ul&gt;</description>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 23/student 23.java</file>
+  <line>47</line>
+  <module>codeSmellsWork</module>
+  <package>noapplet.OmokTerminal</package>
+  <entry_point TYPE="method" FQNAME="noapplet.OmokTerminal.Console_UI_Test void prompt_for_string()" />
+  <language>JAVA</language>
+  <offset>9</offset>
+  <length>17</length>
+  <highlighted_element>prompt_for_string</highlighted_element>
+  <problem_class id="unused" severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">unused declaration</problem_class>
+  <hints>
+    <hint value="comment" />
+    <hint value="delete" />
+  </hints>
+  <description>&lt;ul&gt;&lt;li&gt;Method owner class is never instantiated OR&lt;/li&gt;&lt;li&gt;An instantiation is not reachable from entry points.&lt;/li&gt;&lt;/ul&gt;</description>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 23/student 23.java</file>
+  <line>53</line>
+  <module>codeSmellsWork</module>
+  <package>noapplet.OmokTerminal</package>
+  <entry_point TYPE="method" FQNAME="noapplet.OmokTerminal.Console_UI_Test void display_board()" />
+  <language>JAVA</language>
+  <offset>9</offset>
+  <length>13</length>
+  <highlighted_element>display_board</highlighted_element>
+  <problem_class id="unused" severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">unused declaration</problem_class>
+  <hints>
+    <hint value="comment" />
+    <hint value="delete" />
+  </hints>
+  <description>&lt;ul&gt;&lt;li&gt;Method owner class is never instantiated OR&lt;/li&gt;&lt;li&gt;An instantiation is not reachable from entry points.&lt;/li&gt;&lt;/ul&gt;</description>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 23/student 23.java</file>
+  <line>59</line>
+  <module>codeSmellsWork</module>
+  <package>noapplet.OmokTerminal</package>
+  <entry_point TYPE="method" FQNAME="noapplet.OmokTerminal.Console_UI_Test void mode_menu()" />
+  <language>JAVA</language>
+  <offset>9</offset>
+  <length>9</length>
+  <highlighted_element>mode_menu</highlighted_element>
+  <problem_class id="unused" severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">unused declaration</problem_class>
+  <hints>
+    <hint value="comment" />
+    <hint value="delete" />
+  </hints>
+  <description>&lt;ul&gt;&lt;li&gt;Method owner class is never instantiated OR&lt;/li&gt;&lt;li&gt;An instantiation is not reachable from entry points.&lt;/li&gt;&lt;/ul&gt;</description>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 23/student 23.java</file>
+  <line>65</line>
+  <module>codeSmellsWork</module>
+  <package>noapplet.OmokTerminal</package>
+  <entry_point TYPE="method" FQNAME="noapplet.OmokTerminal.Console_UI_Test void take_turn()" />
+  <language>JAVA</language>
+  <offset>9</offset>
+  <length>9</length>
+  <highlighted_element>take_turn</highlighted_element>
+  <problem_class id="unused" severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">unused declaration</problem_class>
+  <hints>
+    <hint value="comment" />
+    <hint value="delete" />
+  </hints>
+  <description>&lt;ul&gt;&lt;li&gt;Method owner class is never instantiated OR&lt;/li&gt;&lt;li&gt;An instantiation is not reachable from entry points.&lt;/li&gt;&lt;/ul&gt;</description>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 23/student 23.java</file>
+  <line>72</line>
+  <module>codeSmellsWork</module>
+  <package>noapplet.OmokTerminal</package>
+  <entry_point TYPE="method" FQNAME="noapplet.OmokTerminal.Console_UI_Test void welcome_msg()" />
+  <language>JAVA</language>
+  <offset>9</offset>
+  <length>11</length>
+  <highlighted_element>welcome_msg</highlighted_element>
+  <problem_class id="unused" severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">unused declaration</problem_class>
+  <hints>
+    <hint value="comment" />
+    <hint value="delete" />
+  </hints>
+  <description>&lt;ul&gt;&lt;li&gt;Method owner class is never instantiated OR&lt;/li&gt;&lt;li&gt;An instantiation is not reachable from entry points.&lt;/li&gt;&lt;/ul&gt;</description>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 23/student 23.java</file>
+  <line>78</line>
+  <module>codeSmellsWork</module>
+  <package>noapplet.OmokTerminal</package>
+  <entry_point TYPE="method" FQNAME="noapplet.OmokTerminal.Console_UI_Test void congrats_msg()" />
+  <language>JAVA</language>
+  <offset>9</offset>
+  <length>12</length>
+  <highlighted_element>congrats_msg</highlighted_element>
+  <problem_class id="unused" severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">unused declaration</problem_class>
+  <hints>
+    <hint value="comment" />
+    <hint value="delete" />
+  </hints>
+  <description>&lt;ul&gt;&lt;li&gt;Method owner class is never instantiated OR&lt;/li&gt;&lt;li&gt;An instantiation is not reachable from entry points.&lt;/li&gt;&lt;/ul&gt;</description>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 23/student 23.java</file>
+  <line>84</line>
+  <module>codeSmellsWork</module>
+  <package>noapplet.OmokTerminal</package>
+  <entry_point TYPE="method" FQNAME="noapplet.OmokTerminal.Console_UI_Test void draw_msg()" />
+  <language>JAVA</language>
+  <offset>9</offset>
+  <length>8</length>
+  <highlighted_element>draw_msg</highlighted_element>
+  <problem_class id="unused" severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">unused declaration</problem_class>
+  <hints>
+    <hint value="comment" />
+    <hint value="delete" />
+  </hints>
+  <description>&lt;ul&gt;&lt;li&gt;Method owner class is never instantiated OR&lt;/li&gt;&lt;li&gt;An instantiation is not reachable from entry points.&lt;/li&gt;&lt;/ul&gt;</description>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 23/student 23.java</file>
+  <line>16</line>
+  <module>codeSmellsWork</module>
+  <package>noapplet.OmokTerminal</package>
+  <entry_point TYPE="class" FQNAME="noapplet.OmokTerminal.Console_UI_Test" />
+  <language>JAVA</language>
+  <offset>6</offset>
+  <length>15</length>
+  <highlighted_element>Console_UI_Test</highlighted_element>
+  <problem_class id="unused" severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">unused declaration</problem_class>
+  <hints>
+    <hint value="comment" />
+    <hint value="delete" />
+  </hints>
+  <description>Class is not instantiated.</description>
+</problem>
+</problems>

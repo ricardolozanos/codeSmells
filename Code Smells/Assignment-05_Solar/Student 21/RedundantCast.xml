@@ -1,0 +1,54 @@
+<problems>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 21/student 21 (1).java</file>
+  <line>83</line>
+  <module>codeSmellsWork</module>
+  <package>noapplet.example</package>
+  <entry_point TYPE="method" FQNAME="noapplet.example.Sun Sun(int x, int y, int radius, int center, java.awt.Color color)" />
+  <problem_class id="RedundantCast" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Redundant type cast</problem_class>
+  <description>Casting &lt;code&gt;x&lt;/code&gt; to &lt;code&gt;double&lt;/code&gt; is redundant</description>
+  <highlighted_element>double</highlighted_element>
+  <language>JAVA</language>
+  <offset>44</offset>
+  <length>6</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 21/student 21 (1).java</file>
+  <line>83</line>
+  <module>codeSmellsWork</module>
+  <package>noapplet.example</package>
+  <entry_point TYPE="method" FQNAME="noapplet.example.Sun Sun(int x, int y, int radius, int center, java.awt.Color color)" />
+  <problem_class id="RedundantCast" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Redundant type cast</problem_class>
+  <description>Casting &lt;code&gt;y&lt;/code&gt; to &lt;code&gt;double&lt;/code&gt; is redundant</description>
+  <highlighted_element>double</highlighted_element>
+  <language>JAVA</language>
+  <offset>70</offset>
+  <length>6</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 21/student 21 (1).java</file>
+  <line>192</line>
+  <module>codeSmellsWork</module>
+  <package>noapplet.example</package>
+  <entry_point TYPE="method" FQNAME="noapplet.example.Moon void draw(java.awt.Graphics g, int x, int y)" />
+  <problem_class id="RedundantCast" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Redundant type cast</problem_class>
+  <description>Casting &lt;code&gt;x&lt;/code&gt; to &lt;code&gt;double&lt;/code&gt; is redundant</description>
+  <highlighted_element>double</highlighted_element>
+  <language>JAVA</language>
+  <offset>45</offset>
+  <length>6</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 21/student 21 (1).java</file>
+  <line>192</line>
+  <module>codeSmellsWork</module>
+  <package>noapplet.example</package>
+  <entry_point TYPE="method" FQNAME="noapplet.example.Moon void draw(java.awt.Graphics g, int x, int y)" />
+  <problem_class id="RedundantCast" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Redundant type cast</problem_class>
+  <description>Casting &lt;code&gt;y&lt;/code&gt; to &lt;code&gt;double&lt;/code&gt; is redundant</description>
+  <highlighted_element>double</highlighted_element>
+  <language>JAVA</language>
+  <offset>71</offset>
+  <length>6</length>
+</problem>
+</problems>

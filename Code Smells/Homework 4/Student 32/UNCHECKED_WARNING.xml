@@ -1,0 +1,28 @@
+<problems>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 32/student 32 (5).java</file>
+  <line>11</line>
+  <module>codeSmellsWork</module>
+  <package>&lt;default&gt;</package>
+  <entry_point TYPE="field" FQNAME="MainFrame comboBox" />
+  <problem_class id="UNCHECKED_WARNING" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Unchecked warning</problem_class>
+  <description>Unchecked call to 'JComboBox(E[])' as a member of raw type 'javax.swing.JComboBox'</description>
+  <highlighted_element>JComboBox</highlighted_element>
+  <language>JAVA</language>
+  <offset>29</offset>
+  <length>9</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 32/student 32 (5).java</file>
+  <line>84</line>
+  <module>codeSmellsWork</module>
+  <package>&lt;default&gt;</package>
+  <entry_point TYPE="method" FQNAME="MainFrame javax.swing.JPanel createCenterLayout()" />
+  <problem_class id="UNCHECKED_WARNING" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Unchecked warning</problem_class>
+  <description>Unchecked call to 'JComboBox(E[])' as a member of raw type 'javax.swing.JComboBox'</description>
+  <highlighted_element>JComboBox</highlighted_element>
+  <language>JAVA</language>
+  <offset>23</offset>
+  <length>9</length>
+</problem>
+</problems>

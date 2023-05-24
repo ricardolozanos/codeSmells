@@ -1,0 +1,15 @@
+<problems>
+<problem>
+  <file>file://$PROJECT_DIR$/src/student 45/Student 45 (2).java</file>
+  <line>27</line>
+  <module>codeSmellsWork</module>
+  <package>noapplet.example</package>
+  <entry_point TYPE="method" FQNAME="noapplet.example.BalloonAnimation2 void paintComponent(java.awt.Graphics g)" />
+  <problem_class id="PointlessBooleanExpression" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Pointless boolean expression</problem_class>
+  <description>&lt;code&gt;ControlGrowth == true&lt;/code&gt; can be simplified to 'ControlGrowth' #loc</description>
+  <highlighted_element>ControlGrowth == true</highlighted_element>
+  <language>JAVA</language>
+  <offset>6</offset>
+  <length>21</length>
+</problem>
+</problems>

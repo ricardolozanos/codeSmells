@@ -1,0 +1,41 @@
+<problems>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 33/Student 33.java</file>
+  <line>149</line>
+  <module>codeSmellsWork</module>
+  <package>Misc.Plotter</package>
+  <entry_point TYPE="field" FQNAME="Misc.Plotter.Cosine c" />
+  <problem_class id="FieldMayBeFinal" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Field may be 'final'</problem_class>
+  <description>Field &lt;code&gt;c&lt;/code&gt; may be 'final' #loc</description>
+  <highlighted_element>c</highlighted_element>
+  <language>JAVA</language>
+  <offset>18</offset>
+  <length>1</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 33/Student 33.java</file>
+  <line>166</line>
+  <module>codeSmellsWork</module>
+  <package>Misc.Plotter</package>
+  <entry_point TYPE="field" FQNAME="Misc.Plotter.Sine c" />
+  <problem_class id="FieldMayBeFinal" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Field may be 'final'</problem_class>
+  <description>Field &lt;code&gt;c&lt;/code&gt; may be 'final' #loc</description>
+  <highlighted_element>c</highlighted_element>
+  <language>JAVA</language>
+  <offset>18</offset>
+  <length>1</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 33/Student 33.java</file>
+  <line>183</line>
+  <module>codeSmellsWork</module>
+  <package>Misc.Plotter</package>
+  <entry_point TYPE="field" FQNAME="Misc.Plotter.Sqrt c" />
+  <problem_class id="FieldMayBeFinal" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Field may be 'final'</problem_class>
+  <description>Field &lt;code&gt;c&lt;/code&gt; may be 'final' #loc</description>
+  <highlighted_element>c</highlighted_element>
+  <language>JAVA</language>
+  <offset>18</offset>
+  <length>1</length>
+</problem>
+</problems>

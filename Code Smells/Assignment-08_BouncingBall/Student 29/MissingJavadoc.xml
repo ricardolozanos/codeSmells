@@ -1,0 +1,262 @@
+<problems>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 29/student 29 (1).java</file>
+  <line>5</line>
+  <module>codeSmellsWork</module>
+  <package>BouncingBall</package>
+  <entry_point TYPE="class" FQNAME="BouncingBall.Bounceable" />
+  <problem_class id="MissingJavadoc" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Missing Javadoc</problem_class>
+  <description>Required Javadoc is absent</description>
+  <highlighted_element>Bounceable</highlighted_element>
+  <language>JAVA</language>
+  <offset>17</offset>
+  <length>10</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 29/student 29 (1).java</file>
+  <line>7</line>
+  <module>codeSmellsWork</module>
+  <package>BouncingBall</package>
+  <entry_point TYPE="method" FQNAME="BouncingBall.Bounceable void drawBall(java.awt.Graphics g, Ball[] b)" />
+  <problem_class id="MissingJavadoc" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Missing Javadoc</problem_class>
+  <description>Required Javadoc is absent</description>
+  <highlighted_element>drawBall</highlighted_element>
+  <language>JAVA</language>
+  <offset>6</offset>
+  <length>8</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 29/student 29 (2).java</file>
+  <line>10</line>
+  <module>codeSmellsWork</module>
+  <package>BouncingBall</package>
+  <entry_point TYPE="class" FQNAME="BouncingBall.BouncingBallRunner" />
+  <problem_class id="MissingJavadoc" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Missing Javadoc</problem_class>
+  <description>Required Javadoc is absent</description>
+  <highlighted_element>BouncingBallRunner</highlighted_element>
+  <language>JAVA</language>
+  <offset>13</offset>
+  <length>18</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 29/student 29 (2).java</file>
+  <line>16</line>
+  <module>codeSmellsWork</module>
+  <package>BouncingBall</package>
+  <entry_point TYPE="method" FQNAME="BouncingBall.BouncingBallRunner void init()" />
+  <problem_class id="MissingJavadoc" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Missing Javadoc</problem_class>
+  <description>Required Javadoc is absent</description>
+  <highlighted_element>init</highlighted_element>
+  <language>JAVA</language>
+  <offset>16</offset>
+  <length>4</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 29/student 29 (2).java</file>
+  <line>42</line>
+  <module>codeSmellsWork</module>
+  <package>BouncingBall</package>
+  <entry_point TYPE="method" FQNAME="BouncingBall.BouncingBallRunner void main(java.lang.String[] args)" />
+  <problem_class id="MissingJavadoc" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Missing Javadoc</problem_class>
+  <description>Required Javadoc is absent</description>
+  <highlighted_element>main</highlighted_element>
+  <language>JAVA</language>
+  <offset>23</offset>
+  <length>4</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 29/student 29 (3).java</file>
+  <line>6</line>
+  <module>codeSmellsWork</module>
+  <package>BouncingBall</package>
+  <entry_point TYPE="class" FQNAME="BouncingBall.CircleBall" />
+  <problem_class id="MissingJavadoc" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Missing Javadoc</problem_class>
+  <description>Required Javadoc is absent</description>
+  <highlighted_element>CircleBall</highlighted_element>
+  <language>JAVA</language>
+  <offset>13</offset>
+  <length>10</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 29/student 29 (3).java</file>
+  <line>13</line>
+  <module>codeSmellsWork</module>
+  <package>BouncingBall</package>
+  <entry_point TYPE="method" FQNAME="BouncingBall.CircleBall void drawBall(java.awt.Graphics g, Ball[] b)" />
+  <problem_class id="MissingJavadoc" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Missing Javadoc</problem_class>
+  <description>Required Javadoc is absent</description>
+  <highlighted_element>drawBall</highlighted_element>
+  <language>JAVA</language>
+  <offset>13</offset>
+  <length>8</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 29/student 29 (3).java</file>
+  <line>23</line>
+  <module>codeSmellsWork</module>
+  <package>BouncingBall</package>
+  <entry_point TYPE="method" FQNAME="BouncingBall.CircleBall void checkCollision(java.awt.Graphics g, Ball[] b)" />
+  <problem_class id="MissingJavadoc" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Missing Javadoc</problem_class>
+  <description>Required Javadoc is absent</description>
+  <highlighted_element>checkCollision</highlighted_element>
+  <language>JAVA</language>
+  <offset>13</offset>
+  <length>14</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 29/student 29 (4).java</file>
+  <line>6</line>
+  <module>codeSmellsWork</module>
+  <package>BouncingBall</package>
+  <entry_point TYPE="class" FQNAME="BouncingBall.Ball" />
+  <problem_class id="MissingJavadoc" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Missing Javadoc</problem_class>
+  <description>Required Javadoc is absent</description>
+  <highlighted_element>Ball</highlighted_element>
+  <language>JAVA</language>
+  <offset>22</offset>
+  <length>4</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 29/student 29 (4).java</file>
+  <line>25</line>
+  <module>codeSmellsWork</module>
+  <package>BouncingBall</package>
+  <entry_point TYPE="method" FQNAME="BouncingBall.Ball int getX()" />
+  <problem_class id="MissingJavadoc" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Missing Javadoc</problem_class>
+  <description>Required Javadoc is absent</description>
+  <highlighted_element>getX</highlighted_element>
+  <language>JAVA</language>
+  <offset>13</offset>
+  <length>4</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 29/student 29 (4).java</file>
+  <line>29</line>
+  <module>codeSmellsWork</module>
+  <package>BouncingBall</package>
+  <entry_point TYPE="method" FQNAME="BouncingBall.Ball void setX(int x)" />
+  <problem_class id="MissingJavadoc" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Missing Javadoc</problem_class>
+  <description>Required Javadoc is absent</description>
+  <highlighted_element>setX</highlighted_element>
+  <language>JAVA</language>
+  <offset>14</offset>
+  <length>4</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 29/student 29 (4).java</file>
+  <line>33</line>
+  <module>codeSmellsWork</module>
+  <package>BouncingBall</package>
+  <entry_point TYPE="method" FQNAME="BouncingBall.Ball int getY()" />
+  <problem_class id="MissingJavadoc" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Missing Javadoc</problem_class>
+  <description>Required Javadoc is absent</description>
+  <highlighted_element>getY</highlighted_element>
+  <language>JAVA</language>
+  <offset>13</offset>
+  <length>4</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 29/student 29 (4).java</file>
+  <line>37</line>
+  <module>codeSmellsWork</module>
+  <package>BouncingBall</package>
+  <entry_point TYPE="method" FQNAME="BouncingBall.Ball void setY(int y)" />
+  <problem_class id="MissingJavadoc" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Missing Javadoc</problem_class>
+  <description>Required Javadoc is absent</description>
+  <highlighted_element>setY</highlighted_element>
+  <language>JAVA</language>
+  <offset>14</offset>
+  <length>4</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 29/student 29 (4).java</file>
+  <line>41</line>
+  <module>codeSmellsWork</module>
+  <package>BouncingBall</package>
+  <entry_point TYPE="method" FQNAME="BouncingBall.Ball int getDx()" />
+  <problem_class id="MissingJavadoc" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Missing Javadoc</problem_class>
+  <description>Required Javadoc is absent</description>
+  <highlighted_element>getDx</highlighted_element>
+  <language>JAVA</language>
+  <offset>13</offset>
+  <length>5</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 29/student 29 (4).java</file>
+  <line>45</line>
+  <module>codeSmellsWork</module>
+  <package>BouncingBall</package>
+  <entry_point TYPE="method" FQNAME="BouncingBall.Ball void setDx(int dx)" />
+  <problem_class id="MissingJavadoc" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Missing Javadoc</problem_class>
+  <description>Required Javadoc is absent</description>
+  <highlighted_element>setDx</highlighted_element>
+  <language>JAVA</language>
+  <offset>14</offset>
+  <length>5</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 29/student 29 (4).java</file>
+  <line>49</line>
+  <module>codeSmellsWork</module>
+  <package>BouncingBall</package>
+  <entry_point TYPE="method" FQNAME="BouncingBall.Ball int getDy()" />
+  <problem_class id="MissingJavadoc" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Missing Javadoc</problem_class>
+  <description>Required Javadoc is absent</description>
+  <highlighted_element>getDy</highlighted_element>
+  <language>JAVA</language>
+  <offset>13</offset>
+  <length>5</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 29/student 29 (4).java</file>
+  <line>53</line>
+  <module>codeSmellsWork</module>
+  <package>BouncingBall</package>
+  <entry_point TYPE="method" FQNAME="BouncingBall.Ball void setDy(int dy)" />
+  <problem_class id="MissingJavadoc" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Missing Javadoc</problem_class>
+  <description>Required Javadoc is absent</description>
+  <highlighted_element>setDy</highlighted_element>
+  <language>JAVA</language>
+  <offset>14</offset>
+  <length>5</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 29/student 29 (4).java</file>
+  <line>57</line>
+  <module>codeSmellsWork</module>
+  <package>BouncingBall</package>
+  <entry_point TYPE="method" FQNAME="BouncingBall.Ball int getRadius()" />
+  <problem_class id="MissingJavadoc" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Missing Javadoc</problem_class>
+  <description>Required Javadoc is absent</description>
+  <highlighted_element>getRadius</highlighted_element>
+  <language>JAVA</language>
+  <offset>13</offset>
+  <length>9</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 29/student 29 (4).java</file>
+  <line>61</line>
+  <module>codeSmellsWork</module>
+  <package>BouncingBall</package>
+  <entry_point TYPE="method" FQNAME="BouncingBall.Ball java.awt.Color getColor()" />
+  <problem_class id="MissingJavadoc" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Missing Javadoc</problem_class>
+  <description>Required Javadoc is absent</description>
+  <highlighted_element>getColor</highlighted_element>
+  <language>JAVA</language>
+  <offset>15</offset>
+  <length>8</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 29/student 29 (4).java</file>
+  <line>65</line>
+  <module>codeSmellsWork</module>
+  <package>BouncingBall</package>
+  <entry_point TYPE="method" FQNAME="BouncingBall.Ball void drawBall(java.awt.Graphics g, BouncingBall.Ball[] b)" />
+  <problem_class id="MissingJavadoc" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Missing Javadoc</problem_class>
+  <description>Required Javadoc is absent</description>
+  <highlighted_element>drawBall</highlighted_element>
+  <language>JAVA</language>
+  <offset>23</offset>
+  <length>8</length>
+</problem>
+</problems>

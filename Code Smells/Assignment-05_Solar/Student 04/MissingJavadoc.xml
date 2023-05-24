@@ -1,0 +1,288 @@
+<problems>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 04/student 04 (1).java</file>
+  <line>7</line>
+  <module>codeSmellsWork</module>
+  <package>noapplet.assignments.Solar</package>
+  <entry_point TYPE="class" FQNAME="noapplet.assignments.Solar.Sun" />
+  <problem_class id="MissingJavadoc" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Missing Javadoc</problem_class>
+  <description>Required Javadoc is absent</description>
+  <highlighted_element>Sun</highlighted_element>
+  <language>JAVA</language>
+  <offset>13</offset>
+  <length>3</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 04/student 04 (1).java</file>
+  <line>16</line>
+  <module>codeSmellsWork</module>
+  <package>noapplet.assignments.Solar</package>
+  <entry_point TYPE="method" FQNAME="noapplet.assignments.Solar.Sun Sun(int x, int y, int radius, java.awt.Color color)" />
+  <problem_class id="MissingJavadoc" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Missing Javadoc</problem_class>
+  <description>Required Javadoc is absent</description>
+  <highlighted_element>Sun</highlighted_element>
+  <language>JAVA</language>
+  <offset>11</offset>
+  <length>3</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 04/student 04 (1).java</file>
+  <line>29</line>
+  <module>codeSmellsWork</module>
+  <package>noapplet.assignments.Solar</package>
+  <entry_point TYPE="method" FQNAME="noapplet.assignments.Solar.Sun int getX()" />
+  <problem_class id="MissingJavadoc" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Missing Javadoc</problem_class>
+  <description>Required Javadoc is absent</description>
+  <highlighted_element>getX</highlighted_element>
+  <language>JAVA</language>
+  <offset>15</offset>
+  <length>4</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 04/student 04 (1).java</file>
+  <line>33</line>
+  <module>codeSmellsWork</module>
+  <package>noapplet.assignments.Solar</package>
+  <entry_point TYPE="method" FQNAME="noapplet.assignments.Solar.Sun int getY()" />
+  <problem_class id="MissingJavadoc" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Missing Javadoc</problem_class>
+  <description>Required Javadoc is absent</description>
+  <highlighted_element>getY</highlighted_element>
+  <language>JAVA</language>
+  <offset>15</offset>
+  <length>4</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 04/student 04 (1).java</file>
+  <line>37</line>
+  <module>codeSmellsWork</module>
+  <package>noapplet.assignments.Solar</package>
+  <entry_point TYPE="method" FQNAME="noapplet.assignments.Solar.Sun int getRadius()" />
+  <problem_class id="MissingJavadoc" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Missing Javadoc</problem_class>
+  <description>Required Javadoc is absent</description>
+  <highlighted_element>getRadius</highlighted_element>
+  <language>JAVA</language>
+  <offset>15</offset>
+  <length>9</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 04/student 04 (1).java</file>
+  <line>41</line>
+  <module>codeSmellsWork</module>
+  <package>noapplet.assignments.Solar</package>
+  <entry_point TYPE="method" FQNAME="noapplet.assignments.Solar.Sun java.util.List&lt;Planet&gt; getPlanets()" />
+  <problem_class id="MissingJavadoc" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Missing Javadoc</problem_class>
+  <description>Required Javadoc is absent</description>
+  <highlighted_element>getPlanets</highlighted_element>
+  <language>JAVA</language>
+  <offset>24</offset>
+  <length>10</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 04/student 04 (1).java</file>
+  <line>47</line>
+  <module>codeSmellsWork</module>
+  <package>noapplet.assignments.Solar</package>
+  <entry_point TYPE="method" FQNAME="noapplet.assignments.Solar.Sun void draw(java.awt.Graphics g)" />
+  <problem_class id="MissingJavadoc" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Missing Javadoc</problem_class>
+  <description>Required Javadoc is absent</description>
+  <highlighted_element>draw</highlighted_element>
+  <language>JAVA</language>
+  <offset>16</offset>
+  <length>4</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 04/student 04 (2).java</file>
+  <line>5</line>
+  <module>codeSmellsWork</module>
+  <package>noapplet.assignments.Solar</package>
+  <entry_point TYPE="class" FQNAME="noapplet.assignments.Solar.Moon" />
+  <problem_class id="MissingJavadoc" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Missing Javadoc</problem_class>
+  <description>Required Javadoc is absent</description>
+  <highlighted_element>Moon</highlighted_element>
+  <language>JAVA</language>
+  <offset>13</offset>
+  <length>4</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 04/student 04 (2).java</file>
+  <line>13</line>
+  <module>codeSmellsWork</module>
+  <package>noapplet.assignments.Solar</package>
+  <entry_point TYPE="method" FQNAME="noapplet.assignments.Solar.Moon Moon(int distance, int radius, int angle, java.awt.Color color, int speed, Planet planet)" />
+  <problem_class id="MissingJavadoc" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Missing Javadoc</problem_class>
+  <description>Required Javadoc is absent</description>
+  <highlighted_element>Moon</highlighted_element>
+  <language>JAVA</language>
+  <offset>11</offset>
+  <length>4</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 04/student 04 (2).java</file>
+  <line>23</line>
+  <module>codeSmellsWork</module>
+  <package>noapplet.assignments.Solar</package>
+  <entry_point TYPE="method" FQNAME="noapplet.assignments.Solar.Moon void draw(java.awt.Graphics g)" />
+  <problem_class id="MissingJavadoc" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Missing Javadoc</problem_class>
+  <description>Required Javadoc is absent</description>
+  <highlighted_element>draw</highlighted_element>
+  <language>JAVA</language>
+  <offset>16</offset>
+  <length>4</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 04/student 04 (3).java</file>
+  <line>6</line>
+  <module>codeSmellsWork</module>
+  <package>noapplet.assignments.Solar</package>
+  <entry_point TYPE="class" FQNAME="noapplet.assignments.Solar.Planet" />
+  <problem_class id="MissingJavadoc" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Missing Javadoc</problem_class>
+  <description>Required Javadoc is absent</description>
+  <highlighted_element>Planet</highlighted_element>
+  <language>JAVA</language>
+  <offset>13</offset>
+  <length>6</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 04/student 04 (3).java</file>
+  <line>15</line>
+  <module>codeSmellsWork</module>
+  <package>noapplet.assignments.Solar</package>
+  <entry_point TYPE="method" FQNAME="noapplet.assignments.Solar.Planet Planet(int distance, int radius, int angle, java.awt.Color color, int speed, Sun sun)" />
+  <problem_class id="MissingJavadoc" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Missing Javadoc</problem_class>
+  <description>Required Javadoc is absent</description>
+  <highlighted_element>Planet</highlighted_element>
+  <language>JAVA</language>
+  <offset>11</offset>
+  <length>6</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 04/student 04 (3).java</file>
+  <line>28</line>
+  <module>codeSmellsWork</module>
+  <package>noapplet.assignments.Solar</package>
+  <entry_point TYPE="method" FQNAME="noapplet.assignments.Solar.Planet int getX()" />
+  <problem_class id="MissingJavadoc" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Missing Javadoc</problem_class>
+  <description>Required Javadoc is absent</description>
+  <highlighted_element>getX</highlighted_element>
+  <language>JAVA</language>
+  <offset>15</offset>
+  <length>4</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 04/student 04 (3).java</file>
+  <line>32</line>
+  <module>codeSmellsWork</module>
+  <package>noapplet.assignments.Solar</package>
+  <entry_point TYPE="method" FQNAME="noapplet.assignments.Solar.Planet int getY()" />
+  <problem_class id="MissingJavadoc" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Missing Javadoc</problem_class>
+  <description>Required Javadoc is absent</description>
+  <highlighted_element>getY</highlighted_element>
+  <language>JAVA</language>
+  <offset>15</offset>
+  <length>4</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 04/student 04 (3).java</file>
+  <line>36</line>
+  <module>codeSmellsWork</module>
+  <package>noapplet.assignments.Solar</package>
+  <entry_point TYPE="method" FQNAME="noapplet.assignments.Solar.Planet int getDistance()" />
+  <problem_class id="MissingJavadoc" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Missing Javadoc</problem_class>
+  <description>Required Javadoc is absent</description>
+  <highlighted_element>getDistance</highlighted_element>
+  <language>JAVA</language>
+  <offset>15</offset>
+  <length>11</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 04/student 04 (3).java</file>
+  <line>39</line>
+  <module>codeSmellsWork</module>
+  <package>noapplet.assignments.Solar</package>
+  <entry_point TYPE="method" FQNAME="noapplet.assignments.Solar.Planet int getAngle()" />
+  <problem_class id="MissingJavadoc" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Missing Javadoc</problem_class>
+  <description>Required Javadoc is absent</description>
+  <highlighted_element>getAngle</highlighted_element>
+  <language>JAVA</language>
+  <offset>15</offset>
+  <length>8</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 04/student 04 (3).java</file>
+  <line>43</line>
+  <module>codeSmellsWork</module>
+  <package>noapplet.assignments.Solar</package>
+  <entry_point TYPE="method" FQNAME="noapplet.assignments.Solar.Planet void setAngle(int angle)" />
+  <problem_class id="MissingJavadoc" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Missing Javadoc</problem_class>
+  <description>Required Javadoc is absent</description>
+  <highlighted_element>setAngle</highlighted_element>
+  <language>JAVA</language>
+  <offset>16</offset>
+  <length>8</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 04/student 04 (3).java</file>
+  <line>47</line>
+  <module>codeSmellsWork</module>
+  <package>noapplet.assignments.Solar</package>
+  <entry_point TYPE="method" FQNAME="noapplet.assignments.Solar.Planet int getSpeed()" />
+  <problem_class id="MissingJavadoc" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Missing Javadoc</problem_class>
+  <description>Required Javadoc is absent</description>
+  <highlighted_element>getSpeed</highlighted_element>
+  <language>JAVA</language>
+  <offset>15</offset>
+  <length>8</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 04/student 04 (3).java</file>
+  <line>51</line>
+  <module>codeSmellsWork</module>
+  <package>noapplet.assignments.Solar</package>
+  <entry_point TYPE="method" FQNAME="noapplet.assignments.Solar.Planet void setSpeed(int speed)" />
+  <problem_class id="MissingJavadoc" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Missing Javadoc</problem_class>
+  <description>Required Javadoc is absent</description>
+  <highlighted_element>setSpeed</highlighted_element>
+  <language>JAVA</language>
+  <offset>16</offset>
+  <length>8</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 04/student 04 (3).java</file>
+  <line>56</line>
+  <module>codeSmellsWork</module>
+  <package>noapplet.assignments.Solar</package>
+  <entry_point TYPE="method" FQNAME="noapplet.assignments.Solar.Planet void draw(java.awt.Graphics g)" />
+  <problem_class id="MissingJavadoc" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Missing Javadoc</problem_class>
+  <description>Required Javadoc is absent</description>
+  <highlighted_element>draw</highlighted_element>
+  <language>JAVA</language>
+  <offset>16</offset>
+  <length>4</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 04/student 04 (4).java</file>
+  <line>6</line>
+  <module>codeSmellsWork</module>
+  <package>noapplet.assignments.Solar</package>
+  <entry_point TYPE="class" FQNAME="noapplet.assignments.Solar.SolarSystem" />
+  <problem_class id="MissingJavadoc" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Missing Javadoc</problem_class>
+  <description>Required Javadoc is absent</description>
+  <highlighted_element>SolarSystem</highlighted_element>
+  <language>JAVA</language>
+  <offset>13</offset>
+  <length>11</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 04/student 04 (4).java</file>
+  <line>18</line>
+  <module>codeSmellsWork</module>
+  <package>noapplet.assignments.Solar</package>
+  <entry_point TYPE="method" FQNAME="noapplet.assignments.Solar.SolarSystem void main(java.lang.String[] args)" />
+  <problem_class id="MissingJavadoc" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Missing Javadoc</problem_class>
+  <description>Required Javadoc is absent</description>
+  <highlighted_element>main</highlighted_element>
+  <language>JAVA</language>
+  <offset>23</offset>
+  <length>4</length>
+</problem>
+</problems>

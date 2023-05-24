@@ -1,0 +1,15 @@
+<problems>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 08/Student 08.java</file>
+  <line>22</line>
+  <module>codeSmellsWork</module>
+  <package>&lt;default&gt;</package>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/src/Student 08/Student 08.java" />
+  <problem_class id="StaticImport" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Static import</problem_class>
+  <description>Static import &lt;code&gt;import static java.lang.System.out;&lt;/code&gt;  #loc</description>
+  <highlighted_element>import static java.lang.System.out;</highlighted_element>
+  <language>JAVA</language>
+  <offset>0</offset>
+  <length>35</length>
+</problem>
+</problems>

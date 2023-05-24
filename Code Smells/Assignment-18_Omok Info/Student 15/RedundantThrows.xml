@@ -1,0 +1,18 @@
+<problems>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 15/Student 15.java</file>
+  <line>8</line>
+  <module>codeSmellsWork</module>
+  <package>&lt;default&gt;</package>
+  <entry_point TYPE="method" FQNAME="OmokInfo OmokInfo()" />
+  <problem_class id="RedundantThrows" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Redundant 'throws' clause</problem_class>
+  <hints>
+    <hint value="IOException" />
+  </hints>
+  <description>The declared exception &lt;code&gt;IOException&lt;/code&gt; is never thrown</description>
+  <highlighted_element>IOException</highlighted_element>
+  <language>JAVA</language>
+  <offset>29</offset>
+  <length>11</length>
+</problem>
+</problems>

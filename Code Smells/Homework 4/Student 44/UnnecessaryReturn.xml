@@ -1,0 +1,15 @@
+<problems>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 44/student 44 (2).java</file>
+  <line>64</line>
+  <module>codeSmellsWork</module>
+  <package>&lt;default&gt;</package>
+  <entry_point TYPE="method" FQNAME="BoardPanel void mouseClicked(java.awt.event.MouseEvent e)" />
+  <problem_class id="UnnecessaryReturn" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Unnecessary 'return' statement</problem_class>
+  <description>&lt;code&gt;return&lt;/code&gt; is unnecessary as the last statement in a 'void' method #loc</description>
+  <highlighted_element>return</highlighted_element>
+  <language>JAVA</language>
+  <offset>12</offset>
+  <length>6</length>
+</problem>
+</problems>

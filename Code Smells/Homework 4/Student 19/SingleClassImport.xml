@@ -1,0 +1,366 @@
+<problems>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 19/student 19 (1).java</file>
+  <line>3</line>
+  <module>codeSmellsWork</module>
+  <package>omok</package>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/src/Student 19/student 19 (1).java" />
+  <problem_class id="SingleClassImport" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Single class import</problem_class>
+  <description>Single class import &lt;code&gt;import java.awt.Color;&lt;/code&gt; #loc</description>
+  <highlighted_element>import java.awt.Color;</highlighted_element>
+  <language>JAVA</language>
+  <offset>0</offset>
+  <length>22</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 19/student 19 (10).java</file>
+  <line>3</line>
+  <module>codeSmellsWork</module>
+  <package>omok</package>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/src/Student 19/student 19 (10).java" />
+  <problem_class id="SingleClassImport" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Single class import</problem_class>
+  <description>Single class import &lt;code&gt;import java.awt.Color;&lt;/code&gt; #loc</description>
+  <highlighted_element>import java.awt.Color;</highlighted_element>
+  <language>JAVA</language>
+  <offset>0</offset>
+  <length>22</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 19/student 19 (2).java</file>
+  <line>3</line>
+  <module>codeSmellsWork</module>
+  <package>omok</package>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/src/Student 19/student 19 (2).java" />
+  <problem_class id="SingleClassImport" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Single class import</problem_class>
+  <description>Single class import &lt;code&gt;import java.awt.Color;&lt;/code&gt; #loc</description>
+  <highlighted_element>import java.awt.Color;</highlighted_element>
+  <language>JAVA</language>
+  <offset>0</offset>
+  <length>22</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 19/student 19 (2).java</file>
+  <line>4</line>
+  <module>codeSmellsWork</module>
+  <package>omok</package>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/src/Student 19/student 19 (2).java" />
+  <problem_class id="SingleClassImport" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Single class import</problem_class>
+  <description>Single class import &lt;code&gt;import java.awt.Graphics;&lt;/code&gt; #loc</description>
+  <highlighted_element>import java.awt.Graphics;</highlighted_element>
+  <language>JAVA</language>
+  <offset>0</offset>
+  <length>25</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 19/student 19 (2).java</file>
+  <line>5</line>
+  <module>codeSmellsWork</module>
+  <package>omok</package>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/src/Student 19/student 19 (2).java" />
+  <problem_class id="SingleClassImport" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Single class import</problem_class>
+  <description>Single class import &lt;code&gt;import java.awt.event.MouseAdapter;&lt;/code&gt; #loc</description>
+  <highlighted_element>import java.awt.event.MouseAdapter;</highlighted_element>
+  <language>JAVA</language>
+  <offset>0</offset>
+  <length>35</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 19/student 19 (2).java</file>
+  <line>6</line>
+  <module>codeSmellsWork</module>
+  <package>omok</package>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/src/Student 19/student 19 (2).java" />
+  <problem_class id="SingleClassImport" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Single class import</problem_class>
+  <description>Single class import &lt;code&gt;import java.awt.event.MouseEvent;&lt;/code&gt; #loc</description>
+  <highlighted_element>import java.awt.event.MouseEvent;</highlighted_element>
+  <language>JAVA</language>
+  <offset>0</offset>
+  <length>33</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 19/student 19 (2).java</file>
+  <line>8</line>
+  <module>codeSmellsWork</module>
+  <package>omok</package>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/src/Student 19/student 19 (2).java" />
+  <problem_class id="SingleClassImport" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Single class import</problem_class>
+  <description>Single class import &lt;code&gt;import javax.swing.JPanel;&lt;/code&gt; #loc</description>
+  <highlighted_element>import javax.swing.JPanel;</highlighted_element>
+  <language>JAVA</language>
+  <offset>0</offset>
+  <length>26</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 19/student 19 (3).java</file>
+  <line>3</line>
+  <module>codeSmellsWork</module>
+  <package>omok</package>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/src/Student 19/student 19 (3).java" />
+  <problem_class id="SingleClassImport" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Single class import</problem_class>
+  <description>Single class import &lt;code&gt;import java.awt.Color;&lt;/code&gt; #loc</description>
+  <highlighted_element>import java.awt.Color;</highlighted_element>
+  <language>JAVA</language>
+  <offset>0</offset>
+  <length>22</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 19/student 19 (3).java</file>
+  <line>4</line>
+  <module>codeSmellsWork</module>
+  <package>omok</package>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/src/Student 19/student 19 (3).java" />
+  <problem_class id="SingleClassImport" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Single class import</problem_class>
+  <description>Single class import &lt;code&gt;import java.awt.Dimension;&lt;/code&gt; #loc</description>
+  <highlighted_element>import java.awt.Dimension;</highlighted_element>
+  <language>JAVA</language>
+  <offset>0</offset>
+  <length>26</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 19/student 19 (3).java</file>
+  <line>5</line>
+  <module>codeSmellsWork</module>
+  <package>omok</package>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/src/Student 19/student 19 (3).java" />
+  <problem_class id="SingleClassImport" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Single class import</problem_class>
+  <description>Single class import &lt;code&gt;import java.awt.Rectangle;&lt;/code&gt; #loc</description>
+  <highlighted_element>import java.awt.Rectangle;</highlighted_element>
+  <language>JAVA</language>
+  <offset>0</offset>
+  <length>26</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 19/student 19 (3).java</file>
+  <line>6</line>
+  <module>codeSmellsWork</module>
+  <package>omok</package>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/src/Student 19/student 19 (3).java" />
+  <problem_class id="SingleClassImport" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Single class import</problem_class>
+  <description>Single class import &lt;code&gt;import java.awt.event.MouseAdapter;&lt;/code&gt; #loc</description>
+  <highlighted_element>import java.awt.event.MouseAdapter;</highlighted_element>
+  <language>JAVA</language>
+  <offset>0</offset>
+  <length>35</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 19/student 19 (3).java</file>
+  <line>7</line>
+  <module>codeSmellsWork</module>
+  <package>omok</package>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/src/Student 19/student 19 (3).java" />
+  <problem_class id="SingleClassImport" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Single class import</problem_class>
+  <description>Single class import &lt;code&gt;import java.awt.event.MouseEvent;&lt;/code&gt; #loc</description>
+  <highlighted_element>import java.awt.event.MouseEvent;</highlighted_element>
+  <language>JAVA</language>
+  <offset>0</offset>
+  <length>33</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 19/student 19 (4).java</file>
+  <line>3</line>
+  <module>codeSmellsWork</module>
+  <package>omok</package>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/src/Student 19/student 19 (4).java" />
+  <problem_class id="SingleClassImport" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Single class import</problem_class>
+  <description>Single class import &lt;code&gt;import java.awt.Color;&lt;/code&gt; #loc</description>
+  <highlighted_element>import java.awt.Color;</highlighted_element>
+  <language>JAVA</language>
+  <offset>0</offset>
+  <length>22</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 19/student 19 (4).java</file>
+  <line>4</line>
+  <module>codeSmellsWork</module>
+  <package>omok</package>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/src/Student 19/student 19 (4).java" />
+  <problem_class id="SingleClassImport" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Single class import</problem_class>
+  <description>Single class import &lt;code&gt;import java.util.ArrayList;&lt;/code&gt; #loc</description>
+  <highlighted_element>import java.util.ArrayList;</highlighted_element>
+  <language>JAVA</language>
+  <offset>0</offset>
+  <length>27</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 19/student 19 (4).java</file>
+  <line>5</line>
+  <module>codeSmellsWork</module>
+  <package>omok</package>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/src/Student 19/student 19 (4).java" />
+  <problem_class id="SingleClassImport" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Single class import</problem_class>
+  <description>Single class import &lt;code&gt;import java.util.List;&lt;/code&gt; #loc</description>
+  <highlighted_element>import java.util.List;</highlighted_element>
+  <language>JAVA</language>
+  <offset>0</offset>
+  <length>22</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 19/student 19 (6).java</file>
+  <line>3</line>
+  <module>codeSmellsWork</module>
+  <package>omok</package>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/src/Student 19/student 19 (6).java" />
+  <problem_class id="SingleClassImport" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Single class import</problem_class>
+  <description>Single class import &lt;code&gt;import java.awt.BorderLayout;&lt;/code&gt; #loc</description>
+  <highlighted_element>import java.awt.BorderLayout;</highlighted_element>
+  <language>JAVA</language>
+  <offset>0</offset>
+  <length>29</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 19/student 19 (6).java</file>
+  <line>4</line>
+  <module>codeSmellsWork</module>
+  <package>omok</package>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/src/Student 19/student 19 (6).java" />
+  <problem_class id="SingleClassImport" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Single class import</problem_class>
+  <description>Single class import &lt;code&gt;import java.awt.event.ActionEvent;&lt;/code&gt; #loc</description>
+  <highlighted_element>import java.awt.event.ActionEvent;</highlighted_element>
+  <language>JAVA</language>
+  <offset>0</offset>
+  <length>34</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 19/student 19 (6).java</file>
+  <line>5</line>
+  <module>codeSmellsWork</module>
+  <package>omok</package>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/src/Student 19/student 19 (6).java" />
+  <problem_class id="SingleClassImport" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Single class import</problem_class>
+  <description>Single class import &lt;code&gt;import java.awt.event.KeyEvent;&lt;/code&gt; #loc</description>
+  <highlighted_element>import java.awt.event.KeyEvent;</highlighted_element>
+  <language>JAVA</language>
+  <offset>0</offset>
+  <length>31</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 19/student 19 (6).java</file>
+  <line>7</line>
+  <module>codeSmellsWork</module>
+  <package>omok</package>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/src/Student 19/student 19 (6).java" />
+  <problem_class id="SingleClassImport" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Single class import</problem_class>
+  <description>Single class import &lt;code&gt;import javax.swing.JButton;&lt;/code&gt; #loc</description>
+  <highlighted_element>import javax.swing.JButton;</highlighted_element>
+  <language>JAVA</language>
+  <offset>0</offset>
+  <length>27</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 19/student 19 (6).java</file>
+  <line>8</line>
+  <module>codeSmellsWork</module>
+  <package>omok</package>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/src/Student 19/student 19 (6).java" />
+  <problem_class id="SingleClassImport" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Single class import</problem_class>
+  <description>Single class import &lt;code&gt;import javax.swing.JFrame;&lt;/code&gt; #loc</description>
+  <highlighted_element>import javax.swing.JFrame;</highlighted_element>
+  <language>JAVA</language>
+  <offset>0</offset>
+  <length>26</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 19/student 19 (6).java</file>
+  <line>9</line>
+  <module>codeSmellsWork</module>
+  <package>omok</package>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/src/Student 19/student 19 (6).java" />
+  <problem_class id="SingleClassImport" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Single class import</problem_class>
+  <description>Single class import &lt;code&gt;import javax.swing.JMenu;&lt;/code&gt; #loc</description>
+  <highlighted_element>import javax.swing.JMenu;</highlighted_element>
+  <language>JAVA</language>
+  <offset>0</offset>
+  <length>25</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 19/student 19 (6).java</file>
+  <line>10</line>
+  <module>codeSmellsWork</module>
+  <package>omok</package>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/src/Student 19/student 19 (6).java" />
+  <problem_class id="SingleClassImport" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Single class import</problem_class>
+  <description>Single class import &lt;code&gt;import javax.swing.JMenuBar;&lt;/code&gt; #loc</description>
+  <highlighted_element>import javax.swing.JMenuBar;</highlighted_element>
+  <language>JAVA</language>
+  <offset>0</offset>
+  <length>28</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 19/student 19 (6).java</file>
+  <line>11</line>
+  <module>codeSmellsWork</module>
+  <package>omok</package>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/src/Student 19/student 19 (6).java" />
+  <problem_class id="SingleClassImport" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Single class import</problem_class>
+  <description>Single class import &lt;code&gt;import javax.swing.JMenuItem;&lt;/code&gt; #loc</description>
+  <highlighted_element>import javax.swing.JMenuItem;</highlighted_element>
+  <language>JAVA</language>
+  <offset>0</offset>
+  <length>29</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 19/student 19 (6).java</file>
+  <line>12</line>
+  <module>codeSmellsWork</module>
+  <package>omok</package>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/src/Student 19/student 19 (6).java" />
+  <problem_class id="SingleClassImport" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Single class import</problem_class>
+  <description>Single class import &lt;code&gt;import javax.swing.JOptionPane;&lt;/code&gt; #loc</description>
+  <highlighted_element>import javax.swing.JOptionPane;</highlighted_element>
+  <language>JAVA</language>
+  <offset>0</offset>
+  <length>31</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 19/student 19 (6).java</file>
+  <line>13</line>
+  <module>codeSmellsWork</module>
+  <package>omok</package>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/src/Student 19/student 19 (6).java" />
+  <problem_class id="SingleClassImport" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Single class import</problem_class>
+  <description>Single class import &lt;code&gt;import javax.swing.JToolBar;&lt;/code&gt; #loc</description>
+  <highlighted_element>import javax.swing.JToolBar;</highlighted_element>
+  <language>JAVA</language>
+  <offset>0</offset>
+  <length>28</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 19/student 19 (6).java</file>
+  <line>14</line>
+  <module>codeSmellsWork</module>
+  <package>omok</package>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/src/Student 19/student 19 (6).java" />
+  <problem_class id="SingleClassImport" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Single class import</problem_class>
+  <description>Single class import &lt;code&gt;import javax.swing.KeyStroke;&lt;/code&gt; #loc</description>
+  <highlighted_element>import javax.swing.KeyStroke;</highlighted_element>
+  <language>JAVA</language>
+  <offset>0</offset>
+  <length>29</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 19/student 19 (9).java</file>
+  <line>3</line>
+  <module>codeSmellsWork</module>
+  <package>omok</package>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/src/Student 19/student 19 (9).java" />
+  <problem_class id="SingleClassImport" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Single class import</problem_class>
+  <description>Single class import &lt;code&gt;import java.awt.event.ActionEvent;&lt;/code&gt; #loc</description>
+  <highlighted_element>import java.awt.event.ActionEvent;</highlighted_element>
+  <language>JAVA</language>
+  <offset>0</offset>
+  <length>34</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 19/student 19 (9).java</file>
+  <line>4</line>
+  <module>codeSmellsWork</module>
+  <package>omok</package>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/src/Student 19/student 19 (9).java" />
+  <problem_class id="SingleClassImport" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Single class import</problem_class>
+  <description>Single class import &lt;code&gt;import java.awt.event.ActionListener;&lt;/code&gt; #loc</description>
+  <highlighted_element>import java.awt.event.ActionListener;</highlighted_element>
+  <language>JAVA</language>
+  <offset>0</offset>
+  <length>37</length>
+</problem>
+</problems>

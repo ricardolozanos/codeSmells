@@ -1,0 +1,36 @@
+<problems>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 14/student 14.java</file>
+  <line>14</line>
+  <module>codeSmellsWork</module>
+  <package>noapplet.GridMaker</package>
+  <entry_point TYPE="method" FQNAME="noapplet.GridMaker.GridMaker GridMaker()" />
+  <language>JAVA</language>
+  <offset>7</offset>
+  <length>9</length>
+  <highlighted_element>GridMaker</highlighted_element>
+  <problem_class id="unused" severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">unused declaration</problem_class>
+  <hints>
+    <hint value="comment" />
+    <hint value="delete" />
+  </hints>
+  <description>Constructor is never used.</description>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 14/student 14.java</file>
+  <line>22</line>
+  <module>codeSmellsWork</module>
+  <package>noapplet.GridMaker</package>
+  <entry_point TYPE="method" FQNAME="noapplet.GridMaker.GridMaker void paint(java.awt.Graphics g)" />
+  <language>JAVA</language>
+  <offset>12</offset>
+  <length>5</length>
+  <highlighted_element>paint</highlighted_element>
+  <problem_class id="unused" severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">unused declaration</problem_class>
+  <hints>
+    <hint value="comment" />
+    <hint value="delete" />
+  </hints>
+  <description>Method is never used.</description>
+</problem>
+</problems>

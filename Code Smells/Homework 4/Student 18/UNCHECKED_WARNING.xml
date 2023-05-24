@@ -1,0 +1,28 @@
+<problems>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 18/student 18 (6).java</file>
+  <line>134</line>
+  <module>codeSmellsWork</module>
+  <package>&lt;default&gt;</package>
+  <entry_point TYPE="method" FQNAME="OmokGUI void showBoard(Game g)" />
+  <problem_class id="UNCHECKED_WARNING" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Unchecked warning</problem_class>
+  <description>Unchecked call to 'addItem(E)' as a member of raw type 'javax.swing.JComboBox'</description>
+  <highlighted_element>comboBox.addItem</highlighted_element>
+  <language>JAVA</language>
+  <offset>5</offset>
+  <length>16</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 18/student 18 (6).java</file>
+  <line>135</line>
+  <module>codeSmellsWork</module>
+  <package>&lt;default&gt;</package>
+  <entry_point TYPE="method" FQNAME="OmokGUI void showBoard(Game g)" />
+  <problem_class id="UNCHECKED_WARNING" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Unchecked warning</problem_class>
+  <description>Unchecked call to 'addItem(E)' as a member of raw type 'javax.swing.JComboBox'</description>
+  <highlighted_element>comboBox.addItem</highlighted_element>
+  <language>JAVA</language>
+  <offset>5</offset>
+  <length>16</length>
+</problem>
+</problems>

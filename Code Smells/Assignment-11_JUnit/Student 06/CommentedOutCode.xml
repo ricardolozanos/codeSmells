@@ -1,0 +1,106 @@
+<problems>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 06/student 06 (7).java</file>
+  <line>18</line>
+  <module>codeSmellsWork</module>
+  <package>&lt;default&gt;</package>
+  <entry_point TYPE="method" FQNAME="Board boolean placeStone(int x, int y, int player)" />
+  <problem_class id="CommentedOutCode" severity="WEAK WARNING" attribute_key="INFO_ATTRIBUTES">Commented out code</problem_class>
+  <description>Commented out code (3 lines)</description>
+  <highlighted_element>//</highlighted_element>
+  <language>JAVA</language>
+  <offset>0</offset>
+  <length>2</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 06/student 06 (8).java</file>
+  <line>35</line>
+  <module>codeSmellsWork</module>
+  <package>&lt;default&gt;</package>
+  <entry_point TYPE="method" FQNAME="Controller void play()" />
+  <problem_class id="CommentedOutCode" severity="WEAK WARNING" attribute_key="INFO_ATTRIBUTES">Commented out code</problem_class>
+  <description>Commented out code (2 lines)</description>
+  <highlighted_element>//</highlighted_element>
+  <language>JAVA</language>
+  <offset>0</offset>
+  <length>2</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 06/student 06 (8).java</file>
+  <line>89</line>
+  <module>codeSmellsWork</module>
+  <package>&lt;default&gt;</package>
+  <entry_point TYPE="method" FQNAME="Controller void play()" />
+  <problem_class id="CommentedOutCode" severity="WEAK WARNING" attribute_key="INFO_ATTRIBUTES">Commented out code</problem_class>
+  <description>Commented out code (5 lines)</description>
+  <highlighted_element>//</highlighted_element>
+  <language>JAVA</language>
+  <offset>0</offset>
+  <length>2</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 06/student 06 (8).java</file>
+  <line>103</line>
+  <module>codeSmellsWork</module>
+  <package>&lt;default&gt;</package>
+  <entry_point TYPE="method" FQNAME="Controller void play()" />
+  <problem_class id="CommentedOutCode" severity="WEAK WARNING" attribute_key="INFO_ATTRIBUTES">Commented out code</problem_class>
+  <description>Commented out code (3 lines)</description>
+  <highlighted_element>//</highlighted_element>
+  <language>JAVA</language>
+  <offset>0</offset>
+  <length>2</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 06/student 06 (8).java</file>
+  <line>127</line>
+  <module>codeSmellsWork</module>
+  <package>&lt;default&gt;</package>
+  <entry_point TYPE="method" FQNAME="Controller void play()" />
+  <problem_class id="CommentedOutCode" severity="WEAK WARNING" attribute_key="INFO_ATTRIBUTES">Commented out code</problem_class>
+  <description>Commented out code (4 lines)</description>
+  <highlighted_element>//</highlighted_element>
+  <language>JAVA</language>
+  <offset>0</offset>
+  <length>2</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 06/student 06 (9).java</file>
+  <line>39</line>
+  <module>codeSmellsWork</module>
+  <package>&lt;default&gt;</package>
+  <entry_point TYPE="method" FQNAME="CPUPlayer boolean makeMove(int x, int y, Board board)" />
+  <problem_class id="CommentedOutCode" severity="WEAK WARNING" attribute_key="INFO_ATTRIBUTES">Commented out code</problem_class>
+  <description>Commented out code (2 lines)</description>
+  <highlighted_element>//</highlighted_element>
+  <language>JAVA</language>
+  <offset>0</offset>
+  <length>2</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 06/student 06 (9).java</file>
+  <line>46</line>
+  <module>codeSmellsWork</module>
+  <package>&lt;default&gt;</package>
+  <entry_point TYPE="method" FQNAME="CPUPlayer boolean makeMove(int x, int y, Board board)" />
+  <problem_class id="CommentedOutCode" severity="WEAK WARNING" attribute_key="INFO_ATTRIBUTES">Commented out code</problem_class>
+  <description>Commented out code (3 lines)</description>
+  <highlighted_element>//</highlighted_element>
+  <language>JAVA</language>
+  <offset>0</offset>
+  <length>2</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 06/student 06 (9).java</file>
+  <line>121</line>
+  <module>codeSmellsWork</module>
+  <package>&lt;default&gt;</package>
+  <entry_point TYPE="method" FQNAME="CPUPlayer boolean makeMove(int x, int y, Board board)" />
+  <problem_class id="CommentedOutCode" severity="WEAK WARNING" attribute_key="INFO_ATTRIBUTES">Commented out code</problem_class>
+  <description>Commented out code (10 lines)</description>
+  <highlighted_element>//</highlighted_element>
+  <language>JAVA</language>
+  <offset>0</offset>
+  <length>2</length>
+</problem>
+</problems>

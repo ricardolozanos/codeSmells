@@ -1,0 +1,15 @@
+<problems>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 17/student 17 (1).java</file>
+  <line>183</line>
+  <module>codeSmellsWork</module>
+  <package>&lt;default&gt;</package>
+  <entry_point TYPE="method" FQNAME="BouncingBall.CircleBall boolean collidesWith(BouncingBall.CircleBall ball)" />
+  <problem_class id="MultipleReturnPointsPerMethod" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Method with multiple return points</problem_class>
+  <description>&lt;code&gt;collidesWith&lt;/code&gt; has 2 return points #loc</description>
+  <highlighted_element>collidesWith</highlighted_element>
+  <language>JAVA</language>
+  <offset>23</offset>
+  <length>12</length>
+</problem>
+</problems>

@@ -1,0 +1,15 @@
+<problems>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 30/student 30 (1).java</file>
+  <line>58</line>
+  <module>codeSmellsWork</module>
+  <package>noapplet.Files</package>
+  <entry_point TYPE="method" FQNAME="noapplet.Files.Counter void main(java.lang.String[] args)" />
+  <problem_class id="ChainedMethodCall" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Chained method calls</problem_class>
+  <description>Chained method call &lt;code&gt;run()&lt;/code&gt; #loc</description>
+  <highlighted_element>run</highlighted_element>
+  <language>JAVA</language>
+  <offset>22</offset>
+  <length>3</length>
+</problem>
+</problems>

@@ -1,0 +1,34 @@
+<problems>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 06/student 06 (6).java</file>
+  <line>7</line>
+  <module>codeSmellsWork</module>
+  <package>&lt;default&gt;</package>
+  <entry_point TYPE="method" FQNAME="Player boolean makeMove(int x, int y, Board board)" />
+  <problem_class id="SameParameterValue" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Method parameter is always the same value</problem_class>
+  <hints>
+    <hint value="x 0" />
+  </hints>
+  <description>Actual value of parameter &lt;code&gt;x&lt;/code&gt; is always '0'</description>
+  <highlighted_element>x</highlighted_element>
+  <language>JAVA</language>
+  <offset>34</offset>
+  <length>1</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 06/student 06 (6).java</file>
+  <line>7</line>
+  <module>codeSmellsWork</module>
+  <package>&lt;default&gt;</package>
+  <entry_point TYPE="method" FQNAME="Player boolean makeMove(int x, int y, Board board)" />
+  <problem_class id="SameParameterValue" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Method parameter is always the same value</problem_class>
+  <hints>
+    <hint value="y 0" />
+  </hints>
+  <description>Actual value of parameter &lt;code&gt;y&lt;/code&gt; is always '0'</description>
+  <highlighted_element>y</highlighted_element>
+  <language>JAVA</language>
+  <offset>41</offset>
+  <length>1</length>
+</problem>
+</problems>

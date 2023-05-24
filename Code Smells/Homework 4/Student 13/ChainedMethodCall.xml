@@ -1,0 +1,28 @@
+<problems>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 13/student 13 (4).java</file>
+  <line>79</line>
+  <module>codeSmellsWork</module>
+  <package>&lt;default&gt;</package>
+  <entry_point TYPE="method" FQNAME="GameController void placeStone(Playable player)" />
+  <problem_class id="ChainedMethodCall" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Chained method calls</problem_class>
+  <description>Chained method call &lt;code&gt;getStonePlacement()&lt;/code&gt; #loc</description>
+  <highlighted_element>getStonePlacement</highlighted_element>
+  <language>JAVA</language>
+  <offset>75</offset>
+  <length>17</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 13/student 13 (5).java</file>
+  <line>39</line>
+  <module>codeSmellsWork</module>
+  <package>&lt;default&gt;</package>
+  <entry_point TYPE="method" FQNAME="GUserInterface void initBars()" />
+  <problem_class id="ChainedMethodCall" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Chained method calls</problem_class>
+  <description>Chained method call &lt;code&gt;setAccessibleDescription()&lt;/code&gt; #loc</description>
+  <highlighted_element>setAccessibleDescription</highlighted_element>
+  <language>JAVA</language>
+  <offset>40</offset>
+  <length>24</length>
+</problem>
+</problems>

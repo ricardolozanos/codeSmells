@@ -1,0 +1,30 @@
+<problems>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 23/student 23.java</file>
+  <line>11</line>
+  <module>codeSmellsWork</module>
+  <package>noapplet.OmokTerminal</package>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/src/Student 23/student 23.java" />
+  <problem_class id="UNUSED_IMPORT" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Unused import</problem_class>
+  <hints />
+  <description>Unused import &lt;code&gt;import java.util.ArrayList;&lt;/code&gt; #loc</description>
+  <highlighted_element>import java.util.ArrayList;</highlighted_element>
+  <language>JAVA</language>
+  <offset>0</offset>
+  <length>27</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 23/student 23.java</file>
+  <line>12</line>
+  <module>codeSmellsWork</module>
+  <package>noapplet.OmokTerminal</package>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/src/Student 23/student 23.java" />
+  <problem_class id="UNUSED_IMPORT" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Unused import</problem_class>
+  <hints />
+  <description>Unused import &lt;code&gt;import java.util.InputMismatchException;&lt;/code&gt; #loc</description>
+  <highlighted_element>import java.util.InputMismatchException;</highlighted_element>
+  <language>JAVA</language>
+  <offset>0</offset>
+  <length>40</length>
+</problem>
+</problems>

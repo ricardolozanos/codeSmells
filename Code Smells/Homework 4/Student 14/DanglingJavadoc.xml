@@ -1,0 +1,15 @@
+<problems>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 14/student 14 (3).java</file>
+  <line>26</line>
+  <module>codeSmellsWork</module>
+  <package>game.GUI</package>
+  <entry_point TYPE="method" FQNAME="game.GUI.Bordwig void paintComponent(java.awt.Graphics g)" />
+  <problem_class id="DanglingJavadoc" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Dangling Javadoc comment</problem_class>
+  <description>Dangling Javadoc comment #loc</description>
+  <highlighted_element>/**</highlighted_element>
+  <language>JAVA</language>
+  <offset>4</offset>
+  <length>3</length>
+</problem>
+</problems>

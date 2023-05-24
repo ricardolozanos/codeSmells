@@ -1,0 +1,15 @@
+<problems>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 41/student 41 (3).java</file>
+  <line>11</line>
+  <module>codeSmellsWork</module>
+  <package>noapplet</package>
+  <entry_point TYPE="method" FQNAME="noapplet.Player void setPiece(int x, int y, boolean bool)" />
+  <problem_class id="QuestionableName" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Questionable name</problem_class>
+  <description>Questionable name &lt;code&gt;bool&lt;/code&gt; #loc</description>
+  <highlighted_element>bool</highlighted_element>
+  <language>JAVA</language>
+  <offset>50</offset>
+  <length>4</length>
+</problem>
+</problems>

@@ -1,0 +1,15 @@
+<problems>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 41/student 41 (5).java</file>
+  <line>5</line>
+  <module>codeSmellsWork</module>
+  <package>noapplet</package>
+  <entry_point TYPE="class" FQNAME="noapplet.Game" />
+  <problem_class id="ClassComplexity" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Overly complex class</problem_class>
+  <description>Overly complex class &lt;code&gt;Game&lt;/code&gt; (cyclomatic complexity = 140) #loc</description>
+  <highlighted_element>Game</highlighted_element>
+  <language>JAVA</language>
+  <offset>13</offset>
+  <length>4</length>
+</problem>
+</problems>

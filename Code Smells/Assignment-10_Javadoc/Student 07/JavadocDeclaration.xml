@@ -1,0 +1,158 @@
+<problems>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 07/student 07 (1).java</file>
+  <line>20</line>
+  <module>codeSmellsWork</module>
+  <package>&lt;default&gt;</package>
+  <entry_point TYPE="method" FQNAME="ConsoleUI ConsoleUI(Board board)" />
+  <problem_class id="JavadocDeclaration" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Javadoc declaration problems</problem_class>
+  <description>&lt;code&gt;@param board&lt;/code&gt; tag description is missing</description>
+  <highlighted_element>board</highlighted_element>
+  <language>JAVA</language>
+  <offset>14</offset>
+  <length>5</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 07/student 07 (1).java</file>
+  <line>29</line>
+  <module>codeSmellsWork</module>
+  <package>&lt;default&gt;</package>
+  <entry_point TYPE="method" FQNAME="ConsoleUI void showMessage(java.lang.String msg)" />
+  <problem_class id="JavadocDeclaration" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Javadoc declaration problems</problem_class>
+  <description>&lt;code&gt;@param msg&lt;/code&gt; tag description is missing</description>
+  <highlighted_element>msg</highlighted_element>
+  <language>JAVA</language>
+  <offset>14</offset>
+  <length>3</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 07/student 07 (1).java</file>
+  <line>37</line>
+  <module>codeSmellsWork</module>
+  <package>&lt;default&gt;</package>
+  <entry_point TYPE="method" FQNAME="ConsoleUI int promptGameType()" />
+  <problem_class id="JavadocDeclaration" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Javadoc declaration problems</problem_class>
+  <description>&lt;code&gt;@return&lt;/code&gt; tag description is missing</description>
+  <highlighted_element>@return</highlighted_element>
+  <language>JAVA</language>
+  <offset>7</offset>
+  <length>7</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 07/student 07 (1).java</file>
+  <line>56</line>
+  <module>codeSmellsWork</module>
+  <package>&lt;default&gt;</package>
+  <entry_point TYPE="method" FQNAME="ConsoleUI void showBoard(Board board)" />
+  <problem_class id="JavadocDeclaration" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Javadoc declaration problems</problem_class>
+  <description>&lt;code&gt;@param board&lt;/code&gt; tag description is missing</description>
+  <highlighted_element>board</highlighted_element>
+  <language>JAVA</language>
+  <offset>14</offset>
+  <length>5</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 07/student 07 (1).java</file>
+  <line>64</line>
+  <module>codeSmellsWork</module>
+  <package>&lt;default&gt;</package>
+  <entry_point TYPE="method" FQNAME="ConsoleUI java.lang.String[] promptPlayer(Players activePlayer)" />
+  <problem_class id="JavadocDeclaration" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Javadoc declaration problems</problem_class>
+  <description>&lt;code&gt;@param activePlayer&lt;/code&gt; tag description is missing</description>
+  <highlighted_element>activePlayer</highlighted_element>
+  <language>JAVA</language>
+  <offset>14</offset>
+  <length>12</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 07/student 07 (1).java</file>
+  <line>65</line>
+  <module>codeSmellsWork</module>
+  <package>&lt;default&gt;</package>
+  <entry_point TYPE="method" FQNAME="ConsoleUI java.lang.String[] promptPlayer(Players activePlayer)" />
+  <problem_class id="JavadocDeclaration" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Javadoc declaration problems</problem_class>
+  <description>&lt;code&gt;@return&lt;/code&gt; tag description is missing</description>
+  <highlighted_element>@return</highlighted_element>
+  <language>JAVA</language>
+  <offset>7</offset>
+  <length>7</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 07/student 07 (1).java</file>
+  <line>78</line>
+  <module>codeSmellsWork</module>
+  <package>&lt;default&gt;</package>
+  <entry_point TYPE="method" FQNAME="ConsoleUI void winMode(int num, Players activePlayer)" />
+  <problem_class id="JavadocDeclaration" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Javadoc declaration problems</problem_class>
+  <description>&lt;code&gt;@param num&lt;/code&gt; tag description is missing</description>
+  <highlighted_element>num</highlighted_element>
+  <language>JAVA</language>
+  <offset>14</offset>
+  <length>3</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 07/student 07 (1).java</file>
+  <line>79</line>
+  <module>codeSmellsWork</module>
+  <package>&lt;default&gt;</package>
+  <entry_point TYPE="method" FQNAME="ConsoleUI void winMode(int num, Players activePlayer)" />
+  <problem_class id="JavadocDeclaration" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Javadoc declaration problems</problem_class>
+  <description>&lt;code&gt;@param activePlayer&lt;/code&gt; tag description is missing</description>
+  <highlighted_element>activePlayer</highlighted_element>
+  <language>JAVA</language>
+  <offset>14</offset>
+  <length>12</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 07/student 07 (1).java</file>
+  <line>93</line>
+  <module>codeSmellsWork</module>
+  <package>&lt;default&gt;</package>
+  <entry_point TYPE="method" FQNAME="ConsoleUI void showMove(Board board, java.lang.String x, java.lang.String y, Players activePlayer)" />
+  <problem_class id="JavadocDeclaration" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Javadoc declaration problems</problem_class>
+  <description>&lt;code&gt;@param board&lt;/code&gt; tag description is missing</description>
+  <highlighted_element>board</highlighted_element>
+  <language>JAVA</language>
+  <offset>14</offset>
+  <length>5</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 07/student 07 (1).java</file>
+  <line>94</line>
+  <module>codeSmellsWork</module>
+  <package>&lt;default&gt;</package>
+  <entry_point TYPE="method" FQNAME="ConsoleUI void showMove(Board board, java.lang.String x, java.lang.String y, Players activePlayer)" />
+  <problem_class id="JavadocDeclaration" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Javadoc declaration problems</problem_class>
+  <description>&lt;code&gt;@param x&lt;/code&gt; tag description is missing</description>
+  <highlighted_element>x</highlighted_element>
+  <language>JAVA</language>
+  <offset>14</offset>
+  <length>1</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 07/student 07 (1).java</file>
+  <line>95</line>
+  <module>codeSmellsWork</module>
+  <package>&lt;default&gt;</package>
+  <entry_point TYPE="method" FQNAME="ConsoleUI void showMove(Board board, java.lang.String x, java.lang.String y, Players activePlayer)" />
+  <problem_class id="JavadocDeclaration" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Javadoc declaration problems</problem_class>
+  <description>&lt;code&gt;@param y&lt;/code&gt; tag description is missing</description>
+  <highlighted_element>y</highlighted_element>
+  <language>JAVA</language>
+  <offset>14</offset>
+  <length>1</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 07/student 07 (1).java</file>
+  <line>96</line>
+  <module>codeSmellsWork</module>
+  <package>&lt;default&gt;</package>
+  <entry_point TYPE="method" FQNAME="ConsoleUI void showMove(Board board, java.lang.String x, java.lang.String y, Players activePlayer)" />
+  <problem_class id="JavadocDeclaration" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Javadoc declaration problems</problem_class>
+  <description>&lt;code&gt;@param activePlayer&lt;/code&gt; tag description is missing</description>
+  <highlighted_element>activePlayer</highlighted_element>
+  <language>JAVA</language>
+  <offset>14</offset>
+  <length>12</length>
+</problem>
+</problems>

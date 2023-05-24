@@ -1,0 +1,15 @@
+<problems>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 34/Student 34.java</file>
+  <line>6</line>
+  <module>codeSmellsWork</module>
+  <package>examples</package>
+  <entry_point TYPE="method" FQNAME="examples.LayoutApp LayoutApp()" />
+  <problem_class id="NonCommentSourceStatements" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Overly long method</problem_class>
+  <description>&lt;code&gt;LayoutApp&lt;/code&gt; is too long (# Non-comment source statements = 34) #loc</description>
+  <highlighted_element>LayoutApp</highlighted_element>
+  <language>JAVA</language>
+  <offset>11</offset>
+  <length>9</length>
+</problem>
+</problems>

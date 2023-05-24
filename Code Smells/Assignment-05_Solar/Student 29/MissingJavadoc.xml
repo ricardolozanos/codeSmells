@@ -1,0 +1,184 @@
+<problems>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 29/student 29 (1).java</file>
+  <line>9</line>
+  <module>codeSmellsWork</module>
+  <package>SolarSystem</package>
+  <entry_point TYPE="class" FQNAME="SolarSystem.Moon" />
+  <problem_class id="MissingJavadoc" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Missing Javadoc</problem_class>
+  <description>Required Javadoc is absent</description>
+  <highlighted_element>Moon</highlighted_element>
+  <language>JAVA</language>
+  <offset>13</offset>
+  <length>4</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 29/student 29 (1).java</file>
+  <line>17</line>
+  <module>codeSmellsWork</module>
+  <package>SolarSystem</package>
+  <entry_point TYPE="method" FQNAME="SolarSystem.Moon Moon(int distance, int angle, int radius, java.awt.Color color, Planet planet)" />
+  <problem_class id="MissingJavadoc" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Missing Javadoc</problem_class>
+  <description>Required Javadoc is absent</description>
+  <highlighted_element>Moon</highlighted_element>
+  <language>JAVA</language>
+  <offset>8</offset>
+  <length>4</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 29/student 29 (1).java</file>
+  <line>25</line>
+  <module>codeSmellsWork</module>
+  <package>SolarSystem</package>
+  <entry_point TYPE="method" FQNAME="SolarSystem.Moon void drawMoon(java.awt.Graphics g)" />
+  <problem_class id="MissingJavadoc" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Missing Javadoc</problem_class>
+  <description>Required Javadoc is absent</description>
+  <highlighted_element>drawMoon</highlighted_element>
+  <language>JAVA</language>
+  <offset>13</offset>
+  <length>8</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 29/student 29 (2).java</file>
+  <line>11</line>
+  <module>codeSmellsWork</module>
+  <package>SolarSystem</package>
+  <entry_point TYPE="class" FQNAME="SolarSystem.Planet" />
+  <problem_class id="MissingJavadoc" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Missing Javadoc</problem_class>
+  <description>Required Javadoc is absent</description>
+  <highlighted_element>Planet</highlighted_element>
+  <language>JAVA</language>
+  <offset>13</offset>
+  <length>6</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 29/student 29 (2).java</file>
+  <line>21</line>
+  <module>codeSmellsWork</module>
+  <package>SolarSystem</package>
+  <entry_point TYPE="method" FQNAME="SolarSystem.Planet Planet(int distance, int angle, int radius, java.awt.Color color, Sun sun)" />
+  <problem_class id="MissingJavadoc" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Missing Javadoc</problem_class>
+  <description>Required Javadoc is absent</description>
+  <highlighted_element>Planet</highlighted_element>
+  <language>JAVA</language>
+  <offset>8</offset>
+  <length>6</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 29/student 29 (2).java</file>
+  <line>29</line>
+  <module>codeSmellsWork</module>
+  <package>SolarSystem</package>
+  <entry_point TYPE="method" FQNAME="SolarSystem.Planet int getX()" />
+  <problem_class id="MissingJavadoc" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Missing Javadoc</problem_class>
+  <description>Required Javadoc is absent</description>
+  <highlighted_element>getX</highlighted_element>
+  <language>JAVA</language>
+  <offset>12</offset>
+  <length>4</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 29/student 29 (2).java</file>
+  <line>33</line>
+  <module>codeSmellsWork</module>
+  <package>SolarSystem</package>
+  <entry_point TYPE="method" FQNAME="SolarSystem.Planet int getY()" />
+  <problem_class id="MissingJavadoc" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Missing Javadoc</problem_class>
+  <description>Required Javadoc is absent</description>
+  <highlighted_element>getY</highlighted_element>
+  <language>JAVA</language>
+  <offset>12</offset>
+  <length>4</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 29/student 29 (2).java</file>
+  <line>37</line>
+  <module>codeSmellsWork</module>
+  <package>SolarSystem</package>
+  <entry_point TYPE="method" FQNAME="SolarSystem.Planet void drawPlanet(java.awt.Graphics g)" />
+  <problem_class id="MissingJavadoc" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Missing Javadoc</problem_class>
+  <description>Required Javadoc is absent</description>
+  <highlighted_element>drawPlanet</highlighted_element>
+  <language>JAVA</language>
+  <offset>13</offset>
+  <length>10</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 29/student 29 (3).java</file>
+  <line>13</line>
+  <module>codeSmellsWork</module>
+  <package>SolarSystem</package>
+  <entry_point TYPE="class" FQNAME="SolarSystem.SolarSystemMain" />
+  <problem_class id="MissingJavadoc" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Missing Javadoc</problem_class>
+  <description>Required Javadoc is absent</description>
+  <highlighted_element>SolarSystemMain</highlighted_element>
+  <language>JAVA</language>
+  <offset>13</offset>
+  <length>15</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 29/student 29 (3).java</file>
+  <line>24</line>
+  <module>codeSmellsWork</module>
+  <package>SolarSystem</package>
+  <entry_point TYPE="method" FQNAME="SolarSystem.SolarSystemMain SolarSystemMain()" />
+  <problem_class id="MissingJavadoc" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Missing Javadoc</problem_class>
+  <description>Required Javadoc is absent</description>
+  <highlighted_element>SolarSystemMain</highlighted_element>
+  <language>JAVA</language>
+  <offset>8</offset>
+  <length>15</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 29/student 29 (3).java</file>
+  <line>59</line>
+  <module>codeSmellsWork</module>
+  <package>SolarSystem</package>
+  <entry_point TYPE="method" FQNAME="SolarSystem.SolarSystemMain void main(java.lang.String[] args)" />
+  <problem_class id="MissingJavadoc" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Missing Javadoc</problem_class>
+  <description>Required Javadoc is absent</description>
+  <highlighted_element>main</highlighted_element>
+  <language>JAVA</language>
+  <offset>20</offset>
+  <length>4</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 29/student 29 (5).java</file>
+  <line>6</line>
+  <module>codeSmellsWork</module>
+  <package>SolarSystem</package>
+  <entry_point TYPE="class" FQNAME="SolarSystem.FixedStar" />
+  <problem_class id="MissingJavadoc" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Missing Javadoc</problem_class>
+  <description>Required Javadoc is absent</description>
+  <highlighted_element>FixedStar</highlighted_element>
+  <language>JAVA</language>
+  <offset>13</offset>
+  <length>9</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 29/student 29 (5).java</file>
+  <line>8</line>
+  <module>codeSmellsWork</module>
+  <package>SolarSystem</package>
+  <entry_point TYPE="method" FQNAME="SolarSystem.FixedStar FixedStar()" />
+  <problem_class id="MissingJavadoc" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Missing Javadoc</problem_class>
+  <description>Required Javadoc is absent</description>
+  <highlighted_element>FixedStar</highlighted_element>
+  <language>JAVA</language>
+  <offset>8</offset>
+  <length>9</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 29/student 29 (5).java</file>
+  <line>12</line>
+  <module>codeSmellsWork</module>
+  <package>SolarSystem</package>
+  <entry_point TYPE="method" FQNAME="SolarSystem.FixedStar void drawFixedStar(java.awt.Graphics g)" />
+  <problem_class id="MissingJavadoc" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Missing Javadoc</problem_class>
+  <description>Required Javadoc is absent</description>
+  <highlighted_element>drawFixedStar</highlighted_element>
+  <language>JAVA</language>
+  <offset>13</offset>
+  <length>13</length>
+</problem>
+</problems>

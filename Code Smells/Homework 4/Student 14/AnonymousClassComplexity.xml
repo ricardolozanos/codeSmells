@@ -1,0 +1,28 @@
+<problems>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 14/student 14 (10).java</file>
+  <line>87</line>
+  <module>codeSmellsWork</module>
+  <package>game.GUI</package>
+  <entry_point TYPE="class" FQNAME="game.GUI.Omokui$1" />
+  <problem_class id="AnonymousClassComplexity" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Overly complex anonymous class</problem_class>
+  <description>Overly complex anonymous class (cyclomatic complexity = 5) #loc</description>
+  <highlighted_element>ActionListener</highlighted_element>
+  <language>JAVA</language>
+  <offset>33</offset>
+  <length>14</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 14/student 14 (10).java</file>
+  <line>127</line>
+  <module>codeSmellsWork</module>
+  <package>game.GUI</package>
+  <entry_point TYPE="class" FQNAME="game.GUI.Omokui$4" />
+  <problem_class id="AnonymousClassComplexity" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Overly complex anonymous class</problem_class>
+  <description>Overly complex anonymous class (cyclomatic complexity = 12) #loc</description>
+  <highlighted_element>MouseAdapter</highlighted_element>
+  <language>JAVA</language>
+  <offset>36</offset>
+  <length>12</length>
+</problem>
+</problems>

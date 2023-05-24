@@ -1,0 +1,28 @@
+<problems>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 12/student 12 (5).java</file>
+  <line>14</line>
+  <module>codeSmellsWork</module>
+  <package>&lt;default&gt;</package>
+  <entry_point TYPE="method" FQNAME="BoardPanel BoardPanel(int[] currPos)" />
+  <problem_class id="Convert2Diamond" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Explicit type can be replaced with '&lt;&gt;'</problem_class>
+  <description>Explicit type argument Placement can be replaced with &lt;&gt;</description>
+  <highlighted_element>Placement</highlighted_element>
+  <language>JAVA</language>
+  <offset>40</offset>
+  <length>9</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 12/student 12 (8).java</file>
+  <line>197</line>
+  <module>codeSmellsWork</module>
+  <package>&lt;default&gt;</package>
+  <entry_point TYPE="method" FQNAME="GUIOmok void resetBoard()" />
+  <problem_class id="Convert2Diamond" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Explicit type can be replaced with '&lt;&gt;'</problem_class>
+  <description>Explicit type argument BoardPanel.Placement can be replaced with &lt;&gt;</description>
+  <highlighted_element>BoardPanel.Placement</highlighted_element>
+  <language>JAVA</language>
+  <offset>46</offset>
+  <length>20</length>
+</problem>
+</problems>

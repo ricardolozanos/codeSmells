@@ -1,0 +1,15 @@
+<problems>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 22/Student 22.java</file>
+  <line>59</line>
+  <module>codeSmellsWork</module>
+  <package>&lt;default&gt;</package>
+  <entry_point TYPE="method" FQNAME="omokGUI void main(java.lang.String[] args)" />
+  <problem_class id="InstantiationOfUtilityClass" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Instantiation of utility class</problem_class>
+  <description>Instantiation of utility class &lt;code&gt;omokGUI&lt;/code&gt; #loc</description>
+  <highlighted_element>omokGUI</highlighted_element>
+  <language>JAVA</language>
+  <offset>57</offset>
+  <length>7</length>
+</problem>
+</problems>

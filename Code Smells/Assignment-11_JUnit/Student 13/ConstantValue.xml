@@ -1,0 +1,15 @@
+<problems>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 13/student 13 (1).java</file>
+  <line>63</line>
+  <module>codeSmellsWork</module>
+  <package>&lt;default&gt;</package>
+  <entry_point TYPE="method" FQNAME="UserInterface int getGameMode()" />
+  <problem_class id="ConstantValue" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Constant values</problem_class>
+  <description>Condition &lt;code&gt;invalidInput&lt;/code&gt; is always &lt;code&gt;true&lt;/code&gt;</description>
+  <highlighted_element>invalidInput</highlighted_element>
+  <language>JAVA</language>
+  <offset>15</offset>
+  <length>12</length>
+</problem>
+</problems>

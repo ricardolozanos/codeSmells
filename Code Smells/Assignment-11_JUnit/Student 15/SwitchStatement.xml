@@ -1,0 +1,54 @@
+<problems>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 15/student 15 (7).java</file>
+  <line>60</line>
+  <module>codeSmellsWork</module>
+  <package>&lt;default&gt;</package>
+  <entry_point TYPE="method" FQNAME="ConsoleUI void setUpGameMode(int n)" />
+  <problem_class id="SwitchStatement" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">'switch' statement</problem_class>
+  <description>&lt;code&gt;switch&lt;/code&gt; statement #loc</description>
+  <highlighted_element>switch</highlighted_element>
+  <language>JAVA</language>
+  <offset>8</offset>
+  <length>6</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 15/student 15 (7).java</file>
+  <line>78</line>
+  <module>codeSmellsWork</module>
+  <package>&lt;default&gt;</package>
+  <entry_point TYPE="method" FQNAME="ConsoleUI void setUpBoardSize(int n)" />
+  <problem_class id="SwitchStatement" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">'switch' statement</problem_class>
+  <description>&lt;code&gt;switch&lt;/code&gt; statement #loc</description>
+  <highlighted_element>switch</highlighted_element>
+  <language>JAVA</language>
+  <offset>8</offset>
+  <length>6</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 15/student 15 (7).java</file>
+  <line>95</line>
+  <module>codeSmellsWork</module>
+  <package>&lt;default&gt;</package>
+  <entry_point TYPE="method" FQNAME="ConsoleUI void setUpPlayers(int playerCount)" />
+  <problem_class id="SwitchStatement" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">'switch' statement</problem_class>
+  <description>&lt;code&gt;switch&lt;/code&gt; statement #loc</description>
+  <highlighted_element>switch</highlighted_element>
+  <language>JAVA</language>
+  <offset>8</offset>
+  <length>6</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 15/student 15 (7).java</file>
+  <line>110</line>
+  <module>codeSmellsWork</module>
+  <package>&lt;default&gt;</package>
+  <entry_point TYPE="method" FQNAME="ConsoleUI void playGame(int n)" />
+  <problem_class id="SwitchStatement" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">'switch' statement</problem_class>
+  <description>&lt;code&gt;switch&lt;/code&gt; statement #loc</description>
+  <highlighted_element>switch</highlighted_element>
+  <language>JAVA</language>
+  <offset>12</offset>
+  <length>6</length>
+</problem>
+</problems>

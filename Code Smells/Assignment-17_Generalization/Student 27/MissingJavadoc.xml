@@ -1,0 +1,288 @@
+<problems>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 27/student 27 (1).java</file>
+  <line>3</line>
+  <module>codeSmellsWork</module>
+  <package>generalization</package>
+  <entry_point TYPE="class" FQNAME="generalization.Function" />
+  <problem_class id="MissingJavadoc" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Missing Javadoc</problem_class>
+  <description>Required Javadoc is absent</description>
+  <highlighted_element>Function</highlighted_element>
+  <language>JAVA</language>
+  <offset>17</offset>
+  <length>8</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 27/student 27 (1).java</file>
+  <line>4</line>
+  <module>codeSmellsWork</module>
+  <package>generalization</package>
+  <entry_point TYPE="method" FQNAME="generalization.Function double apply(double x)" />
+  <problem_class id="MissingJavadoc" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Missing Javadoc</problem_class>
+  <description>Required Javadoc is absent</description>
+  <highlighted_element>apply</highlighted_element>
+  <language>JAVA</language>
+  <offset>11</offset>
+  <length>5</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 27/student 27 (2).java</file>
+  <line>6</line>
+  <module>codeSmellsWork</module>
+  <package>generalization</package>
+  <entry_point TYPE="class" FQNAME="generalization.MultiPlotter" />
+  <problem_class id="MissingJavadoc" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Missing Javadoc</problem_class>
+  <description>Required Javadoc is absent</description>
+  <highlighted_element>MultiPlotter</highlighted_element>
+  <language>JAVA</language>
+  <offset>13</offset>
+  <length>12</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 27/student 27 (2).java</file>
+  <line>9</line>
+  <module>codeSmellsWork</module>
+  <package>generalization</package>
+  <entry_point TYPE="method" FQNAME="generalization.MultiPlotter MultiPlotter(java.lang.String[] args)" />
+  <problem_class id="MissingJavadoc" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Missing Javadoc</problem_class>
+  <description>Required Javadoc is absent</description>
+  <highlighted_element>MultiPlotter</highlighted_element>
+  <language>JAVA</language>
+  <offset>11</offset>
+  <length>12</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 27/student 27 (2).java</file>
+  <line>13</line>
+  <module>codeSmellsWork</module>
+  <package>generalization</package>
+  <entry_point TYPE="method" FQNAME="generalization.MultiPlotter MultiPlotter()" />
+  <problem_class id="MissingJavadoc" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Missing Javadoc</problem_class>
+  <description>Required Javadoc is absent</description>
+  <highlighted_element>MultiPlotter</highlighted_element>
+  <language>JAVA</language>
+  <offset>11</offset>
+  <length>12</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 27/student 27 (2).java</file>
+  <line>17</line>
+  <module>codeSmellsWork</module>
+  <package>generalization</package>
+  <entry_point TYPE="method" FQNAME="generalization.MultiPlotter void initMultiPlotter()" />
+  <problem_class id="MissingJavadoc" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Missing Javadoc</problem_class>
+  <description>Required Javadoc is absent</description>
+  <highlighted_element>initMultiPlotter</highlighted_element>
+  <language>JAVA</language>
+  <offset>16</offset>
+  <length>16</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 27/student 27 (2).java</file>
+  <line>19</line>
+  <module>codeSmellsWork</module>
+  <package>generalization</package>
+  <entry_point TYPE="method" FQNAME="generalization.MultiPlotter void addFunction(Function func, java.awt.Color color)" />
+  <problem_class id="MissingJavadoc" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Missing Javadoc</problem_class>
+  <description>Required Javadoc is absent</description>
+  <highlighted_element>addFunction</highlighted_element>
+  <language>JAVA</language>
+  <offset>16</offset>
+  <length>11</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 27/student 27 (2).java</file>
+  <line>23</line>
+  <module>codeSmellsWork</module>
+  <package>generalization</package>
+  <entry_point TYPE="method" FQNAME="generalization.MultiPlotter void init()" />
+  <problem_class id="MissingJavadoc" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Missing Javadoc</problem_class>
+  <description>Required Javadoc is absent</description>
+  <highlighted_element>init</highlighted_element>
+  <language>JAVA</language>
+  <offset>16</offset>
+  <length>4</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 27/student 27 (2).java</file>
+  <line>46</line>
+  <module>codeSmellsWork</module>
+  <package>generalization</package>
+  <entry_point TYPE="method" FQNAME="generalization.MultiPlotter void plotFunction(java.awt.Graphics g)" />
+  <problem_class id="MissingJavadoc" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Missing Javadoc</problem_class>
+  <description>Required Javadoc is absent</description>
+  <highlighted_element>plotFunction</highlighted_element>
+  <language>JAVA</language>
+  <offset>16</offset>
+  <length>12</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 27/student 27 (2).java</file>
+  <line>61</line>
+  <module>codeSmellsWork</module>
+  <package>generalization</package>
+  <entry_point TYPE="method" FQNAME="generalization.MultiPlotter double func(double x)" />
+  <problem_class id="MissingJavadoc" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Missing Javadoc</problem_class>
+  <description>Required Javadoc is absent</description>
+  <highlighted_element>func</highlighted_element>
+  <language>JAVA</language>
+  <offset>18</offset>
+  <length>4</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 27/student 27 (4).java</file>
+  <line>5</line>
+  <module>codeSmellsWork</module>
+  <package>generalization</package>
+  <entry_point TYPE="class" FQNAME="generalization.Plotter" />
+  <problem_class id="MissingJavadoc" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Missing Javadoc</problem_class>
+  <description>Required Javadoc is absent</description>
+  <highlighted_element>Plotter</highlighted_element>
+  <language>JAVA</language>
+  <offset>22</offset>
+  <length>7</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 27/student 27 (4).java</file>
+  <line>15</line>
+  <module>codeSmellsWork</module>
+  <package>generalization</package>
+  <entry_point TYPE="method" FQNAME="generalization.Plotter Plotter(java.lang.String[] args)" />
+  <problem_class id="MissingJavadoc" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Missing Javadoc</problem_class>
+  <description>Required Javadoc is absent</description>
+  <highlighted_element>Plotter</highlighted_element>
+  <language>JAVA</language>
+  <offset>11</offset>
+  <length>7</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 27/student 27 (4).java</file>
+  <line>19</line>
+  <module>codeSmellsWork</module>
+  <package>generalization</package>
+  <entry_point TYPE="method" FQNAME="generalization.Plotter Plotter()" />
+  <problem_class id="MissingJavadoc" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Missing Javadoc</problem_class>
+  <description>Required Javadoc is absent</description>
+  <highlighted_element>Plotter</highlighted_element>
+  <language>JAVA</language>
+  <offset>11</offset>
+  <length>7</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 27/student 27 (4).java</file>
+  <line>23</line>
+  <module>codeSmellsWork</module>
+  <package>generalization</package>
+  <entry_point TYPE="method" FQNAME="generalization.Plotter double func(double x)" />
+  <problem_class id="MissingJavadoc" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Missing Javadoc</problem_class>
+  <description>Required Javadoc is absent</description>
+  <highlighted_element>func</highlighted_element>
+  <language>JAVA</language>
+  <offset>27</offset>
+  <length>4</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 27/student 27 (4).java</file>
+  <line>25</line>
+  <module>codeSmellsWork</module>
+  <package>generalization</package>
+  <entry_point TYPE="method" FQNAME="generalization.Plotter void init()" />
+  <problem_class id="MissingJavadoc" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Missing Javadoc</problem_class>
+  <description>Required Javadoc is absent</description>
+  <highlighted_element>init</highlighted_element>
+  <language>JAVA</language>
+  <offset>16</offset>
+  <length>4</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 27/student 27 (5).java</file>
+  <line>3</line>
+  <module>codeSmellsWork</module>
+  <package>generalization</package>
+  <entry_point TYPE="class" FQNAME="generalization.Sine" />
+  <problem_class id="MissingJavadoc" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Missing Javadoc</problem_class>
+  <description>Required Javadoc is absent</description>
+  <highlighted_element>Sine</highlighted_element>
+  <language>JAVA</language>
+  <offset>13</offset>
+  <length>4</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 27/student 27 (5).java</file>
+  <line>4</line>
+  <module>codeSmellsWork</module>
+  <package>generalization</package>
+  <entry_point TYPE="method" FQNAME="generalization.Sine double apply(double x)" />
+  <problem_class id="MissingJavadoc" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Missing Javadoc</problem_class>
+  <description>Required Javadoc is absent</description>
+  <highlighted_element>apply</highlighted_element>
+  <language>JAVA</language>
+  <offset>18</offset>
+  <length>5</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 27/student 27 (6).java</file>
+  <line>5</line>
+  <module>codeSmellsWork</module>
+  <package>generalization</package>
+  <entry_point TYPE="class" FQNAME="generalization.SineCosinePlotter" />
+  <problem_class id="MissingJavadoc" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Missing Javadoc</problem_class>
+  <description>Required Javadoc is absent</description>
+  <highlighted_element>SineCosinePlotter</highlighted_element>
+  <language>JAVA</language>
+  <offset>13</offset>
+  <length>17</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 27/student 27 (6).java</file>
+  <line>6</line>
+  <module>codeSmellsWork</module>
+  <package>generalization</package>
+  <entry_point TYPE="method" FQNAME="generalization.SineCosinePlotter void initMultiPlotter()" />
+  <problem_class id="MissingJavadoc" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Missing Javadoc</problem_class>
+  <description>Required Javadoc is absent</description>
+  <highlighted_element>initMultiPlotter</highlighted_element>
+  <language>JAVA</language>
+  <offset>16</offset>
+  <length>16</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 27/student 27 (6).java</file>
+  <line>11</line>
+  <module>codeSmellsWork</module>
+  <package>generalization</package>
+  <entry_point TYPE="method" FQNAME="generalization.SineCosinePlotter void main(java.lang.String[] args)" />
+  <problem_class id="MissingJavadoc" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Missing Javadoc</problem_class>
+  <description>Required Javadoc is absent</description>
+  <highlighted_element>main</highlighted_element>
+  <language>JAVA</language>
+  <offset>23</offset>
+  <length>4</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 27/student 27 (7).java</file>
+  <line>3</line>
+  <module>codeSmellsWork</module>
+  <package>generalization</package>
+  <entry_point TYPE="class" FQNAME="generalization.Cosine" />
+  <problem_class id="MissingJavadoc" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Missing Javadoc</problem_class>
+  <description>Required Javadoc is absent</description>
+  <highlighted_element>Cosine</highlighted_element>
+  <language>JAVA</language>
+  <offset>13</offset>
+  <length>6</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 27/student 27 (7).java</file>
+  <line>4</line>
+  <module>codeSmellsWork</module>
+  <package>generalization</package>
+  <entry_point TYPE="method" FQNAME="generalization.Cosine double apply(double x)" />
+  <problem_class id="MissingJavadoc" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Missing Javadoc</problem_class>
+  <description>Required Javadoc is absent</description>
+  <highlighted_element>apply</highlighted_element>
+  <language>JAVA</language>
+  <offset>18</offset>
+  <length>5</length>
+</problem>
+</problems>

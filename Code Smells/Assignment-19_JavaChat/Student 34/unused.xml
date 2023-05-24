@@ -1,0 +1,65 @@
+<problems>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 34/student 34 (1).java</file>
+  <line>84</line>
+  <module>codeSmellsWork</module>
+  <package>excs.javaChat</package>
+  <entry_point TYPE="method" FQNAME="excs.javaChat.ChatDialogUI void connectClicked(java.awt.event.ActionEvent event)" />
+  <problem_class id="unused" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Unused declaration</problem_class>
+  <hints>
+    <hint value="event" />
+  </hints>
+  <description>Parameter &lt;code&gt;event&lt;/code&gt; is not used</description>
+  <highlighted_element>event</highlighted_element>
+  <language>JAVA</language>
+  <offset>48</offset>
+  <length>5</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 34/student 34 (1).java</file>
+  <line>90</line>
+  <module>codeSmellsWork</module>
+  <package>excs.javaChat</package>
+  <entry_point TYPE="method" FQNAME="excs.javaChat.ChatDialogUI void connectClicked(java.awt.event.ActionEvent event)" />
+  <problem_class id="unused" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Unused declaration</problem_class>
+  <hints />
+  <description>Variable &lt;code&gt;in&lt;/code&gt; is never used</description>
+  <highlighted_element>in</highlighted_element>
+  <language>JAVA</language>
+  <offset>31</offset>
+  <length>2</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 34/student 34 (1).java</file>
+  <line>99</line>
+  <module>codeSmellsWork</module>
+  <package>excs.javaChat</package>
+  <entry_point TYPE="method" FQNAME="excs.javaChat.ChatDialogUI void sendClicked(java.awt.event.ActionEvent event)" />
+  <problem_class id="unused" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Unused declaration</problem_class>
+  <hints>
+    <hint value="event" />
+  </hints>
+  <description>Parameter &lt;code&gt;event&lt;/code&gt; is not used</description>
+  <highlighted_element>event</highlighted_element>
+  <language>JAVA</language>
+  <offset>45</offset>
+  <length>5</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 34/student 34 (1).java</file>
+  <line>116</line>
+  <module>codeSmellsWork</module>
+  <package>excs.javaChat</package>
+  <entry_point TYPE="method" FQNAME="excs.javaChat.ChatDialogUI void warn(java.lang.String msg)" />
+  <language>JAVA</language>
+  <offset>21</offset>
+  <length>4</length>
+  <highlighted_element>warn</highlighted_element>
+  <problem_class id="unused" severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">unused declaration</problem_class>
+  <hints>
+    <hint value="comment" />
+    <hint value="delete" />
+  </hints>
+  <description>Method is never used.</description>
+</problem>
+</problems>

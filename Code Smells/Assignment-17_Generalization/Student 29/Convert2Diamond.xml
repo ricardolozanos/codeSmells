@@ -1,0 +1,15 @@
+<problems>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 29/student 29 (2).java</file>
+  <line>12</line>
+  <module>codeSmellsWork</module>
+  <package>plotter</package>
+  <entry_point TYPE="field" FQNAME="plotter.MultiPlotter c" />
+  <problem_class id="Convert2Diamond" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Explicit type can be replaced with '&lt;&gt;'</problem_class>
+  <description>Explicit type argument Color can be replaced with &lt;&gt;</description>
+  <highlighted_element>Color</highlighted_element>
+  <language>JAVA</language>
+  <offset>31</offset>
+  <length>5</length>
+</problem>
+</problems>

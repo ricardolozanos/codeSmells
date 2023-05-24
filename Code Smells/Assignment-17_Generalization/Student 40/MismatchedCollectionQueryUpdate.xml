@@ -1,0 +1,28 @@
+<problems>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 40/student 40 (3).java</file>
+  <line>7</line>
+  <module>codeSmellsWork</module>
+  <package>src.noapplet.example</package>
+  <entry_point TYPE="field" FQNAME="src.noapplet.example.MultiPlotter functions" />
+  <problem_class id="MismatchedCollectionQueryUpdate" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Mismatched query and update of collection</problem_class>
+  <description>Contents of collection &lt;code&gt;functions&lt;/code&gt; are updated, but never queried #loc</description>
+  <highlighted_element>functions</highlighted_element>
+  <language>JAVA</language>
+  <offset>32</offset>
+  <length>9</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 40/student 40 (3).java</file>
+  <line>8</line>
+  <module>codeSmellsWork</module>
+  <package>src.noapplet.example</package>
+  <entry_point TYPE="field" FQNAME="src.noapplet.example.MultiPlotter colors" />
+  <problem_class id="MismatchedCollectionQueryUpdate" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Mismatched query and update of collection</problem_class>
+  <description>Contents of collection &lt;code&gt;colors&lt;/code&gt; are updated, but never queried #loc</description>
+  <highlighted_element>colors</highlighted_element>
+  <language>JAVA</language>
+  <offset>29</offset>
+  <length>6</length>
+</problem>
+</problems>

@@ -1,0 +1,15 @@
+<problems>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 14/student 14 (4).java</file>
+  <line>40</line>
+  <module>codeSmellsWork</module>
+  <package>game</package>
+  <entry_point TYPE="method" FQNAME="game.conoleUI int gameselect(java.util.Scanner k)" />
+  <problem_class id="LoopConditionNotUpdatedInsideLoop" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Loop variable not updated inside loop</problem_class>
+  <description>Variable 'i' is not updated inside loop #loc</description>
+  <highlighted_element>i</highlighted_element>
+  <language>JAVA</language>
+  <offset>15</offset>
+  <length>1</length>
+</problem>
+</problems>

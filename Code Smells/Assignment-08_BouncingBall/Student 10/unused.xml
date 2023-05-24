@@ -1,0 +1,274 @@
+<problems>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 10/student 10 (1).java</file>
+  <line>12</line>
+  <module>codeSmellsWork</module>
+  <package>noapplet.example.BouncingBall</package>
+  <entry_point TYPE="field" FQNAME="noapplet.example.BouncingBall.Ball c" />
+  <language>JAVA</language>
+  <offset>18</offset>
+  <length>1</length>
+  <highlighted_element>c</highlighted_element>
+  <problem_class id="unused" severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">unused declaration</problem_class>
+  <hints>
+    <hint value="comment" />
+    <hint value="delete" />
+  </hints>
+  <description>Field is assigned but never accessed.</description>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 10/student 10 (1).java</file>
+  <line>13</line>
+  <module>codeSmellsWork</module>
+  <package>noapplet.example.BouncingBall</package>
+  <entry_point TYPE="field" FQNAME="noapplet.example.BouncingBall.Ball balls" />
+  <language>JAVA</language>
+  <offset>35</offset>
+  <length>5</length>
+  <highlighted_element>balls</highlighted_element>
+  <problem_class id="unused" severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">unused declaration</problem_class>
+  <hints>
+    <hint value="comment" />
+    <hint value="delete" />
+  </hints>
+  <description>Field is never assigned.</description>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 10/student 10 (1).java</file>
+  <line>16</line>
+  <module>codeSmellsWork</module>
+  <package>noapplet.example.BouncingBall</package>
+  <entry_point TYPE="method" FQNAME="noapplet.example.BouncingBall.Ball Ball(int x, int y, java.awt.Color c)" />
+  <language>JAVA</language>
+  <offset>11</offset>
+  <length>4</length>
+  <highlighted_element>Ball</highlighted_element>
+  <problem_class id="unused" severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">unused declaration</problem_class>
+  <hints>
+    <hint value="comment" />
+    <hint value="delete" />
+  </hints>
+  <description>Constructor is never used.</description>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 10/student 10 (1).java</file>
+  <line>24</line>
+  <module>codeSmellsWork</module>
+  <package>noapplet.example.BouncingBall</package>
+  <entry_point TYPE="method" FQNAME="noapplet.example.BouncingBall.Ball void paintComponent(java.awt.Graphics g)" />
+  <language>JAVA</language>
+  <offset>13</offset>
+  <length>14</length>
+  <highlighted_element>paintComponent</highlighted_element>
+  <problem_class id="unused" severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">unused declaration</problem_class>
+  <hints>
+    <hint value="comment" />
+    <hint value="delete" />
+  </hints>
+  <description>&lt;ul&gt;&lt;li&gt;Method owner class is never instantiated OR&lt;/li&gt;&lt;li&gt;An instantiation is not reachable from entry points.&lt;/li&gt;&lt;/ul&gt;</description>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 10/student 10 (2).java</file>
+  <line>3</line>
+  <module>codeSmellsWork</module>
+  <package>noapplet.example.BouncingBall</package>
+  <entry_point TYPE="class" FQNAME="noapplet.example.BouncingBall.Bounceable" />
+  <language>JAVA</language>
+  <offset>17</offset>
+  <length>10</length>
+  <highlighted_element>Bounceable</highlighted_element>
+  <problem_class id="unused" severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">unused declaration</problem_class>
+  <hints>
+    <hint value="comment" />
+    <hint value="delete" />
+  </hints>
+  <description>&amp;nbsp;Interface is not implemented.</description>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 10/student 10 (2).java</file>
+  <line>4</line>
+  <module>codeSmellsWork</module>
+  <package>noapplet.example.BouncingBall</package>
+  <entry_point TYPE="method" FQNAME="noapplet.example.BouncingBall.Bounceable void paintcomponent()" />
+  <language>JAVA</language>
+  <offset>13</offset>
+  <length>14</length>
+  <highlighted_element>paintcomponent</highlighted_element>
+  <problem_class id="unused" severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">unused declaration</problem_class>
+  <hints>
+    <hint value="comment" />
+    <hint value="delete" />
+  </hints>
+  <description>&lt;ul&gt;&lt;li&gt;Method owner class is never instantiated OR&lt;/li&gt;&lt;li&gt;An instantiation is not reachable from entry points.&lt;/li&gt;&lt;/ul&gt;</description>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 10/student 10 (3).java</file>
+  <line>12</line>
+  <module>codeSmellsWork</module>
+  <package>noapplet.example.BouncingBall</package>
+  <entry_point TYPE="field" FQNAME="noapplet.example.BouncingBall.BouncingBall x" />
+  <language>JAVA</language>
+  <offset>13</offset>
+  <length>1</length>
+  <highlighted_element>x</highlighted_element>
+  <problem_class id="unused" severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">unused declaration</problem_class>
+  <hints>
+    <hint value="comment" />
+    <hint value="delete" />
+  </hints>
+  <description>Field is assigned but never accessed.</description>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 10/student 10 (3).java</file>
+  <line>12</line>
+  <module>codeSmellsWork</module>
+  <package>noapplet.example.BouncingBall</package>
+  <entry_point TYPE="field" FQNAME="noapplet.example.BouncingBall.BouncingBall y" />
+  <language>JAVA</language>
+  <offset>16</offset>
+  <length>1</length>
+  <highlighted_element>y</highlighted_element>
+  <problem_class id="unused" severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">unused declaration</problem_class>
+  <hints>
+    <hint value="comment" />
+    <hint value="delete" />
+  </hints>
+  <description>Field is assigned but never accessed.</description>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 10/student 10 (3).java</file>
+  <line>13</line>
+  <module>codeSmellsWork</module>
+  <package>noapplet.example.BouncingBall</package>
+  <entry_point TYPE="field" FQNAME="noapplet.example.BouncingBall.BouncingBall dx" />
+  <language>JAVA</language>
+  <offset>16</offset>
+  <length>2</length>
+  <highlighted_element>dx</highlighted_element>
+  <problem_class id="unused" severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">unused declaration</problem_class>
+  <hints>
+    <hint value="comment" />
+    <hint value="delete" />
+  </hints>
+  <description>Field has no usages.</description>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 10/student 10 (3).java</file>
+  <line>13</line>
+  <module>codeSmellsWork</module>
+  <package>noapplet.example.BouncingBall</package>
+  <entry_point TYPE="field" FQNAME="noapplet.example.BouncingBall.BouncingBall dy" />
+  <language>JAVA</language>
+  <offset>25</offset>
+  <length>2</length>
+  <highlighted_element>dy</highlighted_element>
+  <problem_class id="unused" severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">unused declaration</problem_class>
+  <hints>
+    <hint value="comment" />
+    <hint value="delete" />
+  </hints>
+  <description>Field has no usages.</description>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 10/student 10 (3).java</file>
+  <line>15</line>
+  <module>codeSmellsWork</module>
+  <package>noapplet.example.BouncingBall</package>
+  <entry_point TYPE="field" FQNAME="noapplet.example.BouncingBall.BouncingBall color" />
+  <language>JAVA</language>
+  <offset>18</offset>
+  <length>5</length>
+  <highlighted_element>color</highlighted_element>
+  <problem_class id="unused" severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">unused declaration</problem_class>
+  <hints>
+    <hint value="comment" />
+    <hint value="delete" />
+  </hints>
+  <description>Field has no usages.</description>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 10/student 10 (3).java</file>
+  <line>21</line>
+  <module>codeSmellsWork</module>
+  <package>noapplet.example.BouncingBall</package>
+  <entry_point TYPE="method" FQNAME="noapplet.example.BouncingBall.BouncingBall void initAnimation()" />
+  <language>JAVA</language>
+  <offset>16</offset>
+  <length>13</length>
+  <highlighted_element>initAnimation</highlighted_element>
+  <problem_class id="unused" severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">unused declaration</problem_class>
+  <hints>
+    <hint value="comment" />
+    <hint value="delete" />
+  </hints>
+  <description>Method is never used.</description>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 10/student 10 (4).java</file>
+  <line>8</line>
+  <module>codeSmellsWork</module>
+  <package>noapplet.example.BouncingBall</package>
+  <entry_point TYPE="field" FQNAME="noapplet.example.BouncingBall.CircleBall c" />
+  <language>JAVA</language>
+  <offset>15</offset>
+  <length>1</length>
+  <highlighted_element>c</highlighted_element>
+  <problem_class id="unused" severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">unused declaration</problem_class>
+  <hints>
+    <hint value="comment" />
+    <hint value="delete" />
+  </hints>
+  <description>Field is never assigned.</description>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 10/student 10 (4).java</file>
+  <line>10</line>
+  <module>codeSmellsWork</module>
+  <package>noapplet.example.BouncingBall</package>
+  <entry_point TYPE="method" FQNAME="noapplet.example.BouncingBall.CircleBall CircleBall()" />
+  <language>JAVA</language>
+  <offset>8</offset>
+  <length>10</length>
+  <highlighted_element>CircleBall</highlighted_element>
+  <problem_class id="unused" severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">unused declaration</problem_class>
+  <hints>
+    <hint value="comment" />
+    <hint value="delete" />
+  </hints>
+  <description>Constructor is never used.</description>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 10/student 10 (4).java</file>
+  <line>14</line>
+  <module>codeSmellsWork</module>
+  <package>noapplet.example.BouncingBall</package>
+  <entry_point TYPE="method" FQNAME="noapplet.example.BouncingBall.CircleBall void draw(java.awt.Graphics g)" />
+  <language>JAVA</language>
+  <offset>13</offset>
+  <length>4</length>
+  <highlighted_element>draw</highlighted_element>
+  <problem_class id="unused" severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">unused declaration</problem_class>
+  <hints>
+    <hint value="comment" />
+    <hint value="delete" />
+  </hints>
+  <description>&lt;ul&gt;&lt;li&gt;Method owner class is never instantiated OR&lt;/li&gt;&lt;li&gt;An instantiation is not reachable from entry points.&lt;/li&gt;&lt;/ul&gt;</description>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 10/student 10 (4).java</file>
+  <line>20</line>
+  <module>codeSmellsWork</module>
+  <package>noapplet.example.BouncingBall</package>
+  <entry_point TYPE="method" FQNAME="noapplet.example.BouncingBall.CircleBall void paintcomponent()" />
+  <language>JAVA</language>
+  <offset>13</offset>
+  <length>14</length>
+  <highlighted_element>paintcomponent</highlighted_element>
+  <problem_class id="unused" severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">unused declaration</problem_class>
+  <hints>
+    <hint value="comment" />
+    <hint value="delete" />
+  </hints>
+  <description>&lt;ul&gt;&lt;li&gt;Method owner class is never instantiated OR&lt;/li&gt;&lt;li&gt;An instantiation is not reachable from entry points.&lt;/li&gt;&lt;/ul&gt;</description>
+</problem>
+</problems>

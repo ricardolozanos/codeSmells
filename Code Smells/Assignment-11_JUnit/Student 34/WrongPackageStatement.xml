@@ -1,0 +1,15 @@
+<problems>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 34/student 34.java</file>
+  <line>1</line>
+  <module>codeSmellsWork</module>
+  <package>HomeWork2</package>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/src/Student 34/student 34.java" />
+  <problem_class id="WrongPackageStatement" severity="ERROR" attribute_key="ERRORS_ATTRIBUTES">Wrong package statement</problem_class>
+  <description>Package name 'HomeWork2' does not correspond to the file path 'Student 34'</description>
+  <highlighted_element>HomeWork2</highlighted_element>
+  <language>JAVA</language>
+  <offset>8</offset>
+  <length>9</length>
+</problem>
+</problems>

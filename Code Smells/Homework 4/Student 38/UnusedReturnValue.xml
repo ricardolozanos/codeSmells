@@ -1,0 +1,44 @@
+<problems>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 38/student 38 (7).java</file>
+  <line>245</line>
+  <module>codeSmellsWork</module>
+  <package>&lt;default&gt;</package>
+  <entry_point TYPE="method" FQNAME="GUIInterface GameMode selectedGame(GameMode selectedMode)" />
+  <problem_class id="UnusedReturnValue" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Method can be made 'void'</problem_class>
+  <hints />
+  <description>Return value of the method is never used</description>
+  <highlighted_element>selectedGame</highlighted_element>
+  <language>JAVA</language>
+  <offset>20</offset>
+  <length>12</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 38/student 38 (7).java</file>
+  <line>254</line>
+  <module>codeSmellsWork</module>
+  <package>&lt;default&gt;</package>
+  <entry_point TYPE="method" FQNAME="GUIInterface Player setPlayer1(Player player1)" />
+  <problem_class id="UnusedReturnValue" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Method can be made 'void'</problem_class>
+  <hints />
+  <description>Return value of the method is never used</description>
+  <highlighted_element>setPlayer1</highlighted_element>
+  <language>JAVA</language>
+  <offset>18</offset>
+  <length>10</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 38/student 38 (7).java</file>
+  <line>260</line>
+  <module>codeSmellsWork</module>
+  <package>&lt;default&gt;</package>
+  <entry_point TYPE="method" FQNAME="GUIInterface Player setPlayer2(Player player1)" />
+  <problem_class id="UnusedReturnValue" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Method can be made 'void'</problem_class>
+  <hints />
+  <description>Return value of the method is never used</description>
+  <highlighted_element>setPlayer2</highlighted_element>
+  <language>JAVA</language>
+  <offset>18</offset>
+  <length>10</length>
+</problem>
+</problems>

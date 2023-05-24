@@ -1,0 +1,197 @@
+<problems>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 23/student 23 (2).java</file>
+  <line>6</line>
+  <module>codeSmellsWork</module>
+  <package>noapplet.SS</package>
+  <entry_point TYPE="class" FQNAME="noapplet.SS.Moon" />
+  <problem_class id="MissingJavadoc" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Missing Javadoc</problem_class>
+  <description>Required Javadoc is absent</description>
+  <highlighted_element>Moon</highlighted_element>
+  <language>JAVA</language>
+  <offset>13</offset>
+  <length>4</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 23/student 23 (2).java</file>
+  <line>15</line>
+  <module>codeSmellsWork</module>
+  <package>noapplet.SS</package>
+  <entry_point TYPE="method" FQNAME="noapplet.SS.Moon Moon(int distance, int radius, double angle, java.awt.Color color, double speed)" />
+  <problem_class id="MissingJavadoc" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Missing Javadoc</problem_class>
+  <description>Required Javadoc is absent</description>
+  <highlighted_element>Moon</highlighted_element>
+  <language>JAVA</language>
+  <offset>11</offset>
+  <length>4</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 23/student 23 (2).java</file>
+  <line>23</line>
+  <module>codeSmellsWork</module>
+  <package>noapplet.SS</package>
+  <entry_point TYPE="method" FQNAME="noapplet.SS.Moon void setPlanetX(int planetX)" />
+  <problem_class id="MissingJavadoc" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Missing Javadoc</problem_class>
+  <description>Required Javadoc is absent</description>
+  <highlighted_element>setPlanetX</highlighted_element>
+  <language>JAVA</language>
+  <offset>16</offset>
+  <length>10</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 23/student 23 (2).java</file>
+  <line>27</line>
+  <module>codeSmellsWork</module>
+  <package>noapplet.SS</package>
+  <entry_point TYPE="method" FQNAME="noapplet.SS.Moon void setPlanetY(int planetY)" />
+  <problem_class id="MissingJavadoc" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Missing Javadoc</problem_class>
+  <description>Required Javadoc is absent</description>
+  <highlighted_element>setPlanetY</highlighted_element>
+  <language>JAVA</language>
+  <offset>16</offset>
+  <length>10</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 23/student 23 (2).java</file>
+  <line>31</line>
+  <module>codeSmellsWork</module>
+  <package>noapplet.SS</package>
+  <entry_point TYPE="method" FQNAME="noapplet.SS.Moon void draw(java.awt.Graphics g)" />
+  <problem_class id="MissingJavadoc" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Missing Javadoc</problem_class>
+  <description>Required Javadoc is absent</description>
+  <highlighted_element>draw</highlighted_element>
+  <language>JAVA</language>
+  <offset>16</offset>
+  <length>4</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 23/student 23 (3).java</file>
+  <line>6</line>
+  <module>codeSmellsWork</module>
+  <package>noapplet.SS</package>
+  <entry_point TYPE="class" FQNAME="noapplet.SS.Planet" />
+  <problem_class id="MissingJavadoc" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Missing Javadoc</problem_class>
+  <description>Required Javadoc is absent</description>
+  <highlighted_element>Planet</highlighted_element>
+  <language>JAVA</language>
+  <offset>13</offset>
+  <length>6</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 23/student 23 (3).java</file>
+  <line>16</line>
+  <module>codeSmellsWork</module>
+  <package>noapplet.SS</package>
+  <entry_point TYPE="method" FQNAME="noapplet.SS.Planet Planet(int distance, int radius, double angle, java.awt.Color color, double speed, Sun sun, int moonCount)" />
+  <problem_class id="MissingJavadoc" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Missing Javadoc</problem_class>
+  <description>Required Javadoc is absent</description>
+  <highlighted_element>Planet</highlighted_element>
+  <language>JAVA</language>
+  <offset>11</offset>
+  <length>6</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 23/student 23 (3).java</file>
+  <line>40</line>
+  <module>codeSmellsWork</module>
+  <package>noapplet.SS</package>
+  <entry_point TYPE="method" FQNAME="noapplet.SS.Planet void draw(java.awt.Graphics g)" />
+  <problem_class id="MissingJavadoc" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Missing Javadoc</problem_class>
+  <description>Required Javadoc is absent</description>
+  <highlighted_element>draw</highlighted_element>
+  <language>JAVA</language>
+  <offset>16</offset>
+  <length>4</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 23/student 23 (4).java</file>
+  <line>5</line>
+  <module>codeSmellsWork</module>
+  <package>noapplet.SS</package>
+  <entry_point TYPE="class" FQNAME="noapplet.SS.Solar_system" />
+  <problem_class id="MissingJavadoc" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Missing Javadoc</problem_class>
+  <description>Required Javadoc is absent</description>
+  <highlighted_element>Solar_system</highlighted_element>
+  <language>JAVA</language>
+  <offset>13</offset>
+  <length>12</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 23/student 23 (4).java</file>
+  <line>27</line>
+  <module>codeSmellsWork</module>
+  <package>noapplet.SS</package>
+  <entry_point TYPE="method" FQNAME="noapplet.SS.Solar_system void main(java.lang.String[] args)" />
+  <problem_class id="MissingJavadoc" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Missing Javadoc</problem_class>
+  <description>Required Javadoc is absent</description>
+  <highlighted_element>main</highlighted_element>
+  <language>JAVA</language>
+  <offset>23</offset>
+  <length>4</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 23/student 23 (5).java</file>
+  <line>5</line>
+  <module>codeSmellsWork</module>
+  <package>noapplet.SS</package>
+  <entry_point TYPE="class" FQNAME="noapplet.SS.Sun" />
+  <problem_class id="MissingJavadoc" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Missing Javadoc</problem_class>
+  <description>Required Javadoc is absent</description>
+  <highlighted_element>Sun</highlighted_element>
+  <language>JAVA</language>
+  <offset>13</offset>
+  <length>3</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 23/student 23 (5).java</file>
+  <line>12</line>
+  <module>codeSmellsWork</module>
+  <package>noapplet.SS</package>
+  <entry_point TYPE="method" FQNAME="noapplet.SS.Sun Sun(int x, int y, int radius, java.awt.Color color)" />
+  <problem_class id="MissingJavadoc" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Missing Javadoc</problem_class>
+  <description>Required Javadoc is absent</description>
+  <highlighted_element>Sun</highlighted_element>
+  <language>JAVA</language>
+  <offset>11</offset>
+  <length>3</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 23/student 23 (5).java</file>
+  <line>25</line>
+  <module>codeSmellsWork</module>
+  <package>noapplet.SS</package>
+  <entry_point TYPE="method" FQNAME="noapplet.SS.Sun void draw(java.awt.Graphics g)" />
+  <problem_class id="MissingJavadoc" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Missing Javadoc</problem_class>
+  <description>Required Javadoc is absent</description>
+  <highlighted_element>draw</highlighted_element>
+  <language>JAVA</language>
+  <offset>16</offset>
+  <length>4</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 23/student 23 (5).java</file>
+  <line>35</line>
+  <module>codeSmellsWork</module>
+  <package>noapplet.SS</package>
+  <entry_point TYPE="method" FQNAME="noapplet.SS.Sun int getX()" />
+  <problem_class id="MissingJavadoc" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Missing Javadoc</problem_class>
+  <description>Required Javadoc is absent</description>
+  <highlighted_element>getX</highlighted_element>
+  <language>JAVA</language>
+  <offset>15</offset>
+  <length>4</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 23/student 23 (5).java</file>
+  <line>39</line>
+  <module>codeSmellsWork</module>
+  <package>noapplet.SS</package>
+  <entry_point TYPE="method" FQNAME="noapplet.SS.Sun int getY()" />
+  <problem_class id="MissingJavadoc" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Missing Javadoc</problem_class>
+  <description>Required Javadoc is absent</description>
+  <highlighted_element>getY</highlighted_element>
+  <language>JAVA</language>
+  <offset>15</offset>
+  <length>4</length>
+</problem>
+</problems>

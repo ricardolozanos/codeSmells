@@ -1,0 +1,223 @@
+<problems>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 10/student 10 (1).java</file>
+  <line>8</line>
+  <module>codeSmellsWork</module>
+  <package>noapplet.example.DrawingBoard</package>
+  <entry_point TYPE="method" FQNAME="noapplet.example.DrawingBoard.Triangle Triangle()" />
+  <language>JAVA</language>
+  <offset>8</offset>
+  <length>8</length>
+  <highlighted_element>Triangle</highlighted_element>
+  <problem_class id="unused" severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">unused declaration</problem_class>
+  <hints>
+    <hint value="comment" />
+    <hint value="delete" />
+  </hints>
+  <description>Constructor is never used.</description>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 10/student 10 (1).java</file>
+  <line>13</line>
+  <module>codeSmellsWork</module>
+  <package>noapplet.example.DrawingBoard</package>
+  <entry_point TYPE="method" FQNAME="noapplet.example.DrawingBoard.Triangle void draw(java.awt.Graphics g)" />
+  <language>JAVA</language>
+  <offset>13</offset>
+  <length>4</length>
+  <highlighted_element>draw</highlighted_element>
+  <problem_class id="unused" severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">unused declaration</problem_class>
+  <hints>
+    <hint value="comment" />
+    <hint value="delete" />
+  </hints>
+  <description>&lt;ul&gt;&lt;li&gt;Method owner class is never instantiated OR&lt;/li&gt;&lt;li&gt;An instantiation is not reachable from entry points.&lt;/li&gt;&lt;/ul&gt;</description>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 10/student 10 (2).java</file>
+  <line>9</line>
+  <module>codeSmellsWork</module>
+  <package>noapplet.example.DrawingBoard</package>
+  <entry_point TYPE="method" FQNAME="noapplet.example.DrawingBoard.Circle Circle()" />
+  <language>JAVA</language>
+  <offset>8</offset>
+  <length>6</length>
+  <highlighted_element>Circle</highlighted_element>
+  <problem_class id="unused" severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">unused declaration</problem_class>
+  <hints>
+    <hint value="comment" />
+    <hint value="delete" />
+  </hints>
+  <description>Constructor is never used.</description>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 10/student 10 (2).java</file>
+  <line>13</line>
+  <module>codeSmellsWork</module>
+  <package>noapplet.example.DrawingBoard</package>
+  <entry_point TYPE="method" FQNAME="noapplet.example.DrawingBoard.Circle void draw(java.awt.Graphics g)" />
+  <language>JAVA</language>
+  <offset>13</offset>
+  <length>4</length>
+  <highlighted_element>draw</highlighted_element>
+  <problem_class id="unused" severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">unused declaration</problem_class>
+  <hints>
+    <hint value="comment" />
+    <hint value="delete" />
+  </hints>
+  <description>&lt;ul&gt;&lt;li&gt;Method owner class is never instantiated OR&lt;/li&gt;&lt;li&gt;An instantiation is not reachable from entry points.&lt;/li&gt;&lt;/ul&gt;</description>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 10/student 10 (3).java</file>
+  <line>20</line>
+  <module>codeSmellsWork</module>
+  <package>noapplet.example.DrawingBoard</package>
+  <entry_point TYPE="method" FQNAME="noapplet.example.DrawingBoard.DrawingBoard void initAnimation()" />
+  <language>JAVA</language>
+  <offset>16</offset>
+  <length>13</length>
+  <highlighted_element>initAnimation</highlighted_element>
+  <problem_class id="unused" severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">unused declaration</problem_class>
+  <hints>
+    <hint value="comment" />
+    <hint value="delete" />
+  </hints>
+  <description>Method is never used.</description>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 10/student 10 (3).java</file>
+  <line>30</line>
+  <module>codeSmellsWork</module>
+  <package>noapplet.example.DrawingBoard</package>
+  <entry_point TYPE="method" FQNAME="noapplet.example.DrawingBoard.DrawingBoard void paintComponent(java.awt.Graphics g)" />
+  <language>JAVA</language>
+  <offset>13</offset>
+  <length>14</length>
+  <highlighted_element>paintComponent</highlighted_element>
+  <problem_class id="unused" severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">unused declaration</problem_class>
+  <hints>
+    <hint value="comment" />
+    <hint value="delete" />
+  </hints>
+  <description>Method is never used.</description>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 10/student 10 (4).java</file>
+  <line>8</line>
+  <module>codeSmellsWork</module>
+  <package>noapplet.example.DrawingBoard</package>
+  <entry_point TYPE="method" FQNAME="noapplet.example.DrawingBoard.Rectangle Rectangle()" />
+  <language>JAVA</language>
+  <offset>8</offset>
+  <length>9</length>
+  <highlighted_element>Rectangle</highlighted_element>
+  <problem_class id="unused" severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">unused declaration</problem_class>
+  <hints>
+    <hint value="comment" />
+    <hint value="delete" />
+  </hints>
+  <description>Constructor is never used.</description>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 10/student 10 (4).java</file>
+  <line>12</line>
+  <module>codeSmellsWork</module>
+  <package>noapplet.example.DrawingBoard</package>
+  <entry_point TYPE="method" FQNAME="noapplet.example.DrawingBoard.Rectangle void draw(java.awt.Graphics g)" />
+  <language>JAVA</language>
+  <offset>13</offset>
+  <length>4</length>
+  <highlighted_element>draw</highlighted_element>
+  <problem_class id="unused" severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">unused declaration</problem_class>
+  <hints>
+    <hint value="comment" />
+    <hint value="delete" />
+  </hints>
+  <description>&lt;ul&gt;&lt;li&gt;Method owner class is never instantiated OR&lt;/li&gt;&lt;li&gt;An instantiation is not reachable from entry points.&lt;/li&gt;&lt;/ul&gt;</description>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 10/student 10 (5).java</file>
+  <line>7</line>
+  <module>codeSmellsWork</module>
+  <package>noapplet.example.DrawingBoard</package>
+  <entry_point TYPE="field" FQNAME="noapplet.example.DrawingBoard.Shape x" />
+  <language>JAVA</language>
+  <offset>15</offset>
+  <length>1</length>
+  <highlighted_element>x</highlighted_element>
+  <problem_class id="unused" severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">unused declaration</problem_class>
+  <hints>
+    <hint value="comment" />
+    <hint value="delete" />
+  </hints>
+  <description>Field is assigned but never accessed.</description>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 10/student 10 (5).java</file>
+  <line>7</line>
+  <module>codeSmellsWork</module>
+  <package>noapplet.example.DrawingBoard</package>
+  <entry_point TYPE="field" FQNAME="noapplet.example.DrawingBoard.Shape y" />
+  <language>JAVA</language>
+  <offset>17</offset>
+  <length>1</length>
+  <highlighted_element>y</highlighted_element>
+  <problem_class id="unused" severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">unused declaration</problem_class>
+  <hints>
+    <hint value="comment" />
+    <hint value="delete" />
+  </hints>
+  <description>Field is assigned but never accessed.</description>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 10/student 10 (5).java</file>
+  <line>8</line>
+  <module>codeSmellsWork</module>
+  <package>noapplet.example.DrawingBoard</package>
+  <entry_point TYPE="field" FQNAME="noapplet.example.DrawingBoard.Shape c" />
+  <language>JAVA</language>
+  <offset>17</offset>
+  <length>1</length>
+  <highlighted_element>c</highlighted_element>
+  <problem_class id="unused" severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">unused declaration</problem_class>
+  <hints>
+    <hint value="comment" />
+    <hint value="delete" />
+  </hints>
+  <description>Field is assigned but never accessed.</description>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 10/student 10 (5).java</file>
+  <line>10</line>
+  <module>codeSmellsWork</module>
+  <package>noapplet.example.DrawingBoard</package>
+  <entry_point TYPE="method" FQNAME="noapplet.example.DrawingBoard.Shape Shape(int x, int y, java.awt.Color c)" />
+  <language>JAVA</language>
+  <offset>11</offset>
+  <length>5</length>
+  <highlighted_element>Shape</highlighted_element>
+  <problem_class id="unused" severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">unused declaration</problem_class>
+  <hints>
+    <hint value="comment" />
+    <hint value="delete" />
+  </hints>
+  <description>Constructor is never used.</description>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 10/student 10 (5).java</file>
+  <line>16</line>
+  <module>codeSmellsWork</module>
+  <package>noapplet.example.DrawingBoard</package>
+  <entry_point TYPE="method" FQNAME="noapplet.example.DrawingBoard.Shape void draw(java.awt.Graphics g)" />
+  <language>JAVA</language>
+  <offset>22</offset>
+  <length>4</length>
+  <highlighted_element>draw</highlighted_element>
+  <problem_class id="unused" severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">unused declaration</problem_class>
+  <hints>
+    <hint value="comment" />
+    <hint value="delete" />
+  </hints>
+  <description>&lt;ul&gt;&lt;li&gt;Abstract method is not implemented OR&lt;/li&gt;&lt;li&gt;Implementation class is never instantiated OR&lt;/li&gt;&lt;li&gt;An instantiation is not reachable from entry points.&lt;/li&gt;&lt;/ul&gt;</description>
+</problem>
+</problems>

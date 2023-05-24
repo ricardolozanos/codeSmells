@@ -1,0 +1,28 @@
+<problems>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 04/student 04 (1).java</file>
+  <line>30</line>
+  <module>codeSmellsWork</module>
+  <package>exercises.FactoryMethod</package>
+  <entry_point TYPE="method" FQNAME="exercises.FactoryMethod.Balloon void start()" />
+  <problem_class id="BusyWait" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Busy wait</problem_class>
+  <description>Call to &lt;code&gt;Thread.sleep()&lt;/code&gt; in a loop, probably busy-waiting #loc</description>
+  <highlighted_element>sleep</highlighted_element>
+  <language>JAVA</language>
+  <offset>23</offset>
+  <length>5</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 04/student 04 (2).java</file>
+  <line>16</line>
+  <module>codeSmellsWork</module>
+  <package>exercises.FactoryMethod</package>
+  <entry_point TYPE="method" FQNAME="exercises.FactoryMethod.Balloon2 void start()" />
+  <problem_class id="BusyWait" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Busy wait</problem_class>
+  <description>Call to &lt;code&gt;Thread.sleep()&lt;/code&gt; in a loop, probably busy-waiting #loc</description>
+  <highlighted_element>sleep</highlighted_element>
+  <language>JAVA</language>
+  <offset>19</offset>
+  <length>5</length>
+</problem>
+</problems>

@@ -1,0 +1,15 @@
+<problems>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 29/student 29 (1).java</file>
+  <line>219</line>
+  <module>codeSmellsWork</module>
+  <package>&lt;default&gt;</package>
+  <entry_point TYPE="method" FQNAME="OmokUITest void testdrawOmokBoard()" />
+  <problem_class id="ForCanBeForeach" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">'for' loop can be replaced with enhanced for loop</problem_class>
+  <description>&lt;code&gt;for&lt;/code&gt; loop can be replaced with enhanced 'for' #loc</description>
+  <highlighted_element>for</highlighted_element>
+  <language>JAVA</language>
+  <offset>2</offset>
+  <length>3</length>
+</problem>
+</problems>

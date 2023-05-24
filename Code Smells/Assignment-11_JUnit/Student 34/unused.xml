@@ -1,0 +1,53 @@
+<problems>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 34/student 34.java</file>
+  <line>15</line>
+  <module>codeSmellsWork</module>
+  <package>HomeWork2</package>
+  <entry_point TYPE="method" FQNAME="HomeWork2.consoleUITest void testprintText()" />
+  <language>JAVA</language>
+  <offset>9</offset>
+  <length>13</length>
+  <highlighted_element>testprintText</highlighted_element>
+  <problem_class id="unused" severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">unused declaration</problem_class>
+  <hints>
+    <hint value="comment" />
+    <hint value="delete" />
+  </hints>
+  <description>&lt;ul&gt;&lt;li&gt;Method owner class is never instantiated OR&lt;/li&gt;&lt;li&gt;An instantiation is not reachable from entry points.&lt;/li&gt;&lt;/ul&gt;</description>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 34/student 34.java</file>
+  <line>21</line>
+  <module>codeSmellsWork</module>
+  <package>HomeWork2</package>
+  <entry_point TYPE="method" FQNAME="HomeWork2.consoleUITest void testpromtMode()" />
+  <language>JAVA</language>
+  <offset>9</offset>
+  <length>13</length>
+  <highlighted_element>testpromtMode</highlighted_element>
+  <problem_class id="unused" severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">unused declaration</problem_class>
+  <hints>
+    <hint value="comment" />
+    <hint value="delete" />
+  </hints>
+  <description>&lt;ul&gt;&lt;li&gt;Method owner class is never instantiated OR&lt;/li&gt;&lt;li&gt;An instantiation is not reachable from entry points.&lt;/li&gt;&lt;/ul&gt;</description>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 34/student 34.java</file>
+  <line>12</line>
+  <module>codeSmellsWork</module>
+  <package>HomeWork2</package>
+  <entry_point TYPE="class" FQNAME="HomeWork2.consoleUITest" />
+  <language>JAVA</language>
+  <offset>6</offset>
+  <length>13</length>
+  <highlighted_element>consoleUITest</highlighted_element>
+  <problem_class id="unused" severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">unused declaration</problem_class>
+  <hints>
+    <hint value="comment" />
+    <hint value="delete" />
+  </hints>
+  <description>Class is not instantiated.</description>
+</problem>
+</problems>

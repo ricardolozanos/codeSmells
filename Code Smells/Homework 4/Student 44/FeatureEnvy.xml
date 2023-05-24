@@ -1,0 +1,41 @@
+<problems>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 44/student 44 (2).java</file>
+  <line>50</line>
+  <module>codeSmellsWork</module>
+  <package>&lt;default&gt;</package>
+  <entry_point TYPE="method" FQNAME="BoardPanel void mouseClicked(java.awt.event.MouseEvent e)" />
+  <problem_class id="FeatureEnvy" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Feature envy</problem_class>
+  <description>Class 'Board' accessed repeatedly in method &lt;code&gt;mouseClicked()&lt;/code&gt; #loc</description>
+  <highlighted_element>mouseClicked</highlighted_element>
+  <language>JAVA</language>
+  <offset>16</offset>
+  <length>12</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 44/student 44 (2).java</file>
+  <line>50</line>
+  <module>codeSmellsWork</module>
+  <package>&lt;default&gt;</package>
+  <entry_point TYPE="method" FQNAME="BoardPanel void mouseClicked(java.awt.event.MouseEvent e)" />
+  <problem_class id="FeatureEnvy" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Feature envy</problem_class>
+  <description>Class 'Dialogs' accessed repeatedly in method &lt;code&gt;mouseClicked()&lt;/code&gt; #loc</description>
+  <highlighted_element>mouseClicked</highlighted_element>
+  <language>JAVA</language>
+  <offset>16</offset>
+  <length>12</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 44/student 44 (5).java</file>
+  <line>33</line>
+  <module>codeSmellsWork</module>
+  <package>&lt;default&gt;</package>
+  <entry_point TYPE="method" FQNAME="MainFrame void createMenuBar()" />
+  <problem_class id="FeatureEnvy" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Feature envy</problem_class>
+  <description>Class 'Dialogs' accessed repeatedly in method &lt;code&gt;createMenuBar()&lt;/code&gt; #loc</description>
+  <highlighted_element>createMenuBar</highlighted_element>
+  <language>JAVA</language>
+  <offset>17</offset>
+  <length>13</length>
+</problem>
+</problems>

@@ -1,0 +1,15 @@
+<problems>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 06/student 06 (1).java</file>
+  <line>32</line>
+  <module>codeSmellsWork</module>
+  <package>noapplet.example</package>
+  <entry_point TYPE="method" FQNAME="noapplet.example.HelloWorld void paintComponent(java.awt.Graphics g)" />
+  <problem_class id="CommentedOutCode" severity="WEAK WARNING" attribute_key="INFO_ATTRIBUTES">Commented out code</problem_class>
+  <description>Commented out code (15 lines)</description>
+  <highlighted_element>//</highlighted_element>
+  <language>JAVA</language>
+  <offset>0</offset>
+  <length>2</length>
+</problem>
+</problems>

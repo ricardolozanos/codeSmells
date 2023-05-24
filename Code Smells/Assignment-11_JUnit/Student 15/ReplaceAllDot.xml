@@ -1,0 +1,15 @@
+<problems>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 15/student 15 (9).java</file>
+  <line>121</line>
+  <module>codeSmellsWork</module>
+  <package>&lt;default&gt;</package>
+  <entry_point TYPE="method" FQNAME="GameBoard java.util.ArrayList&lt;java.util.ArrayList&lt;T&gt;&gt; decodeBoard(java.lang.String encoding)" />
+  <problem_class id="ReplaceAllDot" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Suspicious regex expression argument</problem_class>
+  <description>Suspicious regex expression &quot;.&quot; in call to 'split()' #loc</description>
+  <highlighted_element>&quot;.&quot;</highlighted_element>
+  <language>JAVA</language>
+  <offset>39</offset>
+  <length>3</length>
+</problem>
+</problems>

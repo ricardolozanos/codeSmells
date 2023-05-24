@@ -1,0 +1,54 @@
+<problems>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 34/student 34 (2).java</file>
+  <line>99</line>
+  <module>codeSmellsWork</module>
+  <package>omokThings</package>
+  <entry_point TYPE="method" FQNAME="omokThings.Game void gameLoop(Player playerNum, Player playerNum2, int gameMode)" />
+  <problem_class id="CommentedOutCode" severity="WEAK WARNING" attribute_key="INFO_ATTRIBUTES">Commented out code</problem_class>
+  <description>Commented out code (11 lines)</description>
+  <highlighted_element>/*</highlighted_element>
+  <language>JAVA</language>
+  <offset>12</offset>
+  <length>2</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 34/student 34 (2).java</file>
+  <line>119</line>
+  <module>codeSmellsWork</module>
+  <package>omokThings</package>
+  <entry_point TYPE="method" FQNAME="omokThings.Game void gameLoop(Player playerNum, Player playerNum2, int gameMode)" />
+  <problem_class id="CommentedOutCode" severity="WEAK WARNING" attribute_key="INFO_ATTRIBUTES">Commented out code</problem_class>
+  <description>Commented out code (2 lines)</description>
+  <highlighted_element>//</highlighted_element>
+  <language>JAVA</language>
+  <offset>20</offset>
+  <length>2</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 34/student 34 (2).java</file>
+  <line>126</line>
+  <module>codeSmellsWork</module>
+  <package>omokThings</package>
+  <entry_point TYPE="method" FQNAME="omokThings.Game void gameLoop(Player playerNum, Player playerNum2, int gameMode)" />
+  <problem_class id="CommentedOutCode" severity="WEAK WARNING" attribute_key="INFO_ATTRIBUTES">Commented out code</problem_class>
+  <description>Commented out code (8 lines)</description>
+  <highlighted_element>/*</highlighted_element>
+  <language>JAVA</language>
+  <offset>20</offset>
+  <length>2</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 34/student 34 (4).java</file>
+  <line>211</line>
+  <module>codeSmellsWork</module>
+  <package>omokThings</package>
+  <entry_point TYPE="class" FQNAME="omokThings.omok" />
+  <problem_class id="CommentedOutCode" severity="WEAK WARNING" attribute_key="INFO_ATTRIBUTES">Commented out code</problem_class>
+  <description>Commented out code (2 lines)</description>
+  <highlighted_element>//</highlighted_element>
+  <language>JAVA</language>
+  <offset>3</offset>
+  <length>2</length>
+</problem>
+</problems>

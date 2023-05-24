@@ -1,0 +1,15 @@
+<problems>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 02/student 02.java</file>
+  <line>100</line>
+  <module>codeSmellsWork</module>
+  <package>noapplet.DrawingBoard</package>
+  <entry_point TYPE="method" FQNAME="noapplet.DrawingBoard.Triangle Triangle(int x, int y, java.awt.Color c, int width, int height, int startAngle, int arcAngle)" />
+  <problem_class id="ParametersPerConstructor" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Constructor with too many parameters</problem_class>
+  <description>&lt;code&gt;Triangle()&lt;/code&gt; has too many parameters (num parameters = 7) #loc</description>
+  <highlighted_element>Triangle</highlighted_element>
+  <language>JAVA</language>
+  <offset>14</offset>
+  <length>8</length>
+</problem>
+</problems>

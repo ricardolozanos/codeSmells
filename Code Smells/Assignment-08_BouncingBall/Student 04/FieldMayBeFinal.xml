@@ -1,0 +1,15 @@
+<problems>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 04/student 04 (2).java</file>
+  <line>11</line>
+  <module>codeSmellsWork</module>
+  <package>noapplet.assignments.BouncingBall</package>
+  <entry_point TYPE="field" FQNAME="noapplet.assignments.BouncingBall.BouncingBall numOfBalls" />
+  <problem_class id="FieldMayBeFinal" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Field may be 'final'</problem_class>
+  <description>Field &lt;code&gt;numOfBalls&lt;/code&gt; may be 'final' #loc</description>
+  <highlighted_element>numOfBalls</highlighted_element>
+  <language>JAVA</language>
+  <offset>16</offset>
+  <length>10</length>
+</problem>
+</problems>

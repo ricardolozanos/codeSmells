@@ -1,0 +1,30 @@
+Name: Francisco Rodriguez (frodriguez34)
+Assignment: Exercise: Balloon
+Date Submitted: Sunday, February 5, 2023 11:04:15 PM MST
+Current Grade: 10.00
+
+Submission Field:
+There is no student submission text data for this assignment.
+
+Comments:
+Hello. Here is my animation task. Sorry if I didn't follow the instructions as expected. I'm showing you both animations but at the same time. I am adding a gif image of my work. The reason for these changes is to avoid being copied by someone else. I even added my favorite color "Purple".
+
+My references are the following links and some help from geeks for geeks.  Also I used this tool to convert my video to GIF VEED.IO.
+
+https://docs.oracle.com/javase/tutorial/uiswing/painting/closer.html
+
+https://docs.oracle.com/javase/tutorial/2d/
+
+https://docs.oracle.com/javase/tutorial/uiswing/concurrency/bound.html
+
+https://docs.oracle.com/javase/tutorial/uiswing/misc/problems.html
+
+https://www.veed.io/
+
+Files:
+	Original filename: Francisco Rodriguez 2023-02-05 22-23-34.gif
+	Filename: Exercise_ Balloon_frodriguez34_attempt_2023-02-05-23-04-15_Francisco Rodriguez 2023-02-05 22-23-34.gif
+
+	Original filename: animation.java
+	Filename: Exercise_ Balloon_frodriguez34_attempt_2023-02-05-23-04-15_animation.java
+

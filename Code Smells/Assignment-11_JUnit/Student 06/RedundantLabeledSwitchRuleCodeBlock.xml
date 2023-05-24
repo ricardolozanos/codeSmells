@@ -1,0 +1,28 @@
+<problems>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 06/student 06 (8).java</file>
+  <line>38</line>
+  <module>codeSmellsWork</module>
+  <package>&lt;default&gt;</package>
+  <entry_point TYPE="method" FQNAME="Controller void play()" />
+  <problem_class id="RedundantLabeledSwitchRuleCodeBlock" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Labeled switch rule has redundant code block</problem_class>
+  <description>Labeled rule's code block is redundant</description>
+  <highlighted_element>{</highlighted_element>
+  <language>JAVA</language>
+  <offset>27</offset>
+  <length>1</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 06/student 06 (8).java</file>
+  <line>41</line>
+  <module>codeSmellsWork</module>
+  <package>&lt;default&gt;</package>
+  <entry_point TYPE="method" FQNAME="Controller void play()" />
+  <problem_class id="RedundantLabeledSwitchRuleCodeBlock" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Labeled switch rule has redundant code block</problem_class>
+  <description>Labeled rule's code block is redundant</description>
+  <highlighted_element>{</highlighted_element>
+  <language>JAVA</language>
+  <offset>27</offset>
+  <length>1</length>
+</problem>
+</problems>

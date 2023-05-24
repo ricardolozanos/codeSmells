@@ -1,0 +1,28 @@
+<problems>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 18/student 18 (1).java</file>
+  <line>6</line>
+  <module>codeSmellsWork</module>
+  <package>noapplet.excercise.plotter</package>
+  <entry_point TYPE="method" FQNAME="noapplet.excercise.plotter.Function double apply(double a)" />
+  <problem_class id="UnnecessaryModifier" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Unnecessary modifier</problem_class>
+  <description>Modifier &lt;code&gt;public&lt;/code&gt; is redundant for interface members #loc</description>
+  <highlighted_element>public</highlighted_element>
+  <language>JAVA</language>
+  <offset>1</offset>
+  <length>6</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 18/student 18 (1).java</file>
+  <line>7</line>
+  <module>codeSmellsWork</module>
+  <package>noapplet.excercise.plotter</package>
+  <entry_point TYPE="method" FQNAME="noapplet.excercise.plotter.Function java.awt.Color getColor()" />
+  <problem_class id="UnnecessaryModifier" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Unnecessary modifier</problem_class>
+  <description>Modifier &lt;code&gt;public&lt;/code&gt; is redundant for interface members #loc</description>
+  <highlighted_element>public</highlighted_element>
+  <language>JAVA</language>
+  <offset>1</offset>
+  <length>6</length>
+</problem>
+</problems>

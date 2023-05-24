@@ -1,0 +1,1 @@
+public record Person(String name ,int id, double pay) {}

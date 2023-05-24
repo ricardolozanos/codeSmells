@@ -1,0 +1,15 @@
+<problems>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 23/student 23 (2).java</file>
+  <line>31</line>
+  <module>codeSmellsWork</module>
+  <package>&lt;default&gt;</package>
+  <entry_point TYPE="method" FQNAME="ChatServer ChatServer()" />
+  <problem_class id="Convert2Diamond" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Explicit type can be replaced with '&lt;&gt;'</problem_class>
+  <description>Explicit type argument PrintWriter can be replaced with &lt;&gt;</description>
+  <highlighted_element>PrintWriter</highlighted_element>
+  <language>JAVA</language>
+  <offset>33</offset>
+  <length>11</length>
+</problem>
+</problems>

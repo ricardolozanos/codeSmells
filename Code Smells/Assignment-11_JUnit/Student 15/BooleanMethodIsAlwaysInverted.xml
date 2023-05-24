@@ -1,0 +1,16 @@
+<problems>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 15/student 15 (9).java</file>
+  <line>35</line>
+  <module>codeSmellsWork</module>
+  <package>&lt;default&gt;</package>
+  <entry_point TYPE="method" FQNAME="GameBoard boolean isCoordinateInBounds(int x, int y)" />
+  <problem_class id="BooleanMethodIsAlwaysInverted" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Boolean method is always inverted</problem_class>
+  <hints />
+  <description>Boolean method 'isCoordinateInBounds' is always inverted</description>
+  <highlighted_element>isCoordinateInBounds</highlighted_element>
+  <language>JAVA</language>
+  <offset>20</offset>
+  <length>20</length>
+</problem>
+</problems>

@@ -1,0 +1,15 @@
+<problems>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 20/student 20 (1).java</file>
+  <line>45</line>
+  <module>codeSmellsWork</module>
+  <package>&lt;default&gt;</package>
+  <entry_point TYPE="method" FQNAME="Place boolean equals(java.lang.Object o)" />
+  <problem_class id="PatternVariableCanBeUsed" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Pattern variable can be used</problem_class>
+  <description>Variable 'p' can be replaced with pattern variable</description>
+  <highlighted_element>p</highlighted_element>
+  <language>JAVA</language>
+  <offset>18</offset>
+  <length>1</length>
+</problem>
+</problems>

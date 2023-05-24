@@ -1,0 +1,15 @@
+<problems>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 15/student 15 (9).java</file>
+  <line>30</line>
+  <module>codeSmellsWork</module>
+  <package>&lt;default&gt;</package>
+  <entry_point TYPE="method" FQNAME="GameBoard GameBoard(GameBoard.BoardSize size)" />
+  <problem_class id="Convert2Diamond" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Explicit type can be replaced with '&lt;&gt;'</problem_class>
+  <description>Explicit type argument T can be replaced with &lt;&gt;</description>
+  <highlighted_element>T</highlighted_element>
+  <language>JAVA</language>
+  <offset>45</offset>
+  <length>1</length>
+</problem>
+</problems>

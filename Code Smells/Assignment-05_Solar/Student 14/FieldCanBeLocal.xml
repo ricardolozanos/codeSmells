@@ -1,0 +1,41 @@
+<problems>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 14/Student 14.java</file>
+  <line>16</line>
+  <module>codeSmellsWork</module>
+  <package>noapplet.Solar</package>
+  <entry_point TYPE="field" FQNAME="noapplet.Solar.Solar ran" />
+  <problem_class id="FieldCanBeLocal" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Field can be local</problem_class>
+  <description>Field can be converted to a local variable</description>
+  <highlighted_element>ran</highlighted_element>
+  <language>JAVA</language>
+  <offset>19</offset>
+  <length>3</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 14/Student 14.java</file>
+  <line>153</line>
+  <module>codeSmellsWork</module>
+  <package>noapplet.Solar</package>
+  <entry_point TYPE="field" FQNAME="noapplet.Solar.Moon x" />
+  <problem_class id="FieldCanBeLocal" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Field can be local</problem_class>
+  <description>Field can be converted to a local variable</description>
+  <highlighted_element>x</highlighted_element>
+  <language>JAVA</language>
+  <offset>16</offset>
+  <length>1</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 14/Student 14.java</file>
+  <line>153</line>
+  <module>codeSmellsWork</module>
+  <package>noapplet.Solar</package>
+  <entry_point TYPE="field" FQNAME="noapplet.Solar.Moon y" />
+  <problem_class id="FieldCanBeLocal" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Field can be local</problem_class>
+  <description>Field can be converted to a local variable</description>
+  <highlighted_element>y</highlighted_element>
+  <language>JAVA</language>
+  <offset>19</offset>
+  <length>1</length>
+</problem>
+</problems>

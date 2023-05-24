@@ -1,0 +1,54 @@
+<problems>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 35/student 35 (3).java</file>
+  <line>34</line>
+  <module>codeSmellsWork</module>
+  <package>balloon</package>
+  <entry_point TYPE="method" FQNAME="balloon.GrowingBalloon void initAnimation()" />
+  <problem_class id="IntegerDivisionInFloatingPointContext" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Integer division in floating-point context</problem_class>
+  <description>&lt;code&gt;size/2&lt;/code&gt;: integer division in floating-point context #loc</description>
+  <highlighted_element>size/2</highlighted_element>
+  <language>JAVA</language>
+  <offset>47</offset>
+  <length>6</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 35/student 35 (3).java</file>
+  <line>35</line>
+  <module>codeSmellsWork</module>
+  <package>balloon</package>
+  <entry_point TYPE="method" FQNAME="balloon.GrowingBalloon void initAnimation()" />
+  <problem_class id="IntegerDivisionInFloatingPointContext" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Integer division in floating-point context</problem_class>
+  <description>&lt;code&gt;size/2&lt;/code&gt;: integer division in floating-point context #loc</description>
+  <highlighted_element>size/2</highlighted_element>
+  <language>JAVA</language>
+  <offset>48</offset>
+  <length>6</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 35/student 35 (3).java</file>
+  <line>51</line>
+  <module>codeSmellsWork</module>
+  <package>balloon</package>
+  <entry_point TYPE="method" FQNAME="balloon.GrowingBalloon void paintComponent(java.awt.Graphics g)" />
+  <problem_class id="IntegerDivisionInFloatingPointContext" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Integer division in floating-point context</problem_class>
+  <description>&lt;code&gt;size/2&lt;/code&gt;: integer division in floating-point context #loc</description>
+  <highlighted_element>size/2</highlighted_element>
+  <language>JAVA</language>
+  <offset>47</offset>
+  <length>6</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 35/student 35 (3).java</file>
+  <line>52</line>
+  <module>codeSmellsWork</module>
+  <package>balloon</package>
+  <entry_point TYPE="method" FQNAME="balloon.GrowingBalloon void paintComponent(java.awt.Graphics g)" />
+  <problem_class id="IntegerDivisionInFloatingPointContext" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Integer division in floating-point context</problem_class>
+  <description>&lt;code&gt;size/2&lt;/code&gt;: integer division in floating-point context #loc</description>
+  <highlighted_element>size/2</highlighted_element>
+  <language>JAVA</language>
+  <offset>48</offset>
+  <length>6</length>
+</problem>
+</problems>

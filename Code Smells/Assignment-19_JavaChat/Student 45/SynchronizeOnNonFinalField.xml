@@ -1,0 +1,28 @@
+<problems>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 45/student 45 (2).java</file>
+  <line>56</line>
+  <module>codeSmellsWork</module>
+  <package>javaChat</package>
+  <entry_point TYPE="method" FQNAME="javaChat.ChatServer void addClient(java.io.PrintWriter out)" />
+  <problem_class id="SynchronizeOnNonFinalField" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Synchronization on a non-final field</problem_class>
+  <description>Synchronization on a non-final field &lt;code&gt;clients&lt;/code&gt; #loc</description>
+  <highlighted_element>clients</highlighted_element>
+  <language>JAVA</language>
+  <offset>18</offset>
+  <length>7</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 45/student 45 (2).java</file>
+  <line>63</line>
+  <module>codeSmellsWork</module>
+  <package>javaChat</package>
+  <entry_point TYPE="method" FQNAME="javaChat.ChatServer void removeClient(java.io.PrintWriter out)" />
+  <problem_class id="SynchronizeOnNonFinalField" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Synchronization on a non-final field</problem_class>
+  <description>Synchronization on a non-final field &lt;code&gt;clients&lt;/code&gt; #loc</description>
+  <highlighted_element>clients</highlighted_element>
+  <language>JAVA</language>
+  <offset>18</offset>
+  <length>7</length>
+</problem>
+</problems>

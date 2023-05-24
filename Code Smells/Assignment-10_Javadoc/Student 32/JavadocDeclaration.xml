@@ -1,0 +1,15 @@
+<problems>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 32/student 32 (1).java</file>
+  <line>10</line>
+  <module>codeSmellsWork</module>
+  <package>&lt;default&gt;</package>
+  <entry_point TYPE="field" FQNAME="ConsoleJavaDoc s" />
+  <problem_class id="JavadocDeclaration" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Javadoc declaration problems</problem_class>
+  <description>Tag &lt;code&gt;param&lt;/code&gt; is not allowed here</description>
+  <highlighted_element>@param</highlighted_element>
+  <language>JAVA</language>
+  <offset>7</offset>
+  <length>6</length>
+</problem>
+</problems>

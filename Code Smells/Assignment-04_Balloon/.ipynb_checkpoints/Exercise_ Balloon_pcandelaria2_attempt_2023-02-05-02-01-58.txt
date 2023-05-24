@@ -1,0 +1,17 @@
+Name: Paul Candelaria (pcandelaria2)
+Assignment: Exercise: Balloon
+Date Submitted: Sunday, February 5, 2023 2:01:58 AM MST
+Current Grade: 10.00
+
+Submission Field:
+<div style="max-width: 650.0px;border: 1.0px solid rgb(170,170,170);padding: 10.0px;overflow: hidden;margin-bottom: 1.0em;"><a href="https://github.com/pcandelaria2/noApplet_excercise/blob/main/src/noapplet/example/Balloon.java" style="text-decoration: none;color: inherit;"> <img src="https://opengraph.githubassets.com/0ba2cfb402d40030ebc8bc59b325dacc177aced73af095796c07db6372f6a7ee/pcandelaria2/noApplet_excercise" style="max-width: 180.0px;max-height: 180.0px;margin-left: 2.0em;float: right;"> </a> <a href="https://github.com/pcandelaria2/noApplet_excercise/blob/main/src/noapplet/example/Balloon.java" style="text-decoration: none;color: inherit;"> <span style="font-size: 1.2em;display: block;">noApplet_excercise/Balloon.java at main · pcandelaria2/noApplet_excercise</span> <span style="margin-top: 0.5em;display: block;">Contribute to pcandelaria2/noApplet_excercise development by creating an account on GitHub.</span> <span style="color: rgb(153,153,153);display: block;margin-top: 0.5em;">GitHub</span> </a></div>
+<div style="max-width: 650.0px;border: 1.0px solid rgb(170,170,170);padding: 10.0px;overflow: hidden;margin-bottom: 1.0em;"><a href="https://github.com/pcandelaria2/noApplet_excercise/blob/main/src/noapplet/example/Balloon2.java" style="text-decoration: none;color: inherit;"> <img src="https://opengraph.githubassets.com/0ba2cfb402d40030ebc8bc59b325dacc177aced73af095796c07db6372f6a7ee/pcandelaria2/noApplet_excercise" style="max-width: 180.0px;max-height: 180.0px;margin-left: 2.0em;float: right;"> </a> <a href="https://github.com/pcandelaria2/noApplet_excercise/blob/main/src/noapplet/example/Balloon2.java" style="text-decoration: none;color: inherit;"> <span style="font-size: 1.2em;display: block;">noApplet_excercise/Balloon2.java at main · pcandelaria2/noApplet_excercise</span> <span style="margin-top: 0.5em;display: block;">Contribute to pcandelaria2/noApplet_excercise development by creating an account on GitHub.</span> <span style="color: rgb(153,153,153);display: block;margin-top: 0.5em;">GitHub</span> </a></div>
+<p>I attached the links of the src files I uploaded using git on intellij, the feature is very useful. Also I couldnt get the balloon to shrink but I was able to manage getting the balloon to loop growing over and over again. I will ask the TA on monday to explain how to get it to shrink and where I went wrong. Also I worked by myself.</p>
+
+Comments:
+There are no student comments for this assignment.
+
+Files:
+	Original filename: Screen Shot 2023-02-05 at 1.53.27 AM.png
+	Filename: Exercise_ Balloon_pcandelaria2_attempt_2023-02-05-02-01-58_Screen Shot 2023-02-05 at 1.53.27 AM.png
+

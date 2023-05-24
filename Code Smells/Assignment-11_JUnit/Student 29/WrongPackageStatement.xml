@@ -1,0 +1,15 @@
+<problems>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 29/student 29 (1).java</file>
+  <line>9</line>
+  <module>codeSmellsWork</module>
+  <package>&lt;default&gt;</package>
+  <entry_point TYPE="class" FQNAME="OmokUITest" />
+  <problem_class id="WrongPackageStatement" severity="ERROR" attribute_key="ERRORS_ATTRIBUTES">Wrong package statement</problem_class>
+  <description>Missing package statement but package name 'Student 29' which corresponds to the file path is invalid</description>
+  <highlighted_element>OmokUITest</highlighted_element>
+  <language>JAVA</language>
+  <offset>6</offset>
+  <length>10</length>
+</problem>
+</problems>

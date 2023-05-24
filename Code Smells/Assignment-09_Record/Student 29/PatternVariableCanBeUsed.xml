@@ -1,0 +1,15 @@
+<problems>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 29/student 29 (1).java</file>
+  <line>27</line>
+  <module>codeSmellsWork</module>
+  <package>noapplet.test</package>
+  <entry_point TYPE="method" FQNAME="noapplet.test.Place boolean equals(java.lang.Object obj)" />
+  <problem_class id="PatternVariableCanBeUsed" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Pattern variable can be used</problem_class>
+  <description>Variable 'other' can be replaced with pattern variable</description>
+  <highlighted_element>other</highlighted_element>
+  <language>JAVA</language>
+  <offset>18</offset>
+  <length>5</length>
+</problem>
+</problems>

@@ -1,0 +1,15 @@
+<problems>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 11/student 11 (5).java</file>
+  <line>78</line>
+  <module>codeSmellsWork</module>
+  <package>&lt;default&gt;</package>
+  <entry_point TYPE="method" FQNAME="SolarSystem void paintComponents(java.awt.Graphics g)" />
+  <problem_class id="RedundantCast" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Redundant type cast</problem_class>
+  <description>Casting &lt;code&gt;e&lt;/code&gt; to &lt;code&gt;Planet&lt;/code&gt; is redundant</description>
+  <highlighted_element>Planet</highlighted_element>
+  <language>JAVA</language>
+  <offset>57</offset>
+  <length>6</length>
+</problem>
+</problems>

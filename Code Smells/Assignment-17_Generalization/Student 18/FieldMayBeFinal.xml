@@ -1,0 +1,41 @@
+<problems>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 18/student 18 (4).java</file>
+  <line>8</line>
+  <module>codeSmellsWork</module>
+  <package>noapplet.excercise.plotter</package>
+  <entry_point TYPE="field" FQNAME="noapplet.excercise.plotter.Sine c" />
+  <problem_class id="FieldMayBeFinal" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Field may be 'final'</problem_class>
+  <description>Field &lt;code&gt;c&lt;/code&gt; may be 'final' #loc</description>
+  <highlighted_element>c</highlighted_element>
+  <language>JAVA</language>
+  <offset>15</offset>
+  <length>1</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 18/student 18 (5).java</file>
+  <line>24</line>
+  <module>codeSmellsWork</module>
+  <package>noapplet.excercise.plotter</package>
+  <entry_point TYPE="field" FQNAME="noapplet.excercise.plotter.SineCosineMultiPlotter.Sqrt c" />
+  <problem_class id="FieldMayBeFinal" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Field may be 'final'</problem_class>
+  <description>Field &lt;code&gt;c&lt;/code&gt; may be 'final' #loc</description>
+  <highlighted_element>c</highlighted_element>
+  <language>JAVA</language>
+  <offset>16</offset>
+  <length>1</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 18/student 18 (6).java</file>
+  <line>6</line>
+  <module>codeSmellsWork</module>
+  <package>noapplet.excercise.plotter</package>
+  <entry_point TYPE="field" FQNAME="noapplet.excercise.plotter.Cosine c" />
+  <problem_class id="FieldMayBeFinal" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Field may be 'final'</problem_class>
+  <description>Field &lt;code&gt;c&lt;/code&gt; may be 'final' #loc</description>
+  <highlighted_element>c</highlighted_element>
+  <language>JAVA</language>
+  <offset>15</offset>
+  <length>1</length>
+</problem>
+</problems>

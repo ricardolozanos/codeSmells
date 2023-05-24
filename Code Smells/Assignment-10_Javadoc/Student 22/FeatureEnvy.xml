@@ -1,0 +1,28 @@
+<problems>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 22/student 22 (2).java</file>
+  <line>32</line>
+  <module>codeSmellsWork</module>
+  <package>HomeWork2.OmokGame</package>
+  <entry_point TYPE="method" FQNAME="HomeWork2.OmokGame.Game Game()" />
+  <problem_class id="FeatureEnvy" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Feature envy</problem_class>
+  <description>Class 'ConsoleUI' accessed repeatedly in method &lt;code&gt;Game()&lt;/code&gt; #loc</description>
+  <highlighted_element>Game</highlighted_element>
+  <language>JAVA</language>
+  <offset>11</offset>
+  <length>4</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 22/student 22 (2).java</file>
+  <line>75</line>
+  <module>codeSmellsWork</module>
+  <package>HomeWork2.OmokGame</package>
+  <entry_point TYPE="method" FQNAME="HomeWork2.OmokGame.Game void initGameComputer()" />
+  <problem_class id="FeatureEnvy" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Feature envy</problem_class>
+  <description>Class 'ConsoleUI' accessed repeatedly in method &lt;code&gt;initGameComputer()&lt;/code&gt; #loc</description>
+  <highlighted_element>initGameComputer</highlighted_element>
+  <language>JAVA</language>
+  <offset>17</offset>
+  <length>16</length>
+</problem>
+</problems>

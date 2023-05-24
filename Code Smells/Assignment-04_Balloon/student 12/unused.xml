@@ -1,0 +1,86 @@
+<problems>
+<problem>
+  <file>file://$PROJECT_DIR$/src/student 13/Student 13 (1).java</file>
+  <line>7</line>
+  <module>codeSmellsWork</module>
+  <package>noapplet.balloon</package>
+  <entry_point TYPE="method" FQNAME="noapplet.balloon.Balloon2 Balloon2(java.lang.String[] params)" />
+  <language>JAVA</language>
+  <offset>11</offset>
+  <length>8</length>
+  <highlighted_element>Balloon2</highlighted_element>
+  <problem_class id="unused" severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">unused declaration</problem_class>
+  <hints>
+    <hint value="comment" />
+    <hint value="delete" />
+  </hints>
+  <description>Constructor is never used.</description>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/student 13/Student 13 (1).java</file>
+  <line>9</line>
+  <module>codeSmellsWork</module>
+  <package>noapplet.balloon</package>
+  <entry_point TYPE="method" FQNAME="noapplet.balloon.Balloon2 void setCard(java.awt.Dimension d)" />
+  <language>JAVA</language>
+  <offset>16</offset>
+  <length>7</length>
+  <highlighted_element>setCard</highlighted_element>
+  <problem_class id="unused" severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">unused declaration</problem_class>
+  <hints>
+    <hint value="comment" />
+    <hint value="delete" />
+  </hints>
+  <description>Method is never used.</description>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/student 13/Student 13 (2).java</file>
+  <line>17</line>
+  <module>codeSmellsWork</module>
+  <package>noapplet.balloon</package>
+  <entry_point TYPE="method" FQNAME="noapplet.balloon.Balloon Balloon(java.lang.String[] params)" />
+  <language>JAVA</language>
+  <offset>11</offset>
+  <length>7</length>
+  <highlighted_element>Balloon</highlighted_element>
+  <problem_class id="unused" severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">unused declaration</problem_class>
+  <hints>
+    <hint value="comment" />
+    <hint value="delete" />
+  </hints>
+  <description>Constructor is never used.</description>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/student 13/Student 13 (2).java</file>
+  <line>21</line>
+  <module>codeSmellsWork</module>
+  <package>noapplet.balloon</package>
+  <entry_point TYPE="method" FQNAME="noapplet.balloon.Balloon void setCard(java.awt.Dimension d)" />
+  <problem_class id="unused" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Unused declaration</problem_class>
+  <hints>
+    <hint value="d" />
+  </hints>
+  <description>Parameter &lt;code&gt;d&lt;/code&gt; is not used</description>
+  <highlighted_element>d</highlighted_element>
+  <language>JAVA</language>
+  <offset>34</offset>
+  <length>1</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/student 13/Student 13 (2).java</file>
+  <line>25</line>
+  <module>codeSmellsWork</module>
+  <package>noapplet.balloon</package>
+  <entry_point TYPE="method" FQNAME="noapplet.balloon.Balloon void paintComponent(java.awt.Graphics g)" />
+  <language>JAVA</language>
+  <offset>19</offset>
+  <length>14</length>
+  <highlighted_element>paintComponent</highlighted_element>
+  <problem_class id="unused" severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">unused declaration</problem_class>
+  <hints>
+    <hint value="comment" />
+    <hint value="delete" />
+  </hints>
+  <description>Method is never used.</description>
+</problem>
+</problems>

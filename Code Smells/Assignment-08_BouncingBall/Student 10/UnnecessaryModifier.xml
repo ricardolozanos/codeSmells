@@ -1,0 +1,15 @@
+<problems>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 10/student 10 (2).java</file>
+  <line>4</line>
+  <module>codeSmellsWork</module>
+  <package>noapplet.example.BouncingBall</package>
+  <entry_point TYPE="method" FQNAME="noapplet.example.BouncingBall.Bounceable void paintcomponent()" />
+  <problem_class id="UnnecessaryModifier" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Unnecessary modifier</problem_class>
+  <description>Modifier &lt;code&gt;public&lt;/code&gt; is redundant for interface members #loc</description>
+  <highlighted_element>public</highlighted_element>
+  <language>JAVA</language>
+  <offset>1</offset>
+  <length>6</length>
+</problem>
+</problems>

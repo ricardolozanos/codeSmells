@@ -1,0 +1,28 @@
+<problems>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 33/student 33 (2).java</file>
+  <line>99</line>
+  <module>codeSmellsWork</module>
+  <package>HomeWork2.OmokGame</package>
+  <entry_point TYPE="method" FQNAME="HomeWork2.OmokGame.Game boolean checkWin(HomeWork2.OmokGame.Game game, HomeWork2.OmokGame.Game.PieceType pieceType)" />
+  <problem_class id="CyclomaticComplexity" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Overly complex method</problem_class>
+  <description>Overly complex method &lt;code&gt;checkWin()&lt;/code&gt; (cyclomatic complexity = 24) #loc</description>
+  <highlighted_element>checkWin</highlighted_element>
+  <language>JAVA</language>
+  <offset>27</offset>
+  <length>8</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 33/student 33 (4).java</file>
+  <line>118</line>
+  <module>codeSmellsWork</module>
+  <package>HomeWork2.OmokGame</package>
+  <entry_point TYPE="method" FQNAME="HomeWork2.OmokGame.ComputerAI void detectDiagonal(Game game)" />
+  <problem_class id="CyclomaticComplexity" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Overly complex method</problem_class>
+  <description>Overly complex method &lt;code&gt;detectDiagonal()&lt;/code&gt; (cyclomatic complexity = 13) #loc</description>
+  <highlighted_element>detectDiagonal</highlighted_element>
+  <language>JAVA</language>
+  <offset>16</offset>
+  <length>14</length>
+</problem>
+</problems>

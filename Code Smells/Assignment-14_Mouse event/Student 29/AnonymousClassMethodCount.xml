@@ -1,0 +1,41 @@
+<problems>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 29/student 29 (1).java</file>
+  <line>46</line>
+  <module>codeSmellsWork</module>
+  <package>counter</package>
+  <entry_point TYPE="class" FQNAME="counter.SimpleCounter$1" />
+  <problem_class id="AnonymousClassMethodCount" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Anonymous inner class with too many methods</problem_class>
+  <description>Anonymous inner class with too many methods (method count = 2) #loc</description>
+  <highlighted_element>MouseAdapter</highlighted_element>
+  <language>JAVA</language>
+  <offset>33</offset>
+  <length>12</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 29/student 29 (1).java</file>
+  <line>60</line>
+  <module>codeSmellsWork</module>
+  <package>counter</package>
+  <entry_point TYPE="class" FQNAME="counter.SimpleCounter$2" />
+  <problem_class id="AnonymousClassMethodCount" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Anonymous inner class with too many methods</problem_class>
+  <description>Anonymous inner class with too many methods (method count = 2) #loc</description>
+  <highlighted_element>MouseAdapter</highlighted_element>
+  <language>JAVA</language>
+  <offset>33</offset>
+  <length>12</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 29/student 29 (1).java</file>
+  <line>74</line>
+  <module>codeSmellsWork</module>
+  <package>counter</package>
+  <entry_point TYPE="class" FQNAME="counter.SimpleCounter$3" />
+  <problem_class id="AnonymousClassMethodCount" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Anonymous inner class with too many methods</problem_class>
+  <description>Anonymous inner class with too many methods (method count = 2) #loc</description>
+  <highlighted_element>MouseAdapter</highlighted_element>
+  <language>JAVA</language>
+  <offset>35</offset>
+  <length>12</length>
+</problem>
+</problems>

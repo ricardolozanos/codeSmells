@@ -1,0 +1,15 @@
+<problems>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 24/student 24 (3).java</file>
+  <line>63</line>
+  <module>codeSmellsWork</module>
+  <package>noapplet.example</package>
+  <entry_point TYPE="method" FQNAME="noapplet.example.BouncingBall void paintComponent(java.awt.Graphics g)" />
+  <problem_class id="RedundantStringFormatCall" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Redundant call to 'String.format()'</problem_class>
+  <description>Redundant call to &lt;code&gt;format()&lt;/code&gt; #loc</description>
+  <highlighted_element>format</highlighted_element>
+  <language>JAVA</language>
+  <offset>28</offset>
+  <length>6</length>
+</problem>
+</problems>

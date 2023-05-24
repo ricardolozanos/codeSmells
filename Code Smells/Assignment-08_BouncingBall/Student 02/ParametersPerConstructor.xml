@@ -1,0 +1,28 @@
+<problems>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 02/student 02 (2).java</file>
+  <line>12</line>
+  <module>codeSmellsWork</module>
+  <package>noapplet.example</package>
+  <entry_point TYPE="method" FQNAME="noapplet.example.Ball Ball(java.awt.Color color, int radius, int x, int y, int dx, int dy)" />
+  <problem_class id="ParametersPerConstructor" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Constructor with too many parameters</problem_class>
+  <description>&lt;code&gt;Ball()&lt;/code&gt; has too many parameters (num parameters = 6) #loc</description>
+  <highlighted_element>Ball</highlighted_element>
+  <language>JAVA</language>
+  <offset>14</offset>
+  <length>4</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 02/student 02 (4).java</file>
+  <line>7</line>
+  <module>codeSmellsWork</module>
+  <package>noapplet.example</package>
+  <entry_point TYPE="method" FQNAME="noapplet.example.CircleBall CircleBall(java.awt.Color color, int radius, int x, int y, int dx, int dy)" />
+  <problem_class id="ParametersPerConstructor" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Constructor with too many parameters</problem_class>
+  <description>&lt;code&gt;CircleBall()&lt;/code&gt; has too many parameters (num parameters = 6) #loc</description>
+  <highlighted_element>CircleBall</highlighted_element>
+  <language>JAVA</language>
+  <offset>14</offset>
+  <length>10</length>
+</problem>
+</problems>

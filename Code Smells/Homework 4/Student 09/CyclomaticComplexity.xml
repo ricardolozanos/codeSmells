@@ -1,0 +1,15 @@
+<problems>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 09/student 09 (1).java</file>
+  <line>49</line>
+  <module>codeSmellsWork</module>
+  <package>OmokBoard</package>
+  <entry_point TYPE="method" FQNAME="OmokBoard.Board boolean hasWon(player p)" />
+  <problem_class id="CyclomaticComplexity" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Overly complex method</problem_class>
+  <description>Overly complex method &lt;code&gt;hasWon()&lt;/code&gt; (cyclomatic complexity = 29) #loc</description>
+  <highlighted_element>hasWon</highlighted_element>
+  <language>JAVA</language>
+  <offset>19</offset>
+  <length>6</length>
+</problem>
+</problems>

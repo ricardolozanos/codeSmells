@@ -1,0 +1,41 @@
+<problems>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 25/Student 25.java</file>
+  <line>15</line>
+  <module>codeSmellsWork</module>
+  <package>&lt;default&gt;</package>
+  <entry_point TYPE="class" FQNAME="SolarSystem.Sun" />
+  <problem_class id="InnerClassMayBeStatic" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Inner class may be 'static'</problem_class>
+  <description>Inner class &lt;code&gt;Sun&lt;/code&gt; may be 'static' #loc</description>
+  <highlighted_element>Sun</highlighted_element>
+  <language>JAVA</language>
+  <offset>18</offset>
+  <length>3</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 25/Student 25.java</file>
+  <line>35</line>
+  <module>codeSmellsWork</module>
+  <package>&lt;default&gt;</package>
+  <entry_point TYPE="class" FQNAME="SolarSystem.Planet" />
+  <problem_class id="InnerClassMayBeStatic" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Inner class may be 'static'</problem_class>
+  <description>Inner class &lt;code&gt;Planet&lt;/code&gt; may be 'static' #loc</description>
+  <highlighted_element>Planet</highlighted_element>
+  <language>JAVA</language>
+  <offset>18</offset>
+  <length>6</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 25/Student 25.java</file>
+  <line>63</line>
+  <module>codeSmellsWork</module>
+  <package>&lt;default&gt;</package>
+  <entry_point TYPE="class" FQNAME="SolarSystem.Moon" />
+  <problem_class id="InnerClassMayBeStatic" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Inner class may be 'static'</problem_class>
+  <description>Inner class &lt;code&gt;Moon&lt;/code&gt; may be 'static' #loc</description>
+  <highlighted_element>Moon</highlighted_element>
+  <language>JAVA</language>
+  <offset>18</offset>
+  <length>4</length>
+</problem>
+</problems>

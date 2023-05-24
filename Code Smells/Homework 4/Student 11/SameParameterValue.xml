@@ -1,0 +1,34 @@
+<problems>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 11/student 11 (2).java</file>
+  <line>95</line>
+  <module>codeSmellsWork</module>
+  <package>&lt;default&gt;</package>
+  <entry_point TYPE="method" FQNAME="GUIPlay javax.swing.JButton createCustomButton(java.lang.String buttonText, java.lang.String tooltip, java.lang.String filepath)" />
+  <problem_class id="SameParameterValue" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Method parameter is always the same value</problem_class>
+  <hints>
+    <hint value="buttonText null" />
+  </hints>
+  <description>Actual value of parameter &lt;code&gt;buttonText&lt;/code&gt; is always 'null'</description>
+  <highlighted_element>buttonText</highlighted_element>
+  <language>JAVA</language>
+  <offset>48</offset>
+  <length>10</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 11/student 11 (8).java</file>
+  <line>6</line>
+  <module>codeSmellsWork</module>
+  <package>&lt;default&gt;</package>
+  <entry_point TYPE="method" FQNAME="BotPlayer BotPlayer(java.lang.String name)" />
+  <problem_class id="SameParameterValue" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Method parameter is always the same value</problem_class>
+  <hints>
+    <hint value="name &quot;Bot&quot;" />
+  </hints>
+  <description>Actual value of parameter &lt;code&gt;name&lt;/code&gt; is always 'Bot'</description>
+  <highlighted_element>name</highlighted_element>
+  <language>JAVA</language>
+  <offset>21</offset>
+  <length>4</length>
+</problem>
+</problems>

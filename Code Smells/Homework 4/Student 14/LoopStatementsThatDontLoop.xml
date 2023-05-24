@@ -1,0 +1,28 @@
+<problems>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 14/student 14 (2).java</file>
+  <line>315</line>
+  <module>codeSmellsWork</module>
+  <package>game</package>
+  <entry_point TYPE="method" FQNAME="game.board int checkud(int lookX, int lookY, java.lang.String[] cords, int rowsize, int axis, int dir, java.lang.String token)" />
+  <problem_class id="LoopStatementsThatDontLoop" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Loop statement that does not loop</problem_class>
+  <description>&lt;code&gt;while&lt;/code&gt; statement does not loop #loc</description>
+  <highlighted_element>while</highlighted_element>
+  <language>JAVA</language>
+  <offset>8</offset>
+  <length>5</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 14/student 14 (2).java</file>
+  <line>335</line>
+  <module>codeSmellsWork</module>
+  <package>game</package>
+  <entry_point TYPE="method" FQNAME="game.board int checkdiag(int lookX, int lookY, java.lang.String[] cords, int rowsize, int dir, int mod, java.lang.String token)" />
+  <problem_class id="LoopStatementsThatDontLoop" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Loop statement that does not loop</problem_class>
+  <description>&lt;code&gt;while&lt;/code&gt; statement does not loop #loc</description>
+  <highlighted_element>while</highlighted_element>
+  <language>JAVA</language>
+  <offset>8</offset>
+  <length>5</length>
+</problem>
+</problems>

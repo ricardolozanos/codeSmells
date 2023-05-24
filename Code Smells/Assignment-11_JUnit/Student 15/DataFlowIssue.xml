@@ -1,0 +1,15 @@
+<problems>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 15/student 15 (9).java</file>
+  <line>102</line>
+  <module>codeSmellsWork</module>
+  <package>&lt;default&gt;</package>
+  <entry_point TYPE="method" FQNAME="GameBoard int[][] buildBoardMatrix()" />
+  <problem_class id="DataFlowIssue" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Nullability and data flow problems</problem_class>
+  <description>Condition &lt;code&gt;puckBoard.get(i).get(j).getOwner() instanceof BotPlayer&lt;/code&gt; is redundant and can be replaced with a null check</description>
+  <highlighted_element>puckBoard.get(i).get(j).getOwner() instanceof BotPlayer</highlighted_element>
+  <language>JAVA</language>
+  <offset>31</offset>
+  <length>55</length>
+</problem>
+</problems>

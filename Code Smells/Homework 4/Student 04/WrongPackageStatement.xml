@@ -1,0 +1,132 @@
+<problems>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 04/student 04 (1).java</file>
+  <line>1</line>
+  <module>codeSmellsWork</module>
+  <package>HW4_GUI.console</package>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/src/Student 04/student 04 (1).java" />
+  <problem_class id="WrongPackageStatement" severity="ERROR" attribute_key="ERRORS_ATTRIBUTES">Wrong package statement</problem_class>
+  <description>Package name 'HW4_GUI.console' does not correspond to the file path 'Student 04'</description>
+  <highlighted_element>HW4_GUI.console</highlighted_element>
+  <language>JAVA</language>
+  <offset>8</offset>
+  <length>15</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 04/student 04 (10).java</file>
+  <line>1</line>
+  <module>codeSmellsWork</module>
+  <package>HW4_GUI.console</package>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/src/Student 04/student 04 (10).java" />
+  <problem_class id="WrongPackageStatement" severity="ERROR" attribute_key="ERRORS_ATTRIBUTES">Wrong package statement</problem_class>
+  <description>Package name 'HW4_GUI.console' does not correspond to the file path 'Student 04'</description>
+  <highlighted_element>HW4_GUI.console</highlighted_element>
+  <language>JAVA</language>
+  <offset>8</offset>
+  <length>15</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 04/student 04 (2).java</file>
+  <line>2</line>
+  <module>codeSmellsWork</module>
+  <package>HW4_GUI</package>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/src/Student 04/student 04 (2).java" />
+  <problem_class id="WrongPackageStatement" severity="ERROR" attribute_key="ERRORS_ATTRIBUTES">Wrong package statement</problem_class>
+  <description>Package name 'HW4_GUI' does not correspond to the file path 'Student 04'</description>
+  <highlighted_element>HW4_GUI</highlighted_element>
+  <language>JAVA</language>
+  <offset>8</offset>
+  <length>7</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 04/student 04 (3).java</file>
+  <line>1</line>
+  <module>codeSmellsWork</module>
+  <package>HW4_GUI</package>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/src/Student 04/student 04 (3).java" />
+  <problem_class id="WrongPackageStatement" severity="ERROR" attribute_key="ERRORS_ATTRIBUTES">Wrong package statement</problem_class>
+  <description>Package name 'HW4_GUI' does not correspond to the file path 'Student 04'</description>
+  <highlighted_element>HW4_GUI</highlighted_element>
+  <language>JAVA</language>
+  <offset>8</offset>
+  <length>7</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 04/student 04 (4).java</file>
+  <line>1</line>
+  <module>codeSmellsWork</module>
+  <package>HW4_GUI.console</package>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/src/Student 04/student 04 (4).java" />
+  <problem_class id="WrongPackageStatement" severity="ERROR" attribute_key="ERRORS_ATTRIBUTES">Wrong package statement</problem_class>
+  <description>Package name 'HW4_GUI.console' does not correspond to the file path 'Student 04'</description>
+  <highlighted_element>HW4_GUI.console</highlighted_element>
+  <language>JAVA</language>
+  <offset>8</offset>
+  <length>15</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 04/student 04 (5).java</file>
+  <line>1</line>
+  <module>codeSmellsWork</module>
+  <package>HW4_GUI.console</package>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/src/Student 04/student 04 (5).java" />
+  <problem_class id="WrongPackageStatement" severity="ERROR" attribute_key="ERRORS_ATTRIBUTES">Wrong package statement</problem_class>
+  <description>Package name 'HW4_GUI.console' does not correspond to the file path 'Student 04'</description>
+  <highlighted_element>HW4_GUI.console</highlighted_element>
+  <language>JAVA</language>
+  <offset>8</offset>
+  <length>15</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 04/student 04 (6).java</file>
+  <line>1</line>
+  <module>codeSmellsWork</module>
+  <package>HW4_GUI.console</package>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/src/Student 04/student 04 (6).java" />
+  <problem_class id="WrongPackageStatement" severity="ERROR" attribute_key="ERRORS_ATTRIBUTES">Wrong package statement</problem_class>
+  <description>Package name 'HW4_GUI.console' does not correspond to the file path 'Student 04'</description>
+  <highlighted_element>HW4_GUI.console</highlighted_element>
+  <language>JAVA</language>
+  <offset>8</offset>
+  <length>15</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 04/student 04 (7).java</file>
+  <line>1</line>
+  <module>codeSmellsWork</module>
+  <package>HW4_GUI.console</package>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/src/Student 04/student 04 (7).java" />
+  <problem_class id="WrongPackageStatement" severity="ERROR" attribute_key="ERRORS_ATTRIBUTES">Wrong package statement</problem_class>
+  <description>Package name 'HW4_GUI.console' does not correspond to the file path 'Student 04'</description>
+  <highlighted_element>HW4_GUI.console</highlighted_element>
+  <language>JAVA</language>
+  <offset>8</offset>
+  <length>15</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 04/student 04 (8).java</file>
+  <line>1</line>
+  <module>codeSmellsWork</module>
+  <package>HW4_GUI</package>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/src/Student 04/student 04 (8).java" />
+  <problem_class id="WrongPackageStatement" severity="ERROR" attribute_key="ERRORS_ATTRIBUTES">Wrong package statement</problem_class>
+  <description>Package name 'HW4_GUI' does not correspond to the file path 'Student 04'</description>
+  <highlighted_element>HW4_GUI</highlighted_element>
+  <language>JAVA</language>
+  <offset>8</offset>
+  <length>7</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 04/student 04 (9).java</file>
+  <line>1</line>
+  <module>codeSmellsWork</module>
+  <package>HW4_GUI</package>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/src/Student 04/student 04 (9).java" />
+  <problem_class id="WrongPackageStatement" severity="ERROR" attribute_key="ERRORS_ATTRIBUTES">Wrong package statement</problem_class>
+  <description>Package name 'HW4_GUI' does not correspond to the file path 'Student 04'</description>
+  <highlighted_element>HW4_GUI</highlighted_element>
+  <language>JAVA</language>
+  <offset>8</offset>
+  <length>7</length>
+</problem>
+</problems>

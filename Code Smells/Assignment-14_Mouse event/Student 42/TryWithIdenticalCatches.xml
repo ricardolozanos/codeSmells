@@ -1,0 +1,41 @@
+<problems>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 42/Student 42.java</file>
+  <line>51</line>
+  <module>codeSmellsWork</module>
+  <package>noapplet.Counter</package>
+  <entry_point TYPE="method" FQNAME="noapplet.Counter.Counter void main(java.lang.String[] args)" />
+  <problem_class id="TryWithIdenticalCatches" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Identical 'catch' branches in 'try' statement</problem_class>
+  <description>'catch' branch identical to 'ClassNotFoundException' branch #loc</description>
+  <highlighted_element>catch (InstantiationException e)</highlighted_element>
+  <language>JAVA</language>
+  <offset>10</offset>
+  <length>32</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 42/Student 42.java</file>
+  <line>53</line>
+  <module>codeSmellsWork</module>
+  <package>noapplet.Counter</package>
+  <entry_point TYPE="method" FQNAME="noapplet.Counter.Counter void main(java.lang.String[] args)" />
+  <problem_class id="TryWithIdenticalCatches" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Identical 'catch' branches in 'try' statement</problem_class>
+  <description>'catch' branch identical to 'ClassNotFoundException' branch #loc</description>
+  <highlighted_element>catch (IllegalAccessException e)</highlighted_element>
+  <language>JAVA</language>
+  <offset>10</offset>
+  <length>32</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 42/Student 42.java</file>
+  <line>55</line>
+  <module>codeSmellsWork</module>
+  <package>noapplet.Counter</package>
+  <entry_point TYPE="method" FQNAME="noapplet.Counter.Counter void main(java.lang.String[] args)" />
+  <problem_class id="TryWithIdenticalCatches" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Identical 'catch' branches in 'try' statement</problem_class>
+  <description>'catch' branch identical to 'ClassNotFoundException' branch #loc</description>
+  <highlighted_element>catch (UnsupportedLookAndFeelException e)</highlighted_element>
+  <language>JAVA</language>
+  <offset>10</offset>
+  <length>41</length>
+</problem>
+</problems>

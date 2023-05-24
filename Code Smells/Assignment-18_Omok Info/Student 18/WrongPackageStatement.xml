@@ -1,0 +1,15 @@
+<problems>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 18/Student 18.java</file>
+  <line>1</line>
+  <module>codeSmellsWork</module>
+  <package>webServerExcercise</package>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/src/Student 18/Student 18.java" />
+  <problem_class id="WrongPackageStatement" severity="ERROR" attribute_key="ERRORS_ATTRIBUTES">Wrong package statement</problem_class>
+  <description>Package name 'webServerExcercise' does not correspond to the file path 'Student 18'</description>
+  <highlighted_element>webServerExcercise</highlighted_element>
+  <language>JAVA</language>
+  <offset>8</offset>
+  <length>18</length>
+</problem>
+</problems>

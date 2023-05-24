@@ -1,0 +1,15 @@
+<problems>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 08/student 08 (3).java</file>
+  <line>34</line>
+  <module>codeSmellsWork</module>
+  <package>&lt;default&gt;</package>
+  <entry_point TYPE="method" FQNAME="MultiPlotter double func(double x)" />
+  <problem_class id="ThrowableNotThrown" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">'Throwable' not thrown</problem_class>
+  <description>Checked exception instance &lt;code&gt;Exception&lt;/code&gt; is not thrown #loc</description>
+  <highlighted_element>Exception</highlighted_element>
+  <language>JAVA</language>
+  <offset>12</offset>
+  <length>9</length>
+</problem>
+</problems>

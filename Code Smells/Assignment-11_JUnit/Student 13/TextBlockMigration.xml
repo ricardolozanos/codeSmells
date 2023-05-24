@@ -1,0 +1,67 @@
+<problems>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 13/student 13 (3).java</file>
+  <line>33</line>
+  <module>codeSmellsWork</module>
+  <package>&lt;default&gt;</package>
+  <entry_point TYPE="method" FQNAME="UserInterfaceTest void testDrawBoard()" />
+  <problem_class id="TextBlockMigration" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Text block can be used</problem_class>
+  <description>Concatenation can be replaced with text block</description>
+  <highlighted_element>\n</highlighted_element>
+  <language>JAVA</language>
+  <offset>41</offset>
+  <length>2</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 13/student 13 (3).java</file>
+  <line>44</line>
+  <module>codeSmellsWork</module>
+  <package>&lt;default&gt;</package>
+  <entry_point TYPE="method" FQNAME="UserInterfaceTest void testGetStonePlacement()" />
+  <problem_class id="TextBlockMigration" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Text block can be used</problem_class>
+  <description>Concatenation can be replaced with text block</description>
+  <highlighted_element>\n</highlighted_element>
+  <language>JAVA</language>
+  <offset>107</offset>
+  <length>2</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 13/student 13 (3).java</file>
+  <line>67</line>
+  <module>codeSmellsWork</module>
+  <package>&lt;default&gt;</package>
+  <entry_point TYPE="method" FQNAME="UserInterfaceTest void testGetGameMode()" />
+  <problem_class id="TextBlockMigration" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Text block can be used</problem_class>
+  <description>Concatenation can be replaced with text block</description>
+  <highlighted_element>\n</highlighted_element>
+  <language>JAVA</language>
+  <offset>61</offset>
+  <length>2</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 13/student 13 (3).java</file>
+  <line>96</line>
+  <module>codeSmellsWork</module>
+  <package>&lt;default&gt;</package>
+  <entry_point TYPE="method" FQNAME="UserInterfaceTest void testDrawVictoryScreen()" />
+  <problem_class id="TextBlockMigration" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Text block can be used</problem_class>
+  <description>Concatenation can be replaced with text block</description>
+  <highlighted_element>\n</highlighted_element>
+  <language>JAVA</language>
+  <offset>48</offset>
+  <length>2</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 13/student 13 (3).java</file>
+  <line>107</line>
+  <module>codeSmellsWork</module>
+  <package>&lt;default&gt;</package>
+  <entry_point TYPE="method" FQNAME="UserInterfaceTest void testDrawDefeatScreen()" />
+  <problem_class id="TextBlockMigration" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Text block can be used</problem_class>
+  <description>Concatenation can be replaced with text block</description>
+  <highlighted_element>\n</highlighted_element>
+  <language>JAVA</language>
+  <offset>73</offset>
+  <length>2</length>
+</problem>
+</problems>

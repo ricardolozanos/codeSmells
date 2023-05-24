@@ -1,0 +1,15 @@
+<problems>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 21/student 21 (1).java</file>
+  <line>27</line>
+  <module>codeSmellsWork</module>
+  <package>noapplet.example</package>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/src/Student 21/student 21 (1).java" />
+  <problem_class id="DanglingJavadoc" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Dangling Javadoc comment</problem_class>
+  <description>Dangling Javadoc comment #loc</description>
+  <highlighted_element>/**</highlighted_element>
+  <language>JAVA</language>
+  <offset>0</offset>
+  <length>3</length>
+</problem>
+</problems>

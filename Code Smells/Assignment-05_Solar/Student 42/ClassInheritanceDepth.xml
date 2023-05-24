@@ -1,0 +1,54 @@
+<problems>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 42/student 42 (4).java</file>
+  <line>8</line>
+  <module>codeSmellsWork</module>
+  <package>noapplet.solar</package>
+  <entry_point TYPE="class" FQNAME="noapplet.solar.Sun" />
+  <problem_class id="ClassInheritanceDepth" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Class too deep in inheritance tree</problem_class>
+  <description>&lt;code&gt;Sun&lt;/code&gt; is too deep in inheritance tree (inheritance depth = 3) #loc</description>
+  <highlighted_element>Sun</highlighted_element>
+  <language>JAVA</language>
+  <offset>13</offset>
+  <length>3</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 42/student 42 (6).java</file>
+  <line>4</line>
+  <module>codeSmellsWork</module>
+  <package>noapplet.solar</package>
+  <entry_point TYPE="class" FQNAME="noapplet.solar.Main" />
+  <problem_class id="ClassInheritanceDepth" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Class too deep in inheritance tree</problem_class>
+  <description>&lt;code&gt;Main&lt;/code&gt; is too deep in inheritance tree (inheritance depth = 3) #loc</description>
+  <highlighted_element>Main</highlighted_element>
+  <language>JAVA</language>
+  <offset>13</offset>
+  <length>4</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 42/student 42 (7).java</file>
+  <line>7</line>
+  <module>codeSmellsWork</module>
+  <package>noapplet.solar</package>
+  <entry_point TYPE="class" FQNAME="noapplet.solar.Moon" />
+  <problem_class id="ClassInheritanceDepth" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Class too deep in inheritance tree</problem_class>
+  <description>&lt;code&gt;Moon&lt;/code&gt; is too deep in inheritance tree (inheritance depth = 3) #loc</description>
+  <highlighted_element>Moon</highlighted_element>
+  <language>JAVA</language>
+  <offset>13</offset>
+  <length>4</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 42/student 42 (9).java</file>
+  <line>6</line>
+  <module>codeSmellsWork</module>
+  <package>noapplet.solar</package>
+  <entry_point TYPE="class" FQNAME="noapplet.solar.Planet" />
+  <problem_class id="ClassInheritanceDepth" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Class too deep in inheritance tree</problem_class>
+  <description>&lt;code&gt;Planet&lt;/code&gt; is too deep in inheritance tree (inheritance depth = 3) #loc</description>
+  <highlighted_element>Planet</highlighted_element>
+  <language>JAVA</language>
+  <offset>13</offset>
+  <length>6</length>
+</problem>
+</problems>

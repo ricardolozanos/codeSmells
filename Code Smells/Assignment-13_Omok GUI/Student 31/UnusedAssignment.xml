@@ -1,0 +1,15 @@
+<problems>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 31/student 31 (1).java</file>
+  <line>62</line>
+  <module>codeSmellsWork</module>
+  <package>noapplet.example</package>
+  <entry_point TYPE="method" FQNAME="noapplet.example.OmokGUITest$1 void actionPerformed(java.awt.event.ActionEvent e)" />
+  <problem_class id="UnusedAssignment" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Unused assignment</problem_class>
+  <description>Variable &lt;code&gt;option&lt;/code&gt; initializer &lt;code&gt;&quot; &quot;&lt;/code&gt; is redundant</description>
+  <highlighted_element>&quot; &quot;</highlighted_element>
+  <language>JAVA</language>
+  <offset>32</offset>
+  <length>3</length>
+</problem>
+</problems>

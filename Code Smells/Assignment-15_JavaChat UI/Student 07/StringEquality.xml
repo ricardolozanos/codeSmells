@@ -1,0 +1,41 @@
+<problems>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 07/Student 07.java</file>
+  <line>97</line>
+  <module>codeSmellsWork</module>
+  <package>noapplet.example</package>
+  <entry_point TYPE="method" FQNAME="noapplet.example.chat void configureGui()" />
+  <problem_class id="StringEquality" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">String comparison using '==', instead of 'equals()'</problem_class>
+  <description>String values are compared using &lt;code&gt;==&lt;/code&gt;, not 'equals()' #loc</description>
+  <highlighted_element>==</highlighted_element>
+  <language>JAVA</language>
+  <offset>39</offset>
+  <length>2</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 07/Student 07.java</file>
+  <line>106</line>
+  <module>codeSmellsWork</module>
+  <package>noapplet.example</package>
+  <entry_point TYPE="method" FQNAME="noapplet.example.chat void configureGui()" />
+  <problem_class id="StringEquality" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">String comparison using '==', instead of 'equals()'</problem_class>
+  <description>String values are compared using &lt;code&gt;==&lt;/code&gt;, not 'equals()' #loc</description>
+  <highlighted_element>==</highlighted_element>
+  <language>JAVA</language>
+  <offset>22</offset>
+  <length>2</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 07/Student 07.java</file>
+  <line>108</line>
+  <module>codeSmellsWork</module>
+  <package>noapplet.example</package>
+  <entry_point TYPE="method" FQNAME="noapplet.example.chat void configureGui()" />
+  <problem_class id="StringEquality" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">String comparison using '==', instead of 'equals()'</problem_class>
+  <description>String values are compared using &lt;code&gt;==&lt;/code&gt;, not 'equals()' #loc</description>
+  <highlighted_element>==</highlighted_element>
+  <language>JAVA</language>
+  <offset>46</offset>
+  <length>2</length>
+</problem>
+</problems>

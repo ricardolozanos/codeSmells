@@ -1,0 +1,15 @@
+<problems>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 04/student 04 (3).java</file>
+  <line>57</line>
+  <module>codeSmellsWork</module>
+  <package>HW4_GUI</package>
+  <entry_point TYPE="method" FQNAME="HW4_GUI.BoardPanel void setLabel(java.lang.String text)" />
+  <problem_class id="JavadocReference" severity="ERROR" attribute_key="WRONG_REFERENCES_ATTRIBUTES">Declaration has problems in Javadoc references</problem_class>
+  <description>Cannot resolve symbol &lt;code&gt;label&lt;/code&gt;</description>
+  <highlighted_element>label</highlighted_element>
+  <language>JAVA</language>
+  <offset>14</offset>
+  <length>5</length>
+</problem>
+</problems>

@@ -1,0 +1,41 @@
+<problems>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 45/student 45 (4).java</file>
+  <line>37</line>
+  <module>codeSmellsWork</module>
+  <package>noapplet.example.drawingboard</package>
+  <entry_point TYPE="method" FQNAME="noapplet.example.drawingboard.Triangle void main(java.lang.String[] args)" />
+  <problem_class id="ChainedMethodCall" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Chained method calls</problem_class>
+  <description>Chained method call &lt;code&gt;run()&lt;/code&gt; #loc</description>
+  <highlighted_element>run</highlighted_element>
+  <language>JAVA</language>
+  <offset>47</offset>
+  <length>3</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 45/student 45 (5).java</file>
+  <line>31</line>
+  <module>codeSmellsWork</module>
+  <package>noapplet.example.drawingboard</package>
+  <entry_point TYPE="method" FQNAME="noapplet.example.drawingboard.Circle void main(java.lang.String[] args)" />
+  <problem_class id="ChainedMethodCall" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Chained method calls</problem_class>
+  <description>Chained method call &lt;code&gt;run()&lt;/code&gt; #loc</description>
+  <highlighted_element>run</highlighted_element>
+  <language>JAVA</language>
+  <offset>44</offset>
+  <length>3</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 45/student 45 (7).java</file>
+  <line>24</line>
+  <module>codeSmellsWork</module>
+  <package>noapplet.example.drawingboard</package>
+  <entry_point TYPE="method" FQNAME="noapplet.example.drawingboard.Rectangle void main(java.lang.String[] args)" />
+  <problem_class id="ChainedMethodCall" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Chained method calls</problem_class>
+  <description>Chained method call &lt;code&gt;run()&lt;/code&gt; #loc</description>
+  <highlighted_element>run</highlighted_element>
+  <language>JAVA</language>
+  <offset>49</offset>
+  <length>3</length>
+</problem>
+</problems>

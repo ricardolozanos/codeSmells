@@ -1,0 +1,15 @@
+<problems>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 02/student 02 (1).java</file>
+  <line>71</line>
+  <module>codeSmellsWork</module>
+  <package>noapplet.example</package>
+  <entry_point TYPE="field" FQNAME="noapplet.example.BouncingBallAnimation bounceable" />
+  <problem_class id="MismatchedCollectionQueryUpdate" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Mismatched query and update of collection</problem_class>
+  <description>Contents of collection &lt;code&gt;bounceable&lt;/code&gt; are updated, but never queried #loc</description>
+  <highlighted_element>bounceable</highlighted_element>
+  <language>JAVA</language>
+  <offset>39</offset>
+  <length>10</length>
+</problem>
+</problems>

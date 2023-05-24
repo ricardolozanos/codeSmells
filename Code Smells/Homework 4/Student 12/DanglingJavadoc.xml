@@ -1,0 +1,145 @@
+<problems>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 12/student 12 (6).java</file>
+  <line>11</line>
+  <module>codeSmellsWork</module>
+  <package>&lt;default&gt;</package>
+  <entry_point TYPE="method" FQNAME="ComputerPlayer boolean isComputer()" />
+  <problem_class id="DanglingJavadoc" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Dangling Javadoc comment</problem_class>
+  <description>Dangling Javadoc comment #loc</description>
+  <highlighted_element>/**</highlighted_element>
+  <language>JAVA</language>
+  <offset>4</offset>
+  <length>3</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 12/student 12 (6).java</file>
+  <line>20</line>
+  <module>codeSmellsWork</module>
+  <package>&lt;default&gt;</package>
+  <entry_point TYPE="method" FQNAME="ComputerPlayer int[] getNextMove(Player[][] board)" />
+  <problem_class id="DanglingJavadoc" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Dangling Javadoc comment</problem_class>
+  <description>Dangling Javadoc comment #loc</description>
+  <highlighted_element>/**</highlighted_element>
+  <language>JAVA</language>
+  <offset>4</offset>
+  <length>3</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 12/student 12 (7).java</file>
+  <line>85</line>
+  <module>codeSmellsWork</module>
+  <package>&lt;default&gt;</package>
+  <entry_point TYPE="method" FQNAME="Controller void play()" />
+  <problem_class id="DanglingJavadoc" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Dangling Javadoc comment</problem_class>
+  <description>Dangling Javadoc comment #loc</description>
+  <highlighted_element>/**</highlighted_element>
+  <language>JAVA</language>
+  <offset>4</offset>
+  <length>3</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 12/student 12 (7).java</file>
+  <line>104</line>
+  <module>codeSmellsWork</module>
+  <package>&lt;default&gt;</package>
+  <entry_point TYPE="method" FQNAME="Controller boolean moveSelected(int x, int y)" />
+  <problem_class id="DanglingJavadoc" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Dangling Javadoc comment</problem_class>
+  <description>Dangling Javadoc comment #loc</description>
+  <highlighted_element>/**</highlighted_element>
+  <language>JAVA</language>
+  <offset>4</offset>
+  <length>3</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 12/student 12 (7).java</file>
+  <line>128</line>
+  <module>codeSmellsWork</module>
+  <package>&lt;default&gt;</package>
+  <entry_point TYPE="method" FQNAME="Controller void about()" />
+  <problem_class id="DanglingJavadoc" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Dangling Javadoc comment</problem_class>
+  <description>Dangling Javadoc comment #loc</description>
+  <highlighted_element>/**</highlighted_element>
+  <language>JAVA</language>
+  <offset>4</offset>
+  <length>3</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 12/student 12 (7).java</file>
+  <line>136</line>
+  <module>codeSmellsWork</module>
+  <package>&lt;default&gt;</package>
+  <entry_point TYPE="method" FQNAME="Controller void endGame()" />
+  <problem_class id="DanglingJavadoc" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Dangling Javadoc comment</problem_class>
+  <description>Dangling Javadoc comment #loc</description>
+  <highlighted_element>/**</highlighted_element>
+  <language>JAVA</language>
+  <offset>4</offset>
+  <length>3</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 12/student 12 (7).java</file>
+  <line>147</line>
+  <module>codeSmellsWork</module>
+  <package>&lt;default&gt;</package>
+  <entry_point TYPE="method" FQNAME="Controller boolean gameStart()" />
+  <problem_class id="DanglingJavadoc" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Dangling Javadoc comment</problem_class>
+  <description>Dangling Javadoc comment #loc</description>
+  <highlighted_element>/**</highlighted_element>
+  <language>JAVA</language>
+  <offset>4</offset>
+  <length>3</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 12/student 12 (9).java</file>
+  <line>28</line>
+  <module>codeSmellsWork</module>
+  <package>&lt;default&gt;</package>
+  <entry_point TYPE="method" FQNAME="HumanPlayer java.lang.String name()" />
+  <problem_class id="DanglingJavadoc" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Dangling Javadoc comment</problem_class>
+  <description>Dangling Javadoc comment #loc</description>
+  <highlighted_element>/**</highlighted_element>
+  <language>JAVA</language>
+  <offset>4</offset>
+  <length>3</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 12/student 12 (9).java</file>
+  <line>36</line>
+  <module>codeSmellsWork</module>
+  <package>&lt;default&gt;</package>
+  <entry_point TYPE="method" FQNAME="HumanPlayer int id()" />
+  <problem_class id="DanglingJavadoc" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Dangling Javadoc comment</problem_class>
+  <description>Dangling Javadoc comment #loc</description>
+  <highlighted_element>/**</highlighted_element>
+  <language>JAVA</language>
+  <offset>5</offset>
+  <length>3</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 12/student 12 (9).java</file>
+  <line>45</line>
+  <module>codeSmellsWork</module>
+  <package>&lt;default&gt;</package>
+  <entry_point TYPE="method" FQNAME="HumanPlayer int[] getNextMove(Player[][] board)" />
+  <problem_class id="DanglingJavadoc" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Dangling Javadoc comment</problem_class>
+  <description>Dangling Javadoc comment #loc</description>
+  <highlighted_element>/**</highlighted_element>
+  <language>JAVA</language>
+  <offset>4</offset>
+  <length>3</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 12/student 12 (9).java</file>
+  <line>55</line>
+  <module>codeSmellsWork</module>
+  <package>&lt;default&gt;</package>
+  <entry_point TYPE="method" FQNAME="HumanPlayer boolean isComputer()" />
+  <problem_class id="DanglingJavadoc" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Dangling Javadoc comment</problem_class>
+  <description>Dangling Javadoc comment #loc</description>
+  <highlighted_element>/**</highlighted_element>
+  <language>JAVA</language>
+  <offset>4</offset>
+  <length>3</length>
+</problem>
+</problems>

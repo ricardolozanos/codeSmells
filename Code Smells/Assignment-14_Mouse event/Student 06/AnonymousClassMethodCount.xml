@@ -1,0 +1,28 @@
+<problems>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 06/Student 06.java</file>
+  <line>41</line>
+  <module>codeSmellsWork</module>
+  <package>noapplet.example</package>
+  <entry_point TYPE="class" FQNAME="noapplet.example.Counter$1" />
+  <problem_class id="AnonymousClassMethodCount" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Anonymous inner class with too many methods</problem_class>
+  <description>Anonymous inner class with too many methods (method count = 2) #loc</description>
+  <highlighted_element>MouseAdapter</highlighted_element>
+  <language>JAVA</language>
+  <offset>39</offset>
+  <length>12</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 06/Student 06.java</file>
+  <line>55</line>
+  <module>codeSmellsWork</module>
+  <package>noapplet.example</package>
+  <entry_point TYPE="class" FQNAME="noapplet.example.Counter$2" />
+  <problem_class id="AnonymousClassMethodCount" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Anonymous inner class with too many methods</problem_class>
+  <description>Anonymous inner class with too many methods (method count = 2) #loc</description>
+  <highlighted_element>MouseAdapter</highlighted_element>
+  <language>JAVA</language>
+  <offset>39</offset>
+  <length>12</length>
+</problem>
+</problems>

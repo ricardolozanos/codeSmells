@@ -1,0 +1,67 @@
+<problems>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 44/student 44 (5).java</file>
+  <line>37</line>
+  <module>codeSmellsWork</module>
+  <package>&lt;default&gt;</package>
+  <entry_point TYPE="method" FQNAME="MainFrame void createMenuBar()" />
+  <problem_class id="DataFlowIssue" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Nullability and data flow problems</problem_class>
+  <description>Argument &lt;code&gt;getClass().getResource(&quot;playImage.png&quot;)&lt;/code&gt; might be null</description>
+  <highlighted_element>getClass().getResource(&quot;playImage.png&quot;)</highlighted_element>
+  <language>JAVA</language>
+  <offset>56</offset>
+  <length>39</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 44/student 44 (5).java</file>
+  <line>38</line>
+  <module>codeSmellsWork</module>
+  <package>&lt;default&gt;</package>
+  <entry_point TYPE="method" FQNAME="MainFrame void createMenuBar()" />
+  <problem_class id="DataFlowIssue" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Nullability and data flow problems</problem_class>
+  <description>Argument &lt;code&gt;getClass().getResource(&quot;questionMark.png&quot;)&lt;/code&gt; might be null</description>
+  <highlighted_element>getClass().getResource(&quot;questionMark.png&quot;)</highlighted_element>
+  <language>JAVA</language>
+  <offset>58</offset>
+  <length>42</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 44/student 44 (5).java</file>
+  <line>39</line>
+  <module>codeSmellsWork</module>
+  <package>&lt;default&gt;</package>
+  <entry_point TYPE="method" FQNAME="MainFrame void createMenuBar()" />
+  <problem_class id="DataFlowIssue" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Nullability and data flow problems</problem_class>
+  <description>Argument &lt;code&gt;getClass().getResource(&quot;exit.png&quot;)&lt;/code&gt; might be null</description>
+  <highlighted_element>getClass().getResource(&quot;exit.png&quot;)</highlighted_element>
+  <language>JAVA</language>
+  <offset>56</offset>
+  <length>34</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 44/student 44 (5).java</file>
+  <line>57</line>
+  <module>codeSmellsWork</module>
+  <package>&lt;default&gt;</package>
+  <entry_point TYPE="method" FQNAME="MainFrame javax.swing.JToolBar createJToolBar()" />
+  <problem_class id="DataFlowIssue" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Nullability and data flow problems</problem_class>
+  <description>Argument &lt;code&gt;getClass().getResource(&quot;playImage.png&quot;)&lt;/code&gt; might be null</description>
+  <highlighted_element>getClass().getResource(&quot;playImage.png&quot;)</highlighted_element>
+  <language>JAVA</language>
+  <offset>58</offset>
+  <length>39</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 44/student 44 (5).java</file>
+  <line>62</line>
+  <module>codeSmellsWork</module>
+  <package>&lt;default&gt;</package>
+  <entry_point TYPE="method" FQNAME="MainFrame javax.swing.JToolBar createJToolBar()" />
+  <problem_class id="DataFlowIssue" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Nullability and data flow problems</problem_class>
+  <description>Argument &lt;code&gt;getClass().getResource(&quot;questionMark.png&quot;)&lt;/code&gt; might be null</description>
+  <highlighted_element>getClass().getResource(&quot;questionMark.png&quot;)</highlighted_element>
+  <language>JAVA</language>
+  <offset>59</offset>
+  <length>42</length>
+</problem>
+</problems>

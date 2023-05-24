@@ -1,0 +1,18 @@
+<problems>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 22/student 22 (1).java</file>
+  <line>142</line>
+  <module>codeSmellsWork</module>
+  <package>&lt;default&gt;</package>
+  <entry_point TYPE="method" FQNAME="ChatDialog void warn(java.lang.String msg)" />
+  <problem_class id="SameParameterValue" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Method parameter is always the same value</problem_class>
+  <hints>
+    <hint value="msg &quot;Could not connect&quot;" />
+  </hints>
+  <description>Actual value of parameter &lt;code&gt;msg&lt;/code&gt; is always 'Could not connect'</description>
+  <highlighted_element>msg</highlighted_element>
+  <language>JAVA</language>
+  <offset>29</offset>
+  <length>3</length>
+</problem>
+</problems>

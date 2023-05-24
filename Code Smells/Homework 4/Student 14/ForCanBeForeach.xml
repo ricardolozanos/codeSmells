@@ -1,0 +1,15 @@
+<problems>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 14/student 14 (4).java</file>
+  <line>60</line>
+  <module>codeSmellsWork</module>
+  <package>game</package>
+  <entry_point TYPE="method" FQNAME="game.conoleUI void drawBoard(omokGame game)" />
+  <problem_class id="ForCanBeForeach" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">'for' loop can be replaced with enhanced for loop</problem_class>
+  <description>&lt;code&gt;for&lt;/code&gt; loop can be replaced with enhanced 'for' #loc</description>
+  <highlighted_element>for</highlighted_element>
+  <language>JAVA</language>
+  <offset>8</offset>
+  <length>3</length>
+</problem>
+</problems>

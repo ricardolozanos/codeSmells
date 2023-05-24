@@ -1,0 +1,158 @@
+<problems>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 34/student 34 (1).java</file>
+  <line>34</line>
+  <module>codeSmellsWork</module>
+  <package>HomeWork2</package>
+  <entry_point TYPE="method" FQNAME="HomeWork2.Board void placeStone(Player player, int x, int y)" />
+  <problem_class id="JavadocDeclaration" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Javadoc declaration problems</problem_class>
+  <description>&lt;code&gt;@param player&lt;/code&gt; tag description is missing</description>
+  <highlighted_element>player</highlighted_element>
+  <language>JAVA</language>
+  <offset>14</offset>
+  <length>6</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 34/student 34 (1).java</file>
+  <line>35</line>
+  <module>codeSmellsWork</module>
+  <package>HomeWork2</package>
+  <entry_point TYPE="method" FQNAME="HomeWork2.Board void placeStone(Player player, int x, int y)" />
+  <problem_class id="JavadocDeclaration" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Javadoc declaration problems</problem_class>
+  <description>&lt;code&gt;@param x&lt;/code&gt; tag description is missing</description>
+  <highlighted_element>x</highlighted_element>
+  <language>JAVA</language>
+  <offset>14</offset>
+  <length>1</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 34/student 34 (1).java</file>
+  <line>36</line>
+  <module>codeSmellsWork</module>
+  <package>HomeWork2</package>
+  <entry_point TYPE="method" FQNAME="HomeWork2.Board void placeStone(Player player, int x, int y)" />
+  <problem_class id="JavadocDeclaration" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Javadoc declaration problems</problem_class>
+  <description>&lt;code&gt;@param y&lt;/code&gt; tag description is missing</description>
+  <highlighted_element>y</highlighted_element>
+  <language>JAVA</language>
+  <offset>14</offset>
+  <length>1</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 34/student 34 (1).java</file>
+  <line>54</line>
+  <module>codeSmellsWork</module>
+  <package>HomeWork2</package>
+  <entry_point TYPE="method" FQNAME="HomeWork2.Board int ValidStone(int x, int y)" />
+  <problem_class id="JavadocDeclaration" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Javadoc declaration problems</problem_class>
+  <description>&lt;code&gt;@param x&lt;/code&gt; tag description is missing</description>
+  <highlighted_element>x</highlighted_element>
+  <language>JAVA</language>
+  <offset>14</offset>
+  <length>1</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 34/student 34 (1).java</file>
+  <line>55</line>
+  <module>codeSmellsWork</module>
+  <package>HomeWork2</package>
+  <entry_point TYPE="method" FQNAME="HomeWork2.Board int ValidStone(int x, int y)" />
+  <problem_class id="JavadocDeclaration" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Javadoc declaration problems</problem_class>
+  <description>&lt;code&gt;@param y&lt;/code&gt; tag description is missing</description>
+  <highlighted_element>y</highlighted_element>
+  <language>JAVA</language>
+  <offset>14</offset>
+  <length>1</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 34/student 34 (1).java</file>
+  <line>56</line>
+  <module>codeSmellsWork</module>
+  <package>HomeWork2</package>
+  <entry_point TYPE="method" FQNAME="HomeWork2.Board int ValidStone(int x, int y)" />
+  <problem_class id="JavadocDeclaration" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Javadoc declaration problems</problem_class>
+  <description>&lt;code&gt;@return&lt;/code&gt; tag description is missing</description>
+  <highlighted_element>@return</highlighted_element>
+  <language>JAVA</language>
+  <offset>7</offset>
+  <length>7</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 34/student 34 (1).java</file>
+  <line>68</line>
+  <module>codeSmellsWork</module>
+  <package>HomeWork2</package>
+  <entry_point TYPE="method" FQNAME="HomeWork2.Board int winCheck(int x, int y, java.lang.Character userChar, int dirX, int dirY)" />
+  <problem_class id="JavadocDeclaration" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Javadoc declaration problems</problem_class>
+  <description>&lt;code&gt;@param x&lt;/code&gt; tag description is missing</description>
+  <highlighted_element>x</highlighted_element>
+  <language>JAVA</language>
+  <offset>14</offset>
+  <length>1</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 34/student 34 (1).java</file>
+  <line>69</line>
+  <module>codeSmellsWork</module>
+  <package>HomeWork2</package>
+  <entry_point TYPE="method" FQNAME="HomeWork2.Board int winCheck(int x, int y, java.lang.Character userChar, int dirX, int dirY)" />
+  <problem_class id="JavadocDeclaration" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Javadoc declaration problems</problem_class>
+  <description>&lt;code&gt;@param y&lt;/code&gt; tag description is missing</description>
+  <highlighted_element>y</highlighted_element>
+  <language>JAVA</language>
+  <offset>14</offset>
+  <length>1</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 34/student 34 (1).java</file>
+  <line>70</line>
+  <module>codeSmellsWork</module>
+  <package>HomeWork2</package>
+  <entry_point TYPE="method" FQNAME="HomeWork2.Board int winCheck(int x, int y, java.lang.Character userChar, int dirX, int dirY)" />
+  <problem_class id="JavadocDeclaration" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Javadoc declaration problems</problem_class>
+  <description>&lt;code&gt;@param userChar&lt;/code&gt; tag description is missing</description>
+  <highlighted_element>userChar</highlighted_element>
+  <language>JAVA</language>
+  <offset>14</offset>
+  <length>8</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 34/student 34 (1).java</file>
+  <line>71</line>
+  <module>codeSmellsWork</module>
+  <package>HomeWork2</package>
+  <entry_point TYPE="method" FQNAME="HomeWork2.Board int winCheck(int x, int y, java.lang.Character userChar, int dirX, int dirY)" />
+  <problem_class id="JavadocDeclaration" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Javadoc declaration problems</problem_class>
+  <description>&lt;code&gt;@param dirX&lt;/code&gt; tag description is missing</description>
+  <highlighted_element>dirX</highlighted_element>
+  <language>JAVA</language>
+  <offset>14</offset>
+  <length>4</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 34/student 34 (1).java</file>
+  <line>72</line>
+  <module>codeSmellsWork</module>
+  <package>HomeWork2</package>
+  <entry_point TYPE="method" FQNAME="HomeWork2.Board int winCheck(int x, int y, java.lang.Character userChar, int dirX, int dirY)" />
+  <problem_class id="JavadocDeclaration" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Javadoc declaration problems</problem_class>
+  <description>&lt;code&gt;@param dirY&lt;/code&gt; tag description is missing</description>
+  <highlighted_element>dirY</highlighted_element>
+  <language>JAVA</language>
+  <offset>14</offset>
+  <length>4</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 34/student 34 (1).java</file>
+  <line>73</line>
+  <module>codeSmellsWork</module>
+  <package>HomeWork2</package>
+  <entry_point TYPE="method" FQNAME="HomeWork2.Board int winCheck(int x, int y, java.lang.Character userChar, int dirX, int dirY)" />
+  <problem_class id="JavadocDeclaration" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Javadoc declaration problems</problem_class>
+  <description>&lt;code&gt;@return&lt;/code&gt; tag description is missing</description>
+  <highlighted_element>@return</highlighted_element>
+  <language>JAVA</language>
+  <offset>7</offset>
+  <length>7</length>
+</problem>
+</problems>

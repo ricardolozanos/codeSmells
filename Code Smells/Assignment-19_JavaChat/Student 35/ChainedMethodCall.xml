@@ -1,0 +1,15 @@
+<problems>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 35/student 35 (1).java</file>
+  <line>113</line>
+  <module>codeSmellsWork</module>
+  <package>chat</package>
+  <entry_point TYPE="method" FQNAME="chat.ChatDialogUI void connectClicked(java.awt.event.ActionEvent event)" />
+  <problem_class id="ChainedMethodCall" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Chained method calls</problem_class>
+  <description>Chained method call &lt;code&gt;start()&lt;/code&gt; #loc</description>
+  <highlighted_element>start</highlighted_element>
+  <language>JAVA</language>
+  <offset>14</offset>
+  <length>5</length>
+</problem>
+</problems>

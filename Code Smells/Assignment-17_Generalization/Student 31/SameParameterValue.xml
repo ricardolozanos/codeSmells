@@ -1,0 +1,34 @@
+<problems>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 31/student 31 (1).java</file>
+  <line>15</line>
+  <module>codeSmellsWork</module>
+  <package>noapplet.example</package>
+  <entry_point TYPE="method" FQNAME="noapplet.example.MultiPloter void addFunction(noapplet.example.MultiPloter.Cosine cosine, java.awt.Color blue)" />
+  <problem_class id="SameParameterValue" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Method parameter is always the same value</problem_class>
+  <hints>
+    <hint value="blue java.awt.Color.blue" />
+  </hints>
+  <description>Actual value of parameter &lt;code&gt;blue&lt;/code&gt; is always 'Color.blue'</description>
+  <highlighted_element>blue</highlighted_element>
+  <language>JAVA</language>
+  <offset>50</offset>
+  <length>4</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 31/student 31 (1).java</file>
+  <line>18</line>
+  <module>codeSmellsWork</module>
+  <package>noapplet.example</package>
+  <entry_point TYPE="method" FQNAME="noapplet.example.MultiPloter void addFunction(noapplet.example.MultiPloter.Sine sine, java.awt.Color green)" />
+  <problem_class id="SameParameterValue" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Method parameter is always the same value</problem_class>
+  <hints>
+    <hint value="green java.awt.Color.green" />
+  </hints>
+  <description>Actual value of parameter &lt;code&gt;green&lt;/code&gt; is always 'Color.green'</description>
+  <highlighted_element>green</highlighted_element>
+  <language>JAVA</language>
+  <offset>46</offset>
+  <length>5</length>
+</problem>
+</problems>

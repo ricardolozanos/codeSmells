@@ -1,0 +1,15 @@
+<problems>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 32/student 32 (1).java</file>
+  <line>100</line>
+  <module>codeSmellsWork</module>
+  <package>noapplet.BouncingBalls</package>
+  <entry_point TYPE="method" FQNAME="noapplet.BouncingBalls.BouncingBalls void draw(java.awt.Graphics g)" />
+  <problem_class id="NonCommentSourceStatements" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Overly long method</problem_class>
+  <description>&lt;code&gt;draw&lt;/code&gt; is too long (# Non-comment source statements = 33) #loc</description>
+  <highlighted_element>draw</highlighted_element>
+  <language>JAVA</language>
+  <offset>16</offset>
+  <length>4</length>
+</problem>
+</problems>

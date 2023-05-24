@@ -1,0 +1,41 @@
+<problems>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 19/student 19 (6).java</file>
+  <line>34</line>
+  <module>codeSmellsWork</module>
+  <package>omok</package>
+  <entry_point TYPE="method" FQNAME="omok.GUI GUI()" />
+  <problem_class id="MagicConstant" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Magic Constant</problem_class>
+  <description>Should be one of: InputEvent.SHIFT_MASK, InputEvent.CTRL_MASK, InputEvent.META_MASK, InputEvent.ALT_MASK, ... or their combination</description>
+  <highlighted_element>ActionEvent.ALT_MASK</highlighted_element>
+  <language>JAVA</language>
+  <offset>66</offset>
+  <length>20</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 19/student 19 (6).java</file>
+  <line>69</line>
+  <module>codeSmellsWork</module>
+  <package>omok</package>
+  <entry_point TYPE="method" FQNAME="omok.GUI int mode()" />
+  <problem_class id="MagicConstant" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Magic Constant</problem_class>
+  <description>Should be one of: JOptionPane.DEFAULT_OPTION, JOptionPane.YES_NO_OPTION, JOptionPane.YES_NO_CANCEL_OPTION, ...</description>
+  <highlighted_element>2</highlighted_element>
+  <language>JAVA</language>
+  <offset>85</offset>
+  <length>1</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 19/student 19 (6).java</file>
+  <line>69</line>
+  <module>codeSmellsWork</module>
+  <package>omok</package>
+  <entry_point TYPE="method" FQNAME="omok.GUI int mode()" />
+  <problem_class id="MagicConstant" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Magic Constant</problem_class>
+  <description>Should be one of: JOptionPane.INFORMATION_MESSAGE, JOptionPane.WARNING_MESSAGE, JOptionPane.ERROR_MESSAGE, ...</description>
+  <highlighted_element>EXIT_ON_CLOSE</highlighted_element>
+  <language>JAVA</language>
+  <offset>88</offset>
+  <length>13</length>
+</problem>
+</problems>

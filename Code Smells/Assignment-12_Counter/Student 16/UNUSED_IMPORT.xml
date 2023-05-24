@@ -1,0 +1,114 @@
+<problems>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 16/student 16.java</file>
+  <line>3</line>
+  <module>codeSmellsWork</module>
+  <package>noapplet</package>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/src/Student 16/student 16.java" />
+  <problem_class id="UNUSED_IMPORT" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Unused import</problem_class>
+  <hints />
+  <description>Unused import &lt;code&gt;import java.awt.*;&lt;/code&gt; #loc</description>
+  <highlighted_element>import java.awt.*;</highlighted_element>
+  <language>JAVA</language>
+  <offset>0</offset>
+  <length>18</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 16/student 16.java</file>
+  <line>4</line>
+  <module>codeSmellsWork</module>
+  <package>noapplet</package>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/src/Student 16/student 16.java" />
+  <problem_class id="UNUSED_IMPORT" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Unused import</problem_class>
+  <hints />
+  <description>Unused import &lt;code&gt;import java.awt.event.*;&lt;/code&gt; #loc</description>
+  <highlighted_element>import java.awt.event.*;</highlighted_element>
+  <language>JAVA</language>
+  <offset>0</offset>
+  <length>24</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 16/student 16.java</file>
+  <line>7</line>
+  <module>codeSmellsWork</module>
+  <package>noapplet</package>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/src/Student 16/student 16.java" />
+  <problem_class id="UNUSED_IMPORT" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Unused import</problem_class>
+  <hints />
+  <description>Unused import &lt;code&gt;import java.awt.Color;&lt;/code&gt; #loc</description>
+  <highlighted_element>import java.awt.Color;</highlighted_element>
+  <language>JAVA</language>
+  <offset>0</offset>
+  <length>22</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 16/student 16.java</file>
+  <line>8</line>
+  <module>codeSmellsWork</module>
+  <package>noapplet</package>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/src/Student 16/student 16.java" />
+  <problem_class id="UNUSED_IMPORT" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Unused import</problem_class>
+  <hints />
+  <description>Unused import &lt;code&gt;import java.awt.Dimension;&lt;/code&gt; #loc</description>
+  <highlighted_element>import java.awt.Dimension;</highlighted_element>
+  <language>JAVA</language>
+  <offset>0</offset>
+  <length>26</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 16/student 16.java</file>
+  <line>9</line>
+  <module>codeSmellsWork</module>
+  <package>noapplet</package>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/src/Student 16/student 16.java" />
+  <problem_class id="UNUSED_IMPORT" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Unused import</problem_class>
+  <hints />
+  <description>Unused import &lt;code&gt;import java.awt.Graphics;&lt;/code&gt; #loc</description>
+  <highlighted_element>import java.awt.Graphics;</highlighted_element>
+  <language>JAVA</language>
+  <offset>0</offset>
+  <length>25</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 16/student 16.java</file>
+  <line>10</line>
+  <module>codeSmellsWork</module>
+  <package>noapplet</package>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/src/Student 16/student 16.java" />
+  <problem_class id="UNUSED_IMPORT" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Unused import</problem_class>
+  <hints />
+  <description>Unused import &lt;code&gt;import javax.swing.Timer;&lt;/code&gt; #loc</description>
+  <highlighted_element>import javax.swing.Timer;</highlighted_element>
+  <language>JAVA</language>
+  <offset>0</offset>
+  <length>25</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 16/student 16.java</file>
+  <line>12</line>
+  <module>codeSmellsWork</module>
+  <package>noapplet</package>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/src/Student 16/student 16.java" />
+  <problem_class id="UNUSED_IMPORT" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Unused import</problem_class>
+  <hints />
+  <description>Unused import &lt;code&gt;import java.util.*;&lt;/code&gt; #loc</description>
+  <highlighted_element>import java.util.*;</highlighted_element>
+  <language>JAVA</language>
+  <offset>0</offset>
+  <length>19</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 16/student 16.java</file>
+  <line>13</line>
+  <module>codeSmellsWork</module>
+  <package>noapplet</package>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/src/Student 16/student 16.java" />
+  <problem_class id="UNUSED_IMPORT" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Unused import</problem_class>
+  <hints />
+  <description>Unused import &lt;code&gt;import java.io.*;&lt;/code&gt; #loc</description>
+  <highlighted_element>import java.io.*;</highlighted_element>
+  <language>JAVA</language>
+  <offset>0</offset>
+  <length>17</length>
+</problem>
+</problems>

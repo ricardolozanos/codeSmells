@@ -1,0 +1,67 @@
+<problems>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 45/student 45 (1).java</file>
+  <line>1</line>
+  <module>codeSmellsWork</module>
+  <package>plotter</package>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/src/Student 45/student 45 (1).java" />
+  <problem_class id="WrongPackageStatement" severity="ERROR" attribute_key="ERRORS_ATTRIBUTES">Wrong package statement</problem_class>
+  <description>Package name 'plotter' does not correspond to the file path 'Student 45'</description>
+  <highlighted_element>plotter</highlighted_element>
+  <language>JAVA</language>
+  <offset>8</offset>
+  <length>7</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 45/student 45 (2).java</file>
+  <line>1</line>
+  <module>codeSmellsWork</module>
+  <package>plotter</package>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/src/Student 45/student 45 (2).java" />
+  <problem_class id="WrongPackageStatement" severity="ERROR" attribute_key="ERRORS_ATTRIBUTES">Wrong package statement</problem_class>
+  <description>Package name 'plotter' does not correspond to the file path 'Student 45'</description>
+  <highlighted_element>plotter</highlighted_element>
+  <language>JAVA</language>
+  <offset>8</offset>
+  <length>7</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 45/student 45 (3).java</file>
+  <line>1</line>
+  <module>codeSmellsWork</module>
+  <package>plotter</package>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/src/Student 45/student 45 (3).java" />
+  <problem_class id="WrongPackageStatement" severity="ERROR" attribute_key="ERRORS_ATTRIBUTES">Wrong package statement</problem_class>
+  <description>Package name 'plotter' does not correspond to the file path 'Student 45'</description>
+  <highlighted_element>plotter</highlighted_element>
+  <language>JAVA</language>
+  <offset>8</offset>
+  <length>7</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 45/student 45 (4).java</file>
+  <line>1</line>
+  <module>codeSmellsWork</module>
+  <package>plotter</package>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/src/Student 45/student 45 (4).java" />
+  <problem_class id="WrongPackageStatement" severity="ERROR" attribute_key="ERRORS_ATTRIBUTES">Wrong package statement</problem_class>
+  <description>Package name 'plotter' does not correspond to the file path 'Student 45'</description>
+  <highlighted_element>plotter</highlighted_element>
+  <language>JAVA</language>
+  <offset>8</offset>
+  <length>7</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 45/student 45 (5).java</file>
+  <line>1</line>
+  <module>codeSmellsWork</module>
+  <package>plotter</package>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/src/Student 45/student 45 (5).java" />
+  <problem_class id="WrongPackageStatement" severity="ERROR" attribute_key="ERRORS_ATTRIBUTES">Wrong package statement</problem_class>
+  <description>Package name 'plotter' does not correspond to the file path 'Student 45'</description>
+  <highlighted_element>plotter</highlighted_element>
+  <language>JAVA</language>
+  <offset>8</offset>
+  <length>7</length>
+</problem>
+</problems>

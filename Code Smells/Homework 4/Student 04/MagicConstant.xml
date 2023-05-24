@@ -1,0 +1,15 @@
+<problems>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 04/student 04 (9).java</file>
+  <line>18</line>
+  <module>codeSmellsWork</module>
+  <package>HW4_GUI</package>
+  <entry_point TYPE="method" FQNAME="HW4_GUI.OmokAction OmokAction(java.lang.String name, javax.swing.ImageIcon icon, java.lang.String descr, int mnemonic, int accelerator, java.lang.Runnable runnable)" />
+  <problem_class id="MagicConstant" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Magic Constant</problem_class>
+  <description>Should be one of: InputEvent.SHIFT_MASK, InputEvent.CTRL_MASK, InputEvent.META_MASK, InputEvent.ALT_MASK, ... or their combination</description>
+  <highlighted_element>ActionEvent.ALT_MASK</highlighted_element>
+  <language>JAVA</language>
+  <offset>70</offset>
+  <length>20</length>
+</problem>
+</problems>

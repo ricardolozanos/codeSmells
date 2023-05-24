@@ -1,0 +1,249 @@
+<problems>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 14/student 14 (1).java</file>
+  <line>7</line>
+  <module>codeSmellsWork</module>
+  <package>noapplet.BallonAnim</package>
+  <entry_point TYPE="class" FQNAME="noapplet.BallonAnim.bballon" />
+  <problem_class id="MissingJavadoc" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Missing Javadoc</problem_class>
+  <description>Required Javadoc is absent</description>
+  <highlighted_element>bballon</highlighted_element>
+  <language>JAVA</language>
+  <offset>13</offset>
+  <length>7</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 14/student 14 (1).java</file>
+  <line>15</line>
+  <module>codeSmellsWork</module>
+  <package>noapplet.BallonAnim</package>
+  <entry_point TYPE="method" FQNAME="noapplet.BallonAnim.bballon void draw(java.awt.Graphics g, int h, int w)" />
+  <problem_class id="MissingJavadoc" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Missing Javadoc</problem_class>
+  <description>Required Javadoc is absent</description>
+  <highlighted_element>draw</highlighted_element>
+  <language>JAVA</language>
+  <offset>16</offset>
+  <length>4</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 14/student 14 (1).java</file>
+  <line>25</line>
+  <module>codeSmellsWork</module>
+  <package>noapplet.BallonAnim</package>
+  <entry_point TYPE="method" FQNAME="noapplet.BallonAnim.bballon bballon(int size, int offset)" />
+  <problem_class id="MissingJavadoc" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Missing Javadoc</problem_class>
+  <description>Required Javadoc is absent</description>
+  <highlighted_element>bballon</highlighted_element>
+  <language>JAVA</language>
+  <offset>11</offset>
+  <length>7</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 14/student 14 (2).java</file>
+  <line>7</line>
+  <module>codeSmellsWork</module>
+  <package>noapplet.BallonAnim</package>
+  <entry_point TYPE="class" FQNAME="noapplet.BallonAnim.bballonadv" />
+  <problem_class id="MissingJavadoc" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Missing Javadoc</problem_class>
+  <description>Required Javadoc is absent</description>
+  <highlighted_element>bballonadv</highlighted_element>
+  <language>JAVA</language>
+  <offset>13</offset>
+  <length>10</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 14/student 14 (2).java</file>
+  <line>17</line>
+  <module>codeSmellsWork</module>
+  <package>noapplet.BallonAnim</package>
+  <entry_point TYPE="method" FQNAME="noapplet.BallonAnim.bballonadv void draw(java.awt.Graphics g, int h, int w)" />
+  <problem_class id="MissingJavadoc" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Missing Javadoc</problem_class>
+  <description>Required Javadoc is absent</description>
+  <highlighted_element>draw</highlighted_element>
+  <language>JAVA</language>
+  <offset>16</offset>
+  <length>4</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 14/student 14 (2).java</file>
+  <line>38</line>
+  <module>codeSmellsWork</module>
+  <package>noapplet.BallonAnim</package>
+  <entry_point TYPE="method" FQNAME="noapplet.BallonAnim.bballonadv bballonadv(int size, int offset)" />
+  <problem_class id="MissingJavadoc" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Missing Javadoc</problem_class>
+  <description>Required Javadoc is absent</description>
+  <highlighted_element>bballonadv</highlighted_element>
+  <language>JAVA</language>
+  <offset>11</offset>
+  <length>10</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 14/student 14 (3).java</file>
+  <line>5</line>
+  <module>codeSmellsWork</module>
+  <package>noapplet.BallonAnim</package>
+  <entry_point TYPE="class" FQNAME="noapplet.BallonAnim.drawable" />
+  <problem_class id="MissingJavadoc" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Missing Javadoc</problem_class>
+  <description>Required Javadoc is absent</description>
+  <highlighted_element>drawable</highlighted_element>
+  <language>JAVA</language>
+  <offset>17</offset>
+  <length>8</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 14/student 14 (3).java</file>
+  <line>6</line>
+  <module>codeSmellsWork</module>
+  <package>noapplet.BallonAnim</package>
+  <entry_point TYPE="method" FQNAME="noapplet.BallonAnim.drawable void draw(java.awt.Graphics g, int h, int w)" />
+  <problem_class id="MissingJavadoc" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Missing Javadoc</problem_class>
+  <description>Required Javadoc is absent</description>
+  <highlighted_element>draw</highlighted_element>
+  <language>JAVA</language>
+  <offset>9</offset>
+  <length>4</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 14/student 14 (4).java</file>
+  <line>7</line>
+  <module>codeSmellsWork</module>
+  <package>noapplet.BallonAnim</package>
+  <entry_point TYPE="class" FQNAME="noapplet.BallonAnim.EnhancedModularBalloonApp" />
+  <problem_class id="MissingJavadoc" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Missing Javadoc</problem_class>
+  <description>Required Javadoc is absent</description>
+  <highlighted_element>EnhancedModularBalloonApp</highlighted_element>
+  <language>JAVA</language>
+  <offset>13</offset>
+  <length>25</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 14/student 14 (4).java</file>
+  <line>11</line>
+  <module>codeSmellsWork</module>
+  <package>noapplet.BallonAnim</package>
+  <entry_point TYPE="method" FQNAME="noapplet.BallonAnim.EnhancedModularBalloonApp void main(java.lang.String[] args)" />
+  <problem_class id="MissingJavadoc" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Missing Javadoc</problem_class>
+  <description>Required Javadoc is absent</description>
+  <highlighted_element>main</highlighted_element>
+  <language>JAVA</language>
+  <offset>23</offset>
+  <length>4</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 14/student 14 (4).java</file>
+  <line>15</line>
+  <module>codeSmellsWork</module>
+  <package>noapplet.BallonAnim</package>
+  <entry_point TYPE="method" FQNAME="noapplet.BallonAnim.EnhancedModularBalloonApp EnhancedModularBalloonApp(java.lang.String[] params)" />
+  <problem_class id="MissingJavadoc" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Missing Javadoc</problem_class>
+  <description>Required Javadoc is absent</description>
+  <highlighted_element>EnhancedModularBalloonApp</highlighted_element>
+  <language>JAVA</language>
+  <offset>11</offset>
+  <length>25</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 14/student 14 (4).java</file>
+  <line>20</line>
+  <module>codeSmellsWork</module>
+  <package>noapplet.BallonAnim</package>
+  <entry_point TYPE="method" FQNAME="noapplet.BallonAnim.EnhancedModularBalloonApp drawable getballon()" />
+  <problem_class id="MissingJavadoc" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Missing Javadoc</problem_class>
+  <description>Required Javadoc is absent</description>
+  <highlighted_element>getballon</highlighted_element>
+  <language>JAVA</language>
+  <offset>20</offset>
+  <length>9</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 14/student 14 (5).java</file>
+  <line>10</line>
+  <module>codeSmellsWork</module>
+  <package>noapplet.BallonAnim</package>
+  <entry_point TYPE="class" FQNAME="noapplet.BallonAnim.ModularBalloonApp" />
+  <problem_class id="MissingJavadoc" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Missing Javadoc</problem_class>
+  <description>Required Javadoc is absent</description>
+  <highlighted_element>ModularBalloonApp</highlighted_element>
+  <language>JAVA</language>
+  <offset>13</offset>
+  <length>17</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 14/student 14 (5).java</file>
+  <line>17</line>
+  <module>codeSmellsWork</module>
+  <package>noapplet.BallonAnim</package>
+  <entry_point TYPE="method" FQNAME="noapplet.BallonAnim.ModularBalloonApp ModularBalloonApp()" />
+  <problem_class id="MissingJavadoc" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Missing Javadoc</problem_class>
+  <description>Required Javadoc is absent</description>
+  <highlighted_element>ModularBalloonApp</highlighted_element>
+  <language>JAVA</language>
+  <offset>11</offset>
+  <length>17</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 14/student 14 (5).java</file>
+  <line>21</line>
+  <module>codeSmellsWork</module>
+  <package>noapplet.BallonAnim</package>
+  <entry_point TYPE="method" FQNAME="noapplet.BallonAnim.ModularBalloonApp ModularBalloonApp(java.lang.String[] params)" />
+  <problem_class id="MissingJavadoc" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Missing Javadoc</problem_class>
+  <description>Required Javadoc is absent</description>
+  <highlighted_element>ModularBalloonApp</highlighted_element>
+  <language>JAVA</language>
+  <offset>11</offset>
+  <length>17</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 14/student 14 (5).java</file>
+  <line>28</line>
+  <module>codeSmellsWork</module>
+  <package>noapplet.BallonAnim</package>
+  <entry_point TYPE="method" FQNAME="noapplet.BallonAnim.ModularBalloonApp drawable getballon()" />
+  <problem_class id="MissingJavadoc" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Missing Javadoc</problem_class>
+  <description>Required Javadoc is absent</description>
+  <highlighted_element>getballon</highlighted_element>
+  <language>JAVA</language>
+  <offset>20</offset>
+  <length>9</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 14/student 14 (5).java</file>
+  <line>32</line>
+  <module>codeSmellsWork</module>
+  <package>noapplet.BallonAnim</package>
+  <entry_point TYPE="method" FQNAME="noapplet.BallonAnim.ModularBalloonApp void start()" />
+  <problem_class id="MissingJavadoc" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Missing Javadoc</problem_class>
+  <description>Required Javadoc is absent</description>
+  <highlighted_element>start</highlighted_element>
+  <language>JAVA</language>
+  <offset>16</offset>
+  <length>5</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 14/student 14 (5).java</file>
+  <line>36</line>
+  <module>codeSmellsWork</module>
+  <package>noapplet.BallonAnim</package>
+  <entry_point TYPE="method" FQNAME="noapplet.BallonAnim.ModularBalloonApp void stop()" />
+  <problem_class id="MissingJavadoc" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Missing Javadoc</problem_class>
+  <description>Required Javadoc is absent</description>
+  <highlighted_element>stop</highlighted_element>
+  <language>JAVA</language>
+  <offset>16</offset>
+  <length>4</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 14/student 14 (5).java</file>
+  <line>48</line>
+  <module>codeSmellsWork</module>
+  <package>noapplet.BallonAnim</package>
+  <entry_point TYPE="method" FQNAME="noapplet.BallonAnim.ModularBalloonApp void main(java.lang.String[] args)" />
+  <problem_class id="MissingJavadoc" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Missing Javadoc</problem_class>
+  <description>Required Javadoc is absent</description>
+  <highlighted_element>main</highlighted_element>
+  <language>JAVA</language>
+  <offset>19</offset>
+  <length>4</length>
+</problem>
+</problems>

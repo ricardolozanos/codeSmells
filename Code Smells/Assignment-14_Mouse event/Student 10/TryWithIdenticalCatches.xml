@@ -1,0 +1,41 @@
+<problems>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 10/student 10 (1).java</file>
+  <line>21</line>
+  <module>codeSmellsWork</module>
+  <package>noapplet.example.Counter</package>
+  <entry_point TYPE="method" FQNAME="noapplet.example.Counter.Counter Counter()" />
+  <problem_class id="TryWithIdenticalCatches" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Identical 'catch' branches in 'try' statement</problem_class>
+  <description>'catch' branch identical to 'ClassNotFoundException' branch #loc</description>
+  <highlighted_element>catch (InstantiationException e1)</highlighted_element>
+  <language>JAVA</language>
+  <offset>4</offset>
+  <length>33</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 10/student 10 (1).java</file>
+  <line>24</line>
+  <module>codeSmellsWork</module>
+  <package>noapplet.example.Counter</package>
+  <entry_point TYPE="method" FQNAME="noapplet.example.Counter.Counter Counter()" />
+  <problem_class id="TryWithIdenticalCatches" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Identical 'catch' branches in 'try' statement</problem_class>
+  <description>'catch' branch identical to 'ClassNotFoundException' branch #loc</description>
+  <highlighted_element>catch (IllegalAccessException e1)</highlighted_element>
+  <language>JAVA</language>
+  <offset>4</offset>
+  <length>33</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 10/student 10 (1).java</file>
+  <line>27</line>
+  <module>codeSmellsWork</module>
+  <package>noapplet.example.Counter</package>
+  <entry_point TYPE="method" FQNAME="noapplet.example.Counter.Counter Counter()" />
+  <problem_class id="TryWithIdenticalCatches" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Identical 'catch' branches in 'try' statement</problem_class>
+  <description>'catch' branch identical to 'ClassNotFoundException' branch #loc</description>
+  <highlighted_element>catch (UnsupportedLookAndFeelException e1)</highlighted_element>
+  <language>JAVA</language>
+  <offset>4</offset>
+  <length>42</length>
+</problem>
+</problems>

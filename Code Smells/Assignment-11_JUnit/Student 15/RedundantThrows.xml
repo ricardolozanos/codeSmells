@@ -1,0 +1,34 @@
+<problems>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 15/student 15 (8).java</file>
+  <line>35</line>
+  <module>codeSmellsWork</module>
+  <package>&lt;default&gt;</package>
+  <entry_point TYPE="method" FQNAME="ConsoleUITest void testGameSetupPrompt()" />
+  <problem_class id="RedundantThrows" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Redundant 'throws' clause</problem_class>
+  <hints>
+    <hint value="IOException" />
+  </hints>
+  <description>The declared exception &lt;code&gt;IOException&lt;/code&gt; is never thrown</description>
+  <highlighted_element>IOException</highlighted_element>
+  <language>JAVA</language>
+  <offset>45</offset>
+  <length>11</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 15/student 15 (8).java</file>
+  <line>48</line>
+  <module>codeSmellsWork</module>
+  <package>&lt;default&gt;</package>
+  <entry_point TYPE="method" FQNAME="ConsoleUITest void testGameBoardSetupPrompt()" />
+  <problem_class id="RedundantThrows" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Redundant 'throws' clause</problem_class>
+  <hints>
+    <hint value="IOException" />
+  </hints>
+  <description>The declared exception &lt;code&gt;IOException&lt;/code&gt; is never thrown</description>
+  <highlighted_element>IOException</highlighted_element>
+  <language>JAVA</language>
+  <offset>50</offset>
+  <length>11</length>
+</problem>
+</problems>

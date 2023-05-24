@@ -1,0 +1,15 @@
+<problems>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 09/student 09 (1).java</file>
+  <line>110</line>
+  <module>codeSmellsWork</module>
+  <package>OmokBoard</package>
+  <entry_point TYPE="method" FQNAME="OmokBoard.Board void printBoard()" />
+  <problem_class id="StringOperationCanBeSimplified" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Redundant 'String' operation</problem_class>
+  <description>Unnecessary empty string argument</description>
+  <highlighted_element>&quot;&quot;</highlighted_element>
+  <language>JAVA</language>
+  <offset>31</offset>
+  <length>2</length>
+</problem>
+</problems>

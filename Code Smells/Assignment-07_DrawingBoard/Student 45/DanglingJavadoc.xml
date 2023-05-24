@@ -1,0 +1,54 @@
+<problems>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 45/student 45 (4).java</file>
+  <line>13</line>
+  <module>codeSmellsWork</module>
+  <package>noapplet.example.drawingboard</package>
+  <entry_point TYPE="class" FQNAME="noapplet.example.drawingboard.Triangle" />
+  <problem_class id="DanglingJavadoc" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Dangling Javadoc comment</problem_class>
+  <description>Dangling Javadoc comment #loc</description>
+  <highlighted_element>/**</highlighted_element>
+  <language>JAVA</language>
+  <offset>4</offset>
+  <length>3</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 45/student 45 (4).java</file>
+  <line>38</line>
+  <module>codeSmellsWork</module>
+  <package>noapplet.example.drawingboard</package>
+  <entry_point TYPE="method" FQNAME="noapplet.example.drawingboard.Triangle void main(java.lang.String[] args)" />
+  <problem_class id="DanglingJavadoc" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Dangling Javadoc comment</problem_class>
+  <description>Dangling Javadoc comment #loc</description>
+  <highlighted_element>/**</highlighted_element>
+  <language>JAVA</language>
+  <offset>8</offset>
+  <length>3</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 45/student 45 (5).java</file>
+  <line>34</line>
+  <module>codeSmellsWork</module>
+  <package>noapplet.example.drawingboard</package>
+  <entry_point TYPE="class" FQNAME="noapplet.example.drawingboard.Circle" />
+  <problem_class id="DanglingJavadoc" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Dangling Javadoc comment</problem_class>
+  <description>Dangling Javadoc comment #loc</description>
+  <highlighted_element>/**</highlighted_element>
+  <language>JAVA</language>
+  <offset>4</offset>
+  <length>3</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 45/student 45 (7).java</file>
+  <line>26</line>
+  <module>codeSmellsWork</module>
+  <package>noapplet.example.drawingboard</package>
+  <entry_point TYPE="class" FQNAME="noapplet.example.drawingboard.Rectangle" />
+  <problem_class id="DanglingJavadoc" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Dangling Javadoc comment</problem_class>
+  <description>Dangling Javadoc comment #loc</description>
+  <highlighted_element>/**</highlighted_element>
+  <language>JAVA</language>
+  <offset>4</offset>
+  <length>3</length>
+</problem>
+</problems>

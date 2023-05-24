@@ -1,0 +1,28 @@
+<problems>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 45/student 45 (3).java</file>
+  <line>131</line>
+  <module>codeSmellsWork</module>
+  <package>guiboard.logic</package>
+  <entry_point TYPE="method" FQNAME="guiboard.logic.StoneSelection int getNum(int num)" />
+  <problem_class id="MultipleReturnPointsPerMethod" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Method with multiple return points</problem_class>
+  <description>&lt;code&gt;getNum&lt;/code&gt; has 2 return points #loc</description>
+  <highlighted_element>getNum</highlighted_element>
+  <language>JAVA</language>
+  <offset>15</offset>
+  <length>6</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 45/student 45 (7).java</file>
+  <line>77</line>
+  <module>codeSmellsWork</module>
+  <package>guiboard</package>
+  <entry_point TYPE="method" FQNAME="guiboard.Main javax.swing.ImageIcon createImageIcon(java.lang.String filename)" />
+  <problem_class id="MultipleReturnPointsPerMethod" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Method with multiple return points</problem_class>
+  <description>&lt;code&gt;createImageIcon&lt;/code&gt; has 2 return points #loc</description>
+  <highlighted_element>createImageIcon</highlighted_element>
+  <language>JAVA</language>
+  <offset>22</offset>
+  <length>15</length>
+</problem>
+</problems>

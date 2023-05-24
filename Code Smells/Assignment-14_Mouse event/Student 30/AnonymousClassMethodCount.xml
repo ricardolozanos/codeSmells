@@ -1,0 +1,15 @@
+<problems>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 30/student 30 (2).java</file>
+  <line>30</line>
+  <module>codeSmellsWork</module>
+  <package>noapplet.Files</package>
+  <entry_point TYPE="class" FQNAME="noapplet.Files.Counter$1" />
+  <problem_class id="AnonymousClassMethodCount" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Anonymous inner class with too many methods</problem_class>
+  <description>Anonymous inner class with too many methods (method count = 2) #loc</description>
+  <highlighted_element>MouseAdapter</highlighted_element>
+  <language>JAVA</language>
+  <offset>36</offset>
+  <length>12</length>
+</problem>
+</problems>

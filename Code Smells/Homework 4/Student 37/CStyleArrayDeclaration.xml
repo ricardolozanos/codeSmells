@@ -1,0 +1,15 @@
+<problems>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 37/student 37 (4).java</file>
+  <line>17</line>
+  <module>codeSmellsWork</module>
+  <package>omok</package>
+  <entry_point TYPE="method" FQNAME="omok.Omok Omok()" />
+  <problem_class id="CStyleArrayDeclaration" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">C-style array declaration</problem_class>
+  <description>C-style array declaration of local variable &lt;code&gt;modes&lt;/code&gt; #loc</description>
+  <highlighted_element>modes</highlighted_element>
+  <language>JAVA</language>
+  <offset>14</offset>
+  <length>5</length>
+</problem>
+</problems>

@@ -1,0 +1,145 @@
+<problems>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 02/student 02 (1).java</file>
+  <line>1</line>
+  <module>codeSmellsWork</module>
+  <package>OmokConsole.Model</package>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/src/Student 02/student 02 (1).java" />
+  <problem_class id="WrongPackageStatement" severity="ERROR" attribute_key="ERRORS_ATTRIBUTES">Wrong package statement</problem_class>
+  <description>Package name 'OmokConsole.Model' does not correspond to the file path 'Student 02'</description>
+  <highlighted_element>OmokConsole.Model</highlighted_element>
+  <language>JAVA</language>
+  <offset>8</offset>
+  <length>17</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 02/student 02 (10).java</file>
+  <line>1</line>
+  <module>codeSmellsWork</module>
+  <package>OmokConsole.Model</package>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/src/Student 02/student 02 (10).java" />
+  <problem_class id="WrongPackageStatement" severity="ERROR" attribute_key="ERRORS_ATTRIBUTES">Wrong package statement</problem_class>
+  <description>Package name 'OmokConsole.Model' does not correspond to the file path 'Student 02'</description>
+  <highlighted_element>OmokConsole.Model</highlighted_element>
+  <language>JAVA</language>
+  <offset>8</offset>
+  <length>17</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 02/student 02 (11).java</file>
+  <line>1</line>
+  <module>codeSmellsWork</module>
+  <package>OmokConsole.Model</package>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/src/Student 02/student 02 (11).java" />
+  <problem_class id="WrongPackageStatement" severity="ERROR" attribute_key="ERRORS_ATTRIBUTES">Wrong package statement</problem_class>
+  <description>Package name 'OmokConsole.Model' does not correspond to the file path 'Student 02'</description>
+  <highlighted_element>OmokConsole.Model</highlighted_element>
+  <language>JAVA</language>
+  <offset>8</offset>
+  <length>17</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 02/student 02 (2).java</file>
+  <line>1</line>
+  <module>codeSmellsWork</module>
+  <package>OmokConsole.UI</package>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/src/Student 02/student 02 (2).java" />
+  <problem_class id="WrongPackageStatement" severity="ERROR" attribute_key="ERRORS_ATTRIBUTES">Wrong package statement</problem_class>
+  <description>Package name 'OmokConsole.UI' does not correspond to the file path 'Student 02'</description>
+  <highlighted_element>OmokConsole.UI</highlighted_element>
+  <language>JAVA</language>
+  <offset>8</offset>
+  <length>14</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 02/student 02 (3).java</file>
+  <line>1</line>
+  <module>codeSmellsWork</module>
+  <package>OmokConsole.Model</package>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/src/Student 02/student 02 (3).java" />
+  <problem_class id="WrongPackageStatement" severity="ERROR" attribute_key="ERRORS_ATTRIBUTES">Wrong package statement</problem_class>
+  <description>Package name 'OmokConsole.Model' does not correspond to the file path 'Student 02'</description>
+  <highlighted_element>OmokConsole.Model</highlighted_element>
+  <language>JAVA</language>
+  <offset>8</offset>
+  <length>17</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 02/student 02 (4).java</file>
+  <line>1</line>
+  <module>codeSmellsWork</module>
+  <package>OmokConsole.UI</package>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/src/Student 02/student 02 (4).java" />
+  <problem_class id="WrongPackageStatement" severity="ERROR" attribute_key="ERRORS_ATTRIBUTES">Wrong package statement</problem_class>
+  <description>Package name 'OmokConsole.UI' does not correspond to the file path 'Student 02'</description>
+  <highlighted_element>OmokConsole.UI</highlighted_element>
+  <language>JAVA</language>
+  <offset>8</offset>
+  <length>14</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 02/student 02 (5).java</file>
+  <line>1</line>
+  <module>codeSmellsWork</module>
+  <package>OmokConsole.UI</package>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/src/Student 02/student 02 (5).java" />
+  <problem_class id="WrongPackageStatement" severity="ERROR" attribute_key="ERRORS_ATTRIBUTES">Wrong package statement</problem_class>
+  <description>Package name 'OmokConsole.UI' does not correspond to the file path 'Student 02'</description>
+  <highlighted_element>OmokConsole.UI</highlighted_element>
+  <language>JAVA</language>
+  <offset>8</offset>
+  <length>14</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 02/student 02 (6).java</file>
+  <line>1</line>
+  <module>codeSmellsWork</module>
+  <package>OmokConsole.Model</package>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/src/Student 02/student 02 (6).java" />
+  <problem_class id="WrongPackageStatement" severity="ERROR" attribute_key="ERRORS_ATTRIBUTES">Wrong package statement</problem_class>
+  <description>Package name 'OmokConsole.Model' does not correspond to the file path 'Student 02'</description>
+  <highlighted_element>OmokConsole.Model</highlighted_element>
+  <language>JAVA</language>
+  <offset>8</offset>
+  <length>17</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 02/student 02 (7).java</file>
+  <line>1</line>
+  <module>codeSmellsWork</module>
+  <package>OmokConsole.UI</package>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/src/Student 02/student 02 (7).java" />
+  <problem_class id="WrongPackageStatement" severity="ERROR" attribute_key="ERRORS_ATTRIBUTES">Wrong package statement</problem_class>
+  <description>Package name 'OmokConsole.UI' does not correspond to the file path 'Student 02'</description>
+  <highlighted_element>OmokConsole.UI</highlighted_element>
+  <language>JAVA</language>
+  <offset>8</offset>
+  <length>14</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 02/student 02 (8).java</file>
+  <line>1</line>
+  <module>codeSmellsWork</module>
+  <package>OmokConsole.UI</package>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/src/Student 02/student 02 (8).java" />
+  <problem_class id="WrongPackageStatement" severity="ERROR" attribute_key="ERRORS_ATTRIBUTES">Wrong package statement</problem_class>
+  <description>Package name 'OmokConsole.UI' does not correspond to the file path 'Student 02'</description>
+  <highlighted_element>OmokConsole.UI</highlighted_element>
+  <language>JAVA</language>
+  <offset>8</offset>
+  <length>14</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 02/student 02 (9).java</file>
+  <line>1</line>
+  <module>codeSmellsWork</module>
+  <package>OmokConsole.Model</package>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/src/Student 02/student 02 (9).java" />
+  <problem_class id="WrongPackageStatement" severity="ERROR" attribute_key="ERRORS_ATTRIBUTES">Wrong package statement</problem_class>
+  <description>Package name 'OmokConsole.Model' does not correspond to the file path 'Student 02'</description>
+  <highlighted_element>OmokConsole.Model</highlighted_element>
+  <language>JAVA</language>
+  <offset>8</offset>
+  <length>17</length>
+</problem>
+</problems>

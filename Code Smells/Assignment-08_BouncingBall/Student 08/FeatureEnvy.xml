@@ -1,0 +1,15 @@
+<problems>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 08/student 08 (5).java</file>
+  <line>24</line>
+  <module>codeSmellsWork</module>
+  <package>&lt;default&gt;</package>
+  <entry_point TYPE="method" FQNAME="collision java.awt.Rectangle bounds(Bounceable b)" />
+  <problem_class id="FeatureEnvy" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Feature envy</problem_class>
+  <description>Class 'Bounceable' accessed repeatedly in method &lt;code&gt;bounds()&lt;/code&gt; #loc</description>
+  <highlighted_element>bounds</highlighted_element>
+  <language>JAVA</language>
+  <offset>21</offset>
+  <length>6</length>
+</problem>
+</problems>

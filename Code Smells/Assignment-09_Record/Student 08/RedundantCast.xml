@@ -1,0 +1,15 @@
+<problems>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 08/Student 08.java</file>
+  <line>47</line>
+  <module>codeSmellsWork</module>
+  <package>&lt;default&gt;</package>
+  <entry_point TYPE="method" FQNAME="Test2 boolean equals(Test2 other)" />
+  <problem_class id="RedundantCast" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Redundant type cast</problem_class>
+  <description>Casting &lt;code&gt;other&lt;/code&gt; to &lt;code&gt;Test2&lt;/code&gt; is redundant</description>
+  <highlighted_element>Test2</highlighted_element>
+  <language>JAVA</language>
+  <offset>26</offset>
+  <length>5</length>
+</problem>
+</problems>

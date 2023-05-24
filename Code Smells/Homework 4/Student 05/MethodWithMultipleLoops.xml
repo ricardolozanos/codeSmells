@@ -1,0 +1,67 @@
+<problems>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 05/student 05 (2).java</file>
+  <line>49</line>
+  <module>codeSmellsWork</module>
+  <package>&lt;default&gt;</package>
+  <entry_point TYPE="method" FQNAME="BoardTest void testWinningRowHorizontal()" />
+  <problem_class id="MethodWithMultipleLoops" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Method with multiple loops</problem_class>
+  <description>&lt;code&gt;testWinningRowHorizontal&lt;/code&gt; contains 2 loops #loc</description>
+  <highlighted_element>testWinningRowHorizontal</highlighted_element>
+  <language>JAVA</language>
+  <offset>16</offset>
+  <length>24</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 05/student 05 (2).java</file>
+  <line>64</line>
+  <module>codeSmellsWork</module>
+  <package>&lt;default&gt;</package>
+  <entry_point TYPE="method" FQNAME="BoardTest void testWinningRowVertical()" />
+  <problem_class id="MethodWithMultipleLoops" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Method with multiple loops</problem_class>
+  <description>&lt;code&gt;testWinningRowVertical&lt;/code&gt; contains 2 loops #loc</description>
+  <highlighted_element>testWinningRowVertical</highlighted_element>
+  <language>JAVA</language>
+  <offset>16</offset>
+  <length>22</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 05/student 05 (3).java</file>
+  <line>48</line>
+  <module>codeSmellsWork</module>
+  <package>omok.model</package>
+  <entry_point TYPE="method" FQNAME="omok.model.Board boolean isFull()" />
+  <problem_class id="MethodWithMultipleLoops" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Method with multiple loops</problem_class>
+  <description>&lt;code&gt;isFull&lt;/code&gt; contains 2 loops #loc</description>
+  <highlighted_element>isFull</highlighted_element>
+  <language>JAVA</language>
+  <offset>19</offset>
+  <length>6</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 05/student 05 (3).java</file>
+  <line>128</line>
+  <module>codeSmellsWork</module>
+  <package>omok.model</package>
+  <entry_point TYPE="method" FQNAME="omok.model.Board boolean isWonBy(omok.model.Player player)" />
+  <problem_class id="MethodWithMultipleLoops" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Method with multiple loops</problem_class>
+  <description>&lt;code&gt;isWonBy&lt;/code&gt; contains 14 loops #loc</description>
+  <highlighted_element>isWonBy</highlighted_element>
+  <language>JAVA</language>
+  <offset>19</offset>
+  <length>7</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 05/student 05 (3).java</file>
+  <line>210</line>
+  <module>codeSmellsWork</module>
+  <package>omok.model</package>
+  <entry_point TYPE="method" FQNAME="omok.model.Board java.lang.Iterable&lt;omok.model.Board.Place&gt; winningRow()" />
+  <problem_class id="MethodWithMultipleLoops" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Method with multiple loops</problem_class>
+  <description>&lt;code&gt;winningRow&lt;/code&gt; contains 2 loops #loc</description>
+  <highlighted_element>winningRow</highlighted_element>
+  <language>JAVA</language>
+  <offset>27</offset>
+  <length>10</length>
+</problem>
+</problems>

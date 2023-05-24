@@ -1,0 +1,15 @@
+<problems>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 35/student 35 (3).java</file>
+  <line>8</line>
+  <module>codeSmellsWork</module>
+  <package>drawingBoard</package>
+  <entry_point TYPE="field" FQNAME="drawingBoard.Shape position" />
+  <problem_class id="FieldMayBeFinal" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Field may be 'final'</problem_class>
+  <description>Field &lt;code&gt;position&lt;/code&gt; may be 'final' #loc</description>
+  <highlighted_element>position</highlighted_element>
+  <language>JAVA</language>
+  <offset>16</offset>
+  <length>8</length>
+</problem>
+</problems>

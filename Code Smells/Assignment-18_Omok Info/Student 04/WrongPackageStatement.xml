@@ -1,0 +1,15 @@
+<problems>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 04/Student 04.java</file>
+  <line>1</line>
+  <module>codeSmellsWork</module>
+  <package>exercises.OmokInfo</package>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/src/Student 04/Student 04.java" />
+  <problem_class id="WrongPackageStatement" severity="ERROR" attribute_key="ERRORS_ATTRIBUTES">Wrong package statement</problem_class>
+  <description>Package name 'exercises.OmokInfo' does not correspond to the file path 'Student 04'</description>
+  <highlighted_element>exercises.OmokInfo</highlighted_element>
+  <language>JAVA</language>
+  <offset>8</offset>
+  <length>18</length>
+</problem>
+</problems>

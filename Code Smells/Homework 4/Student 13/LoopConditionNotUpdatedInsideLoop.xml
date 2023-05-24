@@ -1,0 +1,15 @@
+<problems>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 13/student 13 (11).java</file>
+  <line>51</line>
+  <module>codeSmellsWork</module>
+  <package>&lt;default&gt;</package>
+  <entry_point TYPE="method" FQNAME="UserInterface int getGameMode()" />
+  <problem_class id="LoopConditionNotUpdatedInsideLoop" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Loop variable not updated inside loop</problem_class>
+  <description>Variable 'invalidInput' is not updated inside loop #loc</description>
+  <highlighted_element>invalidInput</highlighted_element>
+  <language>JAVA</language>
+  <offset>15</offset>
+  <length>12</length>
+</problem>
+</problems>

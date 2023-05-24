@@ -1,0 +1,15 @@
+<problems>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 10/Student 10.java</file>
+  <line>90</line>
+  <module>codeSmellsWork</module>
+  <package>javaChat</package>
+  <entry_point TYPE="method" FQNAME="javaChat.ChatDialogUI void connectClicked(java.awt.event.ActionEvent event)" />
+  <problem_class id="MethodWithMultipleLoops" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Method with multiple loops</problem_class>
+  <description>&lt;code&gt;connectClicked&lt;/code&gt; contains 2 loops #loc</description>
+  <highlighted_element>connectClicked</highlighted_element>
+  <language>JAVA</language>
+  <offset>14</offset>
+  <length>14</length>
+</problem>
+</problems>

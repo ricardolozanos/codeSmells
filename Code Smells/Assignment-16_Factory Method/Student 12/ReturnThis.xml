@@ -1,0 +1,15 @@
+<problems>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 12/student 12 (3).java</file>
+  <line>34</line>
+  <module>codeSmellsWork</module>
+  <package>&lt;default&gt;</package>
+  <entry_point TYPE="method" FQNAME="GrowingBallon Balloon createBalloon(java.lang.String[] parms)" />
+  <problem_class id="ReturnThis" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Return of 'this'</problem_class>
+  <description>Return of &lt;code&gt;this&lt;/code&gt; #loc</description>
+  <highlighted_element>this</highlighted_element>
+  <language>JAVA</language>
+  <offset>15</offset>
+  <length>4</length>
+</problem>
+</problems>

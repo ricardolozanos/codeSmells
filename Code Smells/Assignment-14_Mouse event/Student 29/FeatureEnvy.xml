@@ -1,0 +1,15 @@
+<problems>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 29/student 29 (1).java</file>
+  <line>14</line>
+  <module>codeSmellsWork</module>
+  <package>counter</package>
+  <entry_point TYPE="method" FQNAME="counter.SimpleCounter SimpleCounter()" />
+  <problem_class id="FeatureEnvy" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Feature envy</problem_class>
+  <description>Class 'CounterModel' accessed repeatedly in method &lt;code&gt;SimpleCounter()&lt;/code&gt; #loc</description>
+  <highlighted_element>SimpleCounter</highlighted_element>
+  <language>JAVA</language>
+  <offset>8</offset>
+  <length>13</length>
+</problem>
+</problems>

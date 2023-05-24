@@ -1,0 +1,15 @@
+<problems>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 04/student 04 (7).java</file>
+  <line>13</line>
+  <module>codeSmellsWork</module>
+  <package>HW4_GUI.console</package>
+  <entry_point TYPE="method" FQNAME="HW4_GUI.console.HumanPlayer Coordinate pickPlace(Board board)" />
+  <problem_class id="UnusedAssignment" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Unused assignment</problem_class>
+  <description>Variable &lt;code&gt;move&lt;/code&gt; initializer &lt;code&gt;null&lt;/code&gt; is redundant</description>
+  <highlighted_element>null</highlighted_element>
+  <language>JAVA</language>
+  <offset>26</offset>
+  <length>4</length>
+</problem>
+</problems>

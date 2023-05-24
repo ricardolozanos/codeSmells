@@ -1,0 +1,15 @@
+<problems>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 33/student 33.java</file>
+  <line>33</line>
+  <module>codeSmellsWork</module>
+  <package>noapplet</package>
+  <entry_point TYPE="method" FQNAME="noapplet.AnimationNoApplet void init()" />
+  <problem_class id="ConstantValue" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Constant values</problem_class>
+  <description>Condition &lt;code&gt;delay != null&lt;/code&gt; is always &lt;code&gt;false&lt;/code&gt;</description>
+  <highlighted_element>delay != null</highlighted_element>
+  <language>JAVA</language>
+  <offset>12</offset>
+  <length>13</length>
+</problem>
+</problems>

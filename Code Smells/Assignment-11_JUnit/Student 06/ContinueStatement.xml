@@ -1,0 +1,67 @@
+<problems>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 06/student 06 (8).java</file>
+  <line>67</line>
+  <module>codeSmellsWork</module>
+  <package>&lt;default&gt;</package>
+  <entry_point TYPE="method" FQNAME="Controller void play()" />
+  <problem_class id="ContinueStatement" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">'continue' statement</problem_class>
+  <description>&lt;code&gt;continue&lt;/code&gt; statement #loc</description>
+  <highlighted_element>continue</highlighted_element>
+  <language>JAVA</language>
+  <offset>30</offset>
+  <length>8</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 06/student 06 (8).java</file>
+  <line>69</line>
+  <module>codeSmellsWork</module>
+  <package>&lt;default&gt;</package>
+  <entry_point TYPE="method" FQNAME="Controller void play()" />
+  <problem_class id="ContinueStatement" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">'continue' statement</problem_class>
+  <description>&lt;code&gt;continue&lt;/code&gt; statement #loc</description>
+  <highlighted_element>continue</highlighted_element>
+  <language>JAVA</language>
+  <offset>87</offset>
+  <length>8</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 06/student 06 (8).java</file>
+  <line>102</line>
+  <module>codeSmellsWork</module>
+  <package>&lt;default&gt;</package>
+  <entry_point TYPE="method" FQNAME="Controller void play()" />
+  <problem_class id="ContinueStatement" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">'continue' statement</problem_class>
+  <description>&lt;code&gt;continue&lt;/code&gt; statement #loc</description>
+  <highlighted_element>continue</highlighted_element>
+  <language>JAVA</language>
+  <offset>61</offset>
+  <length>8</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 06/student 06 (8).java</file>
+  <line>138</line>
+  <module>codeSmellsWork</module>
+  <package>&lt;default&gt;</package>
+  <entry_point TYPE="method" FQNAME="Controller void play()" />
+  <problem_class id="ContinueStatement" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">'continue' statement</problem_class>
+  <description>&lt;code&gt;continue&lt;/code&gt; statement #loc</description>
+  <highlighted_element>continue</highlighted_element>
+  <language>JAVA</language>
+  <offset>25</offset>
+  <length>8</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 06/student 06 (8).java</file>
+  <line>141</line>
+  <module>codeSmellsWork</module>
+  <package>&lt;default&gt;</package>
+  <entry_point TYPE="method" FQNAME="Controller void play()" />
+  <problem_class id="ContinueStatement" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">'continue' statement</problem_class>
+  <description>&lt;code&gt;continue&lt;/code&gt; statement #loc</description>
+  <highlighted_element>continue</highlighted_element>
+  <language>JAVA</language>
+  <offset>82</offset>
+  <length>8</length>
+</problem>
+</problems>

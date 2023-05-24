@@ -1,0 +1,28 @@
+<problems>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 33/Student 33.java</file>
+  <line>116</line>
+  <module>codeSmellsWork</module>
+  <package>Misc.Plotter</package>
+  <entry_point TYPE="method" FQNAME="Misc.Plotter.MultiPlotter MultiPlotter()" />
+  <problem_class id="Convert2Diamond" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Explicit type can be replaced with '&lt;&gt;'</problem_class>
+  <description>Explicit type argument Function can be replaced with &lt;&gt;</description>
+  <highlighted_element>Function</highlighted_element>
+  <language>JAVA</language>
+  <offset>28</offset>
+  <length>8</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 33/Student 33.java</file>
+  <line>120</line>
+  <module>codeSmellsWork</module>
+  <package>Misc.Plotter</package>
+  <entry_point TYPE="method" FQNAME="Misc.Plotter.MultiPlotter MultiPlotter(java.lang.String[] str)" />
+  <problem_class id="Convert2Diamond" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Explicit type can be replaced with '&lt;&gt;'</problem_class>
+  <description>Explicit type argument Function can be replaced with &lt;&gt;</description>
+  <highlighted_element>Function</highlighted_element>
+  <language>JAVA</language>
+  <offset>28</offset>
+  <length>8</length>
+</problem>
+</problems>

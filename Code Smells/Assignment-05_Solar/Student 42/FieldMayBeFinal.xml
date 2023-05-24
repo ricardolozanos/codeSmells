@@ -1,0 +1,158 @@
+<problems>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 42/student 42 (7).java</file>
+  <line>8</line>
+  <module>codeSmellsWork</module>
+  <package>noapplet.solar</package>
+  <entry_point TYPE="field" FQNAME="noapplet.solar.Moon distance" />
+  <problem_class id="FieldMayBeFinal" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Field may be 'final'</problem_class>
+  <description>Field &lt;code&gt;distance&lt;/code&gt; may be 'final' #loc</description>
+  <highlighted_element>distance</highlighted_element>
+  <language>JAVA</language>
+  <offset>16</offset>
+  <length>8</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 42/student 42 (7).java</file>
+  <line>8</line>
+  <module>codeSmellsWork</module>
+  <package>noapplet.solar</package>
+  <entry_point TYPE="field" FQNAME="noapplet.solar.Moon radius" />
+  <problem_class id="FieldMayBeFinal" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Field may be 'final'</problem_class>
+  <description>Field &lt;code&gt;radius&lt;/code&gt; may be 'final' #loc</description>
+  <highlighted_element>radius</highlighted_element>
+  <language>JAVA</language>
+  <offset>26</offset>
+  <length>6</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 42/student 42 (7).java</file>
+  <line>9</line>
+  <module>codeSmellsWork</module>
+  <package>noapplet.solar</package>
+  <entry_point TYPE="field" FQNAME="noapplet.solar.Moon speed" />
+  <problem_class id="FieldMayBeFinal" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Field may be 'final'</problem_class>
+  <description>Field &lt;code&gt;speed&lt;/code&gt; may be 'final' #loc</description>
+  <highlighted_element>speed</highlighted_element>
+  <language>JAVA</language>
+  <offset>26</offset>
+  <length>5</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 42/student 42 (7).java</file>
+  <line>10</line>
+  <module>codeSmellsWork</module>
+  <package>noapplet.solar</package>
+  <entry_point TYPE="field" FQNAME="noapplet.solar.Moon color" />
+  <problem_class id="FieldMayBeFinal" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Field may be 'final'</problem_class>
+  <description>Field &lt;code&gt;color&lt;/code&gt; may be 'final' #loc</description>
+  <highlighted_element>color</highlighted_element>
+  <language>JAVA</language>
+  <offset>18</offset>
+  <length>5</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 42/student 42 (7).java</file>
+  <line>11</line>
+  <module>codeSmellsWork</module>
+  <package>noapplet.solar</package>
+  <entry_point TYPE="field" FQNAME="noapplet.solar.Moon planet" />
+  <problem_class id="FieldMayBeFinal" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Field may be 'final'</problem_class>
+  <description>Field &lt;code&gt;planet&lt;/code&gt; may be 'final' #loc</description>
+  <highlighted_element>planet</highlighted_element>
+  <language>JAVA</language>
+  <offset>19</offset>
+  <length>6</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 42/student 42 (8).java</file>
+  <line>61</line>
+  <module>codeSmellsWork</module>
+  <package>noapplet</package>
+  <entry_point TYPE="field" FQNAME="noapplet.NoApplet parameters" />
+  <problem_class id="FieldMayBeFinal" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Field may be 'final'</problem_class>
+  <description>Field &lt;code&gt;parameters&lt;/code&gt; may be 'final' #loc</description>
+  <highlighted_element>parameters</highlighted_element>
+  <language>JAVA</language>
+  <offset>32</offset>
+  <length>10</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 42/student 42 (8).java</file>
+  <line>63</line>
+  <module>codeSmellsWork</module>
+  <package>noapplet</package>
+  <entry_point TYPE="field" FQNAME="noapplet.NoApplet statusBar" />
+  <problem_class id="FieldMayBeFinal" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Field may be 'final'</problem_class>
+  <description>Field &lt;code&gt;statusBar&lt;/code&gt; may be 'final' #loc</description>
+  <highlighted_element>statusBar</highlighted_element>
+  <language>JAVA</language>
+  <offset>19</offset>
+  <length>9</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 42/student 42 (9).java</file>
+  <line>7</line>
+  <module>codeSmellsWork</module>
+  <package>noapplet.solar</package>
+  <entry_point TYPE="field" FQNAME="noapplet.solar.Planet distance" />
+  <problem_class id="FieldMayBeFinal" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Field may be 'final'</problem_class>
+  <description>Field &lt;code&gt;distance&lt;/code&gt; may be 'final' #loc</description>
+  <highlighted_element>distance</highlighted_element>
+  <language>JAVA</language>
+  <offset>16</offset>
+  <length>8</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 42/student 42 (9).java</file>
+  <line>7</line>
+  <module>codeSmellsWork</module>
+  <package>noapplet.solar</package>
+  <entry_point TYPE="field" FQNAME="noapplet.solar.Planet radius" />
+  <problem_class id="FieldMayBeFinal" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Field may be 'final'</problem_class>
+  <description>Field &lt;code&gt;radius&lt;/code&gt; may be 'final' #loc</description>
+  <highlighted_element>radius</highlighted_element>
+  <language>JAVA</language>
+  <offset>26</offset>
+  <length>6</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 42/student 42 (9).java</file>
+  <line>8</line>
+  <module>codeSmellsWork</module>
+  <package>noapplet.solar</package>
+  <entry_point TYPE="field" FQNAME="noapplet.solar.Planet speed" />
+  <problem_class id="FieldMayBeFinal" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Field may be 'final'</problem_class>
+  <description>Field &lt;code&gt;speed&lt;/code&gt; may be 'final' #loc</description>
+  <highlighted_element>speed</highlighted_element>
+  <language>JAVA</language>
+  <offset>26</offset>
+  <length>5</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 42/student 42 (9).java</file>
+  <line>9</line>
+  <module>codeSmellsWork</module>
+  <package>noapplet.solar</package>
+  <entry_point TYPE="field" FQNAME="noapplet.solar.Planet color" />
+  <problem_class id="FieldMayBeFinal" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Field may be 'final'</problem_class>
+  <description>Field &lt;code&gt;color&lt;/code&gt; may be 'final' #loc</description>
+  <highlighted_element>color</highlighted_element>
+  <language>JAVA</language>
+  <offset>18</offset>
+  <length>5</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 42/student 42 (9).java</file>
+  <line>10</line>
+  <module>codeSmellsWork</module>
+  <package>noapplet.solar</package>
+  <entry_point TYPE="field" FQNAME="noapplet.solar.Planet sun" />
+  <problem_class id="FieldMayBeFinal" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Field may be 'final'</problem_class>
+  <description>Field &lt;code&gt;sun&lt;/code&gt; may be 'final' #loc</description>
+  <highlighted_element>sun</highlighted_element>
+  <language>JAVA</language>
+  <offset>16</offset>
+  <length>3</length>
+</problem>
+</problems>

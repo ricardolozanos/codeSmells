@@ -1,0 +1,15 @@
+<problems>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 25/student 25 (1).java</file>
+  <line>1</line>
+  <module>codeSmellsWork</module>
+  <package>&lt;default&gt;</package>
+  <entry_point TYPE="class" FQNAME="placeRecords" />
+  <problem_class id="ClassCanBeRecord" severity="WEAK WARNING" attribute_key="INFO_ATTRIBUTES">Class can be a record</problem_class>
+  <description>Class can be a record</description>
+  <highlighted_element>placeRecords</highlighted_element>
+  <language>JAVA</language>
+  <offset>19</offset>
+  <length>12</length>
+</problem>
+</problems>

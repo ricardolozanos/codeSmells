@@ -1,0 +1,54 @@
+<problems>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 34/student 34 (1).java</file>
+  <line>5</line>
+  <module>codeSmellsWork</module>
+  <package>excs.plotterEX</package>
+  <entry_point TYPE="method" FQNAME="excs.plotterEX.cosine double apply(double x)" />
+  <problem_class id="SameReturnValue" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Method always returns the same value</problem_class>
+  <description>Method &lt;code&gt;apply()&lt;/code&gt; always returns &lt;code&gt;0&lt;/code&gt;</description>
+  <highlighted_element>apply</highlighted_element>
+  <language>JAVA</language>
+  <offset>18</offset>
+  <length>5</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 34/student 34 (3).java</file>
+  <line>26</line>
+  <module>codeSmellsWork</module>
+  <package>excs.plotterEX</package>
+  <entry_point TYPE="method" FQNAME="excs.plotterEX.MultiPlotter double func(double x)" />
+  <problem_class id="SameReturnValue" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Method always returns the same value</problem_class>
+  <description>Method &lt;code&gt;func()&lt;/code&gt; always returns &lt;code&gt;0&lt;/code&gt;</description>
+  <highlighted_element>func</highlighted_element>
+  <language>JAVA</language>
+  <offset>18</offset>
+  <length>4</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 34/student 34 (5).java</file>
+  <line>6</line>
+  <module>codeSmellsWork</module>
+  <package>excs.plotterEX</package>
+  <entry_point TYPE="method" FQNAME="excs.plotterEX.sine double apply(double x)" />
+  <problem_class id="SameReturnValue" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Method always returns the same value</problem_class>
+  <description>Method &lt;code&gt;apply()&lt;/code&gt; always returns &lt;code&gt;0&lt;/code&gt;</description>
+  <highlighted_element>apply</highlighted_element>
+  <language>JAVA</language>
+  <offset>18</offset>
+  <length>5</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 34/student 34 (6).java</file>
+  <line>8</line>
+  <module>codeSmellsWork</module>
+  <package>excs.plotterEX</package>
+  <entry_point TYPE="method" FQNAME="excs.plotterEX.SineCosineMultiPlotter double func(double x)" />
+  <problem_class id="SameReturnValue" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Method always returns the same value</problem_class>
+  <description>Method &lt;code&gt;func()&lt;/code&gt; always returns &lt;code&gt;0&lt;/code&gt;</description>
+  <highlighted_element>func</highlighted_element>
+  <language>JAVA</language>
+  <offset>18</offset>
+  <length>4</length>
+</problem>
+</problems>

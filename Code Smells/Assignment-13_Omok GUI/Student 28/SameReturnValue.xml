@@ -1,0 +1,28 @@
+<problems>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 28/Student 28.java</file>
+  <line>44</line>
+  <module>codeSmellsWork</module>
+  <package>noapplet.example</package>
+  <entry_point TYPE="method" FQNAME="noapplet.example.OmokGUI java.lang.String human()" />
+  <problem_class id="SameReturnValue" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Method always returns the same value</problem_class>
+  <description>Method &lt;code&gt;human()&lt;/code&gt; always returns &lt;code&gt;Human selected!&lt;/code&gt;</description>
+  <highlighted_element>human</highlighted_element>
+  <language>JAVA</language>
+  <offset>18</offset>
+  <length>5</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 28/Student 28.java</file>
+  <line>45</line>
+  <module>codeSmellsWork</module>
+  <package>noapplet.example</package>
+  <entry_point TYPE="method" FQNAME="noapplet.example.OmokGUI java.lang.String computer()" />
+  <problem_class id="SameReturnValue" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Method always returns the same value</problem_class>
+  <description>Method &lt;code&gt;computer()&lt;/code&gt; always returns &lt;code&gt;Computer selected!&lt;/code&gt;</description>
+  <highlighted_element>computer</highlighted_element>
+  <language>JAVA</language>
+  <offset>18</offset>
+  <length>8</length>
+</problem>
+</problems>

@@ -1,0 +1,28 @@
+<problems>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 13/student 13 (1).java</file>
+  <line>22</line>
+  <module>codeSmellsWork</module>
+  <package>&lt;default&gt;</package>
+  <entry_point TYPE="method" FQNAME="UserInterface void drawBoard(int[][] board)" />
+  <problem_class id="EnhancedSwitchMigration" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Statement can be replaced with enhanced 'switch'</problem_class>
+  <description>Switch statement can be replaced with enhanced 'switch'</description>
+  <highlighted_element>switch</highlighted_element>
+  <language>JAVA</language>
+  <offset>16</offset>
+  <length>6</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 13/student 13 (1).java</file>
+  <line>64</line>
+  <module>codeSmellsWork</module>
+  <package>&lt;default&gt;</package>
+  <entry_point TYPE="method" FQNAME="UserInterface int getGameMode()" />
+  <problem_class id="EnhancedSwitchMigration" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Statement can be replaced with enhanced 'switch'</problem_class>
+  <description>Switch statement can be replaced with enhanced 'switch'</description>
+  <highlighted_element>switch</highlighted_element>
+  <language>JAVA</language>
+  <offset>12</offset>
+  <length>6</length>
+</problem>
+</problems>

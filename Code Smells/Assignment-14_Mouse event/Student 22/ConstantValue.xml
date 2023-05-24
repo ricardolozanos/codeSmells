@@ -1,0 +1,15 @@
+<problems>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 22/student 22 (1).java</file>
+  <line>33</line>
+  <module>codeSmellsWork</module>
+  <package>&lt;default&gt;</package>
+  <entry_point TYPE="method" FQNAME="Counter$1 void mouseExited(java.awt.event.MouseEvent e)" />
+  <problem_class id="ConstantValue" severity="WEAK WARNING" attribute_key="INFO_ATTRIBUTES">Constant values</problem_class>
+  <description>Value &lt;code&gt;color&lt;/code&gt; is always 'null'</description>
+  <highlighted_element>color</highlighted_element>
+  <language>JAVA</language>
+  <offset>30</offset>
+  <length>5</length>
+</problem>
+</problems>

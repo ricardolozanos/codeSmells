@@ -1,0 +1,15 @@
+<problems>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 42/Student 42.java</file>
+  <line>1</line>
+  <module>codeSmellsWork</module>
+  <package>JavaChat</package>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/src/Student 42/Student 42.java" />
+  <problem_class id="WrongPackageStatement" severity="ERROR" attribute_key="ERRORS_ATTRIBUTES">Wrong package statement</problem_class>
+  <description>Package name 'JavaChat' does not correspond to the file path 'Student 42'</description>
+  <highlighted_element>JavaChat</highlighted_element>
+  <language>JAVA</language>
+  <offset>8</offset>
+  <length>8</length>
+</problem>
+</problems>

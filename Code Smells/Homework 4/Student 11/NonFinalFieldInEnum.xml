@@ -1,0 +1,15 @@
+<problems>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 11/student 11 (1).java</file>
+  <line>6</line>
+  <module>codeSmellsWork</module>
+  <package>&lt;default&gt;</package>
+  <entry_point TYPE="field" FQNAME="Controller.GameMode mode" />
+  <problem_class id="NonFinalFieldInEnum" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Non-final field in 'enum'</problem_class>
+  <description>Non-final field &lt;code&gt;mode&lt;/code&gt; in enum 'GameMode' #loc</description>
+  <highlighted_element>mode</highlighted_element>
+  <language>JAVA</language>
+  <offset>22</offset>
+  <length>4</length>
+</problem>
+</problems>

@@ -1,0 +1,15 @@
+<problems>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 45/Student 45.java</file>
+  <line>26</line>
+  <module>codeSmellsWork</module>
+  <package>m</package>
+  <entry_point TYPE="method" FQNAME="m.Place boolean equals(java.lang.Object obj)" />
+  <problem_class id="QuestionableName" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Questionable name</problem_class>
+  <description>Questionable name &lt;code&gt;that&lt;/code&gt; #loc</description>
+  <highlighted_element>that</highlighted_element>
+  <language>JAVA</language>
+  <offset>12</offset>
+  <length>4</length>
+</problem>
+</problems>

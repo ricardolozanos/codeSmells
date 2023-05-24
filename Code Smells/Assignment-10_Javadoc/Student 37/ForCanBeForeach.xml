@@ -1,0 +1,41 @@
+<problems>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 37/Student 37.java</file>
+  <line>42</line>
+  <module>codeSmellsWork</module>
+  <package>omok</package>
+  <entry_point TYPE="method" FQNAME="omok.Board boolean isFull()" />
+  <problem_class id="ForCanBeForeach" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">'for' loop can be replaced with enhanced for loop</problem_class>
+  <description>&lt;code&gt;for&lt;/code&gt; loop can be replaced with enhanced 'for' #loc</description>
+  <highlighted_element>for</highlighted_element>
+  <language>JAVA</language>
+  <offset>1</offset>
+  <length>3</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 37/Student 37.java</file>
+  <line>56</line>
+  <module>codeSmellsWork</module>
+  <package>omok</package>
+  <entry_point TYPE="method" FQNAME="omok.Board boolean isWinner(java.lang.String player)" />
+  <problem_class id="ForCanBeForeach" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">'for' loop can be replaced with enhanced for loop</problem_class>
+  <description>&lt;code&gt;for&lt;/code&gt; loop can be replaced with enhanced 'for' #loc</description>
+  <highlighted_element>for</highlighted_element>
+  <language>JAVA</language>
+  <offset>1</offset>
+  <length>3</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 37/Student 37.java</file>
+  <line>90</line>
+  <module>codeSmellsWork</module>
+  <package>omok</package>
+  <entry_point TYPE="method" FQNAME="omok.Board boolean isWinner(java.lang.String player)" />
+  <problem_class id="ForCanBeForeach" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">'for' loop can be replaced with enhanced for loop</problem_class>
+  <description>&lt;code&gt;for&lt;/code&gt; loop can be replaced with enhanced 'for' #loc</description>
+  <highlighted_element>for</highlighted_element>
+  <language>JAVA</language>
+  <offset>2</offset>
+  <length>3</length>
+</problem>
+</problems>

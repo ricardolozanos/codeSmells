@@ -1,0 +1,15 @@
+<problems>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 10/student 10 (8).java</file>
+  <line>82</line>
+  <module>codeSmellsWork</module>
+  <package>omokGUI</package>
+  <entry_point TYPE="method" FQNAME="omokGUI.Board boolean isWin()" />
+  <problem_class id="CyclomaticComplexity" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Overly complex method</problem_class>
+  <description>Overly complex method &lt;code&gt;isWin()&lt;/code&gt; (cyclomatic complexity = 21) #loc</description>
+  <highlighted_element>isWin</highlighted_element>
+  <language>JAVA</language>
+  <offset>16</offset>
+  <length>5</length>
+</problem>
+</problems>

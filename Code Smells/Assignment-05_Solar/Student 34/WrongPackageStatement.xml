@@ -1,0 +1,15 @@
+<problems>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 34/Student 34.java</file>
+  <line>1</line>
+  <module>codeSmellsWork</module>
+  <package>noapplet.solarsystem</package>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/src/Student 34/Student 34.java" />
+  <problem_class id="WrongPackageStatement" severity="ERROR" attribute_key="ERRORS_ATTRIBUTES">Wrong package statement</problem_class>
+  <description>Package name 'noapplet.solarsystem' does not correspond to the file path 'Student 34'</description>
+  <highlighted_element>noapplet.solarsystem</highlighted_element>
+  <language>JAVA</language>
+  <offset>8</offset>
+  <length>20</length>
+</problem>
+</problems>

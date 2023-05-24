@@ -1,0 +1,146 @@
+<problems>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 28/student 28.java</file>
+  <line>49</line>
+  <module>codeSmellsWork</module>
+  <package>noapplet</package>
+  <entry_point TYPE="method" FQNAME="noapplet.Circle Circle(int x, int y, java.awt.Color c)" />
+  <problem_class id="SameParameterValue" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Method parameter is always the same value</problem_class>
+  <hints>
+    <hint value="x 10" />
+  </hints>
+  <description>Actual value of parameter &lt;code&gt;x&lt;/code&gt; is always '10'</description>
+  <highlighted_element>x</highlighted_element>
+  <language>JAVA</language>
+  <offset>25</offset>
+  <length>1</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 28/student 28.java</file>
+  <line>49</line>
+  <module>codeSmellsWork</module>
+  <package>noapplet</package>
+  <entry_point TYPE="method" FQNAME="noapplet.Circle Circle(int x, int y, java.awt.Color c)" />
+  <problem_class id="SameParameterValue" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Method parameter is always the same value</problem_class>
+  <hints>
+    <hint value="y 20" />
+  </hints>
+  <description>Actual value of parameter &lt;code&gt;y&lt;/code&gt; is always '20'</description>
+  <highlighted_element>y</highlighted_element>
+  <language>JAVA</language>
+  <offset>32</offset>
+  <length>1</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 28/student 28.java</file>
+  <line>49</line>
+  <module>codeSmellsWork</module>
+  <package>noapplet</package>
+  <entry_point TYPE="method" FQNAME="noapplet.Circle Circle(int x, int y, java.awt.Color c)" />
+  <problem_class id="SameParameterValue" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Method parameter is always the same value</problem_class>
+  <hints>
+    <hint value="c java.awt.Color.RED" />
+  </hints>
+  <description>Actual value of parameter &lt;code&gt;c&lt;/code&gt; is always 'Color.RED'</description>
+  <highlighted_element>c</highlighted_element>
+  <language>JAVA</language>
+  <offset>41</offset>
+  <length>1</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 28/student 28.java</file>
+  <line>59</line>
+  <module>codeSmellsWork</module>
+  <package>noapplet</package>
+  <entry_point TYPE="method" FQNAME="noapplet.Rectangle Rectangle(int x, int y, java.awt.Color c)" />
+  <problem_class id="SameParameterValue" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Method parameter is always the same value</problem_class>
+  <hints>
+    <hint value="x 110" />
+  </hints>
+  <description>Actual value of parameter &lt;code&gt;x&lt;/code&gt; is always '110'</description>
+  <highlighted_element>x</highlighted_element>
+  <language>JAVA</language>
+  <offset>28</offset>
+  <length>1</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 28/student 28.java</file>
+  <line>59</line>
+  <module>codeSmellsWork</module>
+  <package>noapplet</package>
+  <entry_point TYPE="method" FQNAME="noapplet.Rectangle Rectangle(int x, int y, java.awt.Color c)" />
+  <problem_class id="SameParameterValue" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Method parameter is always the same value</problem_class>
+  <hints>
+    <hint value="y 150" />
+  </hints>
+  <description>Actual value of parameter &lt;code&gt;y&lt;/code&gt; is always '150'</description>
+  <highlighted_element>y</highlighted_element>
+  <language>JAVA</language>
+  <offset>35</offset>
+  <length>1</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 28/student 28.java</file>
+  <line>59</line>
+  <module>codeSmellsWork</module>
+  <package>noapplet</package>
+  <entry_point TYPE="method" FQNAME="noapplet.Rectangle Rectangle(int x, int y, java.awt.Color c)" />
+  <problem_class id="SameParameterValue" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Method parameter is always the same value</problem_class>
+  <hints>
+    <hint value="c java.awt.Color.BLUE" />
+  </hints>
+  <description>Actual value of parameter &lt;code&gt;c&lt;/code&gt; is always 'Color.BLUE'</description>
+  <highlighted_element>c</highlighted_element>
+  <language>JAVA</language>
+  <offset>44</offset>
+  <length>1</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 28/student 28.java</file>
+  <line>69</line>
+  <module>codeSmellsWork</module>
+  <package>noapplet</package>
+  <entry_point TYPE="method" FQNAME="noapplet.Triangle Triangle(int x, int y, java.awt.Color c)" />
+  <problem_class id="SameParameterValue" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Method parameter is always the same value</problem_class>
+  <hints>
+    <hint value="x 270" />
+  </hints>
+  <description>Actual value of parameter &lt;code&gt;x&lt;/code&gt; is always '270'</description>
+  <highlighted_element>x</highlighted_element>
+  <language>JAVA</language>
+  <offset>27</offset>
+  <length>1</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 28/student 28.java</file>
+  <line>69</line>
+  <module>codeSmellsWork</module>
+  <package>noapplet</package>
+  <entry_point TYPE="method" FQNAME="noapplet.Triangle Triangle(int x, int y, java.awt.Color c)" />
+  <problem_class id="SameParameterValue" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Method parameter is always the same value</problem_class>
+  <hints>
+    <hint value="y 250" />
+  </hints>
+  <description>Actual value of parameter &lt;code&gt;y&lt;/code&gt; is always '250'</description>
+  <highlighted_element>y</highlighted_element>
+  <language>JAVA</language>
+  <offset>34</offset>
+  <length>1</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 28/student 28.java</file>
+  <line>69</line>
+  <module>codeSmellsWork</module>
+  <package>noapplet</package>
+  <entry_point TYPE="method" FQNAME="noapplet.Triangle Triangle(int x, int y, java.awt.Color c)" />
+  <problem_class id="SameParameterValue" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Method parameter is always the same value</problem_class>
+  <hints>
+    <hint value="c java.awt.Color.GREEN" />
+  </hints>
+  <description>Actual value of parameter &lt;code&gt;c&lt;/code&gt; is always 'Color.GREEN'</description>
+  <highlighted_element>c</highlighted_element>
+  <language>JAVA</language>
+  <offset>43</offset>
+  <length>1</length>
+</problem>
+</problems>

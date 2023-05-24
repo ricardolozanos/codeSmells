@@ -1,0 +1,544 @@
+<problems>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 45/student 45 (4).java</file>
+  <line>6</line>
+  <module>codeSmellsWork</module>
+  <package>noapplet.example.drawingboard</package>
+  <entry_point TYPE="field" FQNAME="noapplet.example.drawingboard.Triangle xlist" />
+  <language>JAVA</language>
+  <offset>18</offset>
+  <length>5</length>
+  <highlighted_element>xlist</highlighted_element>
+  <problem_class id="unused" severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">unused declaration</problem_class>
+  <hints>
+    <hint value="comment" />
+    <hint value="delete" />
+  </hints>
+  <description>Field has no usages.</description>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 45/student 45 (4).java</file>
+  <line>7</line>
+  <module>codeSmellsWork</module>
+  <package>noapplet.example.drawingboard</package>
+  <entry_point TYPE="field" FQNAME="noapplet.example.drawingboard.Triangle ylist" />
+  <language>JAVA</language>
+  <offset>18</offset>
+  <length>5</length>
+  <highlighted_element>ylist</highlighted_element>
+  <problem_class id="unused" severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">unused declaration</problem_class>
+  <hints>
+    <hint value="comment" />
+    <hint value="delete" />
+  </hints>
+  <description>Field has no usages.</description>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 45/student 45 (4).java</file>
+  <line>9</line>
+  <module>codeSmellsWork</module>
+  <package>noapplet.example.drawingboard</package>
+  <entry_point TYPE="method" FQNAME="noapplet.example.drawingboard.Triangle Triangle(int x, int y, java.awt.Color c, int[] xlist, int[] ylist)" />
+  <problem_class id="unused" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Unused declaration</problem_class>
+  <hints>
+    <hint value="xlist" />
+  </hints>
+  <description>Parameter &lt;code&gt;xlist&lt;/code&gt; is not used</description>
+  <highlighted_element>xlist</highlighted_element>
+  <language>JAVA</language>
+  <offset>52</offset>
+  <length>5</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 45/student 45 (4).java</file>
+  <line>9</line>
+  <module>codeSmellsWork</module>
+  <package>noapplet.example.drawingboard</package>
+  <entry_point TYPE="method" FQNAME="noapplet.example.drawingboard.Triangle Triangle(int x, int y, java.awt.Color c, int[] xlist, int[] ylist)" />
+  <problem_class id="unused" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Unused declaration</problem_class>
+  <hints>
+    <hint value="ylist" />
+  </hints>
+  <description>Parameter &lt;code&gt;ylist&lt;/code&gt; is not used</description>
+  <highlighted_element>ylist</highlighted_element>
+  <language>JAVA</language>
+  <offset>65</offset>
+  <length>5</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 45/student 45 (4).java</file>
+  <line>22</line>
+  <module>codeSmellsWork</module>
+  <package>noapplet.example.drawingboard</package>
+  <entry_point TYPE="method" FQNAME="noapplet.example.drawingboard.Triangle void initAnimation()" />
+  <language>JAVA</language>
+  <offset>19</offset>
+  <length>13</length>
+  <highlighted_element>initAnimation</highlighted_element>
+  <problem_class id="unused" severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">unused declaration</problem_class>
+  <hints>
+    <hint value="comment" />
+    <hint value="delete" />
+  </hints>
+  <description>Method is never used.</description>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 45/student 45 (4).java</file>
+  <line>26</line>
+  <module>codeSmellsWork</module>
+  <package>noapplet.example.drawingboard</package>
+  <entry_point TYPE="method" FQNAME="noapplet.example.drawingboard.Triangle void paintComponent(java.awt.Graphics g)" />
+  <language>JAVA</language>
+  <offset>16</offset>
+  <length>14</length>
+  <highlighted_element>paintComponent</highlighted_element>
+  <problem_class id="unused" severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">unused declaration</problem_class>
+  <hints>
+    <hint value="comment" />
+    <hint value="delete" />
+  </hints>
+  <description>Method is never used.</description>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 45/student 45 (4).java</file>
+  <line>32</line>
+  <module>codeSmellsWork</module>
+  <package>noapplet.example.drawingboard</package>
+  <entry_point TYPE="method" FQNAME="noapplet.example.drawingboard.Triangle void draw(java.awt.Graphics g)" />
+  <language>JAVA</language>
+  <offset>16</offset>
+  <length>4</length>
+  <highlighted_element>draw</highlighted_element>
+  <problem_class id="unused" severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">unused declaration</problem_class>
+  <hints>
+    <hint value="comment" />
+    <hint value="delete" />
+  </hints>
+  <description>Method is never used.</description>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 45/student 45 (4).java</file>
+  <line>32</line>
+  <module>codeSmellsWork</module>
+  <package>noapplet.example.drawingboard</package>
+  <entry_point TYPE="method" FQNAME="noapplet.example.drawingboard.Triangle void draw(java.awt.Graphics g)" />
+  <problem_class id="unused" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Unused declaration</problem_class>
+  <hints>
+    <hint value="g" />
+  </hints>
+  <description>Parameter &lt;code&gt;g&lt;/code&gt; is not used</description>
+  <highlighted_element>g</highlighted_element>
+  <language>JAVA</language>
+  <offset>30</offset>
+  <length>1</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 45/student 45 (4).java</file>
+  <line>33</line>
+  <module>codeSmellsWork</module>
+  <package>noapplet.example.drawingboard</package>
+  <entry_point TYPE="method" FQNAME="noapplet.example.drawingboard.Triangle void draw(java.awt.Graphics g)" />
+  <problem_class id="unused" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Unused declaration</problem_class>
+  <hints />
+  <description>Variable &lt;code&gt;g2&lt;/code&gt; is never used</description>
+  <highlighted_element>g2</highlighted_element>
+  <language>JAVA</language>
+  <offset>17</offset>
+  <length>2</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 45/student 45 (5).java</file>
+  <line>6</line>
+  <module>codeSmellsWork</module>
+  <package>noapplet.example.drawingboard</package>
+  <entry_point TYPE="field" FQNAME="noapplet.example.drawingboard.Circle width" />
+  <language>JAVA</language>
+  <offset>16</offset>
+  <length>5</length>
+  <highlighted_element>width</highlighted_element>
+  <problem_class id="unused" severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">unused declaration</problem_class>
+  <hints>
+    <hint value="comment" />
+    <hint value="delete" />
+  </hints>
+  <description>Field has no usages.</description>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 45/student 45 (5).java</file>
+  <line>7</line>
+  <module>codeSmellsWork</module>
+  <package>noapplet.example.drawingboard</package>
+  <entry_point TYPE="field" FQNAME="noapplet.example.drawingboard.Circle height" />
+  <language>JAVA</language>
+  <offset>16</offset>
+  <length>6</length>
+  <highlighted_element>height</highlighted_element>
+  <problem_class id="unused" severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">unused declaration</problem_class>
+  <hints>
+    <hint value="comment" />
+    <hint value="delete" />
+  </hints>
+  <description>Field has no usages.</description>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 45/student 45 (5).java</file>
+  <line>8</line>
+  <module>codeSmellsWork</module>
+  <package>noapplet.example.drawingboard</package>
+  <entry_point TYPE="method" FQNAME="noapplet.example.drawingboard.Circle Circle(int x, int y, java.awt.Color c, int width, int height)" />
+  <problem_class id="unused" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Unused declaration</problem_class>
+  <hints>
+    <hint value="width" />
+  </hints>
+  <description>Parameter &lt;code&gt;width&lt;/code&gt; is not used</description>
+  <highlighted_element>width</highlighted_element>
+  <language>JAVA</language>
+  <offset>48</offset>
+  <length>5</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 45/student 45 (5).java</file>
+  <line>8</line>
+  <module>codeSmellsWork</module>
+  <package>noapplet.example.drawingboard</package>
+  <entry_point TYPE="method" FQNAME="noapplet.example.drawingboard.Circle Circle(int x, int y, java.awt.Color c, int width, int height)" />
+  <problem_class id="unused" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Unused declaration</problem_class>
+  <hints>
+    <hint value="height" />
+  </hints>
+  <description>Parameter &lt;code&gt;height&lt;/code&gt; is not used</description>
+  <highlighted_element>height</highlighted_element>
+  <language>JAVA</language>
+  <offset>59</offset>
+  <length>6</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 45/student 45 (5).java</file>
+  <line>18</line>
+  <module>codeSmellsWork</module>
+  <package>noapplet.example.drawingboard</package>
+  <entry_point TYPE="method" FQNAME="noapplet.example.drawingboard.Circle void initAnimation()" />
+  <language>JAVA</language>
+  <offset>19</offset>
+  <length>13</length>
+  <highlighted_element>initAnimation</highlighted_element>
+  <problem_class id="unused" severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">unused declaration</problem_class>
+  <hints>
+    <hint value="comment" />
+    <hint value="delete" />
+  </hints>
+  <description>Method is never used.</description>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 45/student 45 (5).java</file>
+  <line>22</line>
+  <module>codeSmellsWork</module>
+  <package>noapplet.example.drawingboard</package>
+  <entry_point TYPE="method" FQNAME="noapplet.example.drawingboard.Circle void paintComponent(java.awt.Graphics g)" />
+  <language>JAVA</language>
+  <offset>16</offset>
+  <length>14</length>
+  <highlighted_element>paintComponent</highlighted_element>
+  <problem_class id="unused" severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">unused declaration</problem_class>
+  <hints>
+    <hint value="comment" />
+    <hint value="delete" />
+  </hints>
+  <description>Method is never used.</description>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 45/student 45 (5).java</file>
+  <line>22</line>
+  <module>codeSmellsWork</module>
+  <package>noapplet.example.drawingboard</package>
+  <entry_point TYPE="method" FQNAME="noapplet.example.drawingboard.Circle void paintComponent(java.awt.Graphics g)" />
+  <problem_class id="unused" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Unused declaration</problem_class>
+  <hints>
+    <hint value="g" />
+  </hints>
+  <description>Parameter &lt;code&gt;g&lt;/code&gt; is not used</description>
+  <highlighted_element>g</highlighted_element>
+  <language>JAVA</language>
+  <offset>40</offset>
+  <length>1</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 45/student 45 (5).java</file>
+  <line>27</line>
+  <module>codeSmellsWork</module>
+  <package>noapplet.example.drawingboard</package>
+  <entry_point TYPE="method" FQNAME="noapplet.example.drawingboard.Circle void draw(java.awt.Graphics g)" />
+  <language>JAVA</language>
+  <offset>16</offset>
+  <length>4</length>
+  <highlighted_element>draw</highlighted_element>
+  <problem_class id="unused" severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">unused declaration</problem_class>
+  <hints>
+    <hint value="comment" />
+    <hint value="delete" />
+  </hints>
+  <description>Method is never used.</description>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 45/student 45 (5).java</file>
+  <line>27</line>
+  <module>codeSmellsWork</module>
+  <package>noapplet.example.drawingboard</package>
+  <entry_point TYPE="method" FQNAME="noapplet.example.drawingboard.Circle void draw(java.awt.Graphics g)" />
+  <problem_class id="unused" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Unused declaration</problem_class>
+  <hints>
+    <hint value="g" />
+  </hints>
+  <description>Parameter &lt;code&gt;g&lt;/code&gt; is not used</description>
+  <highlighted_element>g</highlighted_element>
+  <language>JAVA</language>
+  <offset>30</offset>
+  <length>1</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 45/student 45 (5).java</file>
+  <line>28</line>
+  <module>codeSmellsWork</module>
+  <package>noapplet.example.drawingboard</package>
+  <entry_point TYPE="method" FQNAME="noapplet.example.drawingboard.Circle void draw(java.awt.Graphics g)" />
+  <problem_class id="unused" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Unused declaration</problem_class>
+  <hints />
+  <description>Variable &lt;code&gt;g2&lt;/code&gt; is never used</description>
+  <highlighted_element>g2</highlighted_element>
+  <language>JAVA</language>
+  <offset>17</offset>
+  <length>2</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 45/student 45 (7).java</file>
+  <line>6</line>
+  <module>codeSmellsWork</module>
+  <package>noapplet.example.drawingboard</package>
+  <entry_point TYPE="field" FQNAME="noapplet.example.drawingboard.Rectangle height" />
+  <language>JAVA</language>
+  <offset>16</offset>
+  <length>6</length>
+  <highlighted_element>height</highlighted_element>
+  <problem_class id="unused" severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">unused declaration</problem_class>
+  <hints>
+    <hint value="comment" />
+    <hint value="delete" />
+  </hints>
+  <description>Field has no usages.</description>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 45/student 45 (7).java</file>
+  <line>7</line>
+  <module>codeSmellsWork</module>
+  <package>noapplet.example.drawingboard</package>
+  <entry_point TYPE="field" FQNAME="noapplet.example.drawingboard.Rectangle width" />
+  <language>JAVA</language>
+  <offset>16</offset>
+  <length>5</length>
+  <highlighted_element>width</highlighted_element>
+  <problem_class id="unused" severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">unused declaration</problem_class>
+  <hints>
+    <hint value="comment" />
+    <hint value="delete" />
+  </hints>
+  <description>Field has no usages.</description>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 45/student 45 (7).java</file>
+  <line>8</line>
+  <module>codeSmellsWork</module>
+  <package>noapplet.example.drawingboard</package>
+  <entry_point TYPE="method" FQNAME="noapplet.example.drawingboard.Rectangle Rectangle(int x, int y, java.awt.Color c, int width, int height)" />
+  <problem_class id="unused" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Unused declaration</problem_class>
+  <hints>
+    <hint value="width" />
+  </hints>
+  <description>Parameter &lt;code&gt;width&lt;/code&gt; is not used</description>
+  <highlighted_element>width</highlighted_element>
+  <language>JAVA</language>
+  <offset>51</offset>
+  <length>5</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 45/student 45 (7).java</file>
+  <line>8</line>
+  <module>codeSmellsWork</module>
+  <package>noapplet.example.drawingboard</package>
+  <entry_point TYPE="method" FQNAME="noapplet.example.drawingboard.Rectangle Rectangle(int x, int y, java.awt.Color c, int width, int height)" />
+  <problem_class id="unused" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Unused declaration</problem_class>
+  <hints>
+    <hint value="height" />
+  </hints>
+  <description>Parameter &lt;code&gt;height&lt;/code&gt; is not used</description>
+  <highlighted_element>height</highlighted_element>
+  <language>JAVA</language>
+  <offset>62</offset>
+  <length>6</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 45/student 45 (7).java</file>
+  <line>16</line>
+  <module>codeSmellsWork</module>
+  <package>noapplet.example.drawingboard</package>
+  <entry_point TYPE="method" FQNAME="noapplet.example.drawingboard.Rectangle void paintComponent(java.awt.Graphics g)" />
+  <language>JAVA</language>
+  <offset>16</offset>
+  <length>14</length>
+  <highlighted_element>paintComponent</highlighted_element>
+  <problem_class id="unused" severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">unused declaration</problem_class>
+  <hints>
+    <hint value="comment" />
+    <hint value="delete" />
+  </hints>
+  <description>Method is never used.</description>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 45/student 45 (7).java</file>
+  <line>20</line>
+  <module>codeSmellsWork</module>
+  <package>noapplet.example.drawingboard</package>
+  <entry_point TYPE="method" FQNAME="noapplet.example.drawingboard.Rectangle void draw(java.awt.Graphics g)" />
+  <language>JAVA</language>
+  <offset>16</offset>
+  <length>4</length>
+  <highlighted_element>draw</highlighted_element>
+  <problem_class id="unused" severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">unused declaration</problem_class>
+  <hints>
+    <hint value="comment" />
+    <hint value="delete" />
+  </hints>
+  <description>Method is never used.</description>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 45/student 45 (7).java</file>
+  <line>20</line>
+  <module>codeSmellsWork</module>
+  <package>noapplet.example.drawingboard</package>
+  <entry_point TYPE="method" FQNAME="noapplet.example.drawingboard.Rectangle void draw(java.awt.Graphics g)" />
+  <problem_class id="unused" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Unused declaration</problem_class>
+  <hints>
+    <hint value="g" />
+  </hints>
+  <description>Parameter &lt;code&gt;g&lt;/code&gt; is not used</description>
+  <highlighted_element>g</highlighted_element>
+  <language>JAVA</language>
+  <offset>30</offset>
+  <length>1</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 45/student 45 (7).java</file>
+  <line>21</line>
+  <module>codeSmellsWork</module>
+  <package>noapplet.example.drawingboard</package>
+  <entry_point TYPE="method" FQNAME="noapplet.example.drawingboard.Rectangle void draw(java.awt.Graphics g)" />
+  <problem_class id="unused" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Unused declaration</problem_class>
+  <hints />
+  <description>Variable &lt;code&gt;g2&lt;/code&gt; is never used</description>
+  <highlighted_element>g2</highlighted_element>
+  <language>JAVA</language>
+  <offset>17</offset>
+  <length>2</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 45/student 45 (8).java</file>
+  <line>11</line>
+  <module>codeSmellsWork</module>
+  <package>noapplet.example.drawingboard</package>
+  <entry_point TYPE="method" FQNAME="noapplet.example.drawingboard.Shape Shape(int x, int y, java.awt.Color c)" />
+  <language>JAVA</language>
+  <offset>14</offset>
+  <length>5</length>
+  <highlighted_element>Shape</highlighted_element>
+  <problem_class id="unused" severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">unused declaration</problem_class>
+  <hints>
+    <hint value="comment" />
+    <hint value="delete" />
+  </hints>
+  <description>Constructor is never used.</description>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 45/student 45 (8).java</file>
+  <line>16</line>
+  <module>codeSmellsWork</module>
+  <package>noapplet.example.drawingboard</package>
+  <entry_point TYPE="method" FQNAME="noapplet.example.drawingboard.Shape void draw(java.awt.Graphics g)" />
+  <language>JAVA</language>
+  <offset>25</offset>
+  <length>4</length>
+  <highlighted_element>draw</highlighted_element>
+  <problem_class id="unused" severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">unused declaration</problem_class>
+  <hints>
+    <hint value="comment" />
+    <hint value="delete" />
+  </hints>
+  <description>Method is never used.</description>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 45/student 45 (8).java</file>
+  <line>17</line>
+  <module>codeSmellsWork</module>
+  <package>noapplet.example.drawingboard</package>
+  <entry_point TYPE="method" FQNAME="noapplet.example.drawingboard.Shape int getX()" />
+  <language>JAVA</language>
+  <offset>15</offset>
+  <length>4</length>
+  <highlighted_element>getX</highlighted_element>
+  <problem_class id="unused" severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">unused declaration</problem_class>
+  <hints>
+    <hint value="comment" />
+    <hint value="delete" />
+  </hints>
+  <description>Method is never used.</description>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 45/student 45 (8).java</file>
+  <line>18</line>
+  <module>codeSmellsWork</module>
+  <package>noapplet.example.drawingboard</package>
+  <entry_point TYPE="method" FQNAME="noapplet.example.drawingboard.Shape int getY()" />
+  <language>JAVA</language>
+  <offset>15</offset>
+  <length>4</length>
+  <highlighted_element>getY</highlighted_element>
+  <problem_class id="unused" severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">unused declaration</problem_class>
+  <hints>
+    <hint value="comment" />
+    <hint value="delete" />
+  </hints>
+  <description>Method is never used.</description>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 45/student 45 (8).java</file>
+  <line>19</line>
+  <module>codeSmellsWork</module>
+  <package>noapplet.example.drawingboard</package>
+  <entry_point TYPE="method" FQNAME="noapplet.example.drawingboard.Shape java.awt.Color getColor()" />
+  <language>JAVA</language>
+  <offset>17</offset>
+  <length>8</length>
+  <highlighted_element>getColor</highlighted_element>
+  <problem_class id="unused" severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">unused declaration</problem_class>
+  <hints>
+    <hint value="comment" />
+    <hint value="delete" />
+  </hints>
+  <description>Method is never used.</description>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 45/student 45 (6).java</file>
+  <line>5</line>
+  <module>codeSmellsWork</module>
+  <package>noapplet.example.drawingboard</package>
+  <entry_point TYPE="class" FQNAME="noapplet.example.drawingboard.DrawingBoard" />
+  <language>JAVA</language>
+  <offset>13</offset>
+  <length>12</length>
+  <highlighted_element>DrawingBoard</highlighted_element>
+  <problem_class id="unused" severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">unused declaration</problem_class>
+  <hints>
+    <hint value="comment" />
+    <hint value="delete" />
+  </hints>
+  <description>Class is not instantiated.</description>
+</problem>
+</problems>

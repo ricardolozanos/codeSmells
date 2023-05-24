@@ -1,0 +1,67 @@
+<problems>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 04/student 04 (1).java</file>
+  <line>92</line>
+  <module>codeSmellsWork</module>
+  <package>noapplet.assignments.HW2</package>
+  <entry_point TYPE="method" FQNAME="noapplet.assignments.HW2.Board boolean hasWinner(int row, int col)" />
+  <problem_class id="JavadocDeclaration" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Javadoc declaration problems</problem_class>
+  <description>&lt;code&gt;@param row&lt;/code&gt; tag description is missing</description>
+  <highlighted_element>row</highlighted_element>
+  <language>JAVA</language>
+  <offset>14</offset>
+  <length>3</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 04/student 04 (1).java</file>
+  <line>93</line>
+  <module>codeSmellsWork</module>
+  <package>noapplet.assignments.HW2</package>
+  <entry_point TYPE="method" FQNAME="noapplet.assignments.HW2.Board boolean hasWinner(int row, int col)" />
+  <problem_class id="JavadocDeclaration" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Javadoc declaration problems</problem_class>
+  <description>&lt;code&gt;@param col&lt;/code&gt; tag description is missing</description>
+  <highlighted_element>col</highlighted_element>
+  <language>JAVA</language>
+  <offset>14</offset>
+  <length>3</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 04/student 04 (1).java</file>
+  <line>165</line>
+  <module>codeSmellsWork</module>
+  <package>noapplet.assignments.HW2</package>
+  <entry_point TYPE="method" FQNAME="noapplet.assignments.HW2.Board Coordinate getSuggestion(char playerSymbol)" />
+  <problem_class id="JavadocDeclaration" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Javadoc declaration problems</problem_class>
+  <description>&lt;code&gt;@param playerSymbol&lt;/code&gt; tag description is missing</description>
+  <highlighted_element>playerSymbol</highlighted_element>
+  <language>JAVA</language>
+  <offset>14</offset>
+  <length>12</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 04/student 04 (1).java</file>
+  <line>214</line>
+  <module>codeSmellsWork</module>
+  <package>noapplet.assignments.HW2</package>
+  <entry_point TYPE="method" FQNAME="noapplet.assignments.HW2.Board boolean isCellEmpty(int row, int col)" />
+  <problem_class id="JavadocDeclaration" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Javadoc declaration problems</problem_class>
+  <description>&lt;code&gt;@param row&lt;/code&gt; tag description is missing</description>
+  <highlighted_element>row</highlighted_element>
+  <language>JAVA</language>
+  <offset>14</offset>
+  <length>3</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 04/student 04 (1).java</file>
+  <line>215</line>
+  <module>codeSmellsWork</module>
+  <package>noapplet.assignments.HW2</package>
+  <entry_point TYPE="method" FQNAME="noapplet.assignments.HW2.Board boolean isCellEmpty(int row, int col)" />
+  <problem_class id="JavadocDeclaration" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Javadoc declaration problems</problem_class>
+  <description>&lt;code&gt;@param col&lt;/code&gt; tag description is missing</description>
+  <highlighted_element>col</highlighted_element>
+  <language>JAVA</language>
+  <offset>14</offset>
+  <length>3</length>
+</problem>
+</problems>

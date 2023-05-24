@@ -1,0 +1,15 @@
+<problems>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 10/Student 10.java</file>
+  <line>21</line>
+  <module>codeSmellsWork</module>
+  <package>omokInfo</package>
+  <entry_point TYPE="method" FQNAME="omokInfo.OmokInfo void main(java.lang.String[] args)" />
+  <problem_class id="TryWithIdenticalCatches" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Identical 'catch' branches in 'try' statement</problem_class>
+  <description>'catch' branch identical to 'MalformedURLException' branch #loc</description>
+  <highlighted_element>catch (IOException e)</highlighted_element>
+  <language>JAVA</language>
+  <offset>4</offset>
+  <length>21</length>
+</problem>
+</problems>

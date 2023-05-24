@@ -1,0 +1,15 @@
+<problems>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 04/student 04 (1).java</file>
+  <line>155</line>
+  <module>codeSmellsWork</module>
+  <package>noapplet.assignments.HW2</package>
+  <entry_point TYPE="method" FQNAME="noapplet.assignments.HW2.Board boolean hasWinner(int row, int col)" />
+  <problem_class id="TrivialIf" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Redundant 'if' statement</problem_class>
+  <description>&lt;code&gt;if&lt;/code&gt; statement can be simplified #loc</description>
+  <highlighted_element>if</highlighted_element>
+  <language>JAVA</language>
+  <offset>8</offset>
+  <length>2</length>
+</problem>
+</problems>

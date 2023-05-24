@@ -1,0 +1,87 @@
+<problems>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 17/student 17 (1).java</file>
+  <line>9</line>
+  <module>codeSmellsWork</module>
+  <package>&lt;default&gt;</package>
+  <entry_point TYPE="method" FQNAME="Bounceable void bounce()" />
+  <language>JAVA</language>
+  <offset>16</offset>
+  <length>6</length>
+  <highlighted_element>bounce</highlighted_element>
+  <problem_class id="unused" severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">unused declaration</problem_class>
+  <hints>
+    <hint value="comment" />
+    <hint value="delete" />
+  </hints>
+  <description>Method is never used as a member of this interface, but only as a member of the implementation class(es). The project will stay compilable if the method is removed from the interface.</description>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 17/student 17 (1).java</file>
+  <line>35</line>
+  <module>codeSmellsWork</module>
+  <package>&lt;default&gt;</package>
+  <entry_point TYPE="method" FQNAME="BouncingBall BouncingBall(int numOfBalls)" />
+  <language>JAVA</language>
+  <offset>11</offset>
+  <length>12</length>
+  <highlighted_element>BouncingBall</highlighted_element>
+  <problem_class id="unused" severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">unused declaration</problem_class>
+  <hints>
+    <hint value="comment" />
+    <hint value="delete" />
+  </hints>
+  <description>Constructor is never used.</description>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 17/student 17 (1).java</file>
+  <line>153</line>
+  <module>codeSmellsWork</module>
+  <package>&lt;default&gt;</package>
+  <entry_point TYPE="method" FQNAME="BouncingBall.Ball void bounce()" />
+  <language>JAVA</language>
+  <offset>29</offset>
+  <length>6</length>
+  <highlighted_element>bounce</highlighted_element>
+  <problem_class id="unused" severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">unused declaration</problem_class>
+  <hints>
+    <hint value="comment" />
+    <hint value="delete" />
+  </hints>
+  <description>Method is never used as a member of this abstract&amp;nbsp;class, but only as a member of the implementation class(es). The project will stay compilable if the method is removed from the abstract&amp;nbsp;class.</description>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 17/student 17 (1).java</file>
+  <line>154</line>
+  <module>codeSmellsWork</module>
+  <package>&lt;default&gt;</package>
+  <entry_point TYPE="method" FQNAME="BouncingBall.Ball boolean collidesWith(BouncingBall.CircleBall ball)" />
+  <language>JAVA</language>
+  <offset>32</offset>
+  <length>12</length>
+  <highlighted_element>collidesWith</highlighted_element>
+  <problem_class id="unused" severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">unused declaration</problem_class>
+  <hints>
+    <hint value="comment" />
+    <hint value="delete" />
+  </hints>
+  <description>Method is never used as a member of this abstract&amp;nbsp;class, but only as a member of the implementation class(es). The project will stay compilable if the method is removed from the abstract&amp;nbsp;class.</description>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 17/student 17 (1).java</file>
+  <line>155</line>
+  <module>codeSmellsWork</module>
+  <package>&lt;default&gt;</package>
+  <entry_point TYPE="method" FQNAME="BouncingBall.Ball void reverse()" />
+  <language>JAVA</language>
+  <offset>29</offset>
+  <length>7</length>
+  <highlighted_element>reverse</highlighted_element>
+  <problem_class id="unused" severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">unused declaration</problem_class>
+  <hints>
+    <hint value="comment" />
+    <hint value="delete" />
+  </hints>
+  <description>Method is never used as a member of this abstract&amp;nbsp;class, but only as a member of the implementation class(es). The project will stay compilable if the method is removed from the abstract&amp;nbsp;class.</description>
+</problem>
+</problems>

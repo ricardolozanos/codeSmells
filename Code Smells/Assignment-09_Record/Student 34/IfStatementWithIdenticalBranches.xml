@@ -1,0 +1,15 @@
+<problems>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 34/student 34.java</file>
+  <line>22</line>
+  <module>codeSmellsWork</module>
+  <package>noapplet.recordThing</package>
+  <entry_point TYPE="method" FQNAME="noapplet.recordThing.recordEx boolean equals(java.lang.Object o)" />
+  <problem_class id="IfStatementWithIdenticalBranches" severity="WEAK WARNING" attribute_key="INFO_ATTRIBUTES">'if' statement with identical branches</problem_class>
+  <description>'if' statement can be collapsed</description>
+  <highlighted_element>if</highlighted_element>
+  <language>JAVA</language>
+  <offset>8</offset>
+  <length>2</length>
+</problem>
+</problems>

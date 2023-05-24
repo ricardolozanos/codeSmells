@@ -1,0 +1,15 @@
+<problems>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 04/student 04 (3).java</file>
+  <line>33</line>
+  <module>codeSmellsWork</module>
+  <package>exercises.Generalization.MultiPlotter</package>
+  <entry_point TYPE="method" FQNAME="exercises.Generalization.MultiPlotter.MultiPlotter void plotFunction(java.awt.Graphics g)" />
+  <problem_class id="MethodWithMultipleLoops" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Method with multiple loops</problem_class>
+  <description>&lt;code&gt;plotFunction&lt;/code&gt; contains 2 loops #loc</description>
+  <highlighted_element>plotFunction</highlighted_element>
+  <language>JAVA</language>
+  <offset>16</offset>
+  <length>12</length>
+</problem>
+</problems>

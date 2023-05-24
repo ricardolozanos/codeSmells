@@ -1,0 +1,80 @@
+<problems>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 42/student 42 (4).java</file>
+  <line>1</line>
+  <module>codeSmellsWork</module>
+  <package>noapplet.solar</package>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/src/Student 42/student 42 (4).java" />
+  <problem_class id="WrongPackageStatement" severity="ERROR" attribute_key="ERRORS_ATTRIBUTES">Wrong package statement</problem_class>
+  <description>Package name 'noapplet.solar' does not correspond to the file path 'Student 42'</description>
+  <highlighted_element>noapplet.solar</highlighted_element>
+  <language>JAVA</language>
+  <offset>8</offset>
+  <length>14</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 42/student 42 (5).java</file>
+  <line>1</line>
+  <module>codeSmellsWork</module>
+  <package>noapplet</package>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/src/Student 42/student 42 (5).java" />
+  <problem_class id="WrongPackageStatement" severity="ERROR" attribute_key="ERRORS_ATTRIBUTES">Wrong package statement</problem_class>
+  <description>Package name 'noapplet' does not correspond to the file path 'Student 42'</description>
+  <highlighted_element>noapplet</highlighted_element>
+  <language>JAVA</language>
+  <offset>8</offset>
+  <length>8</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 42/student 42 (6).java</file>
+  <line>1</line>
+  <module>codeSmellsWork</module>
+  <package>noapplet.solar</package>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/src/Student 42/student 42 (6).java" />
+  <problem_class id="WrongPackageStatement" severity="ERROR" attribute_key="ERRORS_ATTRIBUTES">Wrong package statement</problem_class>
+  <description>Package name 'noapplet.solar' does not correspond to the file path 'Student 42'</description>
+  <highlighted_element>noapplet.solar</highlighted_element>
+  <language>JAVA</language>
+  <offset>8</offset>
+  <length>14</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 42/student 42 (7).java</file>
+  <line>1</line>
+  <module>codeSmellsWork</module>
+  <package>noapplet.solar</package>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/src/Student 42/student 42 (7).java" />
+  <problem_class id="WrongPackageStatement" severity="ERROR" attribute_key="ERRORS_ATTRIBUTES">Wrong package statement</problem_class>
+  <description>Package name 'noapplet.solar' does not correspond to the file path 'Student 42'</description>
+  <highlighted_element>noapplet.solar</highlighted_element>
+  <language>JAVA</language>
+  <offset>8</offset>
+  <length>14</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 42/student 42 (8).java</file>
+  <line>1</line>
+  <module>codeSmellsWork</module>
+  <package>noapplet</package>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/src/Student 42/student 42 (8).java" />
+  <problem_class id="WrongPackageStatement" severity="ERROR" attribute_key="ERRORS_ATTRIBUTES">Wrong package statement</problem_class>
+  <description>Package name 'noapplet' does not correspond to the file path 'Student 42'</description>
+  <highlighted_element>noapplet</highlighted_element>
+  <language>JAVA</language>
+  <offset>8</offset>
+  <length>8</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 42/student 42 (9).java</file>
+  <line>1</line>
+  <module>codeSmellsWork</module>
+  <package>noapplet.solar</package>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/src/Student 42/student 42 (9).java" />
+  <problem_class id="WrongPackageStatement" severity="ERROR" attribute_key="ERRORS_ATTRIBUTES">Wrong package statement</problem_class>
+  <description>Package name 'noapplet.solar' does not correspond to the file path 'Student 42'</description>
+  <highlighted_element>noapplet.solar</highlighted_element>
+  <language>JAVA</language>
+  <offset>8</offset>
+  <length>14</length>
+</problem>
+</problems>

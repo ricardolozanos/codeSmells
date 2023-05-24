@@ -1,0 +1,15 @@
+<problems>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 24/student 24 (1).java</file>
+  <line>14</line>
+  <module>codeSmellsWork</module>
+  <package>noapplet.example</package>
+  <entry_point TYPE="method" FQNAME="noapplet.example.ConsoleUI ConsoleUI(java.io.PrintStream out)" />
+  <problem_class id="AccessStaticViaInstance" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Access static member via instance reference</problem_class>
+  <description>Static member 'noapplet.example.ConsoleUI.out' accessed via instance reference</description>
+  <highlighted_element>this.out</highlighted_element>
+  <language>JAVA</language>
+  <offset>38</offset>
+  <length>8</length>
+</problem>
+</problems>

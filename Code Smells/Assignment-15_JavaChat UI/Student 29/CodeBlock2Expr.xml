@@ -1,0 +1,15 @@
+<problems>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 29/student 29 (1).java</file>
+  <line>71</line>
+  <module>codeSmellsWork</module>
+  <package>counter</package>
+  <entry_point TYPE="method" FQNAME="counter.JavaChat void configureGui()" />
+  <problem_class id="CodeBlock2Expr" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Statement lambda can be replaced with expression lambda</problem_class>
+  <description>Statement lambda can be replaced with expression lambda</description>
+  <highlighted_element>{</highlighted_element>
+  <language>JAVA</language>
+  <offset>33</offset>
+  <length>1</length>
+</problem>
+</problems>

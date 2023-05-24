@@ -1,0 +1,80 @@
+<problems>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 12/student 12 (8).java</file>
+  <line>130</line>
+  <module>codeSmellsWork</module>
+  <package>&lt;default&gt;</package>
+  <entry_point TYPE="method" FQNAME="GUIOmok void addIOListener(OmokInterface listener)" />
+  <problem_class id="CodeBlock2Expr" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Statement lambda can be replaced with expression lambda</problem_class>
+  <description>Statement lambda can be replaced with expression lambda</description>
+  <highlighted_element>{</highlighted_element>
+  <language>JAVA</language>
+  <offset>36</offset>
+  <length>1</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 12/student 12 (8).java</file>
+  <line>133</line>
+  <module>codeSmellsWork</module>
+  <package>&lt;default&gt;</package>
+  <entry_point TYPE="method" FQNAME="GUIOmok void addIOListener(OmokInterface listener)" />
+  <problem_class id="CodeBlock2Expr" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Statement lambda can be replaced with expression lambda</problem_class>
+  <description>Statement lambda can be replaced with expression lambda</description>
+  <highlighted_element>{</highlighted_element>
+  <language>JAVA</language>
+  <offset>38</offset>
+  <length>1</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 12/student 12 (8).java</file>
+  <line>136</line>
+  <module>codeSmellsWork</module>
+  <package>&lt;default&gt;</package>
+  <entry_point TYPE="method" FQNAME="GUIOmok void addIOListener(OmokInterface listener)" />
+  <problem_class id="CodeBlock2Expr" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Statement lambda can be replaced with expression lambda</problem_class>
+  <description>Statement lambda can be replaced with expression lambda</description>
+  <highlighted_element>{</highlighted_element>
+  <language>JAVA</language>
+  <offset>40</offset>
+  <length>1</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 12/student 12 (8).java</file>
+  <line>141</line>
+  <module>codeSmellsWork</module>
+  <package>&lt;default&gt;</package>
+  <entry_point TYPE="method" FQNAME="GUIOmok void addIOListener(OmokInterface listener)" />
+  <problem_class id="CodeBlock2Expr" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Statement lambda can be replaced with expression lambda</problem_class>
+  <description>Statement lambda can be replaced with expression lambda</description>
+  <highlighted_element>{</highlighted_element>
+  <language>JAVA</language>
+  <offset>35</offset>
+  <length>1</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 12/student 12 (8).java</file>
+  <line>144</line>
+  <module>codeSmellsWork</module>
+  <package>&lt;default&gt;</package>
+  <entry_point TYPE="method" FQNAME="GUIOmok void addIOListener(OmokInterface listener)" />
+  <problem_class id="CodeBlock2Expr" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Statement lambda can be replaced with expression lambda</problem_class>
+  <description>Statement lambda can be replaced with expression lambda</description>
+  <highlighted_element>{</highlighted_element>
+  <language>JAVA</language>
+  <offset>39</offset>
+  <length>1</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 12/student 12 (8).java</file>
+  <line>148</line>
+  <module>codeSmellsWork</module>
+  <package>&lt;default&gt;</package>
+  <entry_point TYPE="method" FQNAME="GUIOmok void addIOListener(OmokInterface listener)" />
+  <problem_class id="CodeBlock2Expr" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Statement lambda can be replaced with expression lambda</problem_class>
+  <description>Statement lambda can be replaced with expression lambda</description>
+  <highlighted_element>{</highlighted_element>
+  <language>JAVA</language>
+  <offset>38</offset>
+  <length>1</length>
+</problem>
+</problems>

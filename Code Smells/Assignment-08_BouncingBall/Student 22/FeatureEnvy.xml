@@ -1,0 +1,15 @@
+<problems>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 22/student 22 (2).java</file>
+  <line>81</line>
+  <module>codeSmellsWork</module>
+  <package>noapplet.BounceBall</package>
+  <entry_point TYPE="method" FQNAME="noapplet.BounceBall.CircleBall CircleBall(java.awt.Color color, noapplet.BounceBall.BouncingBall bouncingBall)" />
+  <problem_class id="FeatureEnvy" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Feature envy</problem_class>
+  <description>Class 'BouncingBall' accessed repeatedly in method &lt;code&gt;CircleBall()&lt;/code&gt; #loc</description>
+  <highlighted_element>CircleBall</highlighted_element>
+  <language>JAVA</language>
+  <offset>14</offset>
+  <length>10</length>
+</problem>
+</problems>

@@ -1,0 +1,15 @@
+<problems>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 41/Student 41.java</file>
+  <line>67</line>
+  <module>codeSmellsWork</module>
+  <package>noapplet</package>
+  <entry_point TYPE="method" FQNAME="noapplet.ChatDialog void configureGui()" />
+  <problem_class id="StringEquality" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">String comparison using '==', instead of 'equals()'</problem_class>
+  <description>String values are compared using &lt;code&gt;!=&lt;/code&gt;, not 'equals()' #loc</description>
+  <highlighted_element>!=</highlighted_element>
+  <language>JAVA</language>
+  <offset>39</offset>
+  <length>2</length>
+</problem>
+</problems>

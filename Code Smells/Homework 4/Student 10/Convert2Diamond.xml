@@ -1,0 +1,41 @@
+<problems>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 10/student 10 (1).java</file>
+  <line>15</line>
+  <module>codeSmellsWork</module>
+  <package>omokGUI</package>
+  <entry_point TYPE="field" FQNAME="omokGUI.BoardPanel spots" />
+  <problem_class id="Convert2Diamond" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Explicit type can be replaced with '&lt;&gt;'</problem_class>
+  <description>Explicit type argument int[] can be replaced with &lt;&gt;</description>
+  <highlighted_element>int[]</highlighted_element>
+  <language>JAVA</language>
+  <offset>43</offset>
+  <length>5</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 10/student 10 (1).java</file>
+  <line>17</line>
+  <module>codeSmellsWork</module>
+  <package>omokGUI</package>
+  <entry_point TYPE="field" FQNAME="omokGUI.BoardPanel winning" />
+  <problem_class id="Convert2Diamond" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Explicit type can be replaced with '&lt;&gt;'</problem_class>
+  <description>Explicit type argument int[] can be replaced with &lt;&gt;</description>
+  <highlighted_element>int[]</highlighted_element>
+  <language>JAVA</language>
+  <offset>44</offset>
+  <length>5</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 10/student 10 (8).java</file>
+  <line>20</line>
+  <module>codeSmellsWork</module>
+  <package>omokGUI</package>
+  <entry_point TYPE="field" FQNAME="omokGUI.Board winningRow" />
+  <problem_class id="Convert2Diamond" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Explicit type can be replaced with '&lt;&gt;'</problem_class>
+  <description>Explicit type argument int[] can be replaced with &lt;&gt;</description>
+  <highlighted_element>int[]</highlighted_element>
+  <language>JAVA</language>
+  <offset>48</offset>
+  <length>5</length>
+</problem>
+</problems>

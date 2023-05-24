@@ -1,0 +1,34 @@
+<problems>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 14/student 14 (1).java</file>
+  <line>6</line>
+  <module>codeSmellsWork</module>
+  <package>game</package>
+  <entry_point TYPE="method" FQNAME="game.App void main(java.lang.String[] args)" />
+  <problem_class id="RedundantThrows" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Redundant 'throws' clause</problem_class>
+  <hints>
+    <hint value="Exception" />
+  </hints>
+  <description>The declared exception &lt;code&gt;Exception&lt;/code&gt; is never thrown</description>
+  <highlighted_element>Exception</highlighted_element>
+  <language>JAVA</language>
+  <offset>50</offset>
+  <length>9</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 14/student 14 (7).java</file>
+  <line>6</line>
+  <module>codeSmellsWork</module>
+  <package>game.GUI</package>
+  <entry_point TYPE="method" FQNAME="game.GUI.main void main(java.lang.String[] args)" />
+  <problem_class id="RedundantThrows" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Redundant 'throws' clause</problem_class>
+  <hints>
+    <hint value="Exception" />
+  </hints>
+  <description>The declared exception &lt;code&gt;Exception&lt;/code&gt; is never thrown</description>
+  <highlighted_element>Exception</highlighted_element>
+  <language>JAVA</language>
+  <offset>50</offset>
+  <length>9</length>
+</problem>
+</problems>

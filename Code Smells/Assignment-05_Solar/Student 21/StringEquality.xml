@@ -1,0 +1,41 @@
+<problems>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 21/student 21 (1).java</file>
+  <line>125</line>
+  <module>codeSmellsWork</module>
+  <package>noapplet.example</package>
+  <entry_point TYPE="method" FQNAME="noapplet.example.Planet Planet(int distance, int radius, int angle, int center, java.awt.Color color, int speed, java.lang.String planetName)" />
+  <problem_class id="StringEquality" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">String comparison using '==', instead of 'equals()'</problem_class>
+  <description>String values are compared using &lt;code&gt;==&lt;/code&gt;, not 'equals()' #loc</description>
+  <highlighted_element>==</highlighted_element>
+  <language>JAVA</language>
+  <offset>16</offset>
+  <length>2</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 21/student 21 (1).java</file>
+  <line>128</line>
+  <module>codeSmellsWork</module>
+  <package>noapplet.example</package>
+  <entry_point TYPE="method" FQNAME="noapplet.example.Planet Planet(int distance, int radius, int angle, int center, java.awt.Color color, int speed, java.lang.String planetName)" />
+  <problem_class id="StringEquality" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">String comparison using '==', instead of 'equals()'</problem_class>
+  <description>String values are compared using &lt;code&gt;==&lt;/code&gt;, not 'equals()' #loc</description>
+  <highlighted_element>==</highlighted_element>
+  <language>JAVA</language>
+  <offset>16</offset>
+  <length>2</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 21/student 21 (1).java</file>
+  <line>131</line>
+  <module>codeSmellsWork</module>
+  <package>noapplet.example</package>
+  <entry_point TYPE="method" FQNAME="noapplet.example.Planet Planet(int distance, int radius, int angle, int center, java.awt.Color color, int speed, java.lang.String planetName)" />
+  <problem_class id="StringEquality" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">String comparison using '==', instead of 'equals()'</problem_class>
+  <description>String values are compared using &lt;code&gt;==&lt;/code&gt;, not 'equals()' #loc</description>
+  <highlighted_element>==</highlighted_element>
+  <language>JAVA</language>
+  <offset>16</offset>
+  <length>2</length>
+</problem>
+</problems>

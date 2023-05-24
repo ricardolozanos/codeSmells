@@ -1,0 +1,162 @@
+<problems>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 45/student 45 (2).java</file>
+  <line>30</line>
+  <module>codeSmellsWork</module>
+  <package>console</package>
+  <entry_point TYPE="method" FQNAME="console.ConsoleUITest void start()" />
+  <problem_class id="EmptyMethod" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Empty method</problem_class>
+  <hints>
+    <hint value="false" />
+  </hints>
+  <description>The method is empty</description>
+  <highlighted_element>start</highlighted_element>
+  <language>JAVA</language>
+  <offset>9</offset>
+  <length>5</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 45/student 45 (2).java</file>
+  <line>34</line>
+  <module>codeSmellsWork</module>
+  <package>console</package>
+  <entry_point TYPE="method" FQNAME="console.ConsoleUITest void stop()" />
+  <problem_class id="EmptyMethod" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Empty method</problem_class>
+  <hints>
+    <hint value="false" />
+  </hints>
+  <description>The method is empty</description>
+  <highlighted_element>stop</highlighted_element>
+  <language>JAVA</language>
+  <offset>9</offset>
+  <length>4</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 45/student 45 (2).java</file>
+  <line>38</line>
+  <module>codeSmellsWork</module>
+  <package>console</package>
+  <entry_point TYPE="method" FQNAME="console.ConsoleUITest void consoleUI()" />
+  <problem_class id="EmptyMethod" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Empty method</problem_class>
+  <hints>
+    <hint value="false" />
+  </hints>
+  <description>The method is empty</description>
+  <highlighted_element>consoleUI</highlighted_element>
+  <language>JAVA</language>
+  <offset>9</offset>
+  <length>9</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 45/student 45 (2).java</file>
+  <line>44</line>
+  <module>codeSmellsWork</module>
+  <package>console</package>
+  <entry_point TYPE="method" FQNAME="console.ConsoleUITest void testConsoleUI()" />
+  <problem_class id="EmptyMethod" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Empty method</problem_class>
+  <hints>
+    <hint value="false" />
+  </hints>
+  <description>The method is empty</description>
+  <highlighted_element>testConsoleUI</highlighted_element>
+  <language>JAVA</language>
+  <offset>9</offset>
+  <length>13</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 45/student 45 (2).java</file>
+  <line>48</line>
+  <module>codeSmellsWork</module>
+  <package>console</package>
+  <entry_point TYPE="method" FQNAME="console.ConsoleUITest void movePlace()" />
+  <problem_class id="EmptyMethod" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Empty method</problem_class>
+  <hints>
+    <hint value="false" />
+  </hints>
+  <description>The method is empty</description>
+  <highlighted_element>movePlace</highlighted_element>
+  <language>JAVA</language>
+  <offset>9</offset>
+  <length>9</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 45/student 45 (2).java</file>
+  <line>53</line>
+  <module>codeSmellsWork</module>
+  <package>console</package>
+  <entry_point TYPE="method" FQNAME="console.ConsoleUITest void interactMsg()" />
+  <problem_class id="EmptyMethod" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Empty method</problem_class>
+  <hints>
+    <hint value="false" />
+  </hints>
+  <description>The method is empty</description>
+  <highlighted_element>interactMsg</highlighted_element>
+  <language>JAVA</language>
+  <offset>9</offset>
+  <length>11</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 45/student 45 (2).java</file>
+  <line>57</line>
+  <module>codeSmellsWork</module>
+  <package>console</package>
+  <entry_point TYPE="method" FQNAME="console.ConsoleUITest void drawBoard()" />
+  <problem_class id="EmptyMethod" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Empty method</problem_class>
+  <hints>
+    <hint value="false" />
+  </hints>
+  <description>The method is empty</description>
+  <highlighted_element>drawBoard</highlighted_element>
+  <language>JAVA</language>
+  <offset>9</offset>
+  <length>9</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 45/student 45 (2).java</file>
+  <line>61</line>
+  <module>codeSmellsWork</module>
+  <package>console</package>
+  <entry_point TYPE="method" FQNAME="console.ConsoleUITest void gameMode()" />
+  <problem_class id="EmptyMethod" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Empty method</problem_class>
+  <hints>
+    <hint value="false" />
+  </hints>
+  <description>The method is empty</description>
+  <highlighted_element>gameMode</highlighted_element>
+  <language>JAVA</language>
+  <offset>9</offset>
+  <length>8</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 45/student 45 (2).java</file>
+  <line>65</line>
+  <module>codeSmellsWork</module>
+  <package>console</package>
+  <entry_point TYPE="method" FQNAME="console.ConsoleUITest void testStart()" />
+  <problem_class id="EmptyMethod" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Empty method</problem_class>
+  <hints>
+    <hint value="false" />
+  </hints>
+  <description>The method is empty</description>
+  <highlighted_element>testStart</highlighted_element>
+  <language>JAVA</language>
+  <offset>9</offset>
+  <length>9</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 45/student 45 (2).java</file>
+  <line>69</line>
+  <module>codeSmellsWork</module>
+  <package>console</package>
+  <entry_point TYPE="method" FQNAME="console.ConsoleUITest void testStop()" />
+  <problem_class id="EmptyMethod" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Empty method</problem_class>
+  <hints>
+    <hint value="false" />
+  </hints>
+  <description>The method is empty</description>
+  <highlighted_element>testStop</highlighted_element>
+  <language>JAVA</language>
+  <offset>9</offset>
+  <length>8</length>
+</problem>
+</problems>

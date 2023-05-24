@@ -1,0 +1,15 @@
+<problems>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 07/student 07.java</file>
+  <line>10</line>
+  <module>codeSmellsWork</module>
+  <package>noapplet.example</package>
+  <entry_point TYPE="field" FQNAME="noapplet.example.drawingBoard s" />
+  <problem_class id="CStyleArrayDeclaration" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">C-style array declaration</problem_class>
+  <description>C-style array declaration of field &lt;code&gt;s&lt;/code&gt; #loc</description>
+  <highlighted_element>s</highlighted_element>
+  <language>JAVA</language>
+  <offset>18</offset>
+  <length>1</length>
+</problem>
+</problems>

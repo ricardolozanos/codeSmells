@@ -1,0 +1,15 @@
+<problems>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 12/Student 12.java</file>
+  <line>15</line>
+  <module>codeSmellsWork</module>
+  <package>&lt;default&gt;</package>
+  <entry_point TYPE="method" FQNAME="WebService void main(java.lang.String[] args)" />
+  <problem_class id="StringBufferReplaceableByStringBuilder" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">'StringBuffer' may be 'StringBuilder'</problem_class>
+  <description>&lt;code&gt;StringBuffer response&lt;/code&gt; may be declared as 'StringBuilder' #loc</description>
+  <highlighted_element>response</highlighted_element>
+  <language>JAVA</language>
+  <offset>25</offset>
+  <length>8</length>
+</problem>
+</problems>

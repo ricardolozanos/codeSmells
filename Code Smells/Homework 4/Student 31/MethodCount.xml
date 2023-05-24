@@ -1,0 +1,15 @@
+<problems>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 31/student 31 (4).java</file>
+  <line>5</line>
+  <module>codeSmellsWork</module>
+  <package>noapplet.example</package>
+  <entry_point TYPE="class" FQNAME="noapplet.example.Map" />
+  <problem_class id="MethodCount" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Class with too many methods</problem_class>
+  <description>&lt;code&gt;Map&lt;/code&gt; has too many methods (method count = 27) #loc</description>
+  <highlighted_element>Map</highlighted_element>
+  <language>JAVA</language>
+  <offset>13</offset>
+  <length>3</length>
+</problem>
+</problems>

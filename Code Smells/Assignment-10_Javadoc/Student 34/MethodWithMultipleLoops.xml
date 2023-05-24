@@ -1,0 +1,41 @@
+<problems>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 34/student 34 (1).java</file>
+  <line>10</line>
+  <module>codeSmellsWork</module>
+  <package>HomeWork2</package>
+  <entry_point TYPE="method" FQNAME="HomeWork2.Board void fillBoard()" />
+  <problem_class id="MethodWithMultipleLoops" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Method with multiple loops</problem_class>
+  <description>&lt;code&gt;fillBoard&lt;/code&gt; contains 2 loops #loc</description>
+  <highlighted_element>fillBoard</highlighted_element>
+  <language>JAVA</language>
+  <offset>23</offset>
+  <length>9</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 34/student 34 (1).java</file>
+  <line>21</line>
+  <module>codeSmellsWork</module>
+  <package>HomeWork2</package>
+  <entry_point TYPE="method" FQNAME="HomeWork2.Board void printBoard()" />
+  <problem_class id="MethodWithMultipleLoops" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Method with multiple loops</problem_class>
+  <description>&lt;code&gt;printBoard&lt;/code&gt; contains 2 loops #loc</description>
+  <highlighted_element>printBoard</highlighted_element>
+  <language>JAVA</language>
+  <offset>23</offset>
+  <length>10</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 34/student 34 (1).java</file>
+  <line>75</line>
+  <module>codeSmellsWork</module>
+  <package>HomeWork2</package>
+  <entry_point TYPE="method" FQNAME="HomeWork2.Board int winCheck(int x, int y, java.lang.Character userChar, int dirX, int dirY)" />
+  <problem_class id="MethodWithMultipleLoops" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Method with multiple loops</problem_class>
+  <description>&lt;code&gt;winCheck&lt;/code&gt; contains 2 loops #loc</description>
+  <highlighted_element>winCheck</highlighted_element>
+  <language>JAVA</language>
+  <offset>22</offset>
+  <length>8</length>
+</problem>
+</problems>

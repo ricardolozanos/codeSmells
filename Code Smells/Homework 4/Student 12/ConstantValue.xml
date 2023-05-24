@@ -1,0 +1,28 @@
+<problems>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 12/student 12 (7).java</file>
+  <line>70</line>
+  <module>codeSmellsWork</module>
+  <package>&lt;default&gt;</package>
+  <entry_point TYPE="method" FQNAME="Controller void makeMove(int x, int y)" />
+  <problem_class id="ConstantValue" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Constant values</problem_class>
+  <description>Condition &lt;code&gt;!won&lt;/code&gt; is always &lt;code&gt;true&lt;/code&gt; when reached</description>
+  <highlighted_element>!won</highlighted_element>
+  <language>JAVA</language>
+  <offset>39</offset>
+  <length>4</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 12/student 12 (7).java</file>
+  <line>70</line>
+  <module>codeSmellsWork</module>
+  <package>&lt;default&gt;</package>
+  <entry_point TYPE="method" FQNAME="Controller void makeMove(int x, int y)" />
+  <problem_class id="ConstantValue" severity="WEAK WARNING" attribute_key="INFO_ATTRIBUTES">Constant values</problem_class>
+  <description>Value &lt;code&gt;won&lt;/code&gt; is always 'false'</description>
+  <highlighted_element>won</highlighted_element>
+  <language>JAVA</language>
+  <offset>40</offset>
+  <length>3</length>
+</problem>
+</problems>

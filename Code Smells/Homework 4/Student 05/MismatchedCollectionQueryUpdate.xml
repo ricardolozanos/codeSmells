@@ -1,0 +1,15 @@
+<problems>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 05/student 05 (3).java</file>
+  <line>10</line>
+  <module>codeSmellsWork</module>
+  <package>omok.model</package>
+  <entry_point TYPE="field" FQNAME="omok.model.Board winningRow" />
+  <problem_class id="MismatchedCollectionQueryUpdate" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Mismatched query and update of collection</problem_class>
+  <description>Contents of collection &lt;code&gt;winningRow&lt;/code&gt; are updated, but never queried #loc</description>
+  <highlighted_element>winningRow</highlighted_element>
+  <language>JAVA</language>
+  <offset>24</offset>
+  <length>10</length>
+</problem>
+</problems>

@@ -1,0 +1,15 @@
+<problems>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 11/student 11 (7).java</file>
+  <line>5</line>
+  <module>codeSmellsWork</module>
+  <package>&lt;default&gt;</package>
+  <entry_point TYPE="class" FQNAME="BoardPanel" />
+  <problem_class id="FieldCount" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Class with too many fields</problem_class>
+  <description>&lt;code&gt;BoardPanel&lt;/code&gt; has too many fields (field count = 12) #loc</description>
+  <highlighted_element>BoardPanel</highlighted_element>
+  <language>JAVA</language>
+  <offset>13</offset>
+  <length>10</length>
+</problem>
+</problems>

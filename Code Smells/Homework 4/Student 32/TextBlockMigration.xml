@@ -1,0 +1,15 @@
+<problems>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 32/student 32 (4).java</file>
+  <line>14</line>
+  <module>codeSmellsWork</module>
+  <package>&lt;default&gt;</package>
+  <entry_point TYPE="method" FQNAME="Dialogs void aboutMSG()" />
+  <problem_class id="TextBlockMigration" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Text block can be used</problem_class>
+  <description>Concatenation can be replaced with text block</description>
+  <highlighted_element>\n</highlighted_element>
+  <language>JAVA</language>
+  <offset>62</offset>
+  <length>2</length>
+</problem>
+</problems>

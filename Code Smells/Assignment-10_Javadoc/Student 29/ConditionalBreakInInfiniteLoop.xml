@@ -1,0 +1,28 @@
+<problems>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 29/student 29 (1).java</file>
+  <line>38</line>
+  <module>codeSmellsWork</module>
+  <package>&lt;default&gt;</package>
+  <entry_point TYPE="method" FQNAME="OmokUI void setupOmokGame(OmokGame omokGame)" />
+  <problem_class id="ConditionalBreakInInfiniteLoop" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Conditional break inside loop</problem_class>
+  <description>Conditional break inside loop</description>
+  <highlighted_element>while</highlighted_element>
+  <language>JAVA</language>
+  <offset>4</offset>
+  <length>5</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 29/student 29 (1).java</file>
+  <line>46</line>
+  <module>codeSmellsWork</module>
+  <package>&lt;default&gt;</package>
+  <entry_point TYPE="method" FQNAME="OmokUI void setupOmokGame(OmokGame omokGame)" />
+  <problem_class id="ConditionalBreakInInfiniteLoop" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Conditional break inside loop</problem_class>
+  <description>Conditional break inside loop</description>
+  <highlighted_element>while</highlighted_element>
+  <language>JAVA</language>
+  <offset>4</offset>
+  <length>5</length>
+</problem>
+</problems>

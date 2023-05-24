@@ -1,0 +1,15 @@
+<problems>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 20/student 20 (2).java</file>
+  <line>212</line>
+  <module>codeSmellsWork</module>
+  <package>noapplet</package>
+  <entry_point TYPE="method" FQNAME="noapplet.NoApplet int parseInt(java.lang.String value, int defaultValue)" />
+  <problem_class id="CatchMayIgnoreException" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Catch block may ignore exception</problem_class>
+  <description>Empty &lt;code&gt;catch&lt;/code&gt; block #loc</description>
+  <highlighted_element>catch</highlighted_element>
+  <language>JAVA</language>
+  <offset>10</offset>
+  <length>5</length>
+</problem>
+</problems>

@@ -1,0 +1,15 @@
+<problems>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 40/Student 40.java</file>
+  <line>144</line>
+  <module>codeSmellsWork</module>
+  <package>&lt;default&gt;</package>
+  <entry_point TYPE="method" FQNAME="Moon Moon(int distance, int radius, int angle, int speed, java.awt.Color color, Planet planet)" />
+  <problem_class id="UnusedAssignment" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Unused assignment</problem_class>
+  <description>The value &lt;code&gt;planet&lt;/code&gt; assigned to &lt;code&gt;this.planet&lt;/code&gt; is never used</description>
+  <highlighted_element>this.planet</highlighted_element>
+  <language>JAVA</language>
+  <offset>8</offset>
+  <length>11</length>
+</problem>
+</problems>

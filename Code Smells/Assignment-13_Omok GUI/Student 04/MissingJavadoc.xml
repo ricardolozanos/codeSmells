@@ -1,0 +1,41 @@
+<problems>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 04/Student 04.java</file>
+  <line>15</line>
+  <module>codeSmellsWork</module>
+  <package>exercises.OmokUI</package>
+  <entry_point TYPE="class" FQNAME="exercises.OmokUI.Omok" />
+  <problem_class id="MissingJavadoc" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Missing Javadoc</problem_class>
+  <description>Required Javadoc is absent</description>
+  <highlighted_element>Omok</highlighted_element>
+  <language>JAVA</language>
+  <offset>13</offset>
+  <length>4</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 04/Student 04.java</file>
+  <line>16</line>
+  <module>codeSmellsWork</module>
+  <package>exercises.OmokUI</package>
+  <entry_point TYPE="method" FQNAME="exercises.OmokUI.Omok Omok()" />
+  <problem_class id="MissingJavadoc" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Missing Javadoc</problem_class>
+  <description>Required Javadoc is absent</description>
+  <highlighted_element>Omok</highlighted_element>
+  <language>JAVA</language>
+  <offset>11</offset>
+  <length>4</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 04/Student 04.java</file>
+  <line>53</line>
+  <module>codeSmellsWork</module>
+  <package>exercises.OmokUI</package>
+  <entry_point TYPE="method" FQNAME="exercises.OmokUI.Omok void main(java.lang.String[] args)" />
+  <problem_class id="MissingJavadoc" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Missing Javadoc</problem_class>
+  <description>Required Javadoc is absent</description>
+  <highlighted_element>main</highlighted_element>
+  <language>JAVA</language>
+  <offset>23</offset>
+  <length>4</length>
+</problem>
+</problems>

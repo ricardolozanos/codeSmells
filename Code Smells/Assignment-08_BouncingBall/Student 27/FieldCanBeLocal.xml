@@ -1,0 +1,15 @@
+<problems>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 27/student 27 (3).java</file>
+  <line>18</line>
+  <module>codeSmellsWork</module>
+  <package>bouncing_Ball</package>
+  <entry_point TYPE="field" FQNAME="bouncing_Ball.BouncingBall numOfBalls" />
+  <problem_class id="FieldCanBeLocal" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Field can be local</problem_class>
+  <description>Field can be converted to a local variable</description>
+  <highlighted_element>numOfBalls</highlighted_element>
+  <language>JAVA</language>
+  <offset>16</offset>
+  <length>10</length>
+</problem>
+</problems>

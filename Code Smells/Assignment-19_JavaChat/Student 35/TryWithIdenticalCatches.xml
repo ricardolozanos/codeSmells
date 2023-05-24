@@ -1,0 +1,15 @@
+<problems>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 35/student 35 (1).java</file>
+  <line>125</line>
+  <module>codeSmellsWork</module>
+  <package>chat</package>
+  <entry_point TYPE="method" FQNAME="chat.ChatDialogUI void connectClicked(java.awt.event.ActionEvent event)" />
+  <problem_class id="TryWithIdenticalCatches" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Identical 'catch' branches in 'try' statement</problem_class>
+  <description>'catch' branch identical to 'UnknownHostException' branch #loc</description>
+  <highlighted_element>catch (IOException e)</highlighted_element>
+  <language>JAVA</language>
+  <offset>4</offset>
+  <length>21</length>
+</problem>
+</problems>

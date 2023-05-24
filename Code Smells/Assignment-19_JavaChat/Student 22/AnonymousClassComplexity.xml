@@ -1,0 +1,15 @@
+<problems>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 22/student 22 (1).java</file>
+  <line>71</line>
+  <module>codeSmellsWork</module>
+  <package>&lt;default&gt;</package>
+  <entry_point TYPE="class" FQNAME="ChatDialog$1" />
+  <problem_class id="AnonymousClassComplexity" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Overly complex anonymous class</problem_class>
+  <description>Overly complex anonymous class (cyclomatic complexity = 7) #loc</description>
+  <highlighted_element>ActionListener</highlighted_element>
+  <language>JAVA</language>
+  <offset>44</offset>
+  <length>14</length>
+</problem>
+</problems>

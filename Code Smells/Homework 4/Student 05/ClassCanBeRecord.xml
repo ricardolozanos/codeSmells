@@ -1,0 +1,28 @@
+<problems>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 05/student 05 (3).java</file>
+  <line>232</line>
+  <module>codeSmellsWork</module>
+  <package>omok.model</package>
+  <entry_point TYPE="class" FQNAME="omok.model.Board.Place" />
+  <problem_class id="ClassCanBeRecord" severity="WEAK WARNING" attribute_key="INFO_ATTRIBUTES">Class can be a record</problem_class>
+  <description>Class can be a record</description>
+  <highlighted_element>Place</highlighted_element>
+  <language>JAVA</language>
+  <offset>24</offset>
+  <length>5</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 05/student 05 (3).java</file>
+  <line>260</line>
+  <module>codeSmellsWork</module>
+  <package>omok.model</package>
+  <entry_point TYPE="class" FQNAME="omok.model.Player" />
+  <problem_class id="ClassCanBeRecord" severity="WEAK WARNING" attribute_key="INFO_ATTRIBUTES">Class can be a record</problem_class>
+  <description>Class can be a record</description>
+  <highlighted_element>Player</highlighted_element>
+  <language>JAVA</language>
+  <offset>13</offset>
+  <length>6</length>
+</problem>
+</problems>

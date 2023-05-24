@@ -1,0 +1,184 @@
+<problems>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 35/student 35 (2).java</file>
+  <line>3</line>
+  <module>codeSmellsWork</module>
+  <package>drawingBoard</package>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/src/Student 35/student 35 (2).java" />
+  <problem_class id="SingleClassImport" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Single class import</problem_class>
+  <description>Single class import &lt;code&gt;import java.awt.Color;&lt;/code&gt; #loc</description>
+  <highlighted_element>import java.awt.Color;</highlighted_element>
+  <language>JAVA</language>
+  <offset>0</offset>
+  <length>22</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 35/student 35 (2).java</file>
+  <line>4</line>
+  <module>codeSmellsWork</module>
+  <package>drawingBoard</package>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/src/Student 35/student 35 (2).java" />
+  <problem_class id="SingleClassImport" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Single class import</problem_class>
+  <description>Single class import &lt;code&gt;import java.awt.Graphics;&lt;/code&gt; #loc</description>
+  <highlighted_element>import java.awt.Graphics;</highlighted_element>
+  <language>JAVA</language>
+  <offset>0</offset>
+  <length>25</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 35/student 35 (3).java</file>
+  <line>3</line>
+  <module>codeSmellsWork</module>
+  <package>drawingBoard</package>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/src/Student 35/student 35 (3).java" />
+  <problem_class id="SingleClassImport" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Single class import</problem_class>
+  <description>Single class import &lt;code&gt;import java.awt.Color;&lt;/code&gt; #loc</description>
+  <highlighted_element>import java.awt.Color;</highlighted_element>
+  <language>JAVA</language>
+  <offset>0</offset>
+  <length>22</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 35/student 35 (3).java</file>
+  <line>4</line>
+  <module>codeSmellsWork</module>
+  <package>drawingBoard</package>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/src/Student 35/student 35 (3).java" />
+  <problem_class id="SingleClassImport" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Single class import</problem_class>
+  <description>Single class import &lt;code&gt;import java.awt.Graphics;&lt;/code&gt; #loc</description>
+  <highlighted_element>import java.awt.Graphics;</highlighted_element>
+  <language>JAVA</language>
+  <offset>0</offset>
+  <length>25</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 35/student 35 (4).java</file>
+  <line>3</line>
+  <module>codeSmellsWork</module>
+  <package>drawingBoard</package>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/src/Student 35/student 35 (4).java" />
+  <problem_class id="SingleClassImport" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Single class import</problem_class>
+  <description>Single class import &lt;code&gt;import java.awt.Color;&lt;/code&gt; #loc</description>
+  <highlighted_element>import java.awt.Color;</highlighted_element>
+  <language>JAVA</language>
+  <offset>0</offset>
+  <length>22</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 35/student 35 (4).java</file>
+  <line>4</line>
+  <module>codeSmellsWork</module>
+  <package>drawingBoard</package>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/src/Student 35/student 35 (4).java" />
+  <problem_class id="SingleClassImport" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Single class import</problem_class>
+  <description>Single class import &lt;code&gt;import java.awt.Graphics;&lt;/code&gt; #loc</description>
+  <highlighted_element>import java.awt.Graphics;</highlighted_element>
+  <language>JAVA</language>
+  <offset>0</offset>
+  <length>25</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 35/student 35 (4).java</file>
+  <line>5</line>
+  <module>codeSmellsWork</module>
+  <package>drawingBoard</package>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/src/Student 35/student 35 (4).java" />
+  <problem_class id="SingleClassImport" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Single class import</problem_class>
+  <description>Single class import &lt;code&gt;import java.awt.Polygon;&lt;/code&gt; #loc</description>
+  <highlighted_element>import java.awt.Polygon;</highlighted_element>
+  <language>JAVA</language>
+  <offset>0</offset>
+  <length>24</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 35/student 35 (5).java</file>
+  <line>3</line>
+  <module>codeSmellsWork</module>
+  <package>drawingBoard</package>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/src/Student 35/student 35 (5).java" />
+  <problem_class id="SingleClassImport" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Single class import</problem_class>
+  <description>Single class import &lt;code&gt;import java.awt.Color;&lt;/code&gt; #loc</description>
+  <highlighted_element>import java.awt.Color;</highlighted_element>
+  <language>JAVA</language>
+  <offset>0</offset>
+  <length>22</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 35/student 35 (5).java</file>
+  <line>4</line>
+  <module>codeSmellsWork</module>
+  <package>drawingBoard</package>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/src/Student 35/student 35 (5).java" />
+  <problem_class id="SingleClassImport" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Single class import</problem_class>
+  <description>Single class import &lt;code&gt;import java.awt.Graphics;&lt;/code&gt; #loc</description>
+  <highlighted_element>import java.awt.Graphics;</highlighted_element>
+  <language>JAVA</language>
+  <offset>0</offset>
+  <length>25</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 35/student 35 (6).java</file>
+  <line>3</line>
+  <module>codeSmellsWork</module>
+  <package>drawingBoard</package>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/src/Student 35/student 35 (6).java" />
+  <problem_class id="SingleClassImport" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Single class import</problem_class>
+  <description>Single class import &lt;code&gt;import java.awt.Color;&lt;/code&gt; #loc</description>
+  <highlighted_element>import java.awt.Color;</highlighted_element>
+  <language>JAVA</language>
+  <offset>0</offset>
+  <length>22</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 35/student 35 (6).java</file>
+  <line>4</line>
+  <module>codeSmellsWork</module>
+  <package>drawingBoard</package>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/src/Student 35/student 35 (6).java" />
+  <problem_class id="SingleClassImport" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Single class import</problem_class>
+  <description>Single class import &lt;code&gt;import java.awt.Dimension;&lt;/code&gt; #loc</description>
+  <highlighted_element>import java.awt.Dimension;</highlighted_element>
+  <language>JAVA</language>
+  <offset>0</offset>
+  <length>26</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 35/student 35 (6).java</file>
+  <line>5</line>
+  <module>codeSmellsWork</module>
+  <package>drawingBoard</package>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/src/Student 35/student 35 (6).java" />
+  <problem_class id="SingleClassImport" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Single class import</problem_class>
+  <description>Single class import &lt;code&gt;import java.awt.Font;&lt;/code&gt; #loc</description>
+  <highlighted_element>import java.awt.Font;</highlighted_element>
+  <language>JAVA</language>
+  <offset>0</offset>
+  <length>21</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 35/student 35 (6).java</file>
+  <line>6</line>
+  <module>codeSmellsWork</module>
+  <package>drawingBoard</package>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/src/Student 35/student 35 (6).java" />
+  <problem_class id="SingleClassImport" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Single class import</problem_class>
+  <description>Single class import &lt;code&gt;import java.awt.Graphics;&lt;/code&gt; #loc</description>
+  <highlighted_element>import java.awt.Graphics;</highlighted_element>
+  <language>JAVA</language>
+  <offset>0</offset>
+  <length>25</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 35/student 35 (6).java</file>
+  <line>8</line>
+  <module>codeSmellsWork</module>
+  <package>drawingBoard</package>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/src/Student 35/student 35 (6).java" />
+  <problem_class id="SingleClassImport" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Single class import</problem_class>
+  <description>Single class import &lt;code&gt;import noApplet.NoApplet;&lt;/code&gt; #loc</description>
+  <highlighted_element>import noApplet.NoApplet;</highlighted_element>
+  <language>JAVA</language>
+  <offset>0</offset>
+  <length>25</length>
+</problem>
+</problems>

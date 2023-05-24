@@ -1,0 +1,119 @@
+<problems>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 10/student 10 (1).java</file>
+  <line>7</line>
+  <module>codeSmellsWork</module>
+  <package>jUnitHW</package>
+  <entry_point TYPE="class" FQNAME="jUnitHW.ConsoleUI" />
+  <problem_class id="MissingJavadoc" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Missing Javadoc</problem_class>
+  <description>Required Javadoc is absent</description>
+  <highlighted_element>ConsoleUI</highlighted_element>
+  <language>JAVA</language>
+  <offset>13</offset>
+  <length>9</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 10/student 10 (1).java</file>
+  <line>8</line>
+  <module>codeSmellsWork</module>
+  <package>jUnitHW</package>
+  <entry_point TYPE="field" FQNAME="jUnitHW.ConsoleUI bd" />
+  <problem_class id="MissingJavadoc" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Missing Javadoc</problem_class>
+  <description>Required Javadoc is absent</description>
+  <highlighted_element>bd</highlighted_element>
+  <language>JAVA</language>
+  <offset>14</offset>
+  <length>2</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 10/student 10 (1).java</file>
+  <line>9</line>
+  <module>codeSmellsWork</module>
+  <package>jUnitHW</package>
+  <entry_point TYPE="field" FQNAME="jUnitHW.ConsoleUI in" />
+  <problem_class id="MissingJavadoc" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Missing Javadoc</problem_class>
+  <description>Required Javadoc is absent</description>
+  <highlighted_element>in</highlighted_element>
+  <language>JAVA</language>
+  <offset>20</offset>
+  <length>2</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 10/student 10 (1).java</file>
+  <line>10</line>
+  <module>codeSmellsWork</module>
+  <package>jUnitHW</package>
+  <entry_point TYPE="field" FQNAME="jUnitHW.ConsoleUI out" />
+  <problem_class id="MissingJavadoc" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Missing Javadoc</problem_class>
+  <description>Required Javadoc is absent</description>
+  <highlighted_element>out</highlighted_element>
+  <language>JAVA</language>
+  <offset>20</offset>
+  <length>3</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 10/student 10 (1).java</file>
+  <line>14</line>
+  <module>codeSmellsWork</module>
+  <package>jUnitHW</package>
+  <entry_point TYPE="method" FQNAME="jUnitHW.ConsoleUI ConsoleUI(Board bd, java.io.InputStream in, java.io.PrintStream out)" />
+  <problem_class id="MissingJavadoc" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Missing Javadoc</problem_class>
+  <description>Required Javadoc is absent</description>
+  <highlighted_element>ConsoleUI</highlighted_element>
+  <language>JAVA</language>
+  <offset>8</offset>
+  <length>9</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 10/student 10 (1).java</file>
+  <line>21</line>
+  <module>codeSmellsWork</module>
+  <package>jUnitHW</package>
+  <entry_point TYPE="method" FQNAME="jUnitHW.ConsoleUI void printMessage(java.lang.String msg)" />
+  <problem_class id="MissingJavadoc" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Missing Javadoc</problem_class>
+  <description>Required Javadoc is absent</description>
+  <highlighted_element>printMessage</highlighted_element>
+  <language>JAVA</language>
+  <offset>13</offset>
+  <length>12</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 10/student 10 (1).java</file>
+  <line>25</line>
+  <module>codeSmellsWork</module>
+  <package>jUnitHW</package>
+  <entry_point TYPE="method" FQNAME="jUnitHW.ConsoleUI int promptMode()" />
+  <problem_class id="MissingJavadoc" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Missing Javadoc</problem_class>
+  <description>Required Javadoc is absent</description>
+  <highlighted_element>promptMode</highlighted_element>
+  <language>JAVA</language>
+  <offset>12</offset>
+  <length>10</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 10/student 10 (1).java</file>
+  <line>32</line>
+  <module>codeSmellsWork</module>
+  <package>jUnitHW</package>
+  <entry_point TYPE="method" FQNAME="jUnitHW.ConsoleUI void printBoard()" />
+  <problem_class id="MissingJavadoc" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Missing Javadoc</problem_class>
+  <description>Required Javadoc is absent</description>
+  <highlighted_element>printBoard</highlighted_element>
+  <language>JAVA</language>
+  <offset>13</offset>
+  <length>10</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 10/student 10 (1).java</file>
+  <line>36</line>
+  <module>codeSmellsWork</module>
+  <package>jUnitHW</package>
+  <entry_point TYPE="method" FQNAME="jUnitHW.ConsoleUI int promptMove(Player p)" />
+  <problem_class id="MissingJavadoc" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Missing Javadoc</problem_class>
+  <description>Required Javadoc is absent</description>
+  <highlighted_element>promptMove</highlighted_element>
+  <language>JAVA</language>
+  <offset>12</offset>
+  <length>10</length>
+</problem>
+</problems>

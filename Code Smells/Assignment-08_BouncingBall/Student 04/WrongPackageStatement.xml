@@ -1,0 +1,28 @@
+<problems>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 04/student 04 (1).java</file>
+  <line>1</line>
+  <module>codeSmellsWork</module>
+  <package>noapplet.assignments.BouncingBall</package>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/src/Student 04/student 04 (1).java" />
+  <problem_class id="WrongPackageStatement" severity="ERROR" attribute_key="ERRORS_ATTRIBUTES">Wrong package statement</problem_class>
+  <description>Package name 'noapplet.assignments.BouncingBall' does not correspond to the file path 'Student 04'</description>
+  <highlighted_element>noapplet.assignments.BouncingBall</highlighted_element>
+  <language>JAVA</language>
+  <offset>8</offset>
+  <length>33</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 04/student 04 (2).java</file>
+  <line>1</line>
+  <module>codeSmellsWork</module>
+  <package>noapplet.assignments.BouncingBall</package>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/src/Student 04/student 04 (2).java" />
+  <problem_class id="WrongPackageStatement" severity="ERROR" attribute_key="ERRORS_ATTRIBUTES">Wrong package statement</problem_class>
+  <description>Package name 'noapplet.assignments.BouncingBall' does not correspond to the file path 'Student 04'</description>
+  <highlighted_element>noapplet.assignments.BouncingBall</highlighted_element>
+  <language>JAVA</language>
+  <offset>8</offset>
+  <length>33</length>
+</problem>
+</problems>

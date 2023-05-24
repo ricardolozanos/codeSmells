@@ -1,0 +1,172 @@
+<problems>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 27/student 27 (1).java</file>
+  <line>13</line>
+  <module>codeSmellsWork</module>
+  <package>bouncing_Ball</package>
+  <entry_point TYPE="method" FQNAME="bouncing_Ball.EnhancedModularBalloonApp EnhancedModularBalloonApp(java.lang.String[] args)" />
+  <language>JAVA</language>
+  <offset>11</offset>
+  <length>25</length>
+  <highlighted_element>EnhancedModularBalloonApp</highlighted_element>
+  <problem_class id="unused" severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">unused declaration</problem_class>
+  <hints>
+    <hint value="comment" />
+    <hint value="delete" />
+  </hints>
+  <description>Constructor is never used.</description>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 27/student 27 (1).java</file>
+  <line>17</line>
+  <module>codeSmellsWork</module>
+  <package>bouncing_Ball</package>
+  <entry_point TYPE="method" FQNAME="bouncing_Ball.EnhancedModularBalloonApp void initAnimation()" />
+  <language>JAVA</language>
+  <offset>16</offset>
+  <length>13</length>
+  <highlighted_element>initAnimation</highlighted_element>
+  <problem_class id="unused" severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">unused declaration</problem_class>
+  <hints>
+    <hint value="comment" />
+    <hint value="delete" />
+  </hints>
+  <description>Method is never used.</description>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 27/student 27 (1).java</file>
+  <line>22</line>
+  <module>codeSmellsWork</module>
+  <package>bouncing_Ball</package>
+  <entry_point TYPE="method" FQNAME="bouncing_Ball.EnhancedModularBalloonApp void paintComponent(java.awt.Graphics g)" />
+  <language>JAVA</language>
+  <offset>13</offset>
+  <length>14</length>
+  <highlighted_element>paintComponent</highlighted_element>
+  <problem_class id="unused" severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">unused declaration</problem_class>
+  <hints>
+    <hint value="comment" />
+    <hint value="delete" />
+  </hints>
+  <description>Method is never used.</description>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 27/student 27 (2).java</file>
+  <line>12</line>
+  <module>codeSmellsWork</module>
+  <package>bouncing_Ball</package>
+  <entry_point TYPE="method" FQNAME="bouncing_Ball.GrowingBalloon GrowingBalloon(int diameter, int growthRate, int height, int width)" />
+  <language>JAVA</language>
+  <offset>8</offset>
+  <length>14</length>
+  <highlighted_element>GrowingBalloon</highlighted_element>
+  <problem_class id="unused" severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">unused declaration</problem_class>
+  <hints>
+    <hint value="comment" />
+    <hint value="delete" />
+  </hints>
+  <description>Constructor is never used.</description>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 27/student 27 (2).java</file>
+  <line>19</line>
+  <module>codeSmellsWork</module>
+  <package>bouncing_Ball</package>
+  <entry_point TYPE="method" FQNAME="bouncing_Ball.GrowingBalloon void draw(java.awt.Graphics g)" />
+  <language>JAVA</language>
+  <offset>13</offset>
+  <length>4</length>
+  <highlighted_element>draw</highlighted_element>
+  <problem_class id="unused" severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">unused declaration</problem_class>
+  <hints>
+    <hint value="comment" />
+    <hint value="delete" />
+  </hints>
+  <description>&lt;ul&gt;&lt;li&gt;Method owner class is never instantiated OR&lt;/li&gt;&lt;li&gt;An instantiation is not reachable from entry points.&lt;/li&gt;&lt;/ul&gt;</description>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 27/student 27 (3).java</file>
+  <line>12</line>
+  <module>codeSmellsWork</module>
+  <package>bouncing_Ball</package>
+  <entry_point TYPE="method" FQNAME="bouncing_Ball.GrowingShrinkingBalloon GrowingShrinkingBalloon(int diameter, int growthRate, int height, int width)" />
+  <language>JAVA</language>
+  <offset>8</offset>
+  <length>23</length>
+  <highlighted_element>GrowingShrinkingBalloon</highlighted_element>
+  <problem_class id="unused" severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">unused declaration</problem_class>
+  <hints>
+    <hint value="comment" />
+    <hint value="delete" />
+  </hints>
+  <description>Constructor is never used.</description>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 27/student 27 (3).java</file>
+  <line>19</line>
+  <module>codeSmellsWork</module>
+  <package>bouncing_Ball</package>
+  <entry_point TYPE="method" FQNAME="bouncing_Ball.GrowingShrinkingBalloon void draw(java.awt.Graphics g)" />
+  <language>JAVA</language>
+  <offset>13</offset>
+  <length>4</length>
+  <highlighted_element>draw</highlighted_element>
+  <problem_class id="unused" severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">unused declaration</problem_class>
+  <hints>
+    <hint value="comment" />
+    <hint value="delete" />
+  </hints>
+  <description>&lt;ul&gt;&lt;li&gt;Method owner class is never instantiated OR&lt;/li&gt;&lt;li&gt;An instantiation is not reachable from entry points.&lt;/li&gt;&lt;/ul&gt;</description>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 27/student 27 (4).java</file>
+  <line>13</line>
+  <module>codeSmellsWork</module>
+  <package>bouncing_Ball</package>
+  <entry_point TYPE="method" FQNAME="bouncing_Ball.ModularBalloonApp ModularBalloonApp(java.lang.String[] args)" />
+  <language>JAVA</language>
+  <offset>11</offset>
+  <length>17</length>
+  <highlighted_element>ModularBalloonApp</highlighted_element>
+  <problem_class id="unused" severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">unused declaration</problem_class>
+  <hints>
+    <hint value="comment" />
+    <hint value="delete" />
+  </hints>
+  <description>Constructor is never used.</description>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 27/student 27 (4).java</file>
+  <line>17</line>
+  <module>codeSmellsWork</module>
+  <package>bouncing_Ball</package>
+  <entry_point TYPE="method" FQNAME="bouncing_Ball.ModularBalloonApp void initAnimation()" />
+  <language>JAVA</language>
+  <offset>16</offset>
+  <length>13</length>
+  <highlighted_element>initAnimation</highlighted_element>
+  <problem_class id="unused" severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">unused declaration</problem_class>
+  <hints>
+    <hint value="comment" />
+    <hint value="delete" />
+  </hints>
+  <description>Method is never used.</description>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 27/student 27 (4).java</file>
+  <line>22</line>
+  <module>codeSmellsWork</module>
+  <package>bouncing_Ball</package>
+  <entry_point TYPE="method" FQNAME="bouncing_Ball.ModularBalloonApp void paintComponent(java.awt.Graphics g)" />
+  <language>JAVA</language>
+  <offset>13</offset>
+  <length>14</length>
+  <highlighted_element>paintComponent</highlighted_element>
+  <problem_class id="unused" severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">unused declaration</problem_class>
+  <hints>
+    <hint value="comment" />
+    <hint value="delete" />
+  </hints>
+  <description>Method is never used.</description>
+</problem>
+</problems>

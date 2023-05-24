@@ -1,0 +1,15 @@
+<problems>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 22/student 22 (1).java</file>
+  <line>149</line>
+  <module>codeSmellsWork</module>
+  <package>HomeWork2.OmokGame</package>
+  <entry_point TYPE="method" FQNAME="HomeWork2.OmokGame.ConsoleUI java.lang.String PadRight(java.lang.Object text, int padding)" />
+  <problem_class id="UnnecessaryCallToStringValueOf" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Unnecessary conversion to 'String'</problem_class>
+  <description>Unnecessary &lt;code&gt;String.valueOf()&lt;/code&gt; call #loc</description>
+  <highlighted_element>String.valueOf</highlighted_element>
+  <language>JAVA</language>
+  <offset>51</offset>
+  <length>14</length>
+</problem>
+</problems>

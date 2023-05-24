@@ -1,0 +1,28 @@
+<problems>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 42/student 42 (7).java</file>
+  <line>12</line>
+  <module>codeSmellsWork</module>
+  <package>noapplet.solar</package>
+  <entry_point TYPE="method" FQNAME="noapplet.solar.Moon Moon(int distance, int radius, double angle, java.awt.Color color, double speed, Planet planet)" />
+  <problem_class id="ParametersPerConstructor" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Constructor with too many parameters</problem_class>
+  <description>&lt;code&gt;Moon()&lt;/code&gt; has too many parameters (num parameters = 6) #loc</description>
+  <highlighted_element>Moon</highlighted_element>
+  <language>JAVA</language>
+  <offset>11</offset>
+  <length>4</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 42/student 42 (9).java</file>
+  <line>12</line>
+  <module>codeSmellsWork</module>
+  <package>noapplet.solar</package>
+  <entry_point TYPE="method" FQNAME="noapplet.solar.Planet Planet(int distance, int radius, double angle, java.awt.Color color, double speed, double x, double y, Sun sun)" />
+  <problem_class id="ParametersPerConstructor" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Constructor with too many parameters</problem_class>
+  <description>&lt;code&gt;Planet()&lt;/code&gt; has too many parameters (num parameters = 8) #loc</description>
+  <highlighted_element>Planet</highlighted_element>
+  <language>JAVA</language>
+  <offset>11</offset>
+  <length>6</length>
+</problem>
+</problems>

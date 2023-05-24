@@ -1,0 +1,54 @@
+<problems>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 27/student 27 (1).java</file>
+  <line>9</line>
+  <module>codeSmellsWork</module>
+  <package>bouncing_Ball</package>
+  <entry_point TYPE="field" FQNAME="bouncing_Ball.Ball dx" />
+  <problem_class id="UnusedAssignment" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Unused assignment</problem_class>
+  <description>Variable &lt;code&gt;dx&lt;/code&gt; initializer &lt;code&gt;-2&lt;/code&gt; is redundant</description>
+  <highlighted_element>-2</highlighted_element>
+  <language>JAVA</language>
+  <offset>21</offset>
+  <length>2</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 27/student 27 (1).java</file>
+  <line>9</line>
+  <module>codeSmellsWork</module>
+  <package>bouncing_Ball</package>
+  <entry_point TYPE="field" FQNAME="bouncing_Ball.Ball dy" />
+  <problem_class id="UnusedAssignment" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Unused assignment</problem_class>
+  <description>Variable &lt;code&gt;dy&lt;/code&gt; initializer &lt;code&gt;-4&lt;/code&gt; is redundant</description>
+  <highlighted_element>-4</highlighted_element>
+  <language>JAVA</language>
+  <offset>30</offset>
+  <length>2</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 27/student 27 (1).java</file>
+  <line>10</line>
+  <module>codeSmellsWork</module>
+  <package>bouncing_Ball</package>
+  <entry_point TYPE="field" FQNAME="bouncing_Ball.Ball radius" />
+  <problem_class id="UnusedAssignment" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Unused assignment</problem_class>
+  <description>Variable &lt;code&gt;radius&lt;/code&gt; initializer &lt;code&gt;20&lt;/code&gt; is redundant</description>
+  <highlighted_element>20</highlighted_element>
+  <language>JAVA</language>
+  <offset>25</offset>
+  <length>2</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 27/student 27 (1).java</file>
+  <line>11</line>
+  <module>codeSmellsWork</module>
+  <package>bouncing_Ball</package>
+  <entry_point TYPE="field" FQNAME="bouncing_Ball.Ball color" />
+  <problem_class id="UnusedAssignment" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Unused assignment</problem_class>
+  <description>Variable &lt;code&gt;color&lt;/code&gt; initializer &lt;code&gt;Color.GREEN&lt;/code&gt; is redundant</description>
+  <highlighted_element>Color.GREEN</highlighted_element>
+  <language>JAVA</language>
+  <offset>26</offset>
+  <length>11</length>
+</problem>
+</problems>

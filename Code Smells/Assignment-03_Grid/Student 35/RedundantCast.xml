@@ -1,0 +1,93 @@
+<problems>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 35/student 35.java</file>
+  <line>29</line>
+  <module>codeSmellsWork</module>
+  <package>goodDay</package>
+  <entry_point TYPE="method" FQNAME="goodDay.GomokuDisplay void paintComponent(java.awt.Graphics g)" />
+  <problem_class id="RedundantCast" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Redundant type cast</problem_class>
+  <description>Casting &lt;code&gt;d.width&lt;/code&gt; to &lt;code&gt;int&lt;/code&gt; is redundant</description>
+  <highlighted_element>int</highlighted_element>
+  <language>JAVA</language>
+  <offset>19</offset>
+  <length>3</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 35/student 35.java</file>
+  <line>30</line>
+  <module>codeSmellsWork</module>
+  <package>goodDay</package>
+  <entry_point TYPE="method" FQNAME="goodDay.GomokuDisplay void paintComponent(java.awt.Graphics g)" />
+  <problem_class id="RedundantCast" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Redundant type cast</problem_class>
+  <description>Casting &lt;code&gt;d.height&lt;/code&gt; to &lt;code&gt;int&lt;/code&gt; is redundant</description>
+  <highlighted_element>int</highlighted_element>
+  <language>JAVA</language>
+  <offset>20</offset>
+  <length>3</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 35/student 35.java</file>
+  <line>44</line>
+  <module>codeSmellsWork</module>
+  <package>goodDay</package>
+  <entry_point TYPE="method" FQNAME="goodDay.GomokuDisplay void paintComponent(java.awt.Graphics g)" />
+  <problem_class id="RedundantCast" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Redundant type cast</problem_class>
+  <description>Casting &lt;code&gt;(tempWidth / 2)&lt;/code&gt; to &lt;code&gt;int&lt;/code&gt; is redundant</description>
+  <highlighted_element>int</highlighted_element>
+  <language>JAVA</language>
+  <offset>43</offset>
+  <length>3</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 35/student 35.java</file>
+  <line>44</line>
+  <module>codeSmellsWork</module>
+  <package>goodDay</package>
+  <entry_point TYPE="method" FQNAME="goodDay.GomokuDisplay void paintComponent(java.awt.Graphics g)" />
+  <problem_class id="RedundantCast" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Redundant type cast</problem_class>
+  <description>Casting &lt;code&gt;(tempHeight / 2)&lt;/code&gt; to &lt;code&gt;int&lt;/code&gt; is redundant</description>
+  <highlighted_element>int</highlighted_element>
+  <language>JAVA</language>
+  <offset>96</offset>
+  <length>3</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 35/student 35.java</file>
+  <line>50</line>
+  <module>codeSmellsWork</module>
+  <package>goodDay</package>
+  <entry_point TYPE="method" FQNAME="goodDay.GomokuDisplay void paintComponent(java.awt.Graphics g)" />
+  <problem_class id="RedundantCast" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Redundant type cast</problem_class>
+  <description>Casting &lt;code&gt;(tempWidth / 2)&lt;/code&gt; to &lt;code&gt;int&lt;/code&gt; is redundant</description>
+  <highlighted_element>int</highlighted_element>
+  <language>JAVA</language>
+  <offset>43</offset>
+  <length>3</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 35/student 35.java</file>
+  <line>50</line>
+  <module>codeSmellsWork</module>
+  <package>goodDay</package>
+  <entry_point TYPE="method" FQNAME="goodDay.GomokuDisplay void paintComponent(java.awt.Graphics g)" />
+  <problem_class id="RedundantCast" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Redundant type cast</problem_class>
+  <description>Casting &lt;code&gt;(tempHeight / 2)&lt;/code&gt; to &lt;code&gt;int&lt;/code&gt; is redundant</description>
+  <highlighted_element>int</highlighted_element>
+  <language>JAVA</language>
+  <offset>96</offset>
+  <length>3</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 35/student 35.java</file>
+  <line>55</line>
+  <module>codeSmellsWork</module>
+  <package>goodDay</package>
+  <entry_point TYPE="method" FQNAME="goodDay.GomokuDisplay void paintComponent(java.awt.Graphics g)" />
+  <problem_class id="RedundantCast" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Redundant type cast</problem_class>
+  <description>Casting &lt;code&gt;d.width&lt;/code&gt; to &lt;code&gt;int&lt;/code&gt; is redundant</description>
+  <highlighted_element>int</highlighted_element>
+  <language>JAVA</language>
+  <offset>33</offset>
+  <length>3</length>
+</problem>
+</problems>

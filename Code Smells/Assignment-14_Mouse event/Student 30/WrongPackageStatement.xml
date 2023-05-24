@@ -1,0 +1,28 @@
+<problems>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 30/student 30 (1).java</file>
+  <line>1</line>
+  <module>codeSmellsWork</module>
+  <package>noapplet.Files</package>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/src/Student 30/student 30 (1).java" />
+  <problem_class id="WrongPackageStatement" severity="ERROR" attribute_key="ERRORS_ATTRIBUTES">Wrong package statement</problem_class>
+  <description>Package name 'noapplet.Files' does not correspond to the file path 'Student 30'</description>
+  <highlighted_element>noapplet.Files</highlighted_element>
+  <language>JAVA</language>
+  <offset>8</offset>
+  <length>14</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 30/student 30 (2).java</file>
+  <line>1</line>
+  <module>codeSmellsWork</module>
+  <package>noapplet.Files</package>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/src/Student 30/student 30 (2).java" />
+  <problem_class id="WrongPackageStatement" severity="ERROR" attribute_key="ERRORS_ATTRIBUTES">Wrong package statement</problem_class>
+  <description>Package name 'noapplet.Files' does not correspond to the file path 'Student 30'</description>
+  <highlighted_element>noapplet.Files</highlighted_element>
+  <language>JAVA</language>
+  <offset>8</offset>
+  <length>14</length>
+</problem>
+</problems>

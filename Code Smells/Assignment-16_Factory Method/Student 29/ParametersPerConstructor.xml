@@ -1,0 +1,28 @@
+<problems>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 29/student 29 (3).java</file>
+  <line>11</line>
+  <module>codeSmellsWork</module>
+  <package>Balloon</package>
+  <entry_point TYPE="method" FQNAME="Balloon.GrowingBalloon GrowingBalloon(int x, int y, int dx, int dy, int rate, java.awt.Color color)" />
+  <problem_class id="ParametersPerConstructor" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Constructor with too many parameters</problem_class>
+  <description>&lt;code&gt;GrowingBalloon()&lt;/code&gt; has too many parameters (num parameters = 6) #loc</description>
+  <highlighted_element>GrowingBalloon</highlighted_element>
+  <language>JAVA</language>
+  <offset>8</offset>
+  <length>14</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 29/student 29 (4).java</file>
+  <line>9</line>
+  <module>codeSmellsWork</module>
+  <package>Balloon</package>
+  <entry_point TYPE="method" FQNAME="Balloon.GrowingShrinkingBalloon GrowingShrinkingBalloon(int x, int y, int dx, int dy, int rate, java.awt.Color color)" />
+  <problem_class id="ParametersPerConstructor" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Constructor with too many parameters</problem_class>
+  <description>&lt;code&gt;GrowingShrinkingBalloon()&lt;/code&gt; has too many parameters (num parameters = 6) #loc</description>
+  <highlighted_element>GrowingShrinkingBalloon</highlighted_element>
+  <language>JAVA</language>
+  <offset>8</offset>
+  <length>23</length>
+</problem>
+</problems>

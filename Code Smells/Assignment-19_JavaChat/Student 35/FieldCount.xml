@@ -1,0 +1,15 @@
+<problems>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 35/student 35 (1).java</file>
+  <line>28</line>
+  <module>codeSmellsWork</module>
+  <package>chat</package>
+  <entry_point TYPE="class" FQNAME="chat.ChatDialogUI" />
+  <problem_class id="FieldCount" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Class with too many fields</problem_class>
+  <description>&lt;code&gt;ChatDialogUI&lt;/code&gt; has too many fields (field count = 11) #loc</description>
+  <highlighted_element>ChatDialogUI</highlighted_element>
+  <language>JAVA</language>
+  <offset>13</offset>
+  <length>12</length>
+</problem>
+</problems>

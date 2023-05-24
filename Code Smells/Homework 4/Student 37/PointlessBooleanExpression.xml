@@ -1,0 +1,15 @@
+<problems>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 37/student 37 (2).java</file>
+  <line>33</line>
+  <module>codeSmellsWork</module>
+  <package>omok</package>
+  <entry_point TYPE="method" FQNAME="omok.Gamecontroller java.lang.String playerTurn()" />
+  <problem_class id="PointlessBooleanExpression" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Pointless boolean expression</problem_class>
+  <description>&lt;code&gt;change==true&lt;/code&gt; can be simplified to 'change' #loc</description>
+  <highlighted_element>change==true</highlighted_element>
+  <language>JAVA</language>
+  <offset>4</offset>
+  <length>12</length>
+</problem>
+</problems>

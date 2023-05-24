@@ -1,0 +1,41 @@
+<problems>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 15/student 15 (7).java</file>
+  <line>136</line>
+  <module>codeSmellsWork</module>
+  <package>&lt;default&gt;</package>
+  <entry_point TYPE="method" FQNAME="ConsoleUI void playGameLocal()" />
+  <problem_class id="ContinueStatement" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">'continue' statement</problem_class>
+  <description>&lt;code&gt;continue&lt;/code&gt; statement #loc</description>
+  <highlighted_element>continue</highlighted_element>
+  <language>JAVA</language>
+  <offset>16</offset>
+  <length>8</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 15/student 15 (9).java</file>
+  <line>101</line>
+  <module>codeSmellsWork</module>
+  <package>&lt;default&gt;</package>
+  <entry_point TYPE="method" FQNAME="GameBoard int[][] buildBoardMatrix()" />
+  <problem_class id="ContinueStatement" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">'continue' statement</problem_class>
+  <description>&lt;code&gt;continue&lt;/code&gt; statement #loc</description>
+  <highlighted_element>continue</highlighted_element>
+  <language>JAVA</language>
+  <offset>53</offset>
+  <length>8</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 15/student 15 (9).java</file>
+  <line>112</line>
+  <module>codeSmellsWork</module>
+  <package>&lt;default&gt;</package>
+  <entry_point TYPE="method" FQNAME="GameBoard java.lang.String encodeBoard()" />
+  <problem_class id="ContinueStatement" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">'continue' statement</problem_class>
+  <description>&lt;code&gt;continue&lt;/code&gt; statement #loc</description>
+  <highlighted_element>continue</highlighted_element>
+  <language>JAVA</language>
+  <offset>30</offset>
+  <length>8</length>
+</problem>
+</problems>

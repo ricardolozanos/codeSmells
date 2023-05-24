@@ -1,0 +1,15 @@
+<problems>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 12/student 12 (7).java</file>
+  <line>7</line>
+  <module>codeSmellsWork</module>
+  <package>&lt;default&gt;</package>
+  <entry_point TYPE="field" FQNAME="Triangle size" />
+  <problem_class id="UnusedAssignment" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Unused assignment</problem_class>
+  <description>Variable &lt;code&gt;size&lt;/code&gt; initializer &lt;code&gt;20&lt;/code&gt; is redundant</description>
+  <highlighted_element>20</highlighted_element>
+  <language>JAVA</language>
+  <offset>23</offset>
+  <length>2</length>
+</problem>
+</problems>

@@ -1,0 +1,28 @@
+<problems>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 13/student 13 (8).java</file>
+  <line>1</line>
+  <module>codeSmellsWork</module>
+  <package>&lt;default&gt;</package>
+  <entry_point TYPE="class" FQNAME="Main" />
+  <problem_class id="UtilityClass" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Utility class</problem_class>
+  <description>Class &lt;code&gt;Main&lt;/code&gt; has only 'static' members, indicating procedural construction #loc</description>
+  <highlighted_element>Main</highlighted_element>
+  <language>JAVA</language>
+  <offset>13</offset>
+  <length>4</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 13/student 13 (9).java</file>
+  <line>1</line>
+  <module>codeSmellsWork</module>
+  <package>&lt;default&gt;</package>
+  <entry_point TYPE="class" FQNAME="MainGUI" />
+  <problem_class id="UtilityClass" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Utility class</problem_class>
+  <description>Class &lt;code&gt;MainGUI&lt;/code&gt; has only 'static' members, indicating procedural construction #loc</description>
+  <highlighted_element>MainGUI</highlighted_element>
+  <language>JAVA</language>
+  <offset>13</offset>
+  <length>7</length>
+</problem>
+</problems>

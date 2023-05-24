@@ -1,0 +1,54 @@
+<problems>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 22/student 22 (1).java</file>
+  <line>1</line>
+  <module>codeSmellsWork</module>
+  <package>HomeWork2.OmokGame</package>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/src/Student 22/student 22 (1).java" />
+  <problem_class id="WrongPackageStatement" severity="ERROR" attribute_key="ERRORS_ATTRIBUTES">Wrong package statement</problem_class>
+  <description>Package name 'HomeWork2.OmokGame' does not correspond to the file path 'Student 22'</description>
+  <highlighted_element>HomeWork2.OmokGame</highlighted_element>
+  <language>JAVA</language>
+  <offset>8</offset>
+  <length>18</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 22/student 22 (2).java</file>
+  <line>1</line>
+  <module>codeSmellsWork</module>
+  <package>HomeWork2.OmokGame</package>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/src/Student 22/student 22 (2).java" />
+  <problem_class id="WrongPackageStatement" severity="ERROR" attribute_key="ERRORS_ATTRIBUTES">Wrong package statement</problem_class>
+  <description>Package name 'HomeWork2.OmokGame' does not correspond to the file path 'Student 22'</description>
+  <highlighted_element>HomeWork2.OmokGame</highlighted_element>
+  <language>JAVA</language>
+  <offset>8</offset>
+  <length>18</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 22/student 22 (3).java</file>
+  <line>1</line>
+  <module>codeSmellsWork</module>
+  <package>HomeWork2.OmokGame</package>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/src/Student 22/student 22 (3).java" />
+  <problem_class id="WrongPackageStatement" severity="ERROR" attribute_key="ERRORS_ATTRIBUTES">Wrong package statement</problem_class>
+  <description>Package name 'HomeWork2.OmokGame' does not correspond to the file path 'Student 22'</description>
+  <highlighted_element>HomeWork2.OmokGame</highlighted_element>
+  <language>JAVA</language>
+  <offset>8</offset>
+  <length>18</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 22/student 22 (4).java</file>
+  <line>1</line>
+  <module>codeSmellsWork</module>
+  <package>HomeWork2.OmokGame</package>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/src/Student 22/student 22 (4).java" />
+  <problem_class id="WrongPackageStatement" severity="ERROR" attribute_key="ERRORS_ATTRIBUTES">Wrong package statement</problem_class>
+  <description>Package name 'HomeWork2.OmokGame' does not correspond to the file path 'Student 22'</description>
+  <highlighted_element>HomeWork2.OmokGame</highlighted_element>
+  <language>JAVA</language>
+  <offset>8</offset>
+  <length>18</length>
+</problem>
+</problems>

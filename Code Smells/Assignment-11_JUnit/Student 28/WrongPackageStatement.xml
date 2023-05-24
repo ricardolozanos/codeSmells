@@ -1,0 +1,15 @@
+<problems>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 28/student 28.java</file>
+  <line>8</line>
+  <module>codeSmellsWork</module>
+  <package>&lt;default&gt;</package>
+  <entry_point TYPE="class" FQNAME="ConsoleUITest" />
+  <problem_class id="WrongPackageStatement" severity="ERROR" attribute_key="ERRORS_ATTRIBUTES">Wrong package statement</problem_class>
+  <description>Missing package statement but package name 'Student 28' which corresponds to the file path is invalid</description>
+  <highlighted_element>ConsoleUITest</highlighted_element>
+  <language>JAVA</language>
+  <offset>6</offset>
+  <length>13</length>
+</problem>
+</problems>

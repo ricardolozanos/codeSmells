@@ -1,0 +1,206 @@
+<problems>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 32/student 32 (1).java</file>
+  <line>6</line>
+  <module>codeSmellsWork</module>
+  <package>BallonFactory</package>
+  <entry_point TYPE="method" FQNAME="BallonFactory.BalloonInterface void update()" />
+  <language>JAVA</language>
+  <offset>9</offset>
+  <length>6</length>
+  <highlighted_element>update</highlighted_element>
+  <problem_class id="unused" severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">unused declaration</problem_class>
+  <hints>
+    <hint value="comment" />
+    <hint value="delete" />
+  </hints>
+  <description>&lt;ul&gt;&lt;li&gt;Method owner class is never instantiated OR&lt;/li&gt;&lt;li&gt;An instantiation is not reachable from entry points.&lt;/li&gt;&lt;/ul&gt;</description>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 32/student 32 (1).java</file>
+  <line>15</line>
+  <module>codeSmellsWork</module>
+  <package>BallonFactory</package>
+  <entry_point TYPE="method" FQNAME="BallonFactory.ShrinkingBalloon ShrinkingBalloon()" />
+  <language>JAVA</language>
+  <offset>11</offset>
+  <length>16</length>
+  <highlighted_element>ShrinkingBalloon</highlighted_element>
+  <problem_class id="unused" severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">unused declaration</problem_class>
+  <hints>
+    <hint value="comment" />
+    <hint value="delete" />
+  </hints>
+  <description>Constructor is never used.</description>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 32/student 32 (1).java</file>
+  <line>19</line>
+  <module>codeSmellsWork</module>
+  <package>BallonFactory</package>
+  <entry_point TYPE="method" FQNAME="BallonFactory.ShrinkingBalloon ShrinkingBalloon(int x, int y)" />
+  <language>JAVA</language>
+  <offset>11</offset>
+  <length>16</length>
+  <highlighted_element>ShrinkingBalloon</highlighted_element>
+  <problem_class id="unused" severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">unused declaration</problem_class>
+  <hints>
+    <hint value="comment" />
+    <hint value="delete" />
+  </hints>
+  <description>Constructor is never used.</description>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 32/student 32 (1).java</file>
+  <line>40</line>
+  <module>codeSmellsWork</module>
+  <package>BallonFactory</package>
+  <entry_point TYPE="method" FQNAME="BallonFactory.ShrinkingBalloon int getX()" />
+  <language>JAVA</language>
+  <offset>15</offset>
+  <length>4</length>
+  <highlighted_element>getX</highlighted_element>
+  <problem_class id="unused" severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">unused declaration</problem_class>
+  <hints>
+    <hint value="comment" />
+    <hint value="delete" />
+  </hints>
+  <description>&lt;ul&gt;&lt;li&gt;Method owner class is never instantiated OR&lt;/li&gt;&lt;li&gt;An instantiation is not reachable from entry points.&lt;/li&gt;&lt;/ul&gt;</description>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 32/student 32 (1).java</file>
+  <line>41</line>
+  <module>codeSmellsWork</module>
+  <package>BallonFactory</package>
+  <entry_point TYPE="method" FQNAME="BallonFactory.ShrinkingBalloon int getY()" />
+  <language>JAVA</language>
+  <offset>15</offset>
+  <length>4</length>
+  <highlighted_element>getY</highlighted_element>
+  <problem_class id="unused" severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">unused declaration</problem_class>
+  <hints>
+    <hint value="comment" />
+    <hint value="delete" />
+  </hints>
+  <description>&lt;ul&gt;&lt;li&gt;Method owner class is never instantiated OR&lt;/li&gt;&lt;li&gt;An instantiation is not reachable from entry points.&lt;/li&gt;&lt;/ul&gt;</description>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 32/student 32 (1).java</file>
+  <line>42</line>
+  <module>codeSmellsWork</module>
+  <package>BallonFactory</package>
+  <entry_point TYPE="method" FQNAME="BallonFactory.ShrinkingBalloon int getDiameter()" />
+  <language>JAVA</language>
+  <offset>15</offset>
+  <length>11</length>
+  <highlighted_element>getDiameter</highlighted_element>
+  <problem_class id="unused" severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">unused declaration</problem_class>
+  <hints>
+    <hint value="comment" />
+    <hint value="delete" />
+  </hints>
+  <description>&lt;ul&gt;&lt;li&gt;Method owner class is never instantiated OR&lt;/li&gt;&lt;li&gt;An instantiation is not reachable from entry points.&lt;/li&gt;&lt;/ul&gt;</description>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 32/student 32 (1).java</file>
+  <line>49</line>
+  <module>codeSmellsWork</module>
+  <package>BallonFactory</package>
+  <entry_point TYPE="method" FQNAME="BallonFactory.GrowingBalloon GrowingBalloon()" />
+  <language>JAVA</language>
+  <offset>11</offset>
+  <length>14</length>
+  <highlighted_element>GrowingBalloon</highlighted_element>
+  <problem_class id="unused" severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">unused declaration</problem_class>
+  <hints>
+    <hint value="comment" />
+    <hint value="delete" />
+  </hints>
+  <description>Constructor is never used.</description>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 32/student 32 (1).java</file>
+  <line>53</line>
+  <module>codeSmellsWork</module>
+  <package>BallonFactory</package>
+  <entry_point TYPE="method" FQNAME="BallonFactory.GrowingBalloon GrowingBalloon(int x, int y)" />
+  <language>JAVA</language>
+  <offset>11</offset>
+  <length>14</length>
+  <highlighted_element>GrowingBalloon</highlighted_element>
+  <problem_class id="unused" severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">unused declaration</problem_class>
+  <hints>
+    <hint value="comment" />
+    <hint value="delete" />
+  </hints>
+  <description>Constructor is never used.</description>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 32/student 32 (1).java</file>
+  <line>71</line>
+  <module>codeSmellsWork</module>
+  <package>BallonFactory</package>
+  <entry_point TYPE="method" FQNAME="BallonFactory.GrowingBalloon int getX()" />
+  <language>JAVA</language>
+  <offset>15</offset>
+  <length>4</length>
+  <highlighted_element>getX</highlighted_element>
+  <problem_class id="unused" severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">unused declaration</problem_class>
+  <hints>
+    <hint value="comment" />
+    <hint value="delete" />
+  </hints>
+  <description>&lt;ul&gt;&lt;li&gt;Method owner class is never instantiated OR&lt;/li&gt;&lt;li&gt;An instantiation is not reachable from entry points.&lt;/li&gt;&lt;/ul&gt;</description>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 32/student 32 (1).java</file>
+  <line>72</line>
+  <module>codeSmellsWork</module>
+  <package>BallonFactory</package>
+  <entry_point TYPE="method" FQNAME="BallonFactory.GrowingBalloon int getY()" />
+  <language>JAVA</language>
+  <offset>15</offset>
+  <length>4</length>
+  <highlighted_element>getY</highlighted_element>
+  <problem_class id="unused" severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">unused declaration</problem_class>
+  <hints>
+    <hint value="comment" />
+    <hint value="delete" />
+  </hints>
+  <description>&lt;ul&gt;&lt;li&gt;Method owner class is never instantiated OR&lt;/li&gt;&lt;li&gt;An instantiation is not reachable from entry points.&lt;/li&gt;&lt;/ul&gt;</description>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 32/student 32 (1).java</file>
+  <line>73</line>
+  <module>codeSmellsWork</module>
+  <package>BallonFactory</package>
+  <entry_point TYPE="method" FQNAME="BallonFactory.GrowingBalloon int getDiameter()" />
+  <language>JAVA</language>
+  <offset>15</offset>
+  <length>11</length>
+  <highlighted_element>getDiameter</highlighted_element>
+  <problem_class id="unused" severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">unused declaration</problem_class>
+  <hints>
+    <hint value="comment" />
+    <hint value="delete" />
+  </hints>
+  <description>&lt;ul&gt;&lt;li&gt;Method owner class is never instantiated OR&lt;/li&gt;&lt;li&gt;An instantiation is not reachable from entry points.&lt;/li&gt;&lt;/ul&gt;</description>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 32/student 32 (2).java</file>
+  <line>12</line>
+  <module>codeSmellsWork</module>
+  <package>BallonFactory</package>
+  <entry_point TYPE="method" FQNAME="BallonFactory.Main void paintComponent(java.awt.Graphics g)" />
+  <language>JAVA</language>
+  <offset>16</offset>
+  <length>14</length>
+  <highlighted_element>paintComponent</highlighted_element>
+  <problem_class id="unused" severity="WARNING" attribute_key="NOT_USED_ELEMENT_ATTRIBUTES">unused declaration</problem_class>
+  <hints>
+    <hint value="comment" />
+    <hint value="delete" />
+  </hints>
+  <description>Method is never used.</description>
+</problem>
+</problems>

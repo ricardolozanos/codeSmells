@@ -1,0 +1,67 @@
+<problems>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 42/Student 42.java</file>
+  <line>34</line>
+  <module>codeSmellsWork</module>
+  <package>noapplet.JavaChat</package>
+  <entry_point TYPE="method" FQNAME="noapplet.JavaChat.JavaChat void configureGui()" />
+  <problem_class id="ChainedMethodCall" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Chained method calls</problem_class>
+  <description>Chained method call &lt;code&gt;equals()&lt;/code&gt; #loc</description>
+  <highlighted_element>equals</highlighted_element>
+  <language>JAVA</language>
+  <offset>34</offset>
+  <length>6</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 42/Student 42.java</file>
+  <line>73</line>
+  <module>codeSmellsWork</module>
+  <package>noapplet.JavaChat</package>
+  <entry_point TYPE="method" FQNAME="noapplet.JavaChat.JavaChat void configureGui()" />
+  <problem_class id="ChainedMethodCall" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Chained method calls</problem_class>
+  <description>Chained method call &lt;code&gt;setLayout()&lt;/code&gt; #loc</description>
+  <highlighted_element>setLayout</highlighted_element>
+  <language>JAVA</language>
+  <offset>25</offset>
+  <length>9</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 42/Student 42.java</file>
+  <line>74</line>
+  <module>codeSmellsWork</module>
+  <package>noapplet.JavaChat</package>
+  <entry_point TYPE="method" FQNAME="noapplet.JavaChat.JavaChat void configureGui()" />
+  <problem_class id="ChainedMethodCall" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Chained method calls</problem_class>
+  <description>Chained method call &lt;code&gt;add()&lt;/code&gt; #loc</description>
+  <highlighted_element>add</highlighted_element>
+  <language>JAVA</language>
+  <offset>25</offset>
+  <length>3</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 42/Student 42.java</file>
+  <line>75</line>
+  <module>codeSmellsWork</module>
+  <package>noapplet.JavaChat</package>
+  <entry_point TYPE="method" FQNAME="noapplet.JavaChat.JavaChat void configureGui()" />
+  <problem_class id="ChainedMethodCall" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Chained method calls</problem_class>
+  <description>Chained method call &lt;code&gt;add()&lt;/code&gt; #loc</description>
+  <highlighted_element>add</highlighted_element>
+  <language>JAVA</language>
+  <offset>25</offset>
+  <length>3</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 42/Student 42.java</file>
+  <line>76</line>
+  <module>codeSmellsWork</module>
+  <package>noapplet.JavaChat</package>
+  <entry_point TYPE="method" FQNAME="noapplet.JavaChat.JavaChat void configureGui()" />
+  <problem_class id="ChainedMethodCall" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Chained method calls</problem_class>
+  <description>Chained method call &lt;code&gt;add()&lt;/code&gt; #loc</description>
+  <highlighted_element>add</highlighted_element>
+  <language>JAVA</language>
+  <offset>25</offset>
+  <length>3</length>
+</problem>
+</problems>

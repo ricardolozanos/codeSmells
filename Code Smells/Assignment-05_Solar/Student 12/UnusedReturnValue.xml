@@ -1,0 +1,16 @@
+<problems>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 12/student 12 (2).java</file>
+  <line>75</line>
+  <module>codeSmellsWork</module>
+  <package>&lt;default&gt;</package>
+  <entry_point TYPE="method" FQNAME="Planet int angle()" />
+  <problem_class id="UnusedReturnValue" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Method can be made 'void'</problem_class>
+  <hints />
+  <description>Return value of the method is never used</description>
+  <highlighted_element>angle</highlighted_element>
+  <language>JAVA</language>
+  <offset>15</offset>
+  <length>5</length>
+</problem>
+</problems>

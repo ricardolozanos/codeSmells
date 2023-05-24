@@ -1,0 +1,15 @@
+<problems>
+<problem>
+  <file>file://$PROJECT_DIR$/src/student 04/Student 04 (1).java</file>
+  <line>29</line>
+  <module>codeSmellsWork</module>
+  <package>noapplet.assignments</package>
+  <entry_point TYPE="method" FQNAME="noapplet.assignments.Balloon void start()" />
+  <problem_class id="ConditionalBreakInInfiniteLoop" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Conditional break inside loop</problem_class>
+  <description>Conditional break inside loop</description>
+  <highlighted_element>while</highlighted_element>
+  <language>JAVA</language>
+  <offset>8</offset>
+  <length>5</length>
+</problem>
+</problems>

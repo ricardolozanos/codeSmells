@@ -1,0 +1,28 @@
+<problems>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 33/student 33 (4).java</file>
+  <line>25</line>
+  <module>codeSmellsWork</module>
+  <package>noapplet.example.Balloon</package>
+  <entry_point TYPE="method" FQNAME="noapplet.example.Balloon.GrowingShrinkingBalloon void init()" />
+  <problem_class id="PointlessArithmeticExpression" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Pointless arithmetic expression</problem_class>
+  <description>&lt;code&gt;dim.width / dim.width&lt;/code&gt; can be replaced with '1' #loc</description>
+  <highlighted_element>dim.width / dim.width</highlighted_element>
+  <language>JAVA</language>
+  <offset>23</offset>
+  <length>21</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 33/student 33 (4).java</file>
+  <line>26</line>
+  <module>codeSmellsWork</module>
+  <package>noapplet.example.Balloon</package>
+  <entry_point TYPE="method" FQNAME="noapplet.example.Balloon.GrowingShrinkingBalloon void init()" />
+  <problem_class id="PointlessArithmeticExpression" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Pointless arithmetic expression</problem_class>
+  <description>&lt;code&gt;dim.height / dim.height&lt;/code&gt; can be replaced with '1' #loc</description>
+  <highlighted_element>dim.height / dim.height</highlighted_element>
+  <language>JAVA</language>
+  <offset>24</offset>
+  <length>23</length>
+</problem>
+</problems>

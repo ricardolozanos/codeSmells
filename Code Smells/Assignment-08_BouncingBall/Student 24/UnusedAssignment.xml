@@ -1,0 +1,15 @@
+<problems>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 24/student 24 (5).java</file>
+  <line>8</line>
+  <module>codeSmellsWork</module>
+  <package>noapplet.example</package>
+  <entry_point TYPE="field" FQNAME="noapplet.example.Collision balls" />
+  <problem_class id="UnusedAssignment" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Unused assignment</problem_class>
+  <description>Variable &lt;code&gt;balls&lt;/code&gt; initializer &lt;code&gt;new ArrayList&lt;Bounceable&gt;()&lt;/code&gt; is redundant</description>
+  <highlighted_element>new ArrayList&lt;Bounceable&gt;()</highlighted_element>
+  <language>JAVA</language>
+  <offset>29</offset>
+  <length>27</length>
+</problem>
+</problems>

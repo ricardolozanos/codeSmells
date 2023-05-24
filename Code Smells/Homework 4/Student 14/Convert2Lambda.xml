@@ -1,0 +1,41 @@
+<problems>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 14/student 14 (10).java</file>
+  <line>87</line>
+  <module>codeSmellsWork</module>
+  <package>game.GUI</package>
+  <entry_point TYPE="method" FQNAME="game.GUI.Omokui Omokui()" />
+  <problem_class id="Convert2Lambda" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Anonymous type can be replaced with lambda</problem_class>
+  <description>Anonymous new ActionListener() can be replaced with lambda</description>
+  <highlighted_element>new ActionListener()</highlighted_element>
+  <language>JAVA</language>
+  <offset>29</offset>
+  <length>21</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 14/student 14 (10).java</file>
+  <line>107</line>
+  <module>codeSmellsWork</module>
+  <package>game.GUI</package>
+  <entry_point TYPE="method" FQNAME="game.GUI.Omokui Omokui()" />
+  <problem_class id="Convert2Lambda" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Anonymous type can be replaced with lambda</problem_class>
+  <description>Anonymous new ActionListener() can be replaced with lambda</description>
+  <highlighted_element>new ActionListener()</highlighted_element>
+  <language>JAVA</language>
+  <offset>27</offset>
+  <length>21</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 14/student 14 (10).java</file>
+  <line>117</line>
+  <module>codeSmellsWork</module>
+  <package>game.GUI</package>
+  <entry_point TYPE="method" FQNAME="game.GUI.Omokui Omokui()" />
+  <problem_class id="Convert2Lambda" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Anonymous type can be replaced with lambda</problem_class>
+  <description>Anonymous new ActionListener() can be replaced with lambda</description>
+  <highlighted_element>new ActionListener()</highlighted_element>
+  <language>JAVA</language>
+  <offset>27</offset>
+  <length>21</length>
+</problem>
+</problems>

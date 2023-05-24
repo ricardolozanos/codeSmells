@@ -1,0 +1,54 @@
+<problems>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 10/student 10 (8).java</file>
+  <line>90</line>
+  <module>codeSmellsWork</module>
+  <package>omokGUI</package>
+  <entry_point TYPE="method" FQNAME="omokGUI.Board boolean isWin()" />
+  <problem_class id="StringConcatenationInLoops" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">String concatenation in loop</problem_class>
+  <description>String concatenation &lt;code&gt;+=&lt;/code&gt; in loop #loc</description>
+  <highlighted_element>+=</highlighted_element>
+  <language>JAVA</language>
+  <offset>14</offset>
+  <length>2</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 10/student 10 (8).java</file>
+  <line>109</line>
+  <module>codeSmellsWork</module>
+  <package>omokGUI</package>
+  <entry_point TYPE="method" FQNAME="omokGUI.Board boolean isWin()" />
+  <problem_class id="StringConcatenationInLoops" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">String concatenation in loop</problem_class>
+  <description>String concatenation &lt;code&gt;+=&lt;/code&gt; in loop #loc</description>
+  <highlighted_element>+=</highlighted_element>
+  <language>JAVA</language>
+  <offset>14</offset>
+  <length>2</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 10/student 10 (8).java</file>
+  <line>128</line>
+  <module>codeSmellsWork</module>
+  <package>omokGUI</package>
+  <entry_point TYPE="method" FQNAME="omokGUI.Board boolean isWin()" />
+  <problem_class id="StringConcatenationInLoops" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">String concatenation in loop</problem_class>
+  <description>String concatenation &lt;code&gt;+=&lt;/code&gt; in loop #loc</description>
+  <highlighted_element>+=</highlighted_element>
+  <language>JAVA</language>
+  <offset>14</offset>
+  <length>2</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 10/student 10 (8).java</file>
+  <line>146</line>
+  <module>codeSmellsWork</module>
+  <package>omokGUI</package>
+  <entry_point TYPE="method" FQNAME="omokGUI.Board boolean isWin()" />
+  <problem_class id="StringConcatenationInLoops" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">String concatenation in loop</problem_class>
+  <description>String concatenation &lt;code&gt;+=&lt;/code&gt; in loop #loc</description>
+  <highlighted_element>+=</highlighted_element>
+  <language>JAVA</language>
+  <offset>14</offset>
+  <length>2</length>
+</problem>
+</problems>

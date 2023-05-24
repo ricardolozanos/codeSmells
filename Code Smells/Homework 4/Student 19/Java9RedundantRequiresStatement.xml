@@ -1,0 +1,15 @@
+<problems>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 19/student 19 (8).java</file>
+  <line>2</line>
+  <module>codeSmellsWork</module>
+  <entry_point TYPE="java.module" FQNAME="GUIOmok" />
+  <problem_class id="Java9RedundantRequiresStatement" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Redundant 'requires' directive in module-info</problem_class>
+  <hints />
+  <description>Redundant directive 'requires java.desktop'. No usages of module packages are found.</description>
+  <highlighted_element>requires java.desktop;</highlighted_element>
+  <language>JAVA</language>
+  <offset>1</offset>
+  <length>22</length>
+</problem>
+</problems>

@@ -1,0 +1,41 @@
+<problems>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 34/student 34 (5).java</file>
+  <line>16</line>
+  <module>codeSmellsWork</module>
+  <package>omokThings</package>
+  <entry_point TYPE="method" FQNAME="omokThings.Player Player(java.awt.Color color, java.lang.String name, java.lang.Character marker)" />
+  <problem_class id="AccessStaticViaInstance" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Access static member via instance reference</problem_class>
+  <description>Static member 'omokThings.Player.color' accessed via instance reference</description>
+  <highlighted_element>this.color</highlighted_element>
+  <language>JAVA</language>
+  <offset>8</offset>
+  <length>10</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 34/student 34 (5).java</file>
+  <line>17</line>
+  <module>codeSmellsWork</module>
+  <package>omokThings</package>
+  <entry_point TYPE="method" FQNAME="omokThings.Player Player(java.awt.Color color, java.lang.String name, java.lang.Character marker)" />
+  <problem_class id="AccessStaticViaInstance" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Access static member via instance reference</problem_class>
+  <description>Static member 'omokThings.Player.name' accessed via instance reference</description>
+  <highlighted_element>this.name</highlighted_element>
+  <language>JAVA</language>
+  <offset>8</offset>
+  <length>9</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 34/student 34 (5).java</file>
+  <line>18</line>
+  <module>codeSmellsWork</module>
+  <package>omokThings</package>
+  <entry_point TYPE="method" FQNAME="omokThings.Player Player(java.awt.Color color, java.lang.String name, java.lang.Character marker)" />
+  <problem_class id="AccessStaticViaInstance" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Access static member via instance reference</problem_class>
+  <description>Static member 'omokThings.Player.marker' accessed via instance reference</description>
+  <highlighted_element>this.marker</highlighted_element>
+  <language>JAVA</language>
+  <offset>8</offset>
+  <length>11</length>
+</problem>
+</problems>

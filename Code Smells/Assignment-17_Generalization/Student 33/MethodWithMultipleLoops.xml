@@ -1,0 +1,15 @@
+<problems>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 33/Student 33.java</file>
+  <line>67</line>
+  <module>codeSmellsWork</module>
+  <package>Misc.Plotter</package>
+  <entry_point TYPE="method" FQNAME="Misc.Plotter.Plotter void drawCoordinates(java.awt.Graphics g)" />
+  <problem_class id="MethodWithMultipleLoops" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Method with multiple loops</problem_class>
+  <description>&lt;code&gt;drawCoordinates&lt;/code&gt; contains 4 loops #loc</description>
+  <highlighted_element>drawCoordinates</highlighted_element>
+  <language>JAVA</language>
+  <offset>19</offset>
+  <length>15</length>
+</problem>
+</problems>

@@ -1,0 +1,223 @@
+<problems>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 14/student 14 (2).java</file>
+  <line>50</line>
+  <module>codeSmellsWork</module>
+  <package>game</package>
+  <entry_point TYPE="method" FQNAME="game.board boolean windetect(int[] lastPlaced)" />
+  <problem_class id="CatchMayIgnoreException" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Catch block may ignore exception</problem_class>
+  <description>Empty &lt;code&gt;catch&lt;/code&gt; block #loc</description>
+  <highlighted_element>catch</highlighted_element>
+  <language>JAVA</language>
+  <offset>14</offset>
+  <length>5</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 14/student 14 (2).java</file>
+  <line>60</line>
+  <module>codeSmellsWork</module>
+  <package>game</package>
+  <entry_point TYPE="method" FQNAME="game.board boolean windetect(int[] lastPlaced)" />
+  <problem_class id="CatchMayIgnoreException" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Catch block may ignore exception</problem_class>
+  <description>Empty &lt;code&gt;catch&lt;/code&gt; block #loc</description>
+  <highlighted_element>catch</highlighted_element>
+  <language>JAVA</language>
+  <offset>14</offset>
+  <length>5</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 14/student 14 (2).java</file>
+  <line>78</line>
+  <module>codeSmellsWork</module>
+  <package>game</package>
+  <entry_point TYPE="method" FQNAME="game.board boolean windetect(int[] lastPlaced)" />
+  <problem_class id="CatchMayIgnoreException" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Catch block may ignore exception</problem_class>
+  <description>Empty &lt;code&gt;catch&lt;/code&gt; block #loc</description>
+  <highlighted_element>catch</highlighted_element>
+  <language>JAVA</language>
+  <offset>14</offset>
+  <length>5</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 14/student 14 (2).java</file>
+  <line>88</line>
+  <module>codeSmellsWork</module>
+  <package>game</package>
+  <entry_point TYPE="method" FQNAME="game.board boolean windetect(int[] lastPlaced)" />
+  <problem_class id="CatchMayIgnoreException" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Catch block may ignore exception</problem_class>
+  <description>Empty &lt;code&gt;catch&lt;/code&gt; block #loc</description>
+  <highlighted_element>catch</highlighted_element>
+  <language>JAVA</language>
+  <offset>14</offset>
+  <length>5</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 14/student 14 (2).java</file>
+  <line>110</line>
+  <module>codeSmellsWork</module>
+  <package>game</package>
+  <entry_point TYPE="method" FQNAME="game.board boolean windetect(int[] lastPlaced)" />
+  <problem_class id="CatchMayIgnoreException" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Catch block may ignore exception</problem_class>
+  <description>Empty &lt;code&gt;catch&lt;/code&gt; block #loc</description>
+  <highlighted_element>catch</highlighted_element>
+  <language>JAVA</language>
+  <offset>14</offset>
+  <length>5</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 14/student 14 (2).java</file>
+  <line>120</line>
+  <module>codeSmellsWork</module>
+  <package>game</package>
+  <entry_point TYPE="method" FQNAME="game.board boolean windetect(int[] lastPlaced)" />
+  <problem_class id="CatchMayIgnoreException" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Catch block may ignore exception</problem_class>
+  <description>Empty &lt;code&gt;catch&lt;/code&gt; block #loc</description>
+  <highlighted_element>catch</highlighted_element>
+  <language>JAVA</language>
+  <offset>14</offset>
+  <length>5</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 14/student 14 (2).java</file>
+  <line>138</line>
+  <module>codeSmellsWork</module>
+  <package>game</package>
+  <entry_point TYPE="method" FQNAME="game.board boolean windetect(int[] lastPlaced)" />
+  <problem_class id="CatchMayIgnoreException" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Catch block may ignore exception</problem_class>
+  <description>Empty &lt;code&gt;catch&lt;/code&gt; block #loc</description>
+  <highlighted_element>catch</highlighted_element>
+  <language>JAVA</language>
+  <offset>14</offset>
+  <length>5</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 14/student 14 (2).java</file>
+  <line>148</line>
+  <module>codeSmellsWork</module>
+  <package>game</package>
+  <entry_point TYPE="method" FQNAME="game.board boolean windetect(int[] lastPlaced)" />
+  <problem_class id="CatchMayIgnoreException" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Catch block may ignore exception</problem_class>
+  <description>Empty &lt;code&gt;catch&lt;/code&gt; block #loc</description>
+  <highlighted_element>catch</highlighted_element>
+  <language>JAVA</language>
+  <offset>14</offset>
+  <length>5</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 14/student 14 (2).java</file>
+  <line>171</line>
+  <module>codeSmellsWork</module>
+  <package>game</package>
+  <entry_point TYPE="method" FQNAME="game.board boolean windetect(int[] lastPlaced)" />
+  <problem_class id="CatchMayIgnoreException" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Catch block may ignore exception</problem_class>
+  <description>Empty &lt;code&gt;catch&lt;/code&gt; block #loc</description>
+  <highlighted_element>catch</highlighted_element>
+  <language>JAVA</language>
+  <offset>14</offset>
+  <length>5</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 14/student 14 (2).java</file>
+  <line>182</line>
+  <module>codeSmellsWork</module>
+  <package>game</package>
+  <entry_point TYPE="method" FQNAME="game.board boolean windetect(int[] lastPlaced)" />
+  <problem_class id="CatchMayIgnoreException" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Catch block may ignore exception</problem_class>
+  <description>Empty &lt;code&gt;catch&lt;/code&gt; block #loc</description>
+  <highlighted_element>catch</highlighted_element>
+  <language>JAVA</language>
+  <offset>14</offset>
+  <length>5</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 14/student 14 (2).java</file>
+  <line>201</line>
+  <module>codeSmellsWork</module>
+  <package>game</package>
+  <entry_point TYPE="method" FQNAME="game.board boolean windetect(int[] lastPlaced)" />
+  <problem_class id="CatchMayIgnoreException" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Catch block may ignore exception</problem_class>
+  <description>Empty &lt;code&gt;catch&lt;/code&gt; block #loc</description>
+  <highlighted_element>catch</highlighted_element>
+  <language>JAVA</language>
+  <offset>14</offset>
+  <length>5</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 14/student 14 (2).java</file>
+  <line>212</line>
+  <module>codeSmellsWork</module>
+  <package>game</package>
+  <entry_point TYPE="method" FQNAME="game.board boolean windetect(int[] lastPlaced)" />
+  <problem_class id="CatchMayIgnoreException" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Catch block may ignore exception</problem_class>
+  <description>Empty &lt;code&gt;catch&lt;/code&gt; block #loc</description>
+  <highlighted_element>catch</highlighted_element>
+  <language>JAVA</language>
+  <offset>14</offset>
+  <length>5</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 14/student 14 (2).java</file>
+  <line>236</line>
+  <module>codeSmellsWork</module>
+  <package>game</package>
+  <entry_point TYPE="method" FQNAME="game.board boolean windetect(int[] lastPlaced)" />
+  <problem_class id="CatchMayIgnoreException" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Catch block may ignore exception</problem_class>
+  <description>Empty &lt;code&gt;catch&lt;/code&gt; block #loc</description>
+  <highlighted_element>catch</highlighted_element>
+  <language>JAVA</language>
+  <offset>14</offset>
+  <length>5</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 14/student 14 (2).java</file>
+  <line>247</line>
+  <module>codeSmellsWork</module>
+  <package>game</package>
+  <entry_point TYPE="method" FQNAME="game.board boolean windetect(int[] lastPlaced)" />
+  <problem_class id="CatchMayIgnoreException" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Catch block may ignore exception</problem_class>
+  <description>Empty &lt;code&gt;catch&lt;/code&gt; block #loc</description>
+  <highlighted_element>catch</highlighted_element>
+  <language>JAVA</language>
+  <offset>14</offset>
+  <length>5</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 14/student 14 (2).java</file>
+  <line>266</line>
+  <module>codeSmellsWork</module>
+  <package>game</package>
+  <entry_point TYPE="method" FQNAME="game.board boolean windetect(int[] lastPlaced)" />
+  <problem_class id="CatchMayIgnoreException" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Catch block may ignore exception</problem_class>
+  <description>Empty &lt;code&gt;catch&lt;/code&gt; block #loc</description>
+  <highlighted_element>catch</highlighted_element>
+  <language>JAVA</language>
+  <offset>14</offset>
+  <length>5</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 14/student 14 (2).java</file>
+  <line>277</line>
+  <module>codeSmellsWork</module>
+  <package>game</package>
+  <entry_point TYPE="method" FQNAME="game.board boolean windetect(int[] lastPlaced)" />
+  <problem_class id="CatchMayIgnoreException" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Catch block may ignore exception</problem_class>
+  <description>Empty &lt;code&gt;catch&lt;/code&gt; block #loc</description>
+  <highlighted_element>catch</highlighted_element>
+  <language>JAVA</language>
+  <offset>14</offset>
+  <length>5</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/src/Student 14/student 14 (4).java</file>
+  <line>92</line>
+  <module>codeSmellsWork</module>
+  <package>game</package>
+  <entry_point TYPE="method" FQNAME="game.conoleUI int[] getpos(int player, java.util.Scanner k, omokGame game)" />
+  <problem_class id="CatchMayIgnoreException" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Catch block may ignore exception</problem_class>
+  <description>Empty &lt;code&gt;catch&lt;/code&gt; block #loc</description>
+  <highlighted_element>catch</highlighted_element>
+  <language>JAVA</language>
+  <offset>16</offset>
+  <length>5</length>
+</problem>
+</problems>
